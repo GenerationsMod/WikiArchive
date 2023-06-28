@@ -1,0 +1,1 @@
+For guides unrelated from gameplay mechanics, take a look to our [[Guides/Technical|Technical section]].
