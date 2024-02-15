@@ -220,11 +220,12 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
         txt_file.write(f"|spatk={base_stats.get('special_attack', 'Unknown')}\n")
         txt_file.write(f"|spdef={base_stats.get('special_defence', 'Unknown')}\n")
         txt_file.write(f"|spe={base_stats.get('speed', 'Unknown')}}}")
-        txt_file.write("}\n")
+        txt_file.write("}\n\n")
 
         # Write Moves section
+        txt_file.write("{{MovesLayoutTop}}\n")
         # Level Moves
-        txt_file.write("{{MovesLvlTop|Grass}}\n")
+        txt_file.write("{{MovesAlign}}{{MovesLvlTop|Grass}}\n")
         moves = pokemon_data.get("moves", [])
         for move in moves:
             if move[0].isdigit():  # Check if the move starts with a number and assume they're level moves
@@ -237,10 +238,10 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
                     move_name = move_name_entry
                 move_name = move_name.replace(" ", "_")  # Replace spaces with underscores
                 txt_file.write(f"{{{{movesLvl|{level}|{move_name}}}}}\n")
-        txt_file.write("|}</div>")
+        txt_file.write("|}\n")
 
         # Write Breeding Moves section
-        txt_file.write("{{MovesBTop|Grass}}\n")
+        txt_file.write("{{MovesAlign}}{{MovesBTop|Grass}}\n")
         for move in moves:
             if move.startswith("egg:"):
                 move_name = move.split(":")[1]  # Strip the "egg:" prefix
@@ -252,10 +253,10 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
                     move_name = move_name_entry
                 move_name = move_name.replace(" ", "_")  # Replace spaces with underscores
                 txt_file.write(f"{{{{movesB|{move_name}}}}}\n")
-        txt_file.write("|}</div>")
+        txt_file.write("|}\n")
 
         # Write TM Moves section
-        txt_file.write("{{MovesTmTop|Grass}}\n")
+        txt_file.write("{{MovesAlign}}{{MovesTmTop|Grass}}\n")
         for move in moves:
             if move.startswith("tm:"):
                 move_name = move.split(":")[1]  # Strip the "tm:" prefix
@@ -267,10 +268,10 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
                     move_name = move_name_entry
                 move_name = move_name.replace(" ", "_")  # Replace spaces with underscores
                 txt_file.write(f"{{{{movesTm|{move_name}}}}}\n")
-        txt_file.write("|}</div>")
+        txt_file.write("|}\n")
 
         # Write Tutor Moves section
-        txt_file.write("{{MovesTop|Grass}}\n")
+        txt_file.write("{{MovesAlign}}{{MovesTop|Grass}}\n")
         for move in moves:
             if move.startswith("tutor:"):
                 move_name = move.split(":")[1]  # Strip the "tutor:" prefix
@@ -282,7 +283,7 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
                     move_name = move_name_entry
                 move_name = move_name.replace(" ", "_")  # Replace spaces with underscores
                 txt_file.write(f"{{{{moves|{move_name}}}}}\n")
-        txt_file.write("|}</div>")
+        txt_file.write("|}\n|}\n")
 
         # Write NextPrev section again
         txt_file.write(f"{{{{NextPrev|dexprev={dexprev}|prev={prev_pokemon_name}|dexnext={dexnext}|next={next_pokemon_name}}}}}\n\n")
