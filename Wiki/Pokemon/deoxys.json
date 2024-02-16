@@ -1,10 +1,20 @@
 {
+  "implemented": true,
   "name": "Deoxys",
   "nationalPokedexNumber": 386,
   "primaryType": "psychic",
   "abilities": [
     "pressure"
   ],
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "generations_core:deoxys_doll",
+        "percentage": 100.0
+      }
+    ]
+  },
   "baseStats": {
     "hp": 50,
     "attack": 150,
