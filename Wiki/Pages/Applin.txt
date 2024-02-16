@@ -5,7 +5,7 @@
 |ndex=840
 |type1=Grass
 |type2=Dragon
-|ability1=Gluttony|ability2=Ripen
+|ability1=Ripen|ability2=Gluttony
 |abilityH=Bulletproof
 |abilityS=
 |genderm=50.0

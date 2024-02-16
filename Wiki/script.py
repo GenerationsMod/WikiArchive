@@ -133,7 +133,7 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
 
         # Get dexentry from en_us file
         # NOTICE!!! Script fails with a freshly pulled en_us. They use a special character version of "" for quotes in dex entries. These need searched for and removed first. Can add a python module for special character support but easier to just yeet the special characters
-        dex_file_path = r"C:\Users\changeme\Desktop\Wiki\en_us.json"
+        dex_file_path = r"C:\Users\changeme\Documents\WikiArchive\Wiki\en_us.json"
         with open(dex_file_path, "r") as dex_file:
             dex_data = json.load(dex_file)
             dexentry_key = f"cobblemon.species.{pokemon_name.lower()}.desc"
@@ -170,7 +170,7 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
 
         def biome_cleanup(biome):
             # Strip "cobblemon:is_" or "cobblemon:" prefixes
-            cleaned_biome = biome.replace("#cobblemon:is_", "").replace("#cobblemon:", "")
+            cleaned_biome = biome.replace("#cobblemon:is_", "").replace("#cobblemon:", "").replace("#the_bumblezone:", "").replace("#minecraft:is_", "").replace("#minecraft:", "")
             # Replace underscores with spaces
             cleaned_biome = cleaned_biome.replace("_", " ")
             # Capitalize each word
@@ -315,11 +315,11 @@ def read_dex_file(dex_file_path):
 
 def main():
     # Make sure to update these with the location of your folders and jsons
-    pokemon_folder = r"C:\Users\changeme\Desktop\Wiki\Pokemon"
-    spawn_folder = r"C:\Users\changeme\Desktop\Wiki\Spawns"
-    output_folder = r"C:\Users\changeme\Desktop\Wiki\Pages"
-    dex_file_path = r"C:\Users\changeme\Desktop\Wiki\Dex.txt"
-    en_us_path = r"C:\Users\changeme\Desktop\Wiki\en_us.json"
+    pokemon_folder = r"C:\Users\changeme\Documents\WikiArchive\Wiki\Pokemon"
+    spawn_folder = r"C:\Users\changeme\Documents\WikiArchive\Wiki\Spawns"
+    output_folder = r"C:\Users\changeme\Documents\WikiArchive\Wiki\Pages"
+    dex_file_path = r"C:\Users\changeme\Documents\WikiArchive\Wiki\Dex.txt"
+    en_us_path = r"C:\Users\changeme\Documents\WikiArchive\Wiki\en_us.json"
     # Generated txt files of wiki pages will be placed into the Pages folder
 
     pokemon_map = read_dex_file(dex_file_path)

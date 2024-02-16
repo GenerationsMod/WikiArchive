@@ -5,7 +5,7 @@
 |ndex=883
 |type1=Water
 |type2=Ice
-|ability1=Waterabsorb|ability2=Icebody
+|ability1=Icebody|ability2=Waterabsorb
 |abilityH=Slushrush
 |abilityS=
 |genderm=-100
@@ -31,7 +31,7 @@
 {{PokeDrops|Unknown}}
 |}
 |}
-{{SpawnInfo|biome=[[#Minecraft:Is End]]
+{{SpawnInfo|biome=[[End]]
 |antibiome=
 |location=Underground
 |antilocation=Underground

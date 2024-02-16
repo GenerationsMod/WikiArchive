@@ -5,7 +5,7 @@
 |ndex=902
 |type1=Water
 |type2=Ghost
-|ability1=Swiftswim|ability2=Adaptability
+|ability1=Adaptability|ability2=Swiftswim
 |abilityH=Moldbreaker
 |abilityS=
 |genderm=100

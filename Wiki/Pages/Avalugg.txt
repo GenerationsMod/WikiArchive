@@ -5,7 +5,7 @@
 |ndex=713
 |type1=Ice
 |type2=
-|ability1=Owntempo|ability2=Icebody
+|ability1=Icebody|ability2=Owntempo
 |abilityH=Sturdy
 |abilityS=
 |genderm=50.0

@@ -34,7 +34,7 @@
 {{Drop|Scute|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[#Minecraft:Is Ocean]]
+{{SpawnInfo|biome=[[Ocean]]
 |antibiome=
 |location=Land
 |antilocation=Underground

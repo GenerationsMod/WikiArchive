@@ -5,7 +5,7 @@
 |ndex=063
 |type1=Psychic
 |type2=
-|ability1=Synchronize|ability2=Innerfocus
+|ability1=Innerfocus|ability2=Synchronize
 |abilityH=Magicguard
 |abilityS=
 |genderm=75.0

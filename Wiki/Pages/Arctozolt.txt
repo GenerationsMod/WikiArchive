@@ -31,7 +31,7 @@
 {{PokeDrops|Unknown}}
 |}
 |}
-{{SpawnInfo|biome=[[#Minecraft:Is End]]
+{{SpawnInfo|biome=[[End]]
 |antibiome=
 |location=Underground
 |antilocation=Underground
