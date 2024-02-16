@@ -168,46 +168,55 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
                 conditions = spawn_entry.get("condition", {})
                 anticonditions = spawn_entry.get("anticondition", {})
 
-                # Write Biomes section
-                biomes = conditions.get("biomes", [])
-                biomes_list = ", ".join([f"[[{biome.strip('#')}]]" for biome in biomes])
-                txt_file.write(f"|biome={biomes_list}\n")
+        def biome_cleanup(biome):
+            # Strip "cobblemon:is_" or "cobblemon:" prefixes
+            cleaned_biome = biome.replace("#cobblemon:is_", "").replace("#cobblemon:", "")
+            # Replace underscores with spaces
+            cleaned_biome = cleaned_biome.replace("_", " ")
+            # Capitalize each word
+            cleaned_biome = cleaned_biome.title()
+            return f"[[{cleaned_biome}]]"
 
-                # Write AntiBiomes section
-                antibiomes = anticonditions.get("biomes", [])
-                antibiomes_list = ", ".join([f"[[{biome.strip('#')}]]" for biome in antibiomes])
-                txt_file.write(f"|antibiome={antibiomes_list}\n")
+        # Write Biomes section
+        biomes = conditions.get("biomes", [])
+        biomes_list = ", ".join([biome_cleanup(biome) for biome in biomes])
+        txt_file.write(f"|biome={biomes_list}\n")
+        
+        # Write AntiBiomes section
+        antibiomes = anticonditions.get("biomes", [])
+        antibiomes_list = ", ".join([biome_cleanup(biome) for biome in antibiomes])
+        txt_file.write(f"|antibiome={antibiomes_list}\n")
 
-                # Write Location section
-                can_see_sky = conditions.get("canSeeSky", False)
-                if can_see_sky:
-                    txt_file.write("|location=Land\n")
-                else:
-                    txt_file.write("|location=Underground\n")
+        # Write Location section
+        can_see_sky = conditions.get("canSeeSky", False)
+        if can_see_sky:
+            txt_file.write("|location=Land\n")
+        else:
+            txt_file.write("|location=Underground\n")
 
-                # Write AntiLocation section
-                anti_can_see_sky = anticonditions.get("canSeeSky", False)
-                if anti_can_see_sky:
-                    txt_file.write("|antilocation=Land\n")
-                else:
-                    txt_file.write("|antilocation=Underground\n")
+        # Write AntiLocation section
+        anti_can_see_sky = anticonditions.get("canSeeSky", False)
+        if anti_can_see_sky:
+            txt_file.write("|antilocation=Land\n")
+        else:
+            txt_file.write("|antilocation=Underground\n")
 
-                # Write Time section (assuming timeRange is present)
-                time_range = conditions.get("timeRange", "Any")
-                txt_file.write(f"|time={time_range}\n")
+        # Write Time section (assuming timeRange is present)
+        time_range = conditions.get("timeRange", "Any")
+        txt_file.write(f"|time={time_range}\n")
 
-                # Write AntiTime section
-                anti_time_range = anticonditions.get("timeRange", "Any")
-                txt_file.write(f"|antitime={anti_time_range}\n")
+        # Write AntiTime section
+        anti_time_range = anticonditions.get("timeRange", "Any")
+        txt_file.write(f"|antitime={anti_time_range}\n")
 
-                # Write Rarity section.
-                bucket = spawn_entry.get("bucket", "Unknown")
-                txt_file.write(f"|rarity={bucket}\n")
+        # Write Rarity section.
+        bucket = spawn_entry.get("bucket", "Unknown")
+        txt_file.write(f"|rarity={bucket}\n")
 
-                # Write Level Range section
-                level_range = spawn_entry.get("level", "Unknown")
-                txt_file.write(f"|levelrange={level_range}\n")
-                txt_file.write("}}\n")
+        # Write Level Range section
+        level_range = spawn_entry.get("level", "Unknown")
+        txt_file.write(f"|levelrange={level_range}\n")
+        txt_file.write("}}\n")
 
 
 
