@@ -10,7 +10,7 @@ def extract_spawn_data(pokemon_name, spawn_folder):
             return spawn_data.get("spawns", [])
     else:
         return []
-
+#TO DO: Form stats, Bumblezone individual biome support instead of tags, better name handling of spawn jsons so don't have to rename the jsons, ability1&2 got swapped but not a big deal
 def format_item_name(item):
     # Grab the text after the colon (ie cobblemon:, then replace underscores with spaces
     return item.split(":")[-1].replace("_", " ").title()
