@@ -5,7 +5,7 @@
 |ndex=955
 |type1=Psychic
 |type2=
-|ability1=Frisk|ability2=Anticipation
+|ability1=Anticipation|ability2=Frisk
 |abilityH=Speedboost
 |abilityS=
 |genderm=50.0

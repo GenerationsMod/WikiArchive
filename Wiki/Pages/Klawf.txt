@@ -5,7 +5,7 @@
 |ndex=950
 |type1=Rock
 |type2=
-|ability1=Shellarmor|ability2=Angershell
+|ability1=Angershell|ability2=Shellarmor
 |abilityH=Regenerator
 |abilityS=
 |genderm=50.0

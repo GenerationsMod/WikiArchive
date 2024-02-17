@@ -5,7 +5,7 @@
 |ndex=423
 |type1=Water
 |type2=Ground
-|ability1=Stormdrain|ability2=Stickyhold
+|ability1=Stickyhold|ability2=Stormdrain
 |abilityH=Sandforce
 |abilityS=
 |genderm=50.0

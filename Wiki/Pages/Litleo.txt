@@ -5,7 +5,7 @@
 |ndex=667
 |type1=Fire
 |type2=Normal
-|ability1=Unnerve|ability2=Rivalry
+|ability1=Rivalry|ability2=Unnerve
 |abilityH=Moxie
 |abilityS=
 |genderm=12.5

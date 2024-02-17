@@ -5,7 +5,7 @@
 |ndex=107
 |type1=Fighting
 |type2=
-|ability1=Ironfist|ability2=Keeneye
+|ability1=Keeneye|ability2=Ironfist
 |abilityH=Innerfocus
 |abilityS=
 |genderm=100

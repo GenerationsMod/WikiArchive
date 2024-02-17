@@ -5,7 +5,7 @@
 |ndex=448
 |type1=Fighting
 |type2=Steel
-|ability1=Innerfocus|ability2=Steadfast
+|ability1=Steadfast|ability2=Innerfocus
 |abilityH=Justified
 |abilityS=
 |genderm=87.5

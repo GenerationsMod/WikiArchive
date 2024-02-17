@@ -5,7 +5,7 @@
 |ndex=271
 |type1=Water
 |type2=Grass
-|ability1=Swiftswim|ability2=Raindish
+|ability1=Raindish|ability2=Swiftswim
 |abilityH=Owntempo
 |abilityS=
 |genderm=50.0

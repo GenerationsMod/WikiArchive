@@ -5,7 +5,7 @@
 |ndex=324
 |type1=Fire
 |type2=
-|ability1=Drought|ability2=Whitesmoke
+|ability1=Whitesmoke|ability2=Drought
 |abilityH=Shellarmor
 |abilityS=
 |genderm=50.0

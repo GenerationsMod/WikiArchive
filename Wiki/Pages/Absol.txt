@@ -5,7 +5,7 @@
 |ndex=359
 |type1=Dark
 |type2=
-|ability1=Pressure|ability2=Superluck
+|ability1=Superluck|ability2=Pressure
 |abilityH=Justified
 |abilityS=
 |genderm=50.0

@@ -5,7 +5,7 @@
 |ndex=034
 |type1=Poison
 |type2=Ground
-|ability1=Rivalry|ability2=Poisonpoint
+|ability1=Poisonpoint|ability2=Rivalry
 |abilityH=Sheerforce
 |abilityS=
 |genderm=100

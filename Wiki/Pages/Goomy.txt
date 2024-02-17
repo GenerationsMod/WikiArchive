@@ -5,7 +5,7 @@
 |ndex=704
 |type1=Dragon
 |type2=
-|ability1=Sapsipper|ability2=Hydration
+|ability1=Hydration|ability2=Sapsipper
 |abilityH=Gooey
 |abilityS=
 |genderm=50.0

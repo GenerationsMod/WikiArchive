@@ -5,7 +5,7 @@
 |ndex=363
 |type1=Ice
 |type2=Water
-|ability1=Thickfat|ability2=Icebody
+|ability1=Icebody|ability2=Thickfat
 |abilityH=Oblivious
 |abilityS=
 |genderm=50.0

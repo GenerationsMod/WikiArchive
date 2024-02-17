@@ -5,7 +5,7 @@
 |ndex=131
 |type1=Water
 |type2=Ice
-|ability1=Shellarmor|ability2=Waterabsorb
+|ability1=Waterabsorb|ability2=Shellarmor
 |abilityH=Hydration
 |abilityS=
 |genderm=50.0

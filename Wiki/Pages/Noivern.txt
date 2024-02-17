@@ -5,7 +5,7 @@
 |ndex=715
 |type1=Flying
 |type2=Dragon
-|ability1=Frisk|ability2=Infiltrator
+|ability1=Infiltrator|ability2=Frisk
 |abilityH=Telepathy
 |abilityS=
 |genderm=50.0

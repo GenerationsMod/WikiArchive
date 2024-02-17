@@ -10,7 +10,8 @@ def extract_spawn_data(pokemon_name, spawn_folder):
             return spawn_data.get("spawns", [])
     else:
         return []
-#TO DO: Form stats, Bumblezone individual biome support instead of tags, better name handling of spawn jsons so don't have to rename the jsons, ability1&2 got swapped but not a big deal
+#TO DO: Form stats, Bumblezone individual biome support instead of tags, better name handling of spawn jsons so don't have to rename the jsons
+#For me: php maintenance/importTextFiles.php --overwrite --use-timestamp ImportPages/*.txt
 def format_item_name(item):
     # Grab the text after the colon (ie cobblemon:, then replace underscores with spaces
     return item.split(":")[-1].replace("_", " ").title()
@@ -26,6 +27,7 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
     ndex = str(pokemon_data.get('nationalPokedexNumber', 'Error')).zfill(3)  # Prefix with 0's if needed
     
     txt_file_path = os.path.join(output_folder, f"{pokemon_name}.txt")
+
 
     with open(txt_file_path, "w", encoding="utf-8") as txt_file:
         # Write NextPrev section, subtract 1 from current page & add one
@@ -50,6 +52,13 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
         abilities = pokemon_data.get('abilities', [])
         regular_abilities = []
         hidden_ability = None
+        # Fix the order of ability 1 & 2
+        if len(abilities) >= 2:
+            ability1 = abilities[0]
+            ability2 = abilities[1]
+        else:
+            ability1 = abilities[0]
+            ability2 = None
         
         # Separate abilities into normal and hidden. Assume ability 2 is hidden if ability2 is blank. Another check later for if Poke only has 1 ability
         for ability in abilities:
@@ -296,6 +305,7 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
 
         # Write NextPrev section again
         txt_file.write(f"{{{{NextPrev|dexprev={dexprev}|prev={prev_pokemon_name}|dexnext={dexnext}|next={next_pokemon_name}}}}}\n\n")
+
 
 def get_ability(abilities, prefix, h=True):
     h_prefix = 'h:' if h else ''

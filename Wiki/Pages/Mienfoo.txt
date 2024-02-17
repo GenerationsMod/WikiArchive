@@ -5,7 +5,7 @@
 |ndex=619
 |type1=Fighting
 |type2=
-|ability1=Regenerator|ability2=Innerfocus
+|ability1=Innerfocus|ability2=Regenerator
 |abilityH=Reckless
 |abilityS=
 |genderm=50.0

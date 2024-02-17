@@ -5,7 +5,7 @@
 |ndex=320
 |type1=Water
 |type2=
-|ability1=Oblivious|ability2=Waterveil
+|ability1=Waterveil|ability2=Oblivious
 |abilityH=Pressure
 |abilityS=
 |genderm=50.0

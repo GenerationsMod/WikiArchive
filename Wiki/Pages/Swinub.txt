@@ -5,7 +5,7 @@
 |ndex=220
 |type1=Ice
 |type2=Ground
-|ability1=Oblivious|ability2=Snowcloak
+|ability1=Snowcloak|ability2=Oblivious
 |abilityH=Thickfat
 |abilityS=
 |genderm=50.0

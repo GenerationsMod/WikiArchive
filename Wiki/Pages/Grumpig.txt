@@ -5,7 +5,7 @@
 |ndex=326
 |type1=Psychic
 |type2=
-|ability1=Thickfat|ability2=Owntempo
+|ability1=Owntempo|ability2=Thickfat
 |abilityH=Gluttony
 |abilityS=
 |genderm=50.0

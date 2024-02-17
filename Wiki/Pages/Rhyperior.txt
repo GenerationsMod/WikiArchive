@@ -5,7 +5,7 @@
 |ndex=464
 |type1=Ground
 |type2=Rock
-|ability1=Solidrock|ability2=Lightningrod
+|ability1=Lightningrod|ability2=Solidrock
 |abilityH=Reckless
 |abilityS=
 |genderm=50.0

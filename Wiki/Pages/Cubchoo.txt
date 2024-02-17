@@ -5,7 +5,7 @@
 |ndex=613
 |type1=Ice
 |type2=
-|ability1=Slushrush|ability2=Snowcloak
+|ability1=Snowcloak|ability2=Slushrush
 |abilityH=Rattled
 |abilityS=
 |genderm=50.0

@@ -5,7 +5,7 @@
 |ndex=565
 |type1=Water
 |type2=Rock
-|ability1=Solidrock|ability2=Sturdy
+|ability1=Sturdy|ability2=Solidrock
 |abilityH=Swiftswim
 |abilityS=
 |genderm=87.5

@@ -5,7 +5,7 @@
 |ndex=406
 |type1=Grass
 |type2=Poison
-|ability1=Naturalcure|ability2=Poisonpoint
+|ability1=Poisonpoint|ability2=Naturalcure
 |abilityH=Leafguard
 |abilityS=
 |genderm=50.0

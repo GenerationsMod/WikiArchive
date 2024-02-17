@@ -5,7 +5,7 @@
 |ndex=883
 |type1=Water
 |type2=Ice
-|ability1=Icebody|ability2=Waterabsorb
+|ability1=Waterabsorb|ability2=Icebody
 |abilityH=Slushrush
 |abilityS=
 |genderm=-100

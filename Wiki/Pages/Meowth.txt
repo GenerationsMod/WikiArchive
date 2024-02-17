@@ -5,7 +5,7 @@
 |ndex=052
 |type1=Normal
 |type2=
-|ability1=Technician|ability2=Pickup
+|ability1=Pickup|ability2=Technician
 |abilityH=Unnerve
 |abilityS=
 |genderm=50.0

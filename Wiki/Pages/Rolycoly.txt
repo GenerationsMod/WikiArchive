@@ -5,7 +5,7 @@
 |ndex=837
 |type1=Rock
 |type2=
-|ability1=Heatproof|ability2=Steamengine
+|ability1=Steamengine|ability2=Heatproof
 |abilityH=Flashfire
 |abilityS=
 |genderm=50.0

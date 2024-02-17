@@ -5,7 +5,7 @@
 |ndex=588
 |type1=Bug
 |type2=
-|ability1=Shedskin|ability2=Swarm
+|ability1=Swarm|ability2=Shedskin
 |abilityH=Noguard
 |abilityS=
 |genderm=50.0

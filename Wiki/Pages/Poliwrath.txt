@@ -5,7 +5,7 @@
 |ndex=062
 |type1=Water
 |type2=Fighting
-|ability1=Damp|ability2=Waterabsorb
+|ability1=Waterabsorb|ability2=Damp
 |abilityH=Swiftswim
 |abilityS=
 |genderm=50.0

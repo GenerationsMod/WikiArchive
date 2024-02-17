@@ -5,7 +5,7 @@
 |ndex=556
 |type1=Grass
 |type2=
-|ability1=Chlorophyll|ability2=Waterabsorb
+|ability1=Waterabsorb|ability2=Chlorophyll
 |abilityH=Stormdrain
 |abilityS=
 |genderm=50.0

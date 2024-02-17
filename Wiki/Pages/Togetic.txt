@@ -5,7 +5,7 @@
 |ndex=176
 |type1=Fairy
 |type2=Flying
-|ability1=Serenegrace|ability2=Hustle
+|ability1=Hustle|ability2=Serenegrace
 |abilityH=Superluck
 |abilityS=
 |genderm=87.5

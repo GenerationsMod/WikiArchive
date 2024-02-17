@@ -5,7 +5,7 @@
 |ndex=096
 |type1=Psychic
 |type2=
-|ability1=Forewarn|ability2=Insomnia
+|ability1=Insomnia|ability2=Forewarn
 |abilityH=Innerfocus
 |abilityS=
 |genderm=50.0

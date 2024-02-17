@@ -5,7 +5,7 @@
 |ndex=745
 |type1=Rock
 |type2=
-|ability1=Sandrush|ability2=Keeneye
+|ability1=Keeneye|ability2=Sandrush
 |abilityH=Steadfast
 |abilityS=
 |genderm=50.0

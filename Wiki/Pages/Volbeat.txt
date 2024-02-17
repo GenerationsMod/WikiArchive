@@ -5,7 +5,7 @@
 |ndex=313
 |type1=Bug
 |type2=
-|ability1=Illuminate|ability2=Swarm
+|ability1=Swarm|ability2=Illuminate
 |abilityH=Prankster
 |abilityS=
 |genderm=100

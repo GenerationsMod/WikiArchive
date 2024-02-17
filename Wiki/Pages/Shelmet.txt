@@ -5,7 +5,7 @@
 |ndex=616
 |type1=Bug
 |type2=
-|ability1=Shellarmor|ability2=Hydration
+|ability1=Hydration|ability2=Shellarmor
 |abilityH=Overcoat
 |abilityS=
 |genderm=50.0

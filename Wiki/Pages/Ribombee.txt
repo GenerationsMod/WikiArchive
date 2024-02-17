@@ -5,7 +5,7 @@
 |ndex=743
 |type1=Bug
 |type2=Fairy
-|ability1=Honeygather|ability2=Shielddust
+|ability1=Shielddust|ability2=Honeygather
 |abilityH=Sweetveil
 |abilityS=
 |genderm=50.0

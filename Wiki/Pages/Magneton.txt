@@ -5,7 +5,7 @@
 |ndex=082
 |type1=Electric
 |type2=Steel
-|ability1=Magnetpull|ability2=Sturdy
+|ability1=Sturdy|ability2=Magnetpull
 |abilityH=Analytic
 |abilityS=
 |genderm=-100

@@ -5,7 +5,7 @@
 |ndex=849
 |type1=Electric
 |type2=Poison
-|ability1=Punkrock|ability2=Plus
+|ability1=Plus|ability2=Punkrock
 |abilityH=Technician
 |abilityS=
 |genderm=50.0

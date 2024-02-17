@@ -5,7 +5,7 @@
 |ndex=882
 |type1=Water
 |type2=Dragon
-|ability1=Strongjaw|ability2=Waterabsorb
+|ability1=Waterabsorb|ability2=Strongjaw
 |abilityH=Sandrush
 |abilityS=
 |genderm=-100

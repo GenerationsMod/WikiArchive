@@ -5,7 +5,7 @@
 |ndex=630
 |type1=Dark
 |type2=Flying
-|ability1=Overcoat|ability2=Bigpecks
+|ability1=Bigpecks|ability2=Overcoat
 |abilityH=Weakarmor
 |abilityS=
 |genderm=0

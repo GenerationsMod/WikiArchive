@@ -5,7 +5,7 @@
 |ndex=207
 |type1=Ground
 |type2=Flying
-|ability1=Hypercutter|ability2=Sandveil
+|ability1=Sandveil|ability2=Hypercutter
 |abilityH=Immunity
 |abilityS=
 |genderm=50.0

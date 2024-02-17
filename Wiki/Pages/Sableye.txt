@@ -5,7 +5,7 @@
 |ndex=302
 |type1=Dark
 |type2=Ghost
-|ability1=Stall|ability2=Keeneye
+|ability1=Keeneye|ability2=Stall
 |abilityH=Prankster
 |abilityS=
 |genderm=50.0

@@ -5,7 +5,7 @@
 |ndex=076
 |type1=Rock
 |type2=Ground
-|ability1=Rockhead|ability2=Sturdy
+|ability1=Sturdy|ability2=Rockhead
 |abilityH=Sandveil
 |abilityS=
 |genderm=50.0

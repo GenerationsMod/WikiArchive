@@ -5,7 +5,7 @@
 |ndex=534
 |type1=Fighting
 |type2=
-|ability1=Sheerforce|ability2=Guts
+|ability1=Guts|ability2=Sheerforce
 |abilityH=Ironfist
 |abilityS=
 |genderm=75.0

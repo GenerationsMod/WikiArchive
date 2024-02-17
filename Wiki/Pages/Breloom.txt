@@ -5,7 +5,7 @@
 |ndex=286
 |type1=Grass
 |type2=Fighting
-|ability1=Effectspore|ability2=Poisonheal
+|ability1=Poisonheal|ability2=Effectspore
 |abilityH=Technician
 |abilityS=
 |genderm=50.0

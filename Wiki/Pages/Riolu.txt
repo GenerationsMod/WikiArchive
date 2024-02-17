@@ -5,7 +5,7 @@
 |ndex=447
 |type1=Fighting
 |type2=
-|ability1=Innerfocus|ability2=Steadfast
+|ability1=Steadfast|ability2=Innerfocus
 |abilityH=Prankster
 |abilityS=
 |genderm=87.5

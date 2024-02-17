@@ -5,7 +5,7 @@
 |ndex=505
 |type1=Normal
 |type2=
-|ability1=Illuminate|ability2=Keeneye
+|ability1=Keeneye|ability2=Illuminate
 |abilityH=Analytic
 |abilityS=
 |genderm=50.0

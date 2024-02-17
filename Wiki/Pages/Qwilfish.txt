@@ -5,7 +5,7 @@
 |ndex=211
 |type1=Water
 |type2=Poison
-|ability1=Swiftswim|ability2=Poisonpoint
+|ability1=Poisonpoint|ability2=Swiftswim
 |abilityH=Intimidate
 |abilityS=
 |genderm=50.0

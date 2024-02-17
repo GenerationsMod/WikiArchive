@@ -5,7 +5,7 @@
 |ndex=701
 |type1=Fighting
 |type2=Flying
-|ability1=Unburden|ability2=Limber
+|ability1=Limber|ability2=Unburden
 |abilityH=Moldbreaker
 |abilityS=
 |genderm=50.0

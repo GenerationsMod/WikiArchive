@@ -5,7 +5,7 @@
 |ndex=088
 |type1=Poison
 |type2=
-|ability1=Stench|ability2=Stickyhold
+|ability1=Stickyhold|ability2=Stench
 |abilityH=Poisontouch
 |abilityS=
 |genderm=50.0

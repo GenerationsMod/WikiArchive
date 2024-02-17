@@ -5,7 +5,7 @@
 |ndex=101
 |type1=Electric
 |type2=
-|ability1=Static|ability2=Soundproof
+|ability1=Soundproof|ability2=Static
 |abilityH=Aftermath
 |abilityS=
 |genderm=-100

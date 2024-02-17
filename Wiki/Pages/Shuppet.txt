@@ -5,7 +5,7 @@
 |ndex=353
 |type1=Ghost
 |type2=
-|ability1=Frisk|ability2=Insomnia
+|ability1=Insomnia|ability2=Frisk
 |abilityH=Cursedbody
 |abilityS=
 |genderm=50.0

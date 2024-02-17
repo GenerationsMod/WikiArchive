@@ -5,7 +5,7 @@
 |ndex=050
 |type1=Ground
 |type2=
-|ability1=Sandveil|ability2=Arenatrap
+|ability1=Arenatrap|ability2=Sandveil
 |abilityH=Sandforce
 |abilityS=
 |genderm=50.0

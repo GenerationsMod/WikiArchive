@@ -5,7 +5,7 @@
 |ndex=750
 |type1=Ground
 |type2=
-|ability1=Owntempo|ability2=Stamina
+|ability1=Stamina|ability2=Owntempo
 |abilityH=Innerfocus
 |abilityS=
 |genderm=50.0

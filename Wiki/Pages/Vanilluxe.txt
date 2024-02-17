@@ -5,7 +5,7 @@
 |ndex=584
 |type1=Ice
 |type2=
-|ability1=Icebody|ability2=Snowwarning
+|ability1=Snowwarning|ability2=Icebody
 |abilityH=Weakarmor
 |abilityS=
 |genderm=50.0

@@ -5,7 +5,7 @@
 |ndex=939
 |type1=Electric
 |type2=
-|ability1=Electromorphosis|ability2=Static
+|ability1=Static|ability2=Electromorphosis
 |abilityH=Damp
 |abilityS=
 |genderm=50.0

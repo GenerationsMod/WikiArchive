@@ -5,7 +5,7 @@
 |ndex=822
 |type1=Flying
 |type2=
-|ability1=Unnerve|ability2=Keeneye
+|ability1=Keeneye|ability2=Unnerve
 |abilityH=Bigpecks
 |abilityS=
 |genderm=50.0

@@ -5,7 +5,7 @@
 |ndex=561
 |type1=Psychic
 |type2=Flying
-|ability1=Magicguard|ability2=Wonderskin
+|ability1=Wonderskin|ability2=Magicguard
 |abilityH=Tintedlens
 |abilityS=
 |genderm=50.0

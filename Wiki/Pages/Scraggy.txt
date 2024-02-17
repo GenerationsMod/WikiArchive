@@ -5,7 +5,7 @@
 |ndex=559
 |type1=Dark
 |type2=Fighting
-|ability1=Shedskin|ability2=Moxie
+|ability1=Moxie|ability2=Shedskin
 |abilityH=Intimidate
 |abilityS=
 |genderm=50.0

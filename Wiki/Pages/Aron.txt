@@ -5,7 +5,7 @@
 |ndex=304
 |type1=Steel
 |type2=Rock
-|ability1=Rockhead|ability2=Sturdy
+|ability1=Sturdy|ability2=Rockhead
 |abilityH=Heavymetal
 |abilityS=
 |genderm=50.0

@@ -5,7 +5,7 @@
 |ndex=901
 |type1=Ground
 |type2=Normal
-|ability1=Bulletproof|ability2=Guts
+|ability1=Guts|ability2=Bulletproof
 |abilityH=Unnerve
 |abilityS=
 |genderm=50.0

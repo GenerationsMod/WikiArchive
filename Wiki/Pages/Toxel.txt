@@ -5,7 +5,7 @@
 |ndex=848
 |type1=Electric
 |type2=Poison
-|ability1=Rattled|ability2=Static
+|ability1=Static|ability2=Rattled
 |abilityH=Klutz
 |abilityS=
 |genderm=50.0

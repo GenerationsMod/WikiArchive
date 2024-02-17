@@ -5,7 +5,7 @@
 |ndex=777
 |type1=Electric
 |type2=Steel
-|ability1=Ironbarbs|ability2=Lightningrod
+|ability1=Lightningrod|ability2=Ironbarbs
 |abilityH=Sturdy
 |abilityS=
 |genderm=50.0

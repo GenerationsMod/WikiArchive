@@ -5,7 +5,7 @@
 |ndex=237
 |type1=Fighting
 |type2=
-|ability1=Intimidate|ability2=Technician
+|ability1=Technician|ability2=Intimidate
 |abilityH=Steadfast
 |abilityS=
 |genderm=100

@@ -5,7 +5,7 @@
 |ndex=067
 |type1=Fighting
 |type2=
-|ability1=Noguard|ability2=Guts
+|ability1=Guts|ability2=Noguard
 |abilityH=Steadfast
 |abilityS=
 |genderm=75.0

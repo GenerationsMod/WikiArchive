@@ -5,7 +5,7 @@
 |ndex=217
 |type1=Normal
 |type2=
-|ability1=Quickfeet|ability2=Guts
+|ability1=Guts|ability2=Quickfeet
 |abilityH=Unnerve
 |abilityS=
 |genderm=50.0

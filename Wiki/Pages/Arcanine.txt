@@ -5,7 +5,7 @@
 |ndex=059
 |type1=Fire
 |type2=
-|ability1=Intimidate|ability2=Flashfire
+|ability1=Flashfire|ability2=Intimidate
 |abilityH=Justified
 |abilityS=
 |genderm=75.0

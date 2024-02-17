@@ -5,7 +5,7 @@
 |ndex=857
 |type1=Psychic
 |type2=
-|ability1=Healer|ability2=Anticipation
+|ability1=Anticipation|ability2=Healer
 |abilityH=Magicbounce
 |abilityS=
 |genderm=0

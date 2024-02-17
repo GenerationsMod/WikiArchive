@@ -5,7 +5,7 @@
 |ndex=632
 |type1=Bug
 |type2=Steel
-|ability1=Hustle|ability2=Swarm
+|ability1=Swarm|ability2=Hustle
 |abilityH=Truant
 |abilityS=
 |genderm=50.0

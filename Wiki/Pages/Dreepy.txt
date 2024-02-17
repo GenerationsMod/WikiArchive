@@ -5,7 +5,7 @@
 |ndex=885
 |type1=Dragon
 |type2=Ghost
-|ability1=Clearbody|ability2=Infiltrator
+|ability1=Infiltrator|ability2=Clearbody
 |abilityH=Cursedbody
 |abilityS=
 |genderm=50.0

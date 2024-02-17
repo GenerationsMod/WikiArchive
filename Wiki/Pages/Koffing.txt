@@ -5,7 +5,7 @@
 |ndex=109
 |type1=Poison
 |type2=
-|ability1=Levitate|ability2=Neutralizinggas
+|ability1=Neutralizinggas|ability2=Levitate
 |abilityH=Stench
 |abilityS=
 |genderm=50.0

@@ -5,7 +5,7 @@
 |ndex=674
 |type1=Fighting
 |type2=
-|ability1=Ironfist|ability2=Moldbreaker
+|ability1=Moldbreaker|ability2=Ironfist
 |abilityH=Scrappy
 |abilityS=
 |genderm=50.0

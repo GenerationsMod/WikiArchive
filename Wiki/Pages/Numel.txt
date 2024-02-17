@@ -5,7 +5,7 @@
 |ndex=322
 |type1=Fire
 |type2=Ground
-|ability1=Simple|ability2=Oblivious
+|ability1=Oblivious|ability2=Simple
 |abilityH=Owntempo
 |abilityS=
 |genderm=50.0

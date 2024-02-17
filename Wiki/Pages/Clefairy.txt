@@ -5,7 +5,7 @@
 |ndex=035
 |type1=Fairy
 |type2=
-|ability1=Magicguard|ability2=Cutecharm
+|ability1=Cutecharm|ability2=Magicguard
 |abilityH=Friendguard
 |abilityS=
 |genderm=25.0

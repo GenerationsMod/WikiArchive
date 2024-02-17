@@ -5,7 +5,7 @@
 |ndex=711
 |type1=Ghost
 |type2=Grass
-|ability1=Frisk|ability2=Pickup
+|ability1=Pickup|ability2=Frisk
 |abilityH=Insomnia
 |abilityS=
 |genderm=50.0

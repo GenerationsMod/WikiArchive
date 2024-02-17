@@ -5,7 +5,7 @@
 |ndex=980
 |type1=Poison
 |type2=Ground
-|ability1=Poisonpoint|ability2=Waterabsorb
+|ability1=Waterabsorb|ability2=Poisonpoint
 |abilityH=Unaware
 |abilityS=
 |genderm=50.0

@@ -5,7 +5,7 @@
 |ndex=979
 |type1=Fighting
 |type2=Ghost
-|ability1=Vitalspirit|ability2=Innerfocus
+|ability1=Innerfocus|ability2=Vitalspirit
 |abilityH=Defiant
 |abilityS=
 |genderm=50.0

@@ -5,7 +5,7 @@
 |ndex=080
 |type1=Water
 |type2=Psychic
-|ability1=Oblivious|ability2=Owntempo
+|ability1=Owntempo|ability2=Oblivious
 |abilityH=Regenerator
 |abilityS=
 |genderm=50.0

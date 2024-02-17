@@ -5,7 +5,7 @@
 |ndex=426
 |type1=Ghost
 |type2=Flying
-|ability1=Aftermath|ability2=Unburden
+|ability1=Unburden|ability2=Aftermath
 |abilityH=Flareboost
 |abilityS=
 |genderm=50.0

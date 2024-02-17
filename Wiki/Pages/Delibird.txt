@@ -5,7 +5,7 @@
 |ndex=225
 |type1=Ice
 |type2=Flying
-|ability1=Hustle|ability2=Vitalspirit
+|ability1=Vitalspirit|ability2=Hustle
 |abilityH=Insomnia
 |abilityS=
 |genderm=50.0
