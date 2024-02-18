@@ -5,7 +5,7 @@
 |ndex=981
 |type1=Normal
 |type2=Psychic
-|ability1=Cudchew|ability2=Armortail
+|ability1=Armortail|ability2=Cudchew
 |abilityH=Sapsipper
 |genderm=50.0
 |abilityS=
@@ -29,13 +29,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Farigiraf_(Pok%C3%A9mon) Farigiraf] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Leather|1|100}}
 {{Drop|Razor Fang|1|100}}
 {{Drop|Persim Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Plains]]
+{{SpawnInfo|type1=Normal|biome=[[Plains]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Guard_Swap}}
@@ -71,9 +71,9 @@
 {{movesLvl|46|Nasty_Plot}}
 {{movesLvl|50|Psychic}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Agility}}
 {{movesTm|Amnesia}}
 {{movesTm|Baton_Pass}}
@@ -128,7 +128,7 @@
 {{movesTm|Trick_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=980|prev=Kingambit|dexnext=982|next=Dondozo}}

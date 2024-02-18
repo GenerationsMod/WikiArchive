@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Uxie_(Pok%C3%A9mon) Uxie] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 {{Drop|Uxie Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[River]]
+{{SpawnInfo|type1=Psychic|biome=[[River]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=95}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Confusion}}
 {{movesLvl|1|Flail}}
 {{movesLvl|1|Memento}}
@@ -81,9 +81,9 @@
 {{movesLvl|77|Memento}}
 {{movesLvl|84|Mystical_Power}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Acrobatics}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Amnesia}}
@@ -166,7 +166,7 @@
 {{movesTm|Wonder_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Ally_Switch}}
 {{moves|Amnesia}}
 {{moves|Confusion}}

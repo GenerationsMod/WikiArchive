@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Patrat_(Pok%C3%A9mon) Patrat] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Babiri Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Grassland]]
+{{SpawnInfo|type1=Normal|biome=[[Grassland]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=42}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|3|Leer}}
 {{movesLvl|6|Bite}}
@@ -70,7 +70,7 @@
 {{movesLvl|38|Baton_Pass}}
 {{movesLvl|41|Slam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Assurance}}
 {{movesB|Bullet_Seed}}
 {{movesB|Flail}}
@@ -81,7 +81,7 @@
 {{movesB|Screech}}
 {{movesB|Tearful_Look}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
 {{movesTm|Confide}}
 {{movesTm|Cut}}
@@ -109,7 +109,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|After_You}}
 {{moves|Aqua_Tail}}
 {{moves|Covet}}

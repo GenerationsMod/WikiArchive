@@ -5,7 +5,7 @@
 |ndex=588
 |type1=Bug
 |type2=
-|ability1=Shedskin|ability2=Swarm
+|ability1=Swarm|ability2=Shedskin
 |abilityH=Noguard
 |genderm=50.0
 |abilityS=
@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Karrablast_(Pok%C3%A9mon) Karrablast] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Occa Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Swamp]]
+{{SpawnInfo|type1=Bug|biome=[[Swamp]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Peck}}
 {{movesLvl|4|Fury_Cutter}}
@@ -69,7 +69,7 @@
 {{movesLvl|44|Bug_Buzz}}
 {{movesLvl|48|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 {{movesB|Bug_Bite}}
 {{movesB|Counter}}
 {{movesB|Drill_Run}}
@@ -82,7 +82,7 @@
 {{movesB|Screech}}
 {{movesB|Slash}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Bug_Buzz}}
@@ -119,7 +119,7 @@
 {{movesTm|Toxic}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Bug_Bite}}
 {{moves|Bug_Buzz}}
 {{moves|Drill_Run}}

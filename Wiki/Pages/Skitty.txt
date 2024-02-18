@@ -29,13 +29,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Skitty_(Pok%C3%A9mon) Skitty] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Silk Scarf|1|100}}
 {{Drop|Pecha Berry|1|100}}
 {{Drop|Skitty Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Temperate]]
+{{SpawnInfo|type1=Normal|biome=[[Temperate]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=50}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Fake_Out}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Tackle}}
@@ -74,7 +74,7 @@
 {{movesLvl|43|Captivate}}
 {{movesLvl|46|Play_Rough}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Baton_Pass}}
 {{movesB|Captivate}}
 {{movesB|Cosmic_Power}}
@@ -92,7 +92,7 @@
 {{movesB|Wish}}
 {{movesB|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Calm_Mind}}
@@ -137,7 +137,7 @@
 {{movesTm|Wild_Charge}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Attract}}
 {{moves|Body_Slam}}
 {{moves|Captivate}}

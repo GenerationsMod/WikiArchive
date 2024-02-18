@@ -29,11 +29,38 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Electrode_(Pok%C3%A9mon) Electrode] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 {{Drop|Gunpowder|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Electric|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=30-49
+}}
+{{SpawnInfo|type1=Electric|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=30-49
+}}
+{{SpawnInfo|type1=Electric|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=30-49
+}}
+{{SpawnInfo|type1=Electric|biome=[[Overworld]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +78,7 @@
 |spe=150}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Charge}}
 {{movesLvl|1|Eerie_Impulse}}
 {{movesLvl|1|Magnetic_Flux}}
@@ -72,9 +99,9 @@
 {{movesLvl|54|Gyro_Ball}}
 {{movesLvl|58|Mirror_Coat}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
 {{movesTm|Charge_Beam}}
 {{movesTm|Confide}}
@@ -119,7 +146,7 @@
 {{movesTm|Volt_Switch}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Bide}}
 {{moves|Curse}}
 {{moves|Double_Team}}

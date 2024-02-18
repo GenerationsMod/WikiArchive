@@ -29,14 +29,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Flamigo_(Pok%C3%A9mon) Flamigo] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Flying}}
 {{Drop|Feather|1|100}}
 {{Drop|Chicken|1|100}}
 {{Drop|Payapa Berry|1|100}}
 {{Drop|Fairy Feather|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Swamp]]
+{{SpawnInfo|type1=Flying|biome=[[Swamp]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=90}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Flying}}
 {{movesLvl|1|Copycat}}
 {{movesLvl|1|Peck}}
 {{movesLvl|5|Double_Kick}}
@@ -71,12 +71,12 @@
 {{movesLvl|48|Throat_Chop}}
 {{movesLvl|54|Brave_Bird}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Flying}}
 {{movesB|Double_Team}}
 {{movesB|Quick_Guard}}
 {{movesB|Sky_Attack}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Flying}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -111,7 +111,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Water_Pulse}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Flying}}
 |}
 |}
 {{NextPrev|dexprev=972|prev=Orthworm|dexnext=974|next=Glimmora}}

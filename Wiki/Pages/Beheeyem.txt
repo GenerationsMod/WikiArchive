@@ -5,7 +5,7 @@
 |ndex=606
 |type1=Psychic
 |type2=
-|ability1=Telepathy|ability2=Synchronize
+|ability1=Synchronize|ability2=Telepathy
 |abilityH=Analytic
 |genderm=50.0
 |abilityS=
@@ -29,13 +29,31 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Beheeyem_(Pok%C3%A9mon) Beheeyem] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 {{Drop|Ender Pearl|1|100}}
 {{Drop|Light Clay|1|100}}
 {{Drop|Colbur Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[The Bumblezone:Howling Constructs]]
+{{SpawnInfo|type1=Psychic|biome=[[End]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=42-49
+}}
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=42-49
+}}
+{{SpawnInfo|type1=Psychic|biome=[[The Bumblezone:Howling Constructs]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +71,7 @@
 |spe=40}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Confusion}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Heal_Block}}
@@ -75,9 +93,9 @@
 {{movesLvl|60|Wonder_Room}}
 {{movesLvl|68|Psychic}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -140,7 +158,7 @@
 {{movesTm|Wonder_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|After_You}}
 {{moves|Ally_Switch}}
 {{moves|Dark_Pulse}}

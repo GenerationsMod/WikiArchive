@@ -5,7 +5,7 @@
 |ndex=113
 |type1=Normal
 |type2=
-|ability1=Serenegrace|ability2=Naturalcure
+|ability1=Naturalcure|ability2=Serenegrace
 |abilityH=Healer
 |genderm=0
 |abilityS=
@@ -29,13 +29,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Chansey_(Pok%C3%A9mon) Chansey] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Egg|1|100}}
 {{Drop|Oval Stone|1|100}}
 {{Drop|Lucky Egg|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=17-45
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=50}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Charm}}
 {{movesLvl|1|Copycat}}
 {{movesLvl|1|Covet}}
@@ -81,7 +90,7 @@
 {{movesLvl|48|Last_Resort}}
 {{movesLvl|52|Healing_Wish}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Aromatherapy}}
 {{movesB|Counter}}
 {{movesB|Endure}}
@@ -95,7 +104,7 @@
 {{movesB|Seismic_Toss}}
 {{movesB|Substitute}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -192,7 +201,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Ally_Switch}}
 {{moves|Attract}}
 {{moves|Bide}}

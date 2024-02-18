@@ -31,12 +31,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Floatzel_(Pok%C3%A9mon) Floatzel] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Salmon|1|100}}
 {{Drop|Wacan Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=
+{{SpawnInfo|type1=Water|biome=|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=26-50
+}}
+{{SpawnInfo|type1=Water|biome=|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=26-50
+}}
+{{SpawnInfo|type1=Water|biome=|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +72,7 @@
 |spe=115}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Crunch}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Ice_Fang}}
@@ -85,9 +103,9 @@
 {{movesLvl|62|Aqua_Tail}}
 {{movesLvl|62|Wave_Crash}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -158,7 +176,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Aqua_Tail}}
 {{moves|Dive}}
 {{moves|Focus_Punch}}

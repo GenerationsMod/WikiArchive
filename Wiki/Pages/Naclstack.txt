@@ -5,7 +5,7 @@
 |ndex=933
 |type1=Rock
 |type2=
-|ability1=Sturdy|ability2=Purifyingsalt
+|ability1=Purifyingsalt|ability2=Sturdy
 |abilityH=Clearbody
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Naclstack_(Pok%C3%A9mon) Naclstack] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Rock}}
 {{Drop|Quartz|1|100}}
 {{Drop|Passho Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Quartz]]
+{{SpawnInfo|type1=Rock|biome=[[Badlands]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=24-36
+}}
+{{SpawnInfo|type1=Rock|biome=[[Salt]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=24-36
+}}
+{{SpawnInfo|type1=Rock|biome=[[Nether Quartz]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +70,7 @@
 |spe=35}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Rock}}
 {{movesLvl|1|Harden}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|1|Salt_Cure}}
@@ -69,9 +87,9 @@
 {{movesLvl|45|Earthquake}}
 {{movesLvl|51|Stone_Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
 {{movesTm|Bulldoze}}
@@ -104,7 +122,7 @@
 {{movesTm|Tera_Blast}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=932|prev=Squawkabilly|dexnext=934|next=Naclstack}}

@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Venonat_(Pok%C3%A9mon) Venonat] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|String|1|100}}
 {{Drop|Persim Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Spooky]], [[Swamp]]
+{{SpawnInfo|type1=Bug|biome=[[Spooky]], [[Swamp]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=45}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Disable}}
 {{movesLvl|1|Foresight}}
 {{movesLvl|1|Tackle}}
@@ -69,7 +69,7 @@
 {{movesLvl|41|Poison_Fang}}
 {{movesLvl|47|Psychic}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 {{movesB|Agility}}
 {{movesB|Baton_Pass}}
 {{movesB|Bug_Bite}}
@@ -83,7 +83,7 @@
 {{movesB|Toxic_Spikes}}
 {{movesB|Venoshock}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -129,7 +129,7 @@
 {{movesTm|Venoshock}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Attract}}
 {{moves|Baton_Pass}}
 {{moves|Bide}}

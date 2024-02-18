@@ -29,14 +29,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Doduo_(Pok%C3%A9mon) Doduo] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Feather|1|100}}
 {{Drop|Chicken|1|100}}
 {{Drop|Sharp Beak|1|100}}
 {{Drop|Wacan Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Savanna]]
+{{SpawnInfo|type1=Normal|biome=[[Savanna]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=75}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Peck}}
 {{movesLvl|5|Quick_Attack}}
@@ -73,7 +73,7 @@
 {{movesLvl|47|Endeavor}}
 {{movesLvl|50|Thrash}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Assurance}}
 {{movesB|Brave_Bird}}
 {{movesB|Endeavor}}
@@ -85,7 +85,7 @@
 {{movesB|Quick_Attack}}
 {{movesB|Supersonic}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Captivate}}
@@ -115,7 +115,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Agility}}
 {{moves|Air_Cutter}}
 {{moves|Attract}}

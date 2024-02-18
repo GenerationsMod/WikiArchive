@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Sharpedo_(Pok%C3%A9mon) Sharpedo] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Deep Sea Tooth|1|100}}
 {{Drop|Aspear Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Ocean]]
+{{SpawnInfo|type1=Water|biome=[[Ocean]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=95}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Aqua_Jet}}
 {{movesLvl|1|Feint}}
 {{movesLvl|1|Focus_Energy}}
@@ -76,9 +76,9 @@
 {{movesLvl|52|Take_Down}}
 {{movesLvl|56|Taunt}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -143,7 +143,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Ancient_Power}}
 {{moves|Aqua_Jet}}
 {{moves|Bounce}}

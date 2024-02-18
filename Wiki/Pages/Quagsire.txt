@@ -29,12 +29,57 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Quagsire_(Pok%C3%A9mon) Quagsire] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Clay Ball|1|100}}
 {{Drop|Rindo Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Swamp]]
+{{SpawnInfo|type1=Water|biome=[[Lush]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=20-43
+}}
+{{SpawnInfo|type1=Water|biome=[[Lush]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=20-43
+}}
+{{SpawnInfo|type1=Water|biome=[[Overworld]]|
+|antibiome=[[Lush]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=20-43
+}}
+{{SpawnInfo|type1=Water|biome=[[Overworld]]|
+|antibiome=[[Lush]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=20-43
+}}
+{{SpawnInfo|type1=Water|biome=[[Swamp]]|
+|antibiome=[[Minecraft:Mangrove Swamp]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=20-43
+}}
+{{SpawnInfo|type1=Water|biome=[[Swamp]]|
 |antibiome=[[Minecraft:Mangrove Swamp]]
 |location=Land
 |antilocation=Underground
@@ -52,7 +97,7 @@
 |spe=35}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Mud_Shot}}
 {{movesLvl|1|Mud_Sport}}
 {{movesLvl|1|Rain_Dance}}
@@ -69,9 +114,9 @@
 {{movesLvl|46|Toxic}}
 {{movesLvl|52|Earthquake}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -155,7 +200,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|After_You}}
 {{moves|Amnesia}}
 {{moves|Ancient_Power}}

@@ -29,14 +29,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Noctowl_(Pok%C3%A9mon) Noctowl] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Feather|1|100}}
 {{Drop|Chicken|1|100}}
 {{Drop|Wise Glasses|1|100}}
 {{Drop|Chilan Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]], [[Sky]], [[Spooky]]
+{{SpawnInfo|type1=Normal|biome=[[Forest]], [[Sky]], [[Spooky]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Echoed_Voice}}
 {{movesLvl|1|Foresight}}
 {{movesLvl|1|Growl}}
@@ -75,9 +75,9 @@
 {{movesLvl|51|Synchronoise}}
 {{movesLvl|53|Dream_Eater}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Air_Slash}}
@@ -134,7 +134,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Air_Cutter}}
 {{moves|Attract}}
 {{moves|Confusion}}

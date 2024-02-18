@@ -31,11 +31,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Kricketot_(Pok%C3%A9mon) Kricketot] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Coba Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]], [[Swamp]]
+{{SpawnInfo|type1=Bug|biome=[[Forest]], [[Swamp]]|
 |antibiome=[[Freezing]]
 |location=Land
 |antilocation=Underground
@@ -53,20 +53,20 @@
 |spe=25}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Bide}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|6|Struggle_Bug}}
 {{movesLvl|16|Bug_Bite}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Struggle_Bug}}
 {{movesTm|Tera_Blast}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Bug_Bite}}
 {{moves|Endeavor}}
 {{moves|Mud-Slap}}

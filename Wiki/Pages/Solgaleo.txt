@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Solgaleo_(Pok%C3%A9mon) Solgaleo] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 |}
 |}
-{{SpawnInfo|biome=[[End]]
+{{SpawnInfo|type1=Psychic|biome=[[End]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=97}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Cosmic_Power}}
 {{movesLvl|1|Metal_Claw}}
 {{movesLvl|1|Noble_Roar}}
@@ -70,9 +70,9 @@
 {{movesLvl|77|Wide_Guard}}
 {{movesLvl|84|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Agility}}
 {{movesTm|Bulldoze}}
 {{movesTm|Calm_Mind}}
@@ -140,7 +140,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Cosmic_Power}}
 {{moves|Crunch}}
 {{moves|Endeavor}}

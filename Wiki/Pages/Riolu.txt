@@ -5,7 +5,7 @@
 |ndex=447
 |type1=Fighting
 |type2=
-|ability1=Innerfocus|ability2=Steadfast
+|ability1=Steadfast|ability2=Innerfocus
 |abilityH=Prankster
 |genderm=87.5
 |abilityS=
@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Riolu_(Pok%C3%A9mon) Riolu] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fighting}}
 {{Drop|Chople Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Mountain]]
+{{SpawnInfo|type1=Fighting|biome=[[Mountain]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fighting}}
 {{movesLvl|1|Endure}}
 {{movesLvl|1|Foresight}}
 {{movesLvl|1|Quick_Attack}}
@@ -84,7 +84,7 @@
 {{movesLvl|55|Final_Gambit}}
 {{movesLvl|56|Reversal}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 {{movesB|Agility}}
 {{movesB|Bite}}
 {{movesB|Blaze_Kick}}
@@ -103,7 +103,7 @@
 {{movesB|Sky_Uppercut}}
 {{movesB|Vacuum_Wave}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -171,7 +171,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fighting}}
 {{moves|Aura_Sphere}}
 {{moves|Bullet_Punch}}
 {{moves|Coaching}}

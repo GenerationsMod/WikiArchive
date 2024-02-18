@@ -5,7 +5,7 @@
 |ndex=400
 |type1=Normal
 |type2=Water
-|ability1=Simple|ability2=Unaware
+|ability1=Unaware|ability2=Simple
 |abilityH=Moody
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Bibarel_(Pok%C3%A9mon) Bibarel] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Stick|1|100}}
 {{Drop|Oran Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=
+{{SpawnInfo|type1=Normal|biome=|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=15-41
+}}
+{{SpawnInfo|type1=Normal|biome=|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +61,7 @@
 |spe=71}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Aqua_Jet}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Rototiller}}
@@ -82,9 +91,9 @@
 {{movesLvl|53|Superpower}}
 {{movesLvl|58|Curse}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Bulldoze}}
@@ -140,7 +149,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Aqua_Tail}}
 {{moves|Covet}}
 {{moves|Dive}}

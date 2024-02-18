@@ -31,14 +31,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Sirfetchd_(Pok%C3%A9mon) Sirfetchd] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fighting}}
 {{Drop|Feather|1|100}}
 {{Drop|Chicken|1|100}}
 {{Drop|Medicinal Leek|1|100}}
 {{Drop|Coba Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]]
+{{SpawnInfo|type1=Fighting|biome=[[Forest]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -56,7 +56,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fighting}}
 {{movesLvl|1|First_Impression}}
 {{movesLvl|1|Fury_Cutter}}
 {{movesLvl|1|Leer}}
@@ -75,9 +75,9 @@
 {{movesLvl|65|Brave_Bird}}
 {{movesLvl|70|Meteor_Assault}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -108,7 +108,7 @@
 {{movesTm|Throat_Chop}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fighting}}
 {{moves|Brutal_Swing}}
 {{moves|Coaching}}
 {{moves|Detect}}

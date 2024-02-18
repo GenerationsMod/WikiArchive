@@ -29,13 +29,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Stoutland_(Pok%C3%A9mon) Stoutland] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Bone|1|100}}
 {{Drop|Blue Wool|1|100}}
 {{Drop|Chilan Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=[[Desert]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=32-50
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
 |antibiome=[[Desert]]
 |location=Land
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=80}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Bite}}
 {{movesLvl|1|Fire_Fang}}
 {{movesLvl|1|Ice_Fang}}
@@ -73,9 +82,9 @@
 {{movesLvl|70|Last_Resort}}
 {{movesLvl|78|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Charm}}
@@ -128,7 +137,7 @@
 {{movesTm|Wild_Charge}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|After_You}}
 {{moves|Covet}}
 {{moves|Helping_Hand}}

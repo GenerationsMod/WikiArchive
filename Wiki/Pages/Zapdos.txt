@@ -31,11 +31,20 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Zapdos_(Pok%C3%A9mon) Zapdos] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 {{Drop|Zapdos Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Arid]]
+{{SpawnInfo|type1=Electric|biome=[[Arid]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=70-75
+}}
+{{SpawnInfo|type1=Electric|biome=[[Arid]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=100}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Peck}}
 {{movesLvl|1|Thunder_Wave}}
 {{movesLvl|5|Thunder_Shock}}
@@ -71,9 +80,9 @@
 {{movesLvl|65|Magnetic_Flux}}
 {{movesLvl|70|Zap_Cannon}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -133,7 +142,7 @@
 {{movesTm|Weather_Ball}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Agility}}
 {{moves|Air_Cutter}}
 {{moves|Ancient_Power}}

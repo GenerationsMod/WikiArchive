@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Carbink_(Pok%C3%A9mon) Carbink] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Rock}}
 {{Drop|Diamond|1|100}}
 {{Drop|Babiri Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Abyss]]
+{{SpawnInfo|type1=Rock|biome=[[Abyss]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=50}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Rock}}
 {{movesLvl|1|Harden}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|5|Guard_Split}}
@@ -74,9 +74,9 @@
 {{movesLvl|60|Stone_Edge}}
 {{movesLvl|70|Safeguard}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -138,7 +138,7 @@
 {{movesTm|Trick_Room}}
 {{movesTm|Wonder_Room}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Rock}}
 {{moves|After_You}}
 {{moves|Ally_Switch}}
 {{moves|Covet}}

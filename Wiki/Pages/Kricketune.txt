@@ -31,11 +31,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Kricketune_(Pok%C3%A9mon) Kricketune] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Coba Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]], [[Swamp]]
+{{SpawnInfo|type1=Bug|biome=[[Forest]], [[Swamp]]|
 |antibiome=[[Freezing]]
 |location=Land
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Bide}}
 {{movesLvl|1|Fury_Cutter}}
 {{movesLvl|1|Growl}}
@@ -77,9 +77,9 @@
 {{movesLvl|46|Bug_Buzz}}
 {{movesLvl|50|Perish_Song}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -129,7 +129,7 @@
 {{movesTm|Trailblaze}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Bug_Bite}}
 {{moves|Endeavor}}
 {{moves|Fury_Cutter}}

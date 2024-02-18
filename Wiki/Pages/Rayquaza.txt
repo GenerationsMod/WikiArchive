@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Rayquaza_(Pok%C3%A9mon) Rayquaza] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dragon}}
 {{Drop|Rayquaza Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Highlands]]
+{{SpawnInfo|type1=Dragon|biome=[[Highlands]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=95}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dragon}}
 {{movesLvl|1|Air_Slash}}
 {{movesLvl|1|Ancient_Power}}
 {{movesLvl|1|Dragon_Ascent}}
@@ -69,9 +69,9 @@
 {{movesLvl|81|Outrage}}
 {{movesLvl|90|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
 {{movesTm|Avalanche}}
@@ -163,7 +163,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dragon}}
 {{moves|Air_Slash}}
 {{moves|Ancient_Power}}
 {{moves|Aqua_Tail}}

@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Miraidon_(Pok%C3%A9mon) Miraidon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 |}
 |}
-{{SpawnInfo|biome=[[Plateau]]
+{{SpawnInfo|type1=Electric|biome=[[Plateau]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=135}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Dragon_Breath}}
 {{movesLvl|1|Electric_Terrain}}
 {{movesLvl|1|Thunder_Shock}}
@@ -68,9 +68,9 @@
 {{movesLvl|91|Overheat}}
 {{movesLvl|98|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
 {{movesTm|Body_Slam}}
@@ -117,7 +117,7 @@
 {{movesTm|Wild_Charge}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Charge}}
 {{moves|Electro_Drift}}
 {{moves|Endure}}

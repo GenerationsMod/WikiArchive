@@ -29,12 +29,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Smoochum_(Pok%C3%A9mon) Smoochum] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ice}}
 {{Drop|Aspear Berry|1|100}}
 {{Drop|Smoochum Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Freezing]]
+{{SpawnInfo|type1=Ice|biome=[[Freezing]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=6-31
+}}
+{{SpawnInfo|type1=Ice|biome=[[Freezing]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +61,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ice}}
 {{movesLvl|1|Lick}}
 {{movesLvl|1|Pound}}
 {{movesLvl|4|Powder_Snow}}
@@ -71,7 +80,7 @@
 {{movesLvl|44|Perish_Song}}
 {{movesLvl|48|Blizzard}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ice}}
 {{movesB|Captivate}}
 {{movesB|Fake_Out}}
 {{movesB|Ice_Punch}}
@@ -83,7 +92,7 @@
 {{movesB|Wake-Up_Slap}}
 {{movesB|Wish}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Attract}}
 {{movesTm|Aurora_Veil}}
 {{movesTm|Avalanche}}
@@ -147,7 +156,7 @@
 {{movesTm|Wonder_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ice}}
 {{moves|Attract}}
 {{moves|Blizzard}}
 {{moves|Body_Slam}}

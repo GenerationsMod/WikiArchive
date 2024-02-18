@@ -29,12 +29,39 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Poliwrath_(Pok%C3%A9mon) Poliwrath] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Kings Rock|1|100}}
 {{Drop|Chesto Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Lush]]
+{{SpawnInfo|type1=Water|biome=|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=34-51
+}}
+{{SpawnInfo|type1=Water|biome=|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=34-51
+}}
+{{SpawnInfo|type1=Water|biome=[[Lush]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=34-51
+}}
+{{SpawnInfo|type1=Water|biome=[[Lush]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +79,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Belly_Drum}}
 {{movesLvl|1|Body_Slam}}
 {{movesLvl|1|Bubble_Beam}}
@@ -70,9 +97,9 @@
 {{movesLvl|1|Submission}}
 {{movesLvl|1|Water_Gun}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Body_Slam}}
@@ -145,7 +172,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Attract}}
 {{moves|Bide}}
 {{moves|Blizzard}}

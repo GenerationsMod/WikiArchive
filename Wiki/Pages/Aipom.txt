@@ -5,7 +5,7 @@
 |ndex=190
 |type1=Normal
 |type2=
-|ability1=Runaway|ability2=Pickup
+|ability1=Pickup|ability2=Runaway
 |abilityH=Skilllink
 |genderm=50.0
 |abilityS=
@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Aipom_(Pok%C3%A9mon) Aipom] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Nanab Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Jungle]], [[Tropical Island]]
+{{SpawnInfo|type1=Normal|biome=[[Jungle]], [[Tropical Island]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=85}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Scratch}}
 {{movesLvl|1|Tail_Whip}}
 {{movesLvl|4|Sand_Attack}}
@@ -67,7 +67,7 @@
 {{movesLvl|39|Nasty_Plot}}
 {{movesLvl|43|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Agility}}
 {{movesB|Beat_Up}}
 {{movesB|Bounce}}
@@ -84,7 +84,7 @@
 {{movesB|Switcheroo}}
 {{movesB|Tail_Slap}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -136,7 +136,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Agility}}
 {{moves|Attract}}
 {{moves|Baton_Pass}}

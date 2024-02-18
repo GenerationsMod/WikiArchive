@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Blitzle_(Pok%C3%A9mon) Blitzle] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 {{Drop|Leather|1|100}}
 {{Drop|Cheri Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Savanna]]
+{{SpawnInfo|type1=Electric|biome=[[Savanna]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=76}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Quick_Attack}}
 {{movesLvl|4|Tail_Whip}}
 {{movesLvl|8|Charge}}
@@ -67,7 +67,7 @@
 {{movesLvl|39|Wild_Charge}}
 {{movesLvl|43|Thrash}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 {{movesB|Double-Edge}}
 {{movesB|Double_Kick}}
 {{movesB|Endure}}
@@ -80,7 +80,7 @@
 {{movesB|Snatch}}
 {{movesB|Take_Down}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Attract}}
 {{movesTm|Charge_Beam}}
 {{movesTm|Confide}}
@@ -107,7 +107,7 @@
 {{movesTm|Volt_Switch}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Bounce}}
 {{moves|Low_Kick}}
 {{moves|Magnet_Rise}}

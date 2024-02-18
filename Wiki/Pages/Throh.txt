@@ -5,7 +5,7 @@
 |ndex=538
 |type1=Fighting
 |type2=
-|ability1=Guts|ability2=Innerfocus
+|ability1=Innerfocus|ability2=Guts
 |abilityH=Moldbreaker
 |genderm=100
 |abilityS=
@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Throh_(Pok%C3%A9mon) Throh] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fighting}}
 {{Drop|Black Belt|1|100}}
 {{Drop|Razz Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Mountain]]
+{{SpawnInfo|type1=Fighting|biome=[[Mountain]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=45}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fighting}}
 {{movesLvl|1|Bide}}
 {{movesLvl|1|Bind}}
 {{movesLvl|1|Leer}}
@@ -70,9 +70,9 @@
 {{movesLvl|50|Reversal}}
 {{movesLvl|55|Superpower}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
 {{movesTm|Brick_Break}}
@@ -129,7 +129,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fighting}}
 {{moves|Bind}}
 {{moves|Block}}
 {{moves|Coaching}}

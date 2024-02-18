@@ -5,7 +5,7 @@
 |ndex=551
 |type1=Ground
 |type2=Dark
-|ability1=Moxie|ability2=Intimidate
+|ability1=Intimidate|ability2=Moxie
 |abilityH=Angerpoint
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Sandile_(Pok%C3%A9mon) Sandile] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ground}}
 {{Drop|Black Glasses|1|100}}
 {{Drop|Tanga Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Desert]]
+{{SpawnInfo|type1=Ground|biome=[[Desert]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ground}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Power_Trip}}
 {{movesLvl|1|Rage}}
@@ -73,7 +73,7 @@
 {{movesLvl|36|Earthquake}}
 {{movesLvl|39|Thrash}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ground}}
 {{movesB|Aqua_Tail}}
 {{movesB|Beat_Up}}
 {{movesB|Counter}}
@@ -89,7 +89,7 @@
 {{movesB|Thunder_Fang}}
 {{movesB|Uproar}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
 {{movesTm|Beat_Up}}
@@ -152,7 +152,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Uproar}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ground}}
 {{moves|Aqua_Tail}}
 {{moves|Dark_Pulse}}
 {{moves|Earth_Power}}

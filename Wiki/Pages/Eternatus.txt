@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Eternatus_(Pok%C3%A9mon) Eternatus] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Poison}}
 |}
 |}
-{{SpawnInfo|biome=[[Spooky]]
+{{SpawnInfo|type1=Poison|biome=[[Spooky]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=130}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Poison}}
 {{movesLvl|1|Agility}}
 {{movesLvl|1|Confuse_Ray}}
 {{movesLvl|1|Dragon_Tail}}
@@ -68,9 +68,9 @@
 {{movesLvl|88|Eternabeam}}
 {{movesLvl|88|Outrage}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
 {{movesTm|Body_Slam}}
@@ -119,7 +119,7 @@
 {{movesTm|Venom_Drench}}
 {{movesTm|Venoshock}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Poison}}
 {{moves|Cross_Poison}}
 {{moves|Draco_Meteor}}
 {{moves|Dragon_Pulse}}

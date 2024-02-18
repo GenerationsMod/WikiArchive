@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Volcanion_(Pok%C3%A9mon) Volcanion] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 |}
 |}
-{{SpawnInfo|biome=[[Peak]]
+{{SpawnInfo|type1=Fire|biome=[[Peak]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Fire_Spin}}
 {{movesLvl|1|Steam_Eruption}}
 {{movesLvl|1|Water_Gun}}
@@ -71,9 +71,9 @@
 {{movesLvl|84|Overheat}}
 {{movesLvl|90|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
 {{movesTm|Brick_Break}}
@@ -148,7 +148,7 @@
 {{movesTm|Wild_Charge}}
 {{movesTm|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Defog}}
 {{moves|Earth_Power}}
 {{moves|Explosion}}

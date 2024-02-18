@@ -31,12 +31,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Glimmet_(Pok%C3%A9mon) Glimmet] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Rock}}
 {{Drop|Amethyst Shard|1|100}}
 {{Drop|Shuca Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Quartz]]
+{{SpawnInfo|type1=Rock|biome=[[Overworld]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=10-35
+}}
+{{SpawnInfo|type1=Rock|biome=[[Nether Quartz]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -54,7 +63,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Rock}}
 {{movesLvl|1|Harden}}
 {{movesLvl|1|Rock_Throw}}
 {{movesLvl|1|Smack_Down}}
@@ -70,12 +79,12 @@
 {{movesLvl|41|Acid_Armor}}
 {{movesLvl|46|Sludge_Wave}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Rock}}
 {{movesB|Explosion}}
 {{movesB|Memento}}
 {{movesB|Toxic}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Confuse_Ray}}
 {{movesTm|Dazzling_Gleam}}
@@ -105,7 +114,7 @@
 {{movesTm|Toxic_Spikes}}
 {{movesTm|Venoshock}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=968|prev=Palafin|dexnext=970|next=Revavroom}}

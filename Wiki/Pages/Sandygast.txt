@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Sandygast_(Pok%C3%A9mon) Sandygast] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ghost}}
 {{Drop|Soft Sand|1|100}}
 {{Drop|Passho Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Beach]]
+{{SpawnInfo|type1=Ghost|biome=[[Beach]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=15}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ghost}}
 {{movesLvl|1|Absorb}}
 {{movesLvl|1|Harden}}
 {{movesLvl|5|Astonish}}
@@ -70,7 +70,7 @@
 {{movesLvl|55|Shore_Up}}
 {{movesLvl|60|Sandstorm}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 {{movesB|Amnesia}}
 {{movesB|Ancient_Power}}
 {{movesB|Curse}}
@@ -79,7 +79,7 @@
 {{movesB|Stockpile}}
 {{movesB|Swallow}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
 {{movesTm|Brine}}
@@ -131,7 +131,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Trick}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ghost}}
 {{moves|After_You}}
 {{moves|Block}}
 {{moves|Earth_Power}}

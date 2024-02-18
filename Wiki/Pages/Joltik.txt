@@ -29,14 +29,32 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Joltik_(Pok%C3%A9mon) Joltik] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|String|1|100}}
 {{Drop|Spider Eye|1|100}}
 {{Drop|Rotten Flesh|1|100}}
 {{Drop|Nanab Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Terralith:Cave/Infested Caves]]
+{{SpawnInfo|type1=Bug|biome=[[Badlands]], [[Jungle]], [[Savanna]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=7-32
+}}
+{{SpawnInfo|type1=Bug|biome=[[Overworld]]|
+|antibiome=[[Deep Dark]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=7-32
+}}
+{{SpawnInfo|type1=Bug|biome=[[Terralith:Cave/Infested Caves]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -54,7 +72,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Absorb}}
 {{movesLvl|1|Fury_Cutter}}
 {{movesLvl|1|Leech_Life}}
@@ -73,7 +91,7 @@
 {{movesLvl|44|Gastro_Acid}}
 {{movesLvl|48|Bug_Buzz}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 {{movesB|Camouflage}}
 {{movesB|Cross_Poison}}
 {{movesB|Disable}}
@@ -87,7 +105,7 @@
 {{movesB|Rock_Climb}}
 {{movesB|Struggle_Bug}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
 {{movesTm|Bounce}}
@@ -133,7 +151,7 @@
 {{movesTm|Wild_Charge}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Bounce}}
 {{moves|Bug_Bite}}
 {{moves|Electroweb}}

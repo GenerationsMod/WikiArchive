@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Carracosta_(Pok%C3%A9mon) Carracosta] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Scute|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Ocean]]
+{{SpawnInfo|type1=Water|biome=[[Ocean]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=32}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Aqua_Jet}}
 {{movesLvl|1|Bide}}
 {{movesLvl|1|Protect}}
@@ -72,9 +72,9 @@
 {{movesLvl|46|Hydro_Pump}}
 {{movesLvl|51|Shell_Smash}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Body_Slam}}
@@ -134,7 +134,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Aqua_Tail}}
 {{moves|Block}}
 {{moves|Earth_Power}}

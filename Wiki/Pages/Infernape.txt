@@ -31,11 +31,20 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Infernape_(Pok%C3%A9mon) Infernape] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Charcoal Stick|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Forest]]
+{{SpawnInfo|type1=Fire|biome=[[Mountain]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=36-53
+}}
+{{SpawnInfo|type1=Fire|biome=[[Nether Forest]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=108}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Close_Combat}}
 {{movesLvl|1|Ember}}
 {{movesLvl|1|Flare_Blitz}}
@@ -80,9 +89,9 @@
 {{movesLvl|58|Calm_Mind}}
 {{movesLvl|68|Flare_Blitz}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -145,7 +154,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Blast_Burn}}
 {{moves|Close_Combat}}
 {{moves|Covet}}

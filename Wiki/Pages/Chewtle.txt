@@ -5,7 +5,7 @@
 |ndex=833
 |type1=Water
 |type2=
-|ability1=Strongjaw|ability2=Shellarmor
+|ability1=Shellarmor|ability2=Strongjaw
 |abilityH=Swiftswim
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Chewtle_(Pok%C3%A9mon) Chewtle] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Scute|1|100}}
 {{Drop|Rindo Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Swamp]]
+{{SpawnInfo|type1=Water|biome=[[Swamp]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=44}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|1|Water_Gun}}
 {{movesLvl|7|Bite}}
@@ -63,13 +63,13 @@
 {{movesLvl|42|Liquidation}}
 {{movesLvl|49|Body_Slam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Dragon_Tail}}
 {{movesB|Gastro_Acid}}
 {{movesB|Shell_Smash}}
 {{movesB|Skull_Bash}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -103,7 +103,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Scale_Shot}}
 {{moves|Skitter_Smack}}
 |}

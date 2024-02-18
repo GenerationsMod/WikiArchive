@@ -31,11 +31,20 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Inteleon_(Pok%C3%A9mon) Inteleon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Mystic Water|1|100}}
 |}
 |}
-{{SpawnInfo|biome=
+{{SpawnInfo|type1=Water|biome=|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=35-53
+}}
+{{SpawnInfo|type1=Water|biome=|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=120}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Acrobatics}}
 {{movesLvl|1|Bind}}
 {{movesLvl|1|Growl}}
@@ -69,9 +78,9 @@
 {{movesLvl|54|Rain_Dance}}
 {{movesLvl|62|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
 {{movesTm|Air_Cutter}}
@@ -126,7 +135,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Hydro_Cannon}}
 {{moves|Scale_Shot}}
 {{moves|Water_Pledge}}

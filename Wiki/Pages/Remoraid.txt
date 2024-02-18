@@ -29,13 +29,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Remoraid_(Pok%C3%A9mon) Remoraid] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Cod|1|100}}
 {{Drop|Bone Meal|1|100}}
 {{Drop|Aspear Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Lukewarm]]
+{{SpawnInfo|type1=Water|biome=[[Lukewarm]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Helping_Hand}}
 {{movesLvl|1|Water_Gun}}
 {{movesLvl|4|Water_Pulse}}
@@ -69,7 +69,7 @@
 {{movesLvl|40|Soak}}
 {{movesLvl|44|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Acid_Spray}}
 {{movesB|Aurora_Beam}}
 {{movesB|Entrainment}}
@@ -86,7 +86,7 @@
 {{movesB|Water_Pulse}}
 {{movesB|Water_Spout}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -140,7 +140,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Attract}}
 {{moves|Aurora_Beam}}
 {{moves|Bounce}}

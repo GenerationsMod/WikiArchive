@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Bonsly_(Pok%C3%A9mon) Bonsly] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Rock}}
 {{Drop|Hard Stone|1|100}}
 {{Drop|Passho Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]]
+{{SpawnInfo|type1=Rock|biome=[[Forest]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=10}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Rock}}
 {{movesLvl|1|Copycat}}
 {{movesLvl|1|Fake_Tears}}
 {{movesLvl|4|Flail}}
@@ -95,7 +95,7 @@
 {{movesLvl|44|Double-Edge}}
 {{movesLvl|46|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Rock}}
 {{movesB|Curse}}
 {{movesB|Defense_Curl}}
 {{movesB|Endure}}
@@ -107,7 +107,7 @@
 {{movesB|Self-Destruct}}
 {{movesB|Stealth_Rock}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
 {{movesTm|Brick_Break}}
@@ -164,7 +164,7 @@
 {{movesTm|Trailblaze}}
 {{movesTm|Uproar}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Rock}}
 {{moves|After_You}}
 {{moves|Block}}
 {{moves|Covet}}

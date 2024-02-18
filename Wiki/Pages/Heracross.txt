@@ -5,7 +5,7 @@
 |ndex=214
 |type1=Bug
 |type2=Fighting
-|ability1=Guts|ability2=Swarm
+|ability1=Swarm|ability2=Guts
 |abilityH=Moxie
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Heracross_(Pok%C3%A9mon) Heracross] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Coba Berry|1|100}}
 {{Drop|Heracross Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]]
+{{SpawnInfo|type1=Bug|biome=[[Forest]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=85}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Arm_Thrust}}
 {{movesLvl|1|Bullet_Seed}}
 {{movesLvl|1|Leer}}
@@ -75,7 +75,7 @@
 {{movesLvl|55|Megahorn}}
 {{movesLvl|60|Close_Combat}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 {{movesB|Bide}}
 {{movesB|Double-Edge}}
 {{movesB|False_Swipe}}
@@ -91,7 +91,7 @@
 {{movesB|Seismic_Toss}}
 {{movesB|Take_Down}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -162,7 +162,7 @@
 {{movesTm|Venoshock}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Attract}}
 {{moves|Bide}}
 {{moves|Body_Slam}}

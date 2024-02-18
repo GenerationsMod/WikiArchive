@@ -29,12 +29,39 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Tauros_(Pok%C3%A9mon) Tauros] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Leather|1|100}}
 {{Drop|Beef|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Mountain]]
+{{SpawnInfo|type1=Normal|biome=[[Grassland]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=24-49
+}}
+{{SpawnInfo|type1=Normal|biome=[[Beach]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=day
+|antitime=Any
+|rarity=uncommon
+|levelrange=20-49
+}}
+{{SpawnInfo|type1=Normal|biome=[[Volcanic]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=day
+|antitime=Any
+|rarity=uncommon
+|levelrange=20-49
+}}
+{{SpawnInfo|type1=Normal|biome=[[Mountain]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +79,7 @@
 |spe=110}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|1|Tail_Whip}}
 {{movesLvl|5|Rage}}
@@ -71,11 +98,11 @@
 {{movesLvl|55|Double-Edge}}
 {{movesLvl|60|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Curse}}
 {{movesB|Endeavor}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -149,7 +176,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Attract}}
 {{moves|Bide}}
 {{moves|Blizzard}}

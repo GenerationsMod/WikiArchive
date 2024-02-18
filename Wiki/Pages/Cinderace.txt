@@ -31,14 +31,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Cinderace_(Pok%C3%A9mon) Cinderace] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Rabbit Hide|1|100}}
 {{Drop|Rabbit|1|100}}
 {{Drop|Rabbit Foot|1|100}}
 {{Drop|Charcoal Stick|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Grassland]]
+{{SpawnInfo|type1=Fire|biome=[[Grassland]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -56,7 +56,7 @@
 |spe=119}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Ember}}
 {{movesLvl|1|Feint}}
 {{movesLvl|1|Growl}}
@@ -72,9 +72,9 @@
 {{movesLvl|54|Double-Edge}}
 {{movesLvl|62|Court_Change}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
@@ -133,7 +133,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Blast_Burn}}
 {{moves|Coaching}}
 {{moves|Fire_Pledge}}

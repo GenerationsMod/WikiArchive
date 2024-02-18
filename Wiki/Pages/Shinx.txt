@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Shinx_(Pok%C3%A9mon) Shinx] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 {{Drop|Quick Claw|1|100}}
 {{Drop|Shuca Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Desert]], [[Savanna]]
+{{SpawnInfo|type1=Electric|biome=[[Desert]], [[Savanna]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=45}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|4|Thunder_Shock}}
@@ -82,7 +82,7 @@
 {{movesLvl|45|Wild_Charge}}
 {{movesLvl|48|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 {{movesB|Baby-Doll_Eyes}}
 {{movesB|Double_Kick}}
 {{movesB|Eerie_Impulse}}
@@ -99,7 +99,7 @@
 {{movesB|Take_Down}}
 {{movesB|Thunder_Fang}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Attract}}
 {{movesTm|Captivate}}
 {{movesTm|Charge_Beam}}
@@ -153,7 +153,7 @@
 {{movesTm|Volt_Switch}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Charge}}
 {{moves|Fury_Cutter}}
 {{moves|Headbutt}}

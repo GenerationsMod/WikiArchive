@@ -31,12 +31,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon) Charmander] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Blaze Powder|1|100}}
 {{Drop|Charcoal Stick|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Basalt]]
+{{SpawnInfo|type1=Fire|biome=[[Hills]], [[Volcanic]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=5-31
+}}
+{{SpawnInfo|type1=Fire|biome=[[Nether Basalt]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -54,7 +63,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Scratch}}
 {{movesLvl|4|Ember}}
@@ -72,7 +81,7 @@
 {{movesLvl|36|Inferno}}
 {{movesLvl|40|Flare_Blitz}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 {{movesB|Air_Cutter}}
 {{movesB|Ancient_Power}}
 {{movesB|Beat_Up}}
@@ -93,7 +102,7 @@
 {{movesB|Swords_Dance}}
 {{movesB|Wing_Attack}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -165,7 +174,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Acrobatics}}
 {{moves|Ancient_Power}}
 {{moves|Attract}}

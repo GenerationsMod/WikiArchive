@@ -31,12 +31,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Buizel_(Pok%C3%A9mon) Buizel] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Salmon|1|100}}
 {{Drop|Wacan Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=
+{{SpawnInfo|type1=Water|biome=|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=8-33
+}}
+{{SpawnInfo|type1=Water|biome=|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=8-33
+}}
+{{SpawnInfo|type1=Water|biome=|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +72,7 @@
 |spe=85}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Sonic_Boom}}
 {{movesLvl|1|Tackle}}
@@ -86,7 +104,7 @@
 {{movesLvl|49|Wave_Crash}}
 {{movesLvl|55|Aqua_Tail}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Aqua_Ring}}
 {{movesB|Aqua_Tail}}
 {{movesB|Baton_Pass}}
@@ -103,7 +121,7 @@
 {{movesB|Switcheroo}}
 {{movesB|Tail_Slap}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -164,7 +182,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Aqua_Tail}}
 {{moves|Dive}}
 {{moves|Focus_Punch}}

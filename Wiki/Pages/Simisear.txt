@@ -31,13 +31,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Simisear_(Pok%C3%A9mon) Simisear] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Fire Stone|1|100}}
 {{Drop|Charcoal Stick|1|100}}
 {{Drop|Passho Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Jungle]]
+{{SpawnInfo|type1=Fire|biome=[[Jungle]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -55,15 +55,15 @@
 |spe=101}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Flame_Burst}}
 {{movesLvl|1|Fury_Swipes}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Lick}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
 {{movesTm|Brick_Break}}
@@ -109,7 +109,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Covet}}
 {{moves|Endeavor}}
 {{moves|Fire_Pledge}}

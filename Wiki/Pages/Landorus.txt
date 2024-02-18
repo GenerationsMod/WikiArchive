@@ -31,10 +31,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Landorus_(Pok%C3%A9mon) Landorus] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ground}}
 |}
 |}
-{{SpawnInfo|biome=[[Plains]]
+{{SpawnInfo|type1=Ground|biome=[[Plains]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=101}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ground}}
 {{movesLvl|1|Mud_Shot}}
 {{movesLvl|1|Rock_Throw}}
 {{movesLvl|1|Sand_Tomb}}
@@ -75,9 +75,9 @@
 {{movesLvl|75|Fissure}}
 {{movesLvl|80|Sandsear_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
 {{movesTm|Brick_Break}}
@@ -145,7 +145,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Weather_Ball}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ground}}
 {{moves|Block}}
 {{moves|Bulldoze}}
 {{moves|Defog}}

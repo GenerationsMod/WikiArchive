@@ -29,13 +29,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Steelix_(Pok%C3%A9mon) Steelix] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Steel}}
 {{Drop|Raw Iron|1|100}}
 {{Drop|Metal Coat|1|100}}
 {{Drop|Passho Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Basalt]]
+{{SpawnInfo|type1=Steel|biome=[[Overworld]]|
+|antibiome=[[Deep Dark]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=34-51
+}}
+{{SpawnInfo|type1=Steel|biome=[[Nether Basalt]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=30}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Steel}}
 {{movesLvl|1|Bind}}
 {{movesLvl|1|Crunch}}
 {{movesLvl|1|Fire_Fang}}
@@ -83,9 +92,9 @@
 {{movesLvl|56|Double-Edge}}
 {{movesLvl|60|Magnet_Rise}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -158,7 +167,7 @@
 {{movesTm|Torment}}
 {{movesTm|Toxic}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Steel}}
 {{moves|Ancient_Power}}
 {{moves|Aqua_Tail}}
 {{moves|Attract}}

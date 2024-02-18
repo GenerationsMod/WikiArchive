@@ -29,12 +29,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Trevenant_(Pok%C3%A9mon) Trevenant] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ghost}}
 {{Drop|Spell Tag|1|100}}
 {{Drop|Rawst Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Forest]], [[Nether Warped]]
+{{SpawnInfo|type1=Ghost|biome=[[Forest]], [[Taiga]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=26-47
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Spooky]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=26-47
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Nether Forest]], [[Nether Warped]]|
 |antibiome=[[Nether Desert]]
 |location=Underground
 |antilocation=Underground
@@ -52,7 +70,7 @@
 |spe=56}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ghost}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Branch_Poke}}
 {{movesLvl|1|Leech_Seed}}
@@ -71,9 +89,9 @@
 {{movesLvl|48|Destiny_Bond}}
 {{movesLvl|52|Forestâ€™s_Curse}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
 {{movesTm|Brutal_Swing}}
@@ -136,7 +154,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ghost}}
 {{moves|Ally_Switch}}
 {{moves|Block}}
 {{moves|Drain_Punch}}

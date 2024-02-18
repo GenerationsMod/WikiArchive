@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Tarountula_(Pok%C3%A9mon) Tarountula] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|String|1|100}}
 {{Drop|Spider Eye|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]]
+{{SpawnInfo|type1=Bug|biome=[[Forest]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=20}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|String_Shot}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|5|Struggle_Bug}}
@@ -70,13 +70,13 @@
 {{movesLvl|40|Throat_Chop}}
 {{movesLvl|44|Skitter_Smack}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 {{movesB|First_Impression}}
 {{movesB|Lunge}}
 {{movesB|Memento}}
 {{movesB|Sucker_Punch}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Body_Slam}}
 {{movesTm|Bug_Buzz}}
 {{movesTm|Bullet_Seed}}
@@ -104,7 +104,7 @@
 {{movesTm|Trailblaze}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=916|prev=Oinkologne|dexnext=918|next=Spidops}}

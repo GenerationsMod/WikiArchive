@@ -5,7 +5,7 @@
 |ndex=350
 |type1=Water
 |type2=
-|ability1=Competitive|ability2=Marvelscale
+|ability1=Marvelscale|ability2=Competitive
 |abilityH=Cutecharm
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Milotic_(Pok%C3%A9mon) Milotic] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Bone Meal|1|100}}
 {{Drop|Prism Scale|1|100}}
 |}
 |}
-{{SpawnInfo|biome=
+{{SpawnInfo|type1=Water|biome=|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=81}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Flail}}
 {{movesLvl|1|Refresh}}
 {{movesLvl|1|Splash}}
@@ -76,9 +76,9 @@
 {{movesLvl|48|Coil}}
 {{movesLvl|52|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
 {{movesTm|Blizzard}}
@@ -133,7 +133,7 @@
 {{movesTm|Weather_Ball}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Aqua_Tail}}
 {{moves|Bind}}
 {{moves|Body_Slam}}

@@ -29,13 +29,31 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Torkoal_(Pok%C3%A9mon) Torkoal] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Coal|1|100}}
 {{Drop|Charcoal Stick|1|100}}
 {{Drop|Charti Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Basalt]]
+{{SpawnInfo|type1=Fire|biome=[[Mountain]], [[Thermal]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=22-47
+}}
+{{SpawnInfo|type1=Fire|biome=[[Overworld]]|
+|antibiome=[[Deep Dark]], [[Mountain]], [[Thermal]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=22-47
+}}
+{{SpawnInfo|type1=Fire|biome=[[Nether Basalt]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +71,7 @@
 |spe=20}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Ember}}
 {{movesLvl|1|Smog}}
 {{movesLvl|4|Withdraw}}
@@ -75,7 +93,7 @@
 {{movesLvl|60|Shell_Smash}}
 {{movesLvl|64|Eruption}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 {{movesB|Ancient_Power}}
 {{movesB|Clear_Smog}}
 {{movesB|Earthquake}}
@@ -89,7 +107,7 @@
 {{movesB|Superpower}}
 {{movesB|Yawn}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -152,7 +170,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|After_You}}
 {{moves|Body_Press}}
 {{moves|Body_Slam}}

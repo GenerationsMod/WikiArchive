@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Goomy_(Pok%C3%A9mon) Goomy] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dragon}}
 {{Drop|Slime Ball|1|100}}
 {{Drop|Haban Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Swamp]]
+{{SpawnInfo|type1=Dragon|biome=[[Swamp]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=40}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dragon}}
 {{movesLvl|1|Absorb}}
 {{movesLvl|1|Bubble}}
 {{movesLvl|1|Tackle}}
@@ -68,7 +68,7 @@
 {{movesLvl|45|Body_Slam}}
 {{movesLvl|50|Muddy_Water}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 {{movesB|Acid_Armor}}
 {{movesB|Counter}}
 {{movesB|Curse}}
@@ -77,7 +77,7 @@
 {{movesB|Life_Dew}}
 {{movesB|Poison_Tail}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
 {{movesTm|Charm}}
@@ -115,7 +115,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Water_Pulse}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dragon}}
 {{moves|Body_Slam}}
 {{moves|Counter}}
 {{moves|Draco_Meteor}}

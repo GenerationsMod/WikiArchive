@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Mankey_(Pok%C3%A9mon) Mankey] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fighting}}
 {{Drop|Muscle Band|1|100}}
 {{Drop|Payapa Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Hills]], [[Jungle]]
+{{SpawnInfo|type1=Fighting|biome=[[Hills]], [[Jungle]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fighting}}
 {{movesLvl|1|Covet}}
 {{movesLvl|1|Focus_Energy}}
 {{movesLvl|1|Leer}}
@@ -73,7 +73,7 @@
 {{movesLvl|44|Outrage}}
 {{movesLvl|48|Final_Gambit}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 {{movesB|Beat_Up}}
 {{movesB|Close_Combat}}
 {{movesB|Counter}}
@@ -91,7 +91,7 @@
 {{movesB|Smelling_Salts}}
 {{movesB|Spite}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -164,7 +164,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fighting}}
 {{moves|Attract}}
 {{moves|Beat_Up}}
 {{moves|Bide}}

@@ -5,7 +5,7 @@
 |ndex=883
 |type1=Water
 |type2=Ice
-|ability1=Icebody|ability2=Waterabsorb
+|ability1=Waterabsorb|ability2=Icebody
 |abilityH=Slushrush
 |genderm=Genderless
 |abilityS=
@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Arctovish_(Pok%C3%A9mon) Arctovish] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 |}
 |}
-{{SpawnInfo|biome=[[End]]
+{{SpawnInfo|type1=Water|biome=[[End]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=55}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Powder_Snow}}
 {{movesLvl|1|Water_Gun}}
 {{movesLvl|7|Protect}}
@@ -65,9 +65,9 @@
 {{movesLvl|70|Icicle_Crash}}
 {{movesLvl|77|Blizzard}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Avalanche}}
 {{movesTm|Blizzard}}
 {{movesTm|Body_Slam}}
@@ -104,7 +104,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Meteor_Beam}}
 {{moves|Powder_Snow}}
 {{moves|Protect}}

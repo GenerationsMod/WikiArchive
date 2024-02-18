@@ -31,13 +31,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Meditite_(Pok%C3%A9mon) Meditite] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fighting}}
 {{Drop|Wise Glasses|1|100}}
 {{Drop|Black Belt|1|100}}
 {{Drop|Nanab Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Mountain]]
+{{SpawnInfo|type1=Fighting|biome=[[Mountain]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -55,7 +55,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fighting}}
 {{movesLvl|1|Bide}}
 {{movesLvl|1|Confusion}}
 {{movesLvl|1|Work_Up}}
@@ -78,7 +78,7 @@
 {{movesLvl|41|Recover}}
 {{movesLvl|44|Counter}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 {{movesB|Baton_Pass}}
 {{movesB|Bullet_Punch}}
 {{movesB|Drain_Punch}}
@@ -94,7 +94,7 @@
 {{movesB|Secret_Power}}
 {{movesB|Thunder_Punch}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -169,7 +169,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fighting}}
 {{moves|Bide}}
 {{moves|Body_Slam}}
 {{moves|Confusion}}

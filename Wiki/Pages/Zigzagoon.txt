@@ -5,7 +5,7 @@
 |ndex=263
 |type1=Normal
 |type2=
-|ability1=Gluttony|ability2=Pickup
+|ability1=Pickup|ability2=Gluttony
 |abilityH=Quickfeet
 |genderm=50.0
 |abilityS=
@@ -29,11 +29,20 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Zigzagoon_(Pok%C3%A9mon) Zigzagoon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Oran Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Taiga]]
+{{SpawnInfo|type1=Normal|biome=[[Temperate]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=1-24
+}}
+{{SpawnInfo|type1=Normal|biome=[[Taiga]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +60,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|3|Sand_Attack}}
@@ -70,7 +79,7 @@
 {{movesLvl|33|Belly_Drum}}
 {{movesLvl|36|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Charm}}
 {{movesB|Extreme_Speed}}
 {{movesB|Helping_Hand}}
@@ -83,7 +92,7 @@
 {{movesB|Tickle}}
 {{movesB|Trick}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Body_Slam}}
@@ -140,7 +149,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Body_Slam}}
 {{moves|Covet}}
 {{moves|Defense_Curl}}

@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Darkrai_(Pok%C3%A9mon) Darkrai] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dark}}
 {{Drop|Darkrai Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]]
+{{SpawnInfo|type1=Dark|biome=[[Forest]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=125}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dark}}
 {{movesLvl|1|Disable}}
 {{movesLvl|1|Night_Shade}}
 {{movesLvl|1|Ominous_Wind}}
@@ -68,9 +68,9 @@
 {{movesLvl|84|Dream_Eater}}
 {{movesLvl|93|Dark_Pulse}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Blizzard}}
 {{movesTm|Brick_Break}}
@@ -134,7 +134,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dark}}
 {{moves|Dark_Pulse}}
 {{moves|Dark_Void}}
 {{moves|Double_Team}}

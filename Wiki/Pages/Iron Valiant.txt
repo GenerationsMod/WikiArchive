@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Iron Valiant_(Pok%C3%A9mon) Iron Valiant] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fairy}}
 |}
 |}
-{{SpawnInfo|biome=[[Temperate]]
+{{SpawnInfo|type1=Fairy|biome=[[Temperate]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=116}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fairy}}
 {{movesLvl|1|Disable}}
 {{movesLvl|1|Double_Team}}
 {{movesLvl|1|Electric_Terrain}}
@@ -71,9 +71,9 @@
 {{movesLvl|84|Wide_Guard}}
 {{movesLvl|91|Spirit_Break}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Aura_Sphere}}
@@ -134,7 +134,7 @@
 {{movesTm|X-Scissor}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fairy}}
 {{moves|Dazzling_Gleam}}
 {{moves|Leaf_Blade}}
 {{moves|Night_Slash}}

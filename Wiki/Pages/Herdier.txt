@@ -29,13 +29,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Herdier_(Pok%C3%A9mon) Herdier] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Bone|1|100}}
 {{Drop|Blue Wool|1|100}}
 {{Drop|Chilan Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=[[Desert]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=16-37
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
 |antibiome=[[Desert]]
 |location=Land
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Bite}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Odor_Sleuth}}
@@ -70,9 +79,9 @@
 {{movesLvl|60|Last_Resort}}
 {{movesLvl|66|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Charm}}
@@ -120,7 +129,7 @@
 {{movesTm|Wild_Charge}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|After_You}}
 {{moves|Covet}}
 {{moves|Helping_Hand}}

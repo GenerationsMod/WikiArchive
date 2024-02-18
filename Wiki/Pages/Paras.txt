@@ -29,12 +29,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Paras_(Pok%C3%A9mon) Paras] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Red Mushroom|1|100}}
 {{Drop|Coba Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Mushroom]]
+{{SpawnInfo|type1=Bug|biome=[[Lush]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=11-28
+}}
+{{SpawnInfo|type1=Bug|biome=[[Mushroom]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +61,7 @@
 |spe=25}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Scratch}}
 {{movesLvl|6|Poison_Powder}}
 {{movesLvl|6|Stun_Spore}}
@@ -67,7 +76,7 @@
 {{movesLvl|49|Rage_Powder}}
 {{movesLvl|54|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 {{movesB|Agility}}
 {{movesB|Bug_Bite}}
 {{movesB|Counter}}
@@ -88,7 +97,7 @@
 {{movesB|Sweet_Scent}}
 {{movesB|Wide_Guard}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Brick_Break}}
@@ -131,7 +140,7 @@
 {{movesTm|Venoshock}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Absorb}}
 {{moves|After_You}}
 {{moves|Attract}}

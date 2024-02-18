@@ -29,12 +29,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Wigglytuff_(Pok%C3%A9mon) Wigglytuff] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Moon Stone|1|100}}
 {{Drop|Oran Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Plains]]
+{{SpawnInfo|type1=Normal|biome=[[Floral]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=22-44
+}}
+{{SpawnInfo|type1=Normal|biome=[[Plains]]|
 |antibiome=[[Floral]]
 |location=Land
 |antilocation=Underground
@@ -52,7 +61,7 @@
 |spe=45}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Body_Slam}}
 {{movesLvl|1|Charm}}
 {{movesLvl|1|Copycat}}
@@ -76,9 +85,9 @@
 {{movesLvl|1|Sweet_Kiss}}
 {{movesLvl|5|Play_Rough}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -186,7 +195,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Ally_Switch}}
 {{moves|Attract}}
 {{moves|Bide}}

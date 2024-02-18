@@ -31,11 +31,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Baxcalibur_(Pok%C3%A9mon) Baxcalibur] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dragon}}
 {{Drop|Haban Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Frigid]]
+{{SpawnInfo|type1=Dragon|biome=[[Frigid]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=87}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dragon}}
 {{movesLvl|1|Breaking_Swipe}}
 {{movesLvl|1|Dragon_Tail}}
 {{movesLvl|1|Ice_Shard}}
@@ -72,9 +72,9 @@
 {{movesLvl|55|Crunch}}
 {{movesLvl|62|Icicle_Crash}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Avalanche}}
 {{movesTm|Blizzard}}
@@ -115,7 +115,7 @@
 {{movesTm|Thunder_Fang}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=997|prev=Arctibax|dexnext=999|next=Gimmighoul}}

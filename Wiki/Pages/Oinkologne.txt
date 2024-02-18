@@ -29,12 +29,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Oinkologne_(Pok%C3%A9mon) Oinkologne] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Porkchop|1|100}}
 {{Drop|Oran Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Crimson]], [[Nether Fungus]], [[Nether Overgrowth]]
+{{SpawnInfo|type1=Normal|biome=[[Mushroom]], [[Temperate]]|
+|antibiome=[[Minecraft:Mushroom Fields]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=18-49
+}}
+{{SpawnInfo|type1=Normal|biome=[[Swamp]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=18-49
+}}
+{{SpawnInfo|type1=Normal|biome=[[Nether Crimson]], [[Nether Fungus]], [[Nether Overgrowth]]|
 |antibiome=[[Nether Warped]]
 |location=Underground
 |antilocation=Underground
@@ -52,7 +70,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|1|Tail_Whip}}
 {{movesLvl|5|Disarming_Voice}}
@@ -69,9 +87,9 @@
 {{movesLvl|48|Earth_Power}}
 {{movesLvl|54|Belch}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
 {{movesTm|Bulldoze}}
@@ -105,7 +123,7 @@
 {{movesTm|Trailblaze}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=915|prev=Lechonk|dexnext=917|next=Tarountula}}

@@ -5,7 +5,7 @@
 |ndex=096
 |type1=Psychic
 |type2=
-|ability1=Insomnia|ability2=Forewarn
+|ability1=Forewarn|ability2=Insomnia
 |abilityH=Innerfocus
 |genderm=50.0
 |abilityS=
@@ -29,11 +29,20 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Drowzee_(Pok%C3%A9mon) Drowzee] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 {{Drop|Chesto Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
+|antibiome=[[Freezing]]
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=8-33
+}}
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
 |antibiome=[[Freezing]]
 |location=Land
 |antilocation=Underground
@@ -51,7 +60,7 @@
 |spe=42}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Hypnosis}}
 {{movesLvl|1|Pound}}
 {{movesLvl|5|Disable}}
@@ -70,7 +79,7 @@
 {{movesLvl|45|Psyshock}}
 {{movesLvl|49|Future_Sight}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 {{movesB|Assist}}
 {{movesB|Barrier}}
 {{movesB|Fire_Punch}}
@@ -86,7 +95,7 @@
 {{movesB|Skill_Swap}}
 {{movesB|Thunder_Punch}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
 {{movesTm|Brick_Break}}
@@ -158,7 +167,7 @@
 {{movesTm|Trick_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Ally_Switch}}
 {{moves|Attract}}
 {{moves|Barrier}}

@@ -31,13 +31,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Charcadet_(Pok%C3%A9mon) Charcadet] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Charcoal|1|100}}
 {{Drop|Charcoal Stick|1|100}}
 {{Drop|Rawst Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Fire|biome=[[Nether]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=1-26
+}}
+{{SpawnInfo|type1=Fire|biome=[[Overworld]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -55,7 +64,7 @@
 |spe=35}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Ember}}
 {{movesLvl|1|Leer}}
@@ -67,12 +76,12 @@
 {{movesLvl|28|Incinerate}}
 {{movesLvl|32|Lava_Plume}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 {{movesB|Destiny_Bond}}
 {{movesB|Disable}}
 {{movesB|Spite}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Confuse_Ray}}
 {{movesTm|Endure}}
 {{movesTm|Facade}}
@@ -93,7 +102,7 @@
 {{movesTm|Tera_Blast}}
 {{movesTm|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=934|prev=Naclstack|dexnext=936|next=Annihilape}}

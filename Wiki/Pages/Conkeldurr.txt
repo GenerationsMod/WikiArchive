@@ -5,7 +5,7 @@
 |ndex=534
 |type1=Fighting
 |type2=
-|ability1=Guts|ability2=Sheerforce
+|ability1=Sheerforce|ability2=Guts
 |abilityH=Ironfist
 |genderm=75.0
 |abilityS=
@@ -29,12 +29,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Conkeldurr_(Pok%C3%A9mon) Conkeldurr] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fighting}}
 {{Drop|Muscle Band|1|100}}
 {{Drop|Razz Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Fighting|biome=[[Overworld]]|
+|antibiome=[[Sandy]], [[Tundra]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=36-51
+}}
+{{SpawnInfo|type1=Fighting|biome=[[Overworld]]|
 |antibiome=[[Sandy]], [[Tundra]]
 |location=Land
 |antilocation=Underground
@@ -52,7 +61,7 @@
 |spe=45}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fighting}}
 {{movesLvl|1|Bide}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Low_Kick}}
@@ -71,9 +80,9 @@
 {{movesLvl|54|Superpower}}
 {{movesLvl|60|Focus_Punch}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Attract}}
 {{movesTm|Brick_Break}}
 {{movesTm|Brutal_Swing}}
@@ -135,7 +144,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fighting}}
 {{moves|Block}}
 {{moves|Coaching}}
 {{moves|Drain_Punch}}

@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Morgrem_(Pok%C3%A9mon) Morgrem] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dark}}
 {{Drop|Roseli Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Spooky]]
+{{SpawnInfo|type1=Dark|biome=[[Spooky]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dark}}
 {{movesLvl|1|Bite}}
 {{movesLvl|1|Confide}}
 {{movesLvl|1|Fake_Out}}
@@ -66,9 +66,9 @@
 {{movesLvl|46|Play_Rough}}
 {{movesLvl|52|Foul_Play}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
 {{movesTm|Chilling_Water}}
@@ -112,7 +112,7 @@
 {{movesTm|Trick}}
 {{movesTm|Uproar}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dark}}
 {{moves|Burning_Jealousy}}
 {{moves|Lash_Out}}
 |}

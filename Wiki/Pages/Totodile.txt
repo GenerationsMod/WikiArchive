@@ -31,12 +31,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Totodile_(Pok%C3%A9mon) Totodile] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Mystic Water|1|100}}
 {{Drop|Totodile Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Swamp]]
+{{SpawnInfo|type1=Water|biome=[[Swamp]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=5-31
+}}
+{{SpawnInfo|type1=Water|biome=[[Swamp]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +63,7 @@
 |spe=43}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Scratch}}
 {{movesLvl|6|Water_Gun}}
@@ -72,7 +81,7 @@
 {{movesLvl|48|Superpower}}
 {{movesLvl|50|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Ancient_Power}}
 {{movesB|Aqua_Jet}}
 {{movesB|Block}}
@@ -90,7 +99,7 @@
 {{movesB|Water_Pulse}}
 {{movesB|Water_Sport}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -135,7 +144,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Ancient_Power}}
 {{moves|Aqua_Tail}}
 {{moves|Attract}}

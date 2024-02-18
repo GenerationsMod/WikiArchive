@@ -31,12 +31,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Gible_(Pok%C3%A9mon) Gible] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dragon}}
 {{Drop|Dragon Fang|1|100}}
 {{Drop|Haban Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Dragon|biome=[[Mountain]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=5-30
+}}
+{{SpawnInfo|type1=Dragon|biome=[[Overworld]]|
 |antibiome=[[Deep Dark]], [[Mountain]]
 |location=Underground
 |antilocation=Underground
@@ -54,7 +63,7 @@
 |spe=42}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dragon}}
 {{movesLvl|1|Sand_Tomb}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|3|Sand_Attack}}
@@ -77,7 +86,7 @@
 {{movesLvl|54|Take_Down}}
 {{movesLvl|60|Dragon_Rush}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 {{movesB|Body_Slam}}
 {{movesB|Double-Edge}}
 {{movesB|Dragon_Breath}}
@@ -92,7 +101,7 @@
 {{movesB|Thrash}}
 {{movesB|Twister}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -155,7 +164,7 @@
 {{movesTm|Thunder_Fang}}
 {{movesTm|Toxic}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dragon}}
 {{moves|Draco_Meteor}}
 {{moves|Dragon_Pulse}}
 {{moves|Dragon_Rage}}

@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Liepard_(Pok%C3%A9mon) Liepard] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dark}}
 {{Drop|Rotten Flesh|1|100}}
 {{Drop|Bluk Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Savanna]]
+{{SpawnInfo|type1=Dark|biome=[[Savanna]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=106}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dark}}
 {{movesLvl|1|Assist}}
 {{movesLvl|1|Fake_Out}}
 {{movesLvl|1|Growl}}
@@ -71,9 +71,9 @@
 {{movesLvl|47|Snatch}}
 {{movesLvl|52|Play_Rough}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -133,7 +133,7 @@
 {{movesTm|Trick}}
 {{movesTm|U-turn}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dark}}
 {{moves|Burning_Jealousy}}
 {{moves|Covet}}
 {{moves|Dark_Pulse}}

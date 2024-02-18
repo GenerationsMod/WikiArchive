@@ -5,7 +5,7 @@
 |ndex=945
 |type1=Poison
 |type2=Normal
-|ability1=Poisontouch|ability2=Unburden
+|ability1=Unburden|ability2=Poisontouch
 |abilityH=Prankster
 |genderm=50.0
 |abilityS=
@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Grafaiai_(Pok%C3%A9mon) Grafaiai] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Poison}}
 {{Drop|Nanab Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Jungle]], [[Tropical Island]]
+{{SpawnInfo|type1=Poison|biome=[[Jungle]], [[Tropical Island]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=110}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Poison}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Scratch}}
 {{movesLvl|1|Doodle}}
@@ -68,9 +68,9 @@
 {{movesLvl|45|Knock_Off}}
 {{movesLvl|51|Gunk_Shot}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Acrobatics}}
 {{movesTm|Baton_Pass}}
@@ -111,7 +111,7 @@
 {{movesTm|Venoshock}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=944|prev=Dudunsparce|dexnext=946|next=Maschiff}}

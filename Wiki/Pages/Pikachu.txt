@@ -31,13 +31,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon) Pikachu] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 {{Drop|Thunder Stone|1|100}}
 {{Drop|Oran Berry|1|100}}
 {{Drop|Pikachu Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Beach]], [[Tropical Island]]
+{{SpawnInfo|type1=Electric|biome=[[Forest]]|
+|antibiome=[[Spooky]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=16-32
+}}
+{{SpawnInfo|type1=Electric|biome=[[Beach]], [[Tropical Island]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -55,7 +64,7 @@
 |spe=90}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Charm}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Nasty_Plot}}
@@ -79,9 +88,9 @@
 {{movesLvl|44|Thunder}}
 {{movesLvl|50|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -148,7 +157,7 @@
 {{movesTm|Volt_Switch}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Agility}}
 {{moves|Attract}}
 {{moves|Bestow}}

@@ -5,7 +5,7 @@
 |ndex=475
 |type1=Psychic
 |type2=Fighting
-|ability1=Sharpness|ability2=Steadfast
+|ability1=Steadfast|ability2=Sharpness
 |abilityH=Justified
 |genderm=100
 |abilityS=
@@ -29,14 +29,41 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Gallade_(Pok%C3%A9mon) Gallade] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 {{Drop|Ender Pearl|1|100}}
 {{Drop|Dawn Stone|1|100}}
 {{Drop|Twisted Spoon|1|100}}
 {{Drop|Kasib Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Psychic|biome=[[Floral]], [[Magical]], [[Snowy Forest]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=30-52
+}}
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=30-52
+}}
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=30-52
+}}
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -54,7 +81,7 @@
 |spe=80}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Aqua_Cutter}}
 {{movesLvl|1|Calm_Mind}}
 {{movesLvl|1|Charm}}
@@ -121,9 +148,9 @@
 {{movesLvl|63|Close_Combat}}
 {{movesLvl|64|Stored_Power}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Air_Slash}}
@@ -241,7 +268,7 @@
 {{movesTm|X-Scissor}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Ally_Switch}}
 {{moves|Coaching}}
 {{moves|Drain_Punch}}

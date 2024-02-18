@@ -31,11 +31,20 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Clamperl_(Pok%C3%A9mon) Clamperl] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Prismarine Shard|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Warm Ocean]]
+{{SpawnInfo|type1=Water|biome=[[Deep Ocean]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=10-35
+}}
+{{SpawnInfo|type1=Water|biome=[[Warm Ocean]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,14 +62,14 @@
 |spe=32}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Clamp}}
 {{movesLvl|1|Iron_Defense}}
 {{movesLvl|1|Water_Gun}}
 {{movesLvl|1|Whirlpool}}
 {{movesLvl|51|Shell_Smash}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Aqua_Ring}}
 {{movesB|Barrier}}
 {{movesB|Body_Slam}}
@@ -73,7 +82,7 @@
 {{movesB|Supersonic}}
 {{movesB|Water_Pulse}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Brine}}
@@ -104,7 +113,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Aqua_Ring}}
 {{moves|Body_Slam}}
 {{moves|Captivate}}

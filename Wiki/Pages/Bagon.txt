@@ -31,13 +31,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Bagon_(Pok%C3%A9mon) Bagon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dragon}}
 {{Drop|Dragon Fang|1|100}}
 {{Drop|Dragon Scale|1|100}}
 {{Drop|Yache Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Badlands]]
+{{SpawnInfo|type1=Dragon|biome=[[Badlands]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -55,7 +55,7 @@
 |spe=50}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dragon}}
 {{movesLvl|1|Ember}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Rage}}
@@ -71,7 +71,7 @@
 {{movesLvl|50|Outrage}}
 {{movesLvl|55|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 {{movesB|Defense_Curl}}
 {{movesB|Dragon_Dance}}
 {{movesB|Dragon_Pulse}}
@@ -84,7 +84,7 @@
 {{movesB|Thrash}}
 {{movesB|Twister}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -142,7 +142,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dragon}}
 {{moves|Bite}}
 {{moves|Body_Slam}}
 {{moves|Double-Edge}}

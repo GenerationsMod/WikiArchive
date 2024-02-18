@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Xerneas_(Pok%C3%A9mon) Xerneas] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fairy}}
 |}
 |}
-{{SpawnInfo|biome=[[Taiga]]
+{{SpawnInfo|type1=Fairy|biome=[[Taiga]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=99}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fairy}}
 {{movesLvl|1|Gravity}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|5|Light_Screen}}
@@ -71,9 +71,9 @@
 {{movesLvl|80|Outrage}}
 {{movesLvl|85|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Body_Slam}}
 {{movesTm|Calm_Mind}}
 {{movesTm|Close_Combat}}
@@ -127,7 +127,7 @@
 {{movesTm|Wonder_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fairy}}
 {{moves|Aromatherapy}}
 {{moves|Block}}
 {{moves|Dazzling_Gleam}}

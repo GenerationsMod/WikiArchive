@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Rillaboom_(Pok%C3%A9mon) Rillaboom] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Grass}}
 {{Drop|Stick|1|100}}
 {{Drop|Miracle Seed|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Jungle]], [[Tropical Island]]
+{{SpawnInfo|type1=Grass|biome=[[Jungle]], [[Tropical Island]]|
 |antibiome=
 |location=Land
 |antilocation=Underground

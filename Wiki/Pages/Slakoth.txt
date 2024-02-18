@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Slakoth_(Pok%C3%A9mon) Slakoth] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Chesto Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Jungle]]
+{{SpawnInfo|type1=Normal|biome=[[Jungle]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=30}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Scratch}}
 {{movesLvl|1|Yawn}}
 {{movesLvl|6|Encore}}
@@ -66,7 +66,7 @@
 {{movesLvl|33|Flail}}
 {{movesLvl|38|Play_Rough}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|After_You}}
 {{movesB|Body_Slam}}
 {{movesB|Crush_Claw}}
@@ -79,7 +79,7 @@
 {{movesB|Snore}}
 {{movesB|Tickle}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -150,7 +150,7 @@
 {{movesTm|X-Scissor}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|After_You}}
 {{moves|Body_Slam}}
 {{moves|Counter}}

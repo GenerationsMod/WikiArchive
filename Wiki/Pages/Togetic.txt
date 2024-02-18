@@ -29,13 +29,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Togetic_(Pok%C3%A9mon) Togetic] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fairy}}
 {{Drop|Lucky Egg|1|100}}
 {{Drop|Shiny Stone|1|100}}
 {{Drop|Fairy Feather|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]]
+{{SpawnInfo|type1=Fairy|biome=[[Forest]]|
 |antibiome=[[Spooky]]
 |location=Land
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=40}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fairy}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Life_Dew}}
 {{movesLvl|1|Magical_Leaf}}
@@ -74,9 +74,9 @@
 {{movesLvl|48|Last_Resort}}
 {{movesLvl|52|Wish}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -158,7 +158,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fairy}}
 {{moves|After_You}}
 {{moves|Air_Cutter}}
 {{moves|Ancient_Power}}

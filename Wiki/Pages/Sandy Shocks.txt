@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Sandy Shocks_(Pok%C3%A9mon) Sandy Shocks] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Electric|biome=[[Overworld]]|
 |antibiome=[[Abyss]]
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=101}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Electric_Terrain}}
 {{movesLvl|1|Sunny_Day}}
 {{movesLvl|1|Supersonic}}
@@ -70,9 +70,9 @@
 {{movesLvl|84|Zap_Cannon}}
 {{movesLvl|91|Magnetic_Flux}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
 {{movesTm|Bulldoze}}
@@ -111,7 +111,7 @@
 {{movesTm|Volt_Switch}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Heavy_Slam}}
 {{moves|Metal_Sound}}
 {{moves|Screech}}

@@ -5,7 +5,7 @@
 |ndex=207
 |type1=Ground
 |type2=Flying
-|ability1=Sandveil|ability2=Hypercutter
+|ability1=Hypercutter|ability2=Sandveil
 |abilityH=Immunity
 |genderm=50.0
 |abilityS=
@@ -29,13 +29,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Gligar_(Pok%C3%A9mon) Gligar] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ground}}
 {{Drop|Razor Fang|1|100}}
 {{Drop|Poison Barb|1|100}}
 {{Drop|Yache Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Mountain]]
+{{SpawnInfo|type1=Ground|biome=[[Badlands]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=uncommon
+|levelrange=18-43
+}}
+{{SpawnInfo|type1=Ground|biome=[[Nether Mountain]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=85}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ground}}
 {{movesLvl|1|Poison_Sting}}
 {{movesLvl|4|Sand_Attack}}
 {{movesLvl|7|Harden}}
@@ -70,7 +79,7 @@
 {{movesLvl|50|Swords_Dance}}
 {{movesLvl|55|Guillotine}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ground}}
 {{movesB|Agility}}
 {{movesB|Baton_Pass}}
 {{movesB|Counter}}
@@ -86,7 +95,7 @@
 {{movesB|Sand_Tomb}}
 {{movesB|Wing_Attack}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -142,7 +151,7 @@
 {{movesTm|Venoshock}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ground}}
 {{moves|Aqua_Tail}}
 {{moves|Attract}}
 {{moves|Bug_Bite}}

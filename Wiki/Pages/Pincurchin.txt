@@ -31,10 +31,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Pincurchin_(Pok%C3%A9mon) Pincurchin] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 |}
 |}
-{{SpawnInfo|biome=[[Reef]]
+{{SpawnInfo|type1=Electric|biome=[[Reef]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=15}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Peck}}
 {{movesLvl|1|Thunder_Shock}}
 {{movesLvl|5|Water_Gun}}
@@ -68,11 +68,11 @@
 {{movesLvl|55|Acupressure}}
 {{movesLvl|60|Discharge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 {{movesB|Memento}}
 {{movesB|Sucker_Punch}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -116,7 +116,7 @@
 {{movesTm|Venoshock}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Rising_Voltage}}
 |}
 |}

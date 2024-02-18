@@ -5,7 +5,7 @@
 |ndex=226
 |type1=Water
 |type2=Flying
-|ability1=Swiftswim|ability2=Waterabsorb
+|ability1=Waterabsorb|ability2=Swiftswim
 |abilityH=Waterveil
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Mantine_(Pok%C3%A9mon) Mantine] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Cod|1|100}}
 {{Drop|Wacan Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Lukewarm]]
+{{SpawnInfo|type1=Water|biome=[[Lukewarm]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Bubble}}
 {{movesLvl|1|Bullet_Seed}}
 {{movesLvl|1|Psybeam}}
@@ -74,7 +74,7 @@
 {{movesLvl|44|Take_Down}}
 {{movesLvl|48|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Amnesia}}
 {{movesB|Confuse_Ray}}
 {{movesB|Haze}}
@@ -89,7 +89,7 @@
 {{movesB|Water_Sport}}
 {{movesB|Wide_Guard}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -149,7 +149,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Agility}}
 {{moves|Air_Cutter}}
 {{moves|Aqua_Tail}}

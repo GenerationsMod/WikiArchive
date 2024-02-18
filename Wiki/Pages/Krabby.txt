@@ -29,13 +29,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Krabby_(Pok%C3%A9mon) Krabby] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Kings Rock|1|100}}
 {{Drop|Pinap Berry|1|100}}
 {{Drop|Krabby Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Coast]]
+{{SpawnInfo|type1=Water|biome=[[Coast]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=50}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Bubble}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Mud_Sport}}
@@ -73,7 +73,7 @@
 {{movesLvl|44|Crabhammer}}
 {{movesLvl|48|Guillotine}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Agility}}
 {{movesB|Ally_Switch}}
 {{movesB|Amnesia}}
@@ -92,7 +92,7 @@
 {{movesB|Swords_Dance}}
 {{movesB|Tickle}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Amnesia}}
@@ -146,7 +146,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Ally_Switch}}
 {{moves|Amnesia}}
 {{moves|Ancient_Power}}

@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Grapploct_(Pok%C3%A9mon) Grapploct] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fighting}}
 {{Drop|Ink Sac|1|100}}
 {{Drop|Pinap Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Frigid]]
+{{SpawnInfo|type1=Fighting|biome=[[Frigid]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=42}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fighting}}
 {{movesLvl|1|Bind}}
 {{movesLvl|1|Feint}}
 {{movesLvl|1|Leer}}
@@ -69,9 +69,9 @@
 {{movesLvl|45|Superpower}}
 {{movesLvl|50|Topsy-Turvy}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
 {{movesTm|Brick_Break}}
@@ -112,7 +112,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fighting}}
 {{moves|Coaching}}
 {{moves|Skitter_Smack}}
 |}

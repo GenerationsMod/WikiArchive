@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Jirachi_(Pok%C3%A9mon) Jirachi] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Steel}}
 {{Drop|Jirachi Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Highlands]]
+{{SpawnInfo|type1=Steel|biome=[[Highlands]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=100}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Steel}}
 {{movesLvl|1|Confusion}}
 {{movesLvl|1|Wish}}
 {{movesLvl|7|Swift}}
@@ -71,9 +71,9 @@
 {{movesLvl|91|Last_Resort}}
 {{movesLvl|98|Doom_Desire}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Amnesia}}
@@ -154,7 +154,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Steel}}
 {{moves|Ancient_Power}}
 {{moves|Body_Slam}}
 {{moves|Confusion}}

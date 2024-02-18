@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Barboach_(Pok%C3%A9mon) Barboach] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Clay Ball|1|100}}
 {{Drop|Rindo Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Swamp]]
+{{SpawnInfo|type1=Water|biome=[[Swamp]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Mud-Slap}}
 {{movesLvl|1|Water_Gun}}
 {{movesLvl|6|Mud_Sport}}
@@ -69,7 +69,7 @@
 {{movesLvl|42|Future_Sight}}
 {{movesLvl|48|Fissure}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Dragon_Dance}}
 {{movesB|Earth_Power}}
 {{movesB|Flail}}
@@ -81,7 +81,7 @@
 {{movesB|Thrash}}
 {{movesB|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -139,7 +139,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Aqua_Tail}}
 {{moves|Bounce}}
 {{moves|Dive}}

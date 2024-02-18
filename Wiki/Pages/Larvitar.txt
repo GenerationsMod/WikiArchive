@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Larvitar_(Pok%C3%A9mon) Larvitar] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Rock}}
 {{Drop|Hard Stone|1|100}}
 {{Drop|Chople Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Badlands]]
+{{SpawnInfo|type1=Rock|biome=[[Badlands]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=41}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Rock}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|3|Rock_Throw}}
@@ -74,7 +74,7 @@
 {{movesLvl|39|Sandstorm}}
 {{movesLvl|42|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Rock}}
 {{movesB|Ancient_Power}}
 {{movesB|Assurance}}
 {{movesB|Curse}}
@@ -88,7 +88,7 @@
 {{movesB|Stealth_Rock}}
 {{movesB|Stomp}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -155,7 +155,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Uproar}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Rock}}
 {{moves|Ancient_Power}}
 {{moves|Attract}}
 {{moves|Bite}}

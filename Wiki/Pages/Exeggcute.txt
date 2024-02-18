@@ -31,13 +31,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Exeggcute_(Pok%C3%A9mon) Exeggcute] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Grass}}
 {{Drop|Egg|1|100}}
 {{Drop|Oval Stone|1|100}}
 {{Drop|Tanga Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Beach]], [[Tropical Island]]
+{{SpawnInfo|type1=Grass|biome=[[Jungle]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=8-33
+}}
+{{SpawnInfo|type1=Grass|biome=[[Beach]], [[Tropical Island]]|
 |antibiome=
 |location=Land
 |antilocation=Underground

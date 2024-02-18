@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Veluza_(Pok%C3%A9mon) Veluza] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Cod|1|100}}
 {{Drop|Bone Meal|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Ocean]]
+{{SpawnInfo|type1=Water|biome=[[Ocean]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Aqua_Jet}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|7|Pluck}}
@@ -69,11 +69,11 @@
 {{movesLvl|50|Crunch}}
 {{movesLvl|55|Final_Gambit}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Recover}}
 {{movesB|Thrash}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Blizzard}}
 {{movesTm|Body_Slam}}
@@ -105,7 +105,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=975|prev=Greavard|dexnext=977|next=Flamigo}}

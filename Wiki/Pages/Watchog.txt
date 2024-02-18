@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Watchog_(Pok%C3%A9mon) Watchog] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Babiri Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Grassland]]
+{{SpawnInfo|type1=Normal|biome=[[Grassland]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=77}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Bite}}
 {{movesLvl|1|Confuse_Ray}}
 {{movesLvl|1|Leer}}
@@ -73,9 +73,9 @@
 {{movesLvl|46|Baton_Pass}}
 {{movesLvl|50|Slam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
 {{movesTm|Confide}}
 {{movesTm|Cut}}
@@ -116,7 +116,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|After_You}}
 {{moves|Aqua_Tail}}
 {{moves|Covet}}

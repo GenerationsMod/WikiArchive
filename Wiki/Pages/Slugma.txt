@@ -29,12 +29,39 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Slugma_(Pok%C3%A9mon) Slugma] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Magma Cream|1|100}}
 {{Drop|Passho Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Volcanic]]
+{{SpawnInfo|type1=Fire|biome=[[Nether Basalt]], [[Nether Wasteland]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=1-25
+}}
+{{SpawnInfo|type1=Fire|biome=[[Nether]], [[Volcanic]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=1-25
+}}
+{{SpawnInfo|type1=Fire|biome=[[Overworld]]|
+|antibiome=[[Volcanic]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=1-25
+}}
+{{SpawnInfo|type1=Fire|biome=[[Volcanic]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +79,7 @@
 |spe=20}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Smog}}
 {{movesLvl|1|Yawn}}
 {{movesLvl|6|Ember}}
@@ -70,7 +97,7 @@
 {{movesLvl|48|Flamethrower}}
 {{movesLvl|50|Earth_Power}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 {{movesB|Acid_Armor}}
 {{movesB|Curse}}
 {{movesB|Earth_Power}}
@@ -84,7 +111,7 @@
 {{movesB|Stockpile}}
 {{movesB|Swallow}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Attract}}
 {{movesTm|Captivate}}
 {{movesTm|Confide}}
@@ -118,7 +145,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Acid_Armor}}
 {{moves|After_You}}
 {{moves|Amnesia}}

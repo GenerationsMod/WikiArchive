@@ -5,7 +5,7 @@
 |ndex=609
 |type1=Ghost
 |type2=Fire
-|ability1=Flashfire|ability2=Flamebody
+|ability1=Flamebody|ability2=Flashfire
 |abilityH=Infiltrator
 |genderm=50.0
 |abilityS=
@@ -29,13 +29,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Chandelure_(Pok%C3%A9mon) Chandelure] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ghost}}
 {{Drop|Candle|1|100}}
 {{Drop|Dusk Stone|1|100}}
 {{Drop|Rawst Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Spooky]]
+{{SpawnInfo|type1=Ghost|biome=[[Spooky]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=80}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ghost}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Confuse_Ray}}
 {{movesLvl|1|Curse}}
@@ -72,9 +72,9 @@
 {{movesLvl|1|Smog}}
 {{movesLvl|1|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
 {{movesTm|Calm_Mind}}
@@ -125,7 +125,7 @@
 {{movesTm|Trick_Room}}
 {{movesTm|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ghost}}
 {{moves|Ally_Switch}}
 {{moves|Burning_Jealousy}}
 {{moves|Dark_Pulse}}

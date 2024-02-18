@@ -31,13 +31,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Simipour_(Pok%C3%A9mon) Simipour] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Water Stone|1|100}}
 {{Drop|Mystic Water|1|100}}
 {{Drop|Rindo Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Jungle]]
+{{SpawnInfo|type1=Water|biome=[[Jungle]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -55,15 +55,15 @@
 |spe=101}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Fury_Swipes}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Lick}}
 {{movesLvl|1|Scald}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -109,7 +109,7 @@
 {{movesTm|Waterfall}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Aqua_Tail}}
 {{moves|Covet}}
 {{moves|Endeavor}}

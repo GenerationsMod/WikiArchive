@@ -29,12 +29,48 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Gengar_(Pok%C3%A9mon) Gengar] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ghost}}
 {{Drop|Spell Tag|1|100}}
 {{Drop|Payapa Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Spooky]]
+{{SpawnInfo|type1=Ghost|biome=[[Deep Dark]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=36-50
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Nether]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=36-50
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Overworld]]|
+|antibiome=[[Deep Dark]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=36-50
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Overworld]]|
+|antibiome=[[Deep Dark]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=36-50
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Spooky]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +88,7 @@
 |spe=110}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ghost}}
 {{movesLvl|1|Confuse_Ray}}
 {{movesLvl|1|Hypnosis}}
 {{movesLvl|1|Lick}}
@@ -72,9 +108,9 @@
 {{movesLvl|60|Dream_Eater}}
 {{movesLvl|61|Nightmare}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -161,7 +197,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Wonder_Room}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ghost}}
 {{moves|Ally_Switch}}
 {{moves|Astonish}}
 {{moves|Attract}}

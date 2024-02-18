@@ -31,13 +31,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Tatsugiri_(Pok%C3%A9mon) Tatsugiri] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dragon}}
 {{Drop|Salmon|1|100}}
 {{Drop|Bone Meal|1|100}}
 {{Drop|Haban Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Swamp]]
+{{SpawnInfo|type1=Dragon|biome=[[Swamp]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=23-48
+}}
+{{SpawnInfo|type1=Dragon|biome=[[Swamp]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -55,7 +64,7 @@
 |spe=82}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dragon}}
 {{movesLvl|1|Splash}}
 {{movesLvl|1|Water_Gun}}
 {{movesLvl|6|Harden}}
@@ -69,12 +78,12 @@
 {{movesLvl|47|Mirror_Coat}}
 {{movesLvl|52|Dragon_Pulse}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 {{movesB|Baton_Pass}}
 {{movesB|Counter}}
 {{movesB|Rapid_Spin}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Baton_Pass}}
 {{movesTm|Chilling_Water}}
 {{movesTm|Draco_Meteor}}
@@ -100,7 +109,7 @@
 {{movesTm|Tera_Blast}}
 {{movesTm|Water_Pulse}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dragon}}
 {{moves|Dragon_Pulse}}
 {{moves|Icy_Wind}}
 {{moves|Muddy_Water}}

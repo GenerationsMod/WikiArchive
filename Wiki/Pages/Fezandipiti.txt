@@ -31,10 +31,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Fezandipiti_(Pok%C3%A9mon) Fezandipiti] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Poison}}
 |}
 |}
-{{SpawnInfo|biome=[[Swamp]]
+{{SpawnInfo|type1=Poison|biome=[[Swamp]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=99}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Poison}}
 {{movesLvl|1|Disarming_Voice}}
 {{movesLvl|1|Double_Kick}}
 {{movesLvl|1|Peck}}
@@ -68,9 +68,9 @@
 {{movesLvl|64|Roost}}
 {{movesLvl|72|Moonblast}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -120,7 +120,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Venoshock}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Poison}}
 {{moves|Beat_Up}}
 {{moves|Flatter}}
 {{moves|Roost}}

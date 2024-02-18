@@ -5,7 +5,7 @@
 |ndex=168
 |type1=Bug
 |type2=Poison
-|ability1=Insomnia|ability2=Swarm
+|ability1=Swarm|ability2=Insomnia
 |abilityH=Sniper
 |genderm=50.0
 |abilityS=
@@ -29,14 +29,50 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Ariados_(Pok%C3%A9mon) Ariados] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|String|1|100}}
 {{Drop|Spider Eye|1|100}}
 {{Drop|Rotten Flesh|1|100}}
 {{Drop|Poison Barb|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Bug|biome=[[Forest]], [[Jungle]], [[Spooky]]|
+|antibiome=[[Freezing]]
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=22-40
+}}
+{{SpawnInfo|type1=Bug|biome=[[Overworld]]|
+|antibiome=[[Deep Dark]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=22-40
+}}
+{{SpawnInfo|type1=Bug|biome=[[Overworld]]|
+|antibiome=[[Deep Dark]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=22-40
+}}
+{{SpawnInfo|type1=Bug|biome=[[Terralith:Cave/Infested Caves]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=22-40
+}}
+{{SpawnInfo|type1=Bug|biome=[[Overworld]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -54,7 +90,7 @@
 |spe=40}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Absorb}}
 {{movesLvl|1|Bug_Bite}}
 {{movesLvl|1|Constrict}}
@@ -80,9 +116,9 @@
 {{movesLvl|58|Sticky_Web}}
 {{movesLvl|63|Toxic_Thread}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Attract}}
 {{movesTm|Captivate}}
 {{movesTm|Confide}}
@@ -121,7 +157,7 @@
 {{movesTm|Venoshock}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Agility}}
 {{moves|Attract}}
 {{moves|Body_Slam}}

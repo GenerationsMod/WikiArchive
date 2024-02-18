@@ -31,12 +31,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Minun_(Pok%C3%A9mon) Minun] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 {{Drop|Magnet|1|100}}
 {{Drop|Cheri Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Plains]]
+{{SpawnInfo|type1=Electric|biome=[[Plains]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=16-41
+}}
+{{SpawnInfo|type1=Electric|biome=[[Plains]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +63,7 @@
 |spe=95}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Nuzzle}}
 {{movesLvl|1|Play_Nice}}
@@ -78,7 +87,7 @@
 {{movesLvl|46|Nasty_Plot}}
 {{movesLvl|49|Entrainment}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 {{movesB|Charm}}
 {{movesB|Discharge}}
 {{movesB|Fake_Tears}}
@@ -89,7 +98,7 @@
 {{movesB|Tearful_Look}}
 {{movesB|Wish}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Attract}}
 {{movesTm|Captivate}}
 {{movesTm|Charge_Beam}}
@@ -123,7 +132,7 @@
 {{movesTm|Volt_Switch}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Body_Slam}}
 {{moves|Counter}}
 {{moves|Covet}}

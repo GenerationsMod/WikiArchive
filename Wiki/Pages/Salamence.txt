@@ -31,13 +31,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Salamence_(Pok%C3%A9mon) Salamence] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dragon}}
 {{Drop|Dragon Fang|1|100}}
 {{Drop|Dragon Scale|1|100}}
 {{Drop|Yache Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Badlands]]
+{{SpawnInfo|type1=Dragon|biome=[[Badlands]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -55,7 +55,7 @@
 |spe=100}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dragon}}
 {{movesLvl|1|Bite}}
 {{movesLvl|1|Dragon_Breath}}
 {{movesLvl|1|Dragon_Tail}}
@@ -78,9 +78,9 @@
 {{movesLvl|64|Outrage}}
 {{movesLvl|73|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
 {{movesTm|Attract}}
@@ -156,7 +156,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dragon}}
 {{moves|Aerial_Ace}}
 {{moves|Air_Cutter}}
 {{moves|Aqua_Tail}}

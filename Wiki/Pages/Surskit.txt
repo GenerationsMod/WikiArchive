@@ -31,12 +31,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Surskit_(Pok%C3%A9mon) Surskit] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Honey Bottle|1|100}}
 {{Drop|Wacan Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[The Bumblezone]]
+{{SpawnInfo|type1=Bug|biome=|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=2-27
+}}
+{{SpawnInfo|type1=Bug|biome=[[The Bumblezone]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -54,7 +63,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Bubble}}
 {{movesLvl|1|Water_Gun}}
 {{movesLvl|6|Quick_Attack}}
@@ -69,7 +78,7 @@
 {{movesLvl|35|Baton_Pass}}
 {{movesLvl|38|Sticky_Web}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 {{movesB|Aqua_Jet}}
 {{movesB|Bug_Bite}}
 {{movesB|Endure}}
@@ -83,7 +92,7 @@
 {{movesB|Psybeam}}
 {{movesB|Signal_Beam}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -135,7 +144,7 @@
 {{movesTm|Waterfall}}
 {{movesTm|Water_Pulse}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Bubble}}
 {{moves|Bug_Bite}}
 {{moves|Double-Edge}}

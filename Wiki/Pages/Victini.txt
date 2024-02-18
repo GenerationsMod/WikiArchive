@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Victini_(Pok%C3%A9mon) Victini] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 |}
 |}
-{{SpawnInfo|biome=[[Temperate]]
+{{SpawnInfo|type1=Psychic|biome=[[Temperate]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=100}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Confusion}}
 {{movesLvl|1|Flame_Charge}}
 {{movesLvl|1|Focus_Energy}}
@@ -71,9 +71,9 @@
 {{movesLvl|84|Overheat}}
 {{movesLvl|91|Final_Gambit}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Baton_Pass}}
 {{movesTm|Blaze_Kick}}
 {{movesTm|Bounce}}
@@ -152,7 +152,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Blue_Flare}}
 {{moves|Bolt_Strike}}
 {{moves|Bounce}}

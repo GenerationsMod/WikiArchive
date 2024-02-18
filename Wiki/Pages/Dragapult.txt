@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Dragapult_(Pok%C3%A9mon) Dragapult] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dragon}}
 {{Drop|Haban Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[End]]
+{{SpawnInfo|type1=Dragon|biome=[[End]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=142}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dragon}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Bite}}
 {{movesLvl|1|Dragon_Breath}}
@@ -71,9 +71,9 @@
 {{movesLvl|70|Double-Edge}}
 {{movesLvl|78|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
@@ -130,7 +130,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dragon}}
 {{moves|Draco_Meteor}}
 |}
 |}

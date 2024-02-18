@@ -5,7 +5,7 @@
 |ndex=059
 |type1=Fire
 |type2=
-|ability1=Flashfire|ability2=Intimidate
+|ability1=Intimidate|ability2=Flashfire
 |abilityH=Justified
 |genderm=75.0
 |abilityS=
@@ -29,12 +29,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Arcanine_(Pok%C3%A9mon) Arcanine] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Bone|1|100}}
 {{Drop|Rawst Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]], [[Grassland]]
+{{SpawnInfo|type1=Fire|biome=[[Overworld]]|
+|antibiome=[[Desert]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=30-56
+}}
+{{SpawnInfo|type1=Fire|biome=[[Overworld]]|
+|antibiome=[[Desert]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=30-56
+}}
+{{SpawnInfo|type1=Fire|biome=[[Forest]], [[Grassland]]|
 |antibiome=[[Spooky]]
 |location=Land
 |antilocation=Underground
@@ -52,7 +70,7 @@
 |spe=95}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Agility}}
 {{movesLvl|1|Bite}}
 {{movesLvl|1|Burn_Up}}
@@ -74,9 +92,9 @@
 {{movesLvl|5|Flamethrower}}
 {{movesLvl|34|Extreme_Speed}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -142,7 +160,7 @@
 {{movesTm|Wild_Charge}}
 {{movesTm|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Attract}}
 {{moves|Bide}}
 {{moves|Bite}}

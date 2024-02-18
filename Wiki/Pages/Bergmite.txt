@@ -29,12 +29,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Bergmite_(Pok%C3%A9mon) Bergmite] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ice}}
 {{Drop|Never Melt Ice|1|100}}
 {{Drop|Aspear Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Frozen]]
+{{SpawnInfo|type1=Ice|biome=[[Frozen Ocean]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=5-30
+}}
+{{SpawnInfo|type1=Ice|biome=[[Frozen Ocean]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=5-30
+}}
+{{SpawnInfo|type1=Ice|biome=[[Nether Frozen]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +70,7 @@
 |spe=28}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ice}}
 {{movesLvl|1|Harden}}
 {{movesLvl|1|Rapid_Spin}}
 {{movesLvl|3|Tackle}}
@@ -72,14 +90,14 @@
 {{movesLvl|39|Blizzard}}
 {{movesLvl|42|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ice}}
 {{movesB|Aurora_Veil}}
 {{movesB|Barrier}}
 {{movesB|Mirror_Coat}}
 {{movesB|Mist}}
 {{movesB|Recover}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
 {{movesTm|Blizzard}}
@@ -127,7 +145,7 @@
 {{movesTm|Tera_Blast}}
 {{movesTm|Toxic}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ice}}
 {{moves|After_You}}
 {{moves|Icy_Wind}}
 {{moves|Iron_Defense}}

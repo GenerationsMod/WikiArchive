@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Blacephalon_(Pok%C3%A9mon) Blacephalon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Echo Shard|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[End]]
+{{SpawnInfo|type1=Fire|biome=[[End]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=107}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Fire_Spin}}
 {{movesLvl|5|Light_Screen}}
@@ -71,9 +71,9 @@
 {{movesLvl|65|Fire_Blast}}
 {{movesLvl|70|Mind_Blown}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Calm_Mind}}
 {{movesTm|Confide}}
 {{movesTm|Dark_Pulse}}
@@ -125,7 +125,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|After_You}}
 {{moves|Expanding_Force}}
 {{moves|Fire_Blast}}

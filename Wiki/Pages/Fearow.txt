@@ -31,14 +31,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Fearow_(Pok%C3%A9mon) Fearow] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Feather|1|100}}
 {{Drop|Chicken|1|100}}
 {{Drop|Sharp Beak|1|100}}
 {{Drop|Charti Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Badlands]], [[Savanna]], [[Sky]]
+{{SpawnInfo|type1=Normal|biome=[[Badlands]], [[Savanna]], [[Sky]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -56,7 +56,7 @@
 |spe=100}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Drill_Run}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Leer}}
@@ -72,9 +72,9 @@
 {{movesLvl|36|Roost}}
 {{movesLvl|41|Drill_Peck}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Captivate}}
@@ -109,7 +109,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Agility}}
 {{moves|Air_Cutter}}
 {{moves|Attract}}

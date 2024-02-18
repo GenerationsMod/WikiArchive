@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Pineco_(Pok%C3%A9mon) Pineco] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|String|1|100}}
 {{Drop|Occa Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Taiga]]
+{{SpawnInfo|type1=Bug|biome=[[Taiga]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=15}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Protect}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|6|Self-Destruct}}
@@ -72,7 +72,7 @@
 {{movesLvl|42|Gyro_Ball}}
 {{movesLvl|45|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 {{movesB|Counter}}
 {{movesB|Double-Edge}}
 {{movesB|Endure}}
@@ -86,7 +86,7 @@
 {{movesB|Swift}}
 {{movesB|Toxic_Spikes}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
 {{movesTm|Bug_Buzz}}
@@ -142,7 +142,7 @@
 {{movesTm|Toxic_Spikes}}
 {{movesTm|Venoshock}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Attract}}
 {{moves|Bide}}
 {{moves|Body_Slam}}

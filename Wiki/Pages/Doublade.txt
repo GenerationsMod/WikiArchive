@@ -29,13 +29,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Doublade_(Pok%C3%A9mon) Doublade] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Steel}}
 {{Drop|Iron Nugget|1|100}}
 {{Drop|Iron Sword|1|100}}
 {{Drop|Dusk Stone|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Steel|biome=[[Nether]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=35-45
+}}
+{{SpawnInfo|type1=Steel|biome=[[Overworld]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=35}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Steel}}
 {{movesLvl|1|Autotomize}}
 {{movesLvl|1|Fury_Cutter}}
 {{movesLvl|1|Shadow_Sneak}}
@@ -70,9 +79,9 @@
 {{movesLvl|50|Swords_Dance}}
 {{movesLvl|56|Sacred_Sword}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Brick_Break}}
@@ -112,7 +121,7 @@
 {{movesTm|Swords_Dance}}
 {{movesTm|Toxic}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Steel}}
 {{moves|After_You}}
 {{moves|Iron_Defense}}
 {{moves|Iron_Head}}

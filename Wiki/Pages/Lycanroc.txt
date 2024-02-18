@@ -5,7 +5,7 @@
 |ndex=745
 |type1=Rock
 |type2=
-|ability1=Sandrush|ability2=Keeneye
+|ability1=Keeneye|ability2=Sandrush
 |abilityH=Steadfast
 |genderm=50.0
 |abilityS=
@@ -29,14 +29,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Lycanroc_(Pok%C3%A9mon) Lycanroc] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Rock}}
 {{Drop|Bone|1|100}}
 {{Drop|Rotten Flesh|1|100}}
 {{Drop|Hard Stone|1|100}}
 {{Drop|Babiri Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Badlands]]
+{{SpawnInfo|type1=Rock|biome=[[Badlands]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=112}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Rock}}
 {{movesLvl|1|Accelerock}}
 {{movesLvl|1|Double_Team}}
 {{movesLvl|1|Leer}}
@@ -75,9 +75,9 @@
 {{movesLvl|54|Stealth_Rock}}
 {{movesLvl|60|Stone_Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -139,7 +139,7 @@
 {{movesTm|Trailblaze}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Rock}}
 {{moves|Covet}}
 {{moves|Drill_Run}}
 {{moves|Earth_Power}}

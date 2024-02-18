@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Litten_(Pok%C3%A9mon) Litten] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Charcoal Stick|1|100}}
 {{Drop|Litten Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Jungle]]
+{{SpawnInfo|type1=Fire|biome=[[Jungle]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Scratch}}
 {{movesLvl|3|Ember}}
@@ -72,7 +72,7 @@
 {{movesLvl|36|Flare_Blitz}}
 {{movesLvl|46|Outrage}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 {{movesB|Body_Slam}}
 {{movesB|Crunch}}
 {{movesB|Fake_Out}}
@@ -82,7 +82,7 @@
 {{movesB|Power_Trip}}
 {{movesB|Revenge}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -127,7 +127,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Covet}}
 {{moves|Endeavor}}
 {{moves|Fire_Pledge}}

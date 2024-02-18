@@ -29,11 +29,20 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Yamask_(Pok%C3%A9mon) Yamask] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ghost}}
 {{Drop|Spell Tag|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Ghost|biome=[[Desert]]|
+|antibiome=[[Deep Dark]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=5-30
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Overworld]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +60,7 @@
 |spe=30}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ghost}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Protect}}
 {{movesLvl|4|Haze}}
@@ -70,7 +79,7 @@
 {{movesLvl|48|Power_Split}}
 {{movesLvl|52|Destiny_Bond}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 {{movesB|Ally_Switch}}
 {{movesB|Crafty_Shield}}
 {{movesB|Disable}}
@@ -83,7 +92,7 @@
 {{movesB|Nightmare}}
 {{movesB|Toxic_Spikes}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
 {{movesTm|Calm_Mind}}
@@ -130,7 +139,7 @@
 {{movesTm|Wonder_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ghost}}
 {{moves|After_You}}
 {{moves|Ally_Switch}}
 {{moves|Block}}

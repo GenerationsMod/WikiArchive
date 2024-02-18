@@ -31,11 +31,20 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Articuno_(Pok%C3%A9mon) Articuno] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ice}}
 {{Drop|Articuno Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Snowy]]
+{{SpawnInfo|type1=Ice|biome=[[Glacial]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=70-75
+}}
+{{SpawnInfo|type1=Ice|biome=[[Snowy]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=85}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ice}}
 {{movesLvl|1|Gust}}
 {{movesLvl|1|Mist}}
 {{movesLvl|5|Powder_Snow}}
@@ -73,9 +82,9 @@
 {{movesLvl|65|Blizzard}}
 {{movesLvl|70|Sheer_Cold}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Air_Cutter}}
@@ -133,7 +142,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Weather_Ball}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ice}}
 {{moves|Agility}}
 {{moves|Air_Cutter}}
 {{moves|Ancient_Power}}

@@ -29,11 +29,29 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Wimpod_(Pok%C3%A9mon) Wimpod] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Bluk Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Bug|biome=[[Coast]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=1-23
+}}
+{{SpawnInfo|type1=Bug|biome=[[Overworld]]|
+|antibiome=[[Deep Dark]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=1-23
+}}
+{{SpawnInfo|type1=Bug|biome=[[Overworld]]|
 |antibiome=[[Deep Dark]]
 |location=Underground
 |antilocation=Underground
@@ -51,12 +69,12 @@
 |spe=80}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Defense_Curl}}
 {{movesLvl|1|Sand_Attack}}
 {{movesLvl|1|Struggle_Bug}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 {{movesB|Aqua_Jet}}
 {{movesB|Harden}}
 {{movesB|Metal_Claw}}
@@ -64,7 +82,7 @@
 {{movesB|Spikes}}
 {{movesB|Wide_Guard}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
 {{movesTm|Bug_Buzz}}
@@ -95,7 +113,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Waterfall}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Skitter_Smack}}
 {{moves|Snore}}
 |}

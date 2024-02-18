@@ -29,12 +29,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Ribombee_(Pok%C3%A9mon) Ribombee] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Honey Bottle|1|100}}
 {{Drop|Cheri Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[The Bumblezone:Floral Meadow]], [[The Bumblezone:Pollinated Fields]]
+{{SpawnInfo|type1=Bug|biome=[[Floral]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=day
+|antitime=Any
+|rarity=common
+|levelrange=25-46
+}}
+{{SpawnInfo|type1=Bug|biome=[[Overworld]]|
+|antibiome=[[Floral]]
+|location=Land
+|antilocation=Underground
+|time=day
+|antitime=Any
+|rarity=common
+|levelrange=25-46
+}}
+{{SpawnInfo|type1=Bug|biome=[[The Bumblezone:Floral Meadow]], [[The Bumblezone:Pollinated Fields]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +70,7 @@
 |spe=124}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Absorb}}
 {{movesLvl|1|Covet}}
 {{movesLvl|1|Fairy_Wind}}
@@ -68,9 +86,9 @@
 {{movesLvl|56|Bug_Buzz}}
 {{movesLvl|64|Quiver_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Ally_Switch}}
@@ -126,7 +144,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Wonder_Room}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|After_You}}
 {{moves|Ally_Switch}}
 {{moves|Bug_Bite}}

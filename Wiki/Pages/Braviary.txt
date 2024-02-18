@@ -5,7 +5,7 @@
 |ndex=628
 |type1=Normal
 |type2=Flying
-|ability1=Sheerforce|ability2=Keeneye
+|ability1=Keeneye|ability2=Sheerforce
 |abilityH=Defiant
 |genderm=100
 |abilityS=
@@ -29,14 +29,23 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Braviary_(Pok%C3%A9mon) Braviary] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Feather|1|100}}
 {{Drop|Chicken|1|100}}
 {{Drop|Sharp Beak|1|100}}
 {{Drop|Razz Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Mountain]]
+{{SpawnInfo|type1=Normal|biome=[[Badlands]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=54-60
+}}
+{{SpawnInfo|type1=Normal|biome=[[Mountain]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +63,7 @@
 |spe=80}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Fury_Attack}}
 {{movesLvl|1|Hone_Claws}}
 {{movesLvl|1|Leer}}
@@ -74,9 +83,9 @@
 {{movesLvl|72|Thrash}}
 {{movesLvl|80|Brave_Bird}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -137,7 +146,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Aerial_Ace}}
 {{moves|Defog}}
 {{moves|Dual_Wingbeat}}

@@ -29,14 +29,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Mudsdale_(Pok%C3%A9mon) Mudsdale] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ground}}
 {{Drop|Leather|1|100}}
 {{Drop|Clay Ball|1|100}}
 {{Drop|Light Clay|1|100}}
 {{Drop|Passho Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Badlands]], [[Grassland]]
+{{SpawnInfo|type1=Ground|biome=[[Badlands]], [[Grassland]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=35}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ground}}
 {{movesLvl|1|Double_Kick}}
 {{movesLvl|1|Iron_Defense}}
 {{movesLvl|1|Mud-Slap}}
@@ -72,9 +72,9 @@
 {{movesLvl|46|Mega_Kick}}
 {{movesLvl|52|Superpower}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -125,7 +125,7 @@
 {{movesTm|Tera_Blast}}
 {{movesTm|Toxic}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ground}}
 {{moves|Earth_Power}}
 {{moves|Endeavor}}
 {{moves|Iron_Defense}}

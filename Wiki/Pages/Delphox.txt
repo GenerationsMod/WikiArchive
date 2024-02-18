@@ -31,13 +31,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Delphox_(Pok%C3%A9mon) Delphox] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Stick|1|100}}
 {{Drop|Blaze Powder|1|100}}
 {{Drop|Charcoal Stick|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Desert]]
+{{SpawnInfo|type1=Fire|biome=[[Desert]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -55,7 +55,7 @@
 |spe=104}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Ember}}
 {{movesLvl|1|Future_Sight}}
 {{movesLvl|1|Howl}}
@@ -78,9 +78,9 @@
 {{movesLvl|68|Magic_Room}}
 {{movesLvl|74|Fire_Blast}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
 {{movesTm|Blast_Burn}}
@@ -159,7 +159,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Ally_Switch}}
 {{moves|Blast_Burn}}
 {{moves|Covet}}

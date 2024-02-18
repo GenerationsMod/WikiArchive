@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Drapion_(Pok%C3%A9mon) Drapion] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Poison}}
 {{Drop|Poison Barb|1|100}}
 {{Drop|Bluk Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Desert]]
+{{SpawnInfo|type1=Poison|biome=[[Desert]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=95}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Poison}}
 {{movesLvl|1|Bite}}
 {{movesLvl|1|Fell_Stinger}}
 {{movesLvl|1|Fire_Fang}}
@@ -102,9 +102,9 @@
 {{movesLvl|65|Crunch}}
 {{movesLvl|73|Cross_Poison}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
@@ -180,7 +180,7 @@
 {{movesTm|Venoshock}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Poison}}
 {{moves|Aqua_Tail}}
 {{moves|Bug_Bite}}
 {{moves|Dark_Pulse}}

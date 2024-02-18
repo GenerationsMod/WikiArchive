@@ -5,7 +5,7 @@
 |ndex=077
 |type1=Fire
 |type2=
-|ability1=Flashfire|ability2=Runaway
+|ability1=Runaway|ability2=Flashfire
 |abilityH=Flamebody
 |genderm=50.0
 |abilityS=
@@ -29,13 +29,31 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Ponyta_(Pok%C3%A9mon) Ponyta] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Leather|1|100}}
 {{Drop|Blaze Powder|1|100}}
 {{Drop|Shuca Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Floral]], [[Magical]]
+{{SpawnInfo|type1=Fire|biome=[[Grassland]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=16-41
+}}
+{{SpawnInfo|type1=Fire|biome=[[Nether Overgrowth]], [[Nether Wasteland]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=16-41
+}}
+{{SpawnInfo|type1=Fire|biome=[[Floral]], [[Magical]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +71,7 @@
 |spe=90}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Quick_Attack}}
 {{movesLvl|1|Tackle}}
@@ -70,7 +88,7 @@
 {{movesLvl|50|Fire_Blast}}
 {{movesLvl|55|Flare_Blitz}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 {{movesB|Ally_Switch}}
 {{movesB|Captivate}}
 {{movesB|Charm}}
@@ -84,7 +102,7 @@
 {{movesB|Morning_Sun}}
 {{movesB|Thrash}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -131,7 +149,7 @@
 {{movesTm|Wild_Charge}}
 {{movesTm|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Agility}}
 {{moves|Ally_Switch}}
 {{moves|Attract}}

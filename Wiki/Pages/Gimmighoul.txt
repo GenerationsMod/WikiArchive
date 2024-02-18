@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Gimmighoul_(Pok%C3%A9mon) Gimmighoul] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ghost}}
 {{Drop|Gold Nugget|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Badlands]]
+{{SpawnInfo|type1=Ghost|biome=[[Badlands]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,13 +51,13 @@
 |spe=10}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ghost}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Tackle}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Confuse_Ray}}
 {{movesTm|Endure}}
 {{movesTm|Hex}}
@@ -75,7 +75,7 @@
 {{movesTm|Tera_Blast}}
 {{movesTm|Thief}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ghost}}
 {{moves|Astonish}}
 {{moves|Tackle}}
 |}

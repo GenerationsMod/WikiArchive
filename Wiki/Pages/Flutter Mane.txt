@@ -29,10 +29,46 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Flutter Mane_(Pok%C3%A9mon) Flutter Mane] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ghost}}
 |}
 |}
-{{SpawnInfo|biome=[[Minecraft:Warped Forest]]
+{{SpawnInfo|type1=Ghost|biome=[[Spooky]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=14-43
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Spooky]], [[Swamp]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=14-43
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Spooky]], [[Swamp]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=14-43
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Swamp]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=14-43
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Minecraft:Warped Forest]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +86,7 @@
 |spe=135}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ghost}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Confuse_Ray}}
 {{movesLvl|1|Spite}}
@@ -69,9 +105,9 @@
 {{movesLvl|84|Moonblast}}
 {{movesLvl|91|Perish_Song}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Calm_Mind}}
 {{movesTm|Charge_Beam}}
 {{movesTm|Charm}}
@@ -112,7 +148,7 @@
 {{movesTm|Thunder_Wave}}
 {{movesTm|Trick_Room}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ghost}}
 {{moves|Dazzling_Gleam}}
 {{moves|Mystical_Fire}}
 {{moves|Shadow_Ball}}

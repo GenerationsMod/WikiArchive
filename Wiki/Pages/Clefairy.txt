@@ -29,14 +29,41 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Clefairy_(Pok%C3%A9mon) Clefairy] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fairy}}
 {{Drop|Moon Stone|1|100}}
 {{Drop|Babiri Berry|1|100}}
 {{Drop|Fairy Feather|1|100}}
 {{Drop|Clefairy Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Magical]]
+{{SpawnInfo|type1=Fairy|biome=[[Dripstone]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=uncommon
+|levelrange=17-32
+}}
+{{SpawnInfo|type1=Fairy|biome=[[Dripstone]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=17-32
+}}
+{{SpawnInfo|type1=Fairy|biome=[[Hills]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=uncommon
+|levelrange=17-32
+}}
+{{SpawnInfo|type1=Fairy|biome=[[Magical]]|
 |antibiome=[[Spooky]]
 |location=Land
 |antilocation=Underground
@@ -54,7 +81,7 @@
 |spe=35}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fairy}}
 {{movesLvl|1|Charm}}
 {{movesLvl|1|Copycat}}
 {{movesLvl|1|Defense_Curl}}
@@ -85,9 +112,9 @@
 {{movesLvl|46|Light_Screen}}
 {{movesLvl|48|Healing_Wish}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -180,7 +207,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fairy}}
 {{moves|After_You}}
 {{moves|Amnesia}}
 {{moves|Attract}}

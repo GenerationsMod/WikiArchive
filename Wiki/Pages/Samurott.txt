@@ -31,12 +31,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Samurott_(Pok%C3%A9mon) Samurott] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Mystic Water|1|100}}
 {{Drop|Nautilus Shell|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Coast]]
+{{SpawnInfo|type1=Water|biome=[[Coast]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=36-53
+}}
+{{SpawnInfo|type1=Water|biome=[[Coast]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=36-53
+}}
+{{SpawnInfo|type1=Water|biome=[[Coast]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +72,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Megahorn}}
 {{movesLvl|1|Slash}}
 {{movesLvl|1|Soak}}
@@ -75,9 +93,9 @@
 {{movesLvl|58|Swords_Dance}}
 {{movesLvl|63|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
 {{movesTm|Attract}}
@@ -141,7 +159,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Aqua_Tail}}
 {{moves|Block}}
 {{moves|Confide}}

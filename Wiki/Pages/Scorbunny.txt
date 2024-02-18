@@ -31,14 +31,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Scorbunny_(Pok%C3%A9mon) Scorbunny] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Rabbit Hide|1|100}}
 {{Drop|Rabbit|1|100}}
 {{Drop|Rabbit Foot|1|100}}
 {{Drop|Charcoal Stick|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Grassland]]
+{{SpawnInfo|type1=Fire|biome=[[Grassland]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -56,7 +56,7 @@
 |spe=69}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|6|Ember}}
@@ -69,13 +69,13 @@
 {{movesLvl|32|Bounce}}
 {{movesLvl|36|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 {{movesB|High_Jump_Kick}}
 {{movesB|Sand_Attack}}
 {{movesB|Sucker_Punch}}
 {{movesB|Super_Fang}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
@@ -119,7 +119,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Fire_Pledge}}
 |}
 |}

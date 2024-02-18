@@ -31,13 +31,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Taillow_(Pok%C3%A9mon) Taillow] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Feather|1|100}}
 {{Drop|Chicken|1|100}}
 {{Drop|Charti Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Sky]], [[Temperate]]
+{{SpawnInfo|type1=Normal|biome=[[Sky]], [[Temperate]]|
 |antibiome=[[Spooky]]
 |location=Land
 |antilocation=Underground
@@ -55,7 +55,7 @@
 |spe=85}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Peck}}
 {{movesLvl|5|Focus_Energy}}
@@ -70,7 +70,7 @@
 {{movesLvl|41|Brave_Bird}}
 {{movesLvl|45|Reversal}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Boomburst}}
 {{movesB|Brave_Bird}}
 {{movesB|Defog}}
@@ -85,7 +85,7 @@
 {{movesB|Supersonic}}
 {{movesB|Whirlwind}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Captivate}}
@@ -117,7 +117,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Air_Cutter}}
 {{moves|Brave_Bird}}
 {{moves|Counter}}

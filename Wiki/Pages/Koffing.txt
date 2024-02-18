@@ -29,11 +29,29 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Koffing_(Pok%C3%A9mon) Koffing] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Poison}}
 {{Drop|Black Sludge|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Toxic]]
+{{SpawnInfo|type1=Poison|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=9-34
+}}
+{{SpawnInfo|type1=Poison|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=9-34
+}}
+{{SpawnInfo|type1=Poison|biome=[[Nether Toxic]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +69,7 @@
 |spe=35}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Poison}}
 {{movesLvl|1|Poison_Gas}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|4|Smog}}
@@ -69,7 +87,7 @@
 {{movesLvl|48|Memento}}
 {{movesLvl|52|Destiny_Bond}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Poison}}
 {{movesB|Curse}}
 {{movesB|Destiny_Bond}}
 {{movesB|Grudge}}
@@ -85,7 +103,7 @@
 {{movesB|Venom_Drench}}
 {{movesB|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
 {{movesTm|Captivate}}
@@ -134,7 +152,7 @@
 {{movesTm|Venoshock}}
 {{movesTm|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Poison}}
 {{moves|Attract}}
 {{moves|Bide}}
 {{moves|Clear_Smog}}

@@ -31,11 +31,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Servine_(Pok%C3%A9mon) Servine] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Grass}}
 {{Drop|Miracle Seed|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Jungle]]
+{{SpawnInfo|type1=Grass|biome=[[Jungle]]|
 |antibiome=
 |location=Land
 |antilocation=Underground

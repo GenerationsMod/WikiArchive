@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Regieleki_(Pok%C3%A9mon) Regieleki] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 |}
 |}
-{{SpawnInfo|biome=[[Freezing]]
+{{SpawnInfo|type1=Electric|biome=[[Freezing]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=200}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Rapid_Spin}}
 {{movesLvl|1|Thunder_Shock}}
 {{movesLvl|6|Electroweb}}
@@ -67,9 +67,9 @@
 {{movesLvl|72|Hyper_Beam}}
 {{movesLvl|78|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
@@ -104,7 +104,7 @@
 {{movesTm|Volt_Switch}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Lock-On}}
 {{moves|Rising_Voltage}}
 {{moves|Thrash}}

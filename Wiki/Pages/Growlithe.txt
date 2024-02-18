@@ -5,7 +5,7 @@
 |ndex=058
 |type1=Fire
 |type2=
-|ability1=Flashfire|ability2=Intimidate
+|ability1=Intimidate|ability2=Flashfire
 |abilityH=Justified
 |genderm=75.0
 |abilityS=
@@ -29,12 +29,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Growlithe_(Pok%C3%A9mon) Growlithe] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Bone|1|100}}
 {{Drop|Rawst Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]], [[Grassland]]
+{{SpawnInfo|type1=Fire|biome=[[Overworld]]|
+|antibiome=[[Desert]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=10-35
+}}
+{{SpawnInfo|type1=Fire|biome=[[Overworld]]|
+|antibiome=[[Desert]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=10-35
+}}
+{{SpawnInfo|type1=Fire|biome=[[Forest]], [[Grassland]]|
 |antibiome=[[Spooky]]
 |location=Land
 |antilocation=Underground
@@ -52,7 +70,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Ember}}
 {{movesLvl|1|Leer}}
 {{movesLvl|4|Howl}}
@@ -74,7 +92,7 @@
 {{movesLvl|52|Reversal}}
 {{movesLvl|56|Flare_Blitz}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 {{movesB|Body_Slam}}
 {{movesB|Burn_Up}}
 {{movesB|Close_Combat}}
@@ -92,7 +110,7 @@
 {{movesB|Safeguard}}
 {{movesB|Thrash}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -150,7 +168,7 @@
 {{movesTm|Wild_Charge}}
 {{movesTm|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Agility}}
 {{moves|Attract}}
 {{moves|Bide}}

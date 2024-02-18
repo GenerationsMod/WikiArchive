@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Espathra_(Pok%C3%A9mon) Espathra] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 {{Drop|Chicken|1|100}}
 {{Drop|Tanga Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Arid]]
+{{SpawnInfo|type1=Psychic|biome=[[Arid]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=105}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Drill_Peck}}
 {{movesLvl|1|Feather_Dance}}
 {{movesLvl|1|Growl}}
@@ -70,9 +70,9 @@
 {{movesLvl|49|Psychic}}
 {{movesLvl|54|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Baton_Pass}}
@@ -122,7 +122,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=955|prev=Capsakid|dexnext=957|next=Rellor}}

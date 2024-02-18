@@ -5,7 +5,7 @@
 |ndex=299
 |type1=Rock
 |type2=
-|ability1=Sturdy|ability2=Magnetpull
+|ability1=Magnetpull|ability2=Sturdy
 |abilityH=Sandforce
 |genderm=50.0
 |abilityS=
@@ -29,14 +29,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Nosepass_(Pok%C3%A9mon) Nosepass] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Rock}}
 {{Drop|Flint|1|100}}
 {{Drop|Hard Stone|1|100}}
 {{Drop|Magnet|1|100}}
 {{Drop|Chople Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Rock|biome=[[Overworld]]|
 |antibiome=[[Abyss]]
 |location=Underground
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=30}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Rock}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|4|Harden}}
 {{movesLvl|7|Block}}
@@ -72,7 +72,7 @@
 {{movesLvl|43|Lock-On}}
 {{movesLvl|43|Zap_Cannon}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Rock}}
 {{movesB|Block}}
 {{movesB|Double-Edge}}
 {{movesB|Endure}}
@@ -82,7 +82,7 @@
 {{movesB|Stealth_Rock}}
 {{movesB|Wide_Guard}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Attract}}
 {{movesTm|Bulldoze}}
 {{movesTm|Captivate}}
@@ -123,7 +123,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Volt_Switch}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Rock}}
 {{moves|Ancient_Power}}
 {{moves|Block}}
 {{moves|Body_Slam}}

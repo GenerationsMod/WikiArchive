@@ -29,12 +29,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Parasect_(Pok%C3%A9mon) Parasect] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Red Mushroom|1|100}}
 {{Drop|Coba Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Mushroom]]
+{{SpawnInfo|type1=Bug|biome=[[Lush]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=24-40
+}}
+{{SpawnInfo|type1=Bug|biome=[[Mushroom]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +61,7 @@
 |spe=30}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Absorb}}
 {{movesLvl|1|Cross_Poison}}
 {{movesLvl|1|Leech_Life}}
@@ -68,9 +77,9 @@
 {{movesLvl|59|Rage_Powder}}
 {{movesLvl|66|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Brick_Break}}
@@ -115,7 +124,7 @@
 {{movesTm|Venoshock}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Absorb}}
 {{moves|After_You}}
 {{moves|Attract}}

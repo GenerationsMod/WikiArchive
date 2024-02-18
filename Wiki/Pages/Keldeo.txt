@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Keldeo_(Pok%C3%A9mon) Keldeo] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 |}
 |}
-{{SpawnInfo|biome=[[River]]
+{{SpawnInfo|type1=Water|biome=[[River]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=108}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Aqua_Jet}}
 {{movesLvl|1|Helping_Hand}}
 {{movesLvl|1|Leer}}
@@ -67,9 +67,9 @@
 {{movesLvl|63|Hydro_Pump}}
 {{movesLvl|70|Close_Combat}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
 {{movesTm|Aura_Sphere}}
@@ -129,7 +129,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Aqua_Jet}}
 {{moves|Aqua_Tail}}
 {{moves|Bounce}}

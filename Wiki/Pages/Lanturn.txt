@@ -29,13 +29,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Lanturn_(Pok%C3%A9mon) Lanturn] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Prismarine Crystals|1|100}}
 {{Drop|Deep Sea Scale|1|100}}
 {{Drop|Persim Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Deep Ocean]]
+{{SpawnInfo|type1=Water|biome=[[Deep Ocean]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=67}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Bubble}}
 {{movesLvl|1|Eerie_Impulse}}
 {{movesLvl|1|Electro_Ball}}
@@ -76,9 +76,9 @@
 {{movesLvl|54|Hydro_Pump}}
 {{movesLvl|54|Ion_Deluge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -129,7 +129,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Aqua_Tail}}
 {{moves|Attract}}
 {{moves|Bounce}}

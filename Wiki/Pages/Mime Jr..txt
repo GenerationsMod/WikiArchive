@@ -5,7 +5,7 @@
 |ndex=439
 |type1=Psychic
 |type2=Fairy
-|ability1=Soundproof|ability2=Filter
+|ability1=Filter|ability2=Soundproof
 |abilityH=Technician
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Mime Jr._(Pok%C3%A9mon) Mime Jr.] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 {{Drop|Light Clay|1|100}}
 {{Drop|Babiri Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
+|antibiome=[[Freezing]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=6-31
+}}
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
+|antibiome=[[Freezing]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=6-31
+}}
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +70,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Barrier}}
 {{movesLvl|1|Confusion}}
 {{movesLvl|1|Copycat}}
@@ -92,7 +110,7 @@
 {{movesLvl|50|Safeguard}}
 {{movesLvl|52|Teeter_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 {{movesB|Charm}}
 {{movesB|Confuse_Ray}}
 {{movesB|Fake_Out}}
@@ -111,7 +129,7 @@
 {{movesB|Trick}}
 {{movesB|Wake-Up_Slap}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -180,7 +198,7 @@
 {{movesTm|Uproar}}
 {{movesTm|Wonder_Room}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Ally_Switch}}
 {{moves|Covet}}
 {{moves|Drain_Punch}}

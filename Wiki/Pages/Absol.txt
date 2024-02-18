@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Absol_(Pok%C3%A9mon) Absol] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dark}}
 {{Drop|Razor Claw|1|100}}
 {{Drop|Roseli Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Mountain]]
+{{SpawnInfo|type1=Dark|biome=[[Mountain]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=75}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dark}}
 {{movesLvl|1|Feint}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Quick_Attack}}
@@ -74,7 +74,7 @@
 {{movesLvl|50|Future_Sight}}
 {{movesLvl|55|Perish_Song}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dark}}
 {{movesB|Assurance}}
 {{movesB|Baton_Pass}}
 {{movesB|Bite}}
@@ -94,7 +94,7 @@
 {{movesB|Sucker_Punch}}
 {{movesB|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
 {{movesTm|Assurance}}
@@ -179,7 +179,7 @@
 {{movesTm|X-Scissor}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dark}}
 {{moves|Bite}}
 {{moves|Body_Slam}}
 {{moves|Bounce}}

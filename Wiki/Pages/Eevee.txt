@@ -5,7 +5,7 @@
 |ndex=133
 |type1=Normal
 |type2=
-|ability1=Adaptability|ability2=Runaway
+|ability1=Runaway|ability2=Adaptability
 |abilityH=Anticipation
 |genderm=87.5
 |abilityS=
@@ -29,12 +29,48 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Eevee_(Pok%C3%A9mon) Eevee] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Silk Scarf|1|100}}
 {{Drop|Eevee Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=[[Ocean]], [[Temperate]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=5-33
+}}
+{{SpawnInfo|type1=Normal|biome=[[Temperate]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=5-33
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=5-33
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=5-33
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +88,7 @@
 |spe=55}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Covet}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Helping_Hand}}
@@ -72,7 +108,7 @@
 {{movesLvl|50|Double-Edge}}
 {{movesLvl|55|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Captivate}}
 {{movesB|Charm}}
 {{movesB|Covet}}
@@ -90,7 +126,7 @@
 {{movesB|Wish}}
 {{movesB|Yawn}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
 {{movesTm|Body_Slam}}
@@ -135,7 +171,7 @@
 {{movesTm|Weather_Ball}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Attract}}
 {{moves|Baby-Doll_Eyes}}
 {{moves|Baton_Pass}}

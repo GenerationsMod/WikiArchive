@@ -29,12 +29,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Durant_(Pok%C3%A9mon) Durant] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Raw Iron|1|100}}
 {{Drop|Occa Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Mountain]]
+{{SpawnInfo|type1=Bug|biome=[[Badlands]], [[Hills]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=23-48
+}}
+{{SpawnInfo|type1=Bug|biome=[[Badlands]], [[Hills]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=23-48
+}}
+{{SpawnInfo|type1=Bug|biome=[[Nether Mountain]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +70,7 @@
 |spe=109}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Fury_Cutter}}
 {{movesLvl|1|Sand_Attack}}
 {{movesLvl|4|Vise_Grip}}
@@ -70,7 +88,7 @@
 {{movesLvl|52|Iron_Defense}}
 {{movesLvl|56|Guillotine}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 {{movesB|Baton_Pass}}
 {{movesB|Endure}}
 {{movesB|Feint_Attack}}
@@ -83,7 +101,7 @@
 {{movesB|Struggle_Bug}}
 {{movesB|Thunder_Fang}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -132,7 +150,7 @@
 {{movesTm|Toxic}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Bug_Bite}}
 {{moves|Endeavor}}
 {{moves|Endure}}

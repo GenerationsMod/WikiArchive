@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Haxorus_(Pok%C3%A9mon) Haxorus] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dragon}}
 {{Drop|Dragon Fang|1|100}}
 {{Drop|Haban Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Dragon|biome=[[Overworld]]|
 |antibiome=[[Abyss]], [[Mountain]]
 |location=Underground
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=97}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dragon}}
 {{movesLvl|1|Bite}}
 {{movesLvl|1|Dragon_Rage}}
 {{movesLvl|1|False_Swipe}}
@@ -75,9 +75,9 @@
 {{movesLvl|53|Guillotine}}
 {{movesLvl|60|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -151,7 +151,7 @@
 {{movesTm|Trailblaze}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dragon}}
 {{moves|Aqua_Tail}}
 {{moves|Draco_Meteor}}
 {{moves|Dragon_Dance}}

@@ -31,11 +31,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Quaxly_(Pok%C3%A9mon) Quaxly] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Mystic Water|1|100}}
 |}
 |}
-{{SpawnInfo|biome=
+{{SpawnInfo|type1=Water|biome=|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=50}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Pound}}
 {{movesLvl|1|Water_Gun}}
@@ -67,13 +67,13 @@
 {{movesLvl|31|Acrobatics}}
 {{movesLvl|35|Liquidation}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Detect}}
 {{movesB|Last_Resort}}
 {{movesB|Rapid_Spin}}
 {{movesB|Roost}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Cutter}}
@@ -99,7 +99,7 @@
 {{movesTm|Tera_Blast}}
 {{movesTm|Water_Pledge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=911|prev=Skeledirge|dexnext=913|next=Quaxwell}}

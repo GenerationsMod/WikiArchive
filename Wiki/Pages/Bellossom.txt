@@ -31,11 +31,29 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Bellossom_(Pok%C3%A9mon) Bellossom] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Grass}}
 {{Drop|Pecha Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Savanna]], [[Tropical Island]]
+{{SpawnInfo|type1=Grass|biome=[[Floral]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=day
+|antitime=Any
+|rarity=common
+|levelrange=35-49
+}}
+{{SpawnInfo|type1=Grass|biome=[[Jungle]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=day
+|antitime=Any
+|rarity=common
+|levelrange=35-49
+}}
+{{SpawnInfo|type1=Grass|biome=[[Savanna]], [[Tropical Island]]|
 |antibiome=
 |location=Land
 |antilocation=Underground

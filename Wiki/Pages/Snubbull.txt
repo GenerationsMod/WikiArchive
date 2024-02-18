@@ -5,7 +5,7 @@
 |ndex=209
 |type1=Fairy
 |type2=
-|ability1=Runaway|ability2=Intimidate
+|ability1=Intimidate|ability2=Runaway
 |abilityH=Rattled
 |genderm=25.0
 |abilityS=
@@ -29,12 +29,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Snubbull_(Pok%C3%A9mon) Snubbull] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fairy}}
 {{Drop|Bone|1|100}}
 {{Drop|Babiri Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Fairy|biome=[[Overworld]]|
+|antibiome=[[Freezing]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=5-30
+}}
+{{SpawnInfo|type1=Fairy|biome=[[Overworld]]|
+|antibiome=[[Freezing]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=5-30
+}}
+{{SpawnInfo|type1=Fairy|biome=[[Overworld]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +70,7 @@
 |spe=30}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fairy}}
 {{movesLvl|1|Charm}}
 {{movesLvl|1|Fire_Fang}}
 {{movesLvl|1|Ice_Fang}}
@@ -70,7 +88,7 @@
 {{movesLvl|43|Payback}}
 {{movesLvl|49|Crunch}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 {{movesB|Close_Combat}}
 {{movesB|Crunch}}
 {{movesB|Double-Edge}}
@@ -88,7 +106,7 @@
 {{movesB|Snore}}
 {{movesB|Thunder_Fang}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Attract}}
 {{movesTm|Brick_Break}}
 {{movesTm|Bulk_Up}}
@@ -143,7 +161,7 @@
 {{movesTm|Wild_Charge}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fairy}}
 {{moves|Attract}}
 {{moves|Bite}}
 {{moves|Body_Slam}}

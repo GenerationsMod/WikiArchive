@@ -31,12 +31,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Alcremie_(Pok%C3%A9mon) Alcremie] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fairy}}
 {{Drop|Sugar|1|100}}
 {{Drop|Cake|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Fairy|biome=[[Overworld]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=22-50
+}}
+{{SpawnInfo|type1=Fairy|biome=[[Overworld]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=22-50
+}}
+{{SpawnInfo|type1=Fairy|biome=[[Overworld]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -54,7 +72,7 @@
 |spe=64}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fairy}}
 {{movesLvl|1|Aromatic_Mist}}
 {{movesLvl|1|Sweet_Kiss}}
 {{movesLvl|1|Sweet_Scent}}
@@ -68,9 +86,9 @@
 {{movesLvl|45|Misty_Terrain}}
 {{movesLvl|50|Entrainment}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Attract}}
 {{movesTm|Calm_Mind}}
 {{movesTm|Charm}}
@@ -109,7 +127,7 @@
 {{movesTm|Tri_Attack}}
 {{movesTm|Wonder_Room}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fairy}}
 {{moves|Misty_Explosion}}
 |}
 |}

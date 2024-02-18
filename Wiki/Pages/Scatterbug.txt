@@ -29,13 +29,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Scatterbug_(Pok%C3%A9mon) Scatterbug] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|String|1|100}}
 {{Drop|Bright Powder|1|100}}
 {{Drop|Cheri Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[The Bumblezone:Floral Meadow]]
+{{SpawnInfo|type1=Bug|biome=[[Floral]], [[Plains]], [[Savanna]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=1-20
+}}
+{{SpawnInfo|type1=Bug|biome=[[The Bumblezone:Floral Meadow]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,23 +62,23 @@
 |spe=35}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|String_Shot}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|6|Stun_Spore}}
 {{movesLvl|15|Bug_Bite}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 {{movesB|Poison_Powder}}
 {{movesB|Rage_Powder}}
 {{movesB|Stun_Spore}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Pounce}}
 {{movesTm|Struggle_Bug}}
 {{movesTm|Tera_Blast}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Bug_Bite}}
 |}
 |}

@@ -5,7 +5,7 @@
 |ndex=233
 |type1=Normal
 |type2=
-|ability1=Trace|ability2=Download
+|ability1=Download|ability2=Trace
 |abilityH=Analytic
 |genderm=Genderless
 |abilityS=
@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Porygon2_(Pok%C3%A9mon) Porygon2] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Upgrade|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Conversion}}
 {{movesLvl|1|Defense_Curl}}
 {{movesLvl|1|Magnet_Rise}}
@@ -70,9 +70,9 @@
 {{movesLvl|60|Zap_Cannon}}
 {{movesLvl|65|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
@@ -128,7 +128,7 @@
 {{movesTm|Wonder_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Agility}}
 {{moves|Ally_Switch}}
 {{moves|Blizzard}}

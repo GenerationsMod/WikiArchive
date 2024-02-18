@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Regidrago_(Pok%C3%A9mon) Regidrago] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dragon}}
 |}
 |}
-{{SpawnInfo|biome=[[Badlands]]
+{{SpawnInfo|type1=Dragon|biome=[[Badlands]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=80}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dragon}}
 {{movesLvl|1|Twister}}
 {{movesLvl|1|Vise_Grip}}
 {{movesLvl|6|Bite}}
@@ -67,9 +67,9 @@
 {{movesLvl|72|Hyper_Beam}}
 {{movesLvl|78|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Body_Slam}}
 {{movesTm|Breaking_Swipe}}
 {{movesTm|Crunch}}
@@ -102,7 +102,7 @@
 {{movesTm|Tera_Blast}}
 {{movesTm|Thunder_Fang}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dragon}}
 {{moves|Draco_Meteor}}
 {{moves|Dragon_Claw}}
 {{moves|Dragon_Energy}}

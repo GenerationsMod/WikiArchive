@@ -5,7 +5,7 @@
 |ndex=710
 |type1=Ghost
 |type2=Grass
-|ability1=Frisk|ability2=Pickup
+|ability1=Pickup|ability2=Frisk
 |abilityH=Insomnia
 |genderm=50.0
 |abilityS=
@@ -29,13 +29,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Pumpkaboo_(Pok%C3%A9mon) Pumpkaboo] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ghost}}
 {{Drop|Pumpkin Seeds|1|100}}
 {{Drop|Miracle Seed|1|100}}
 {{Drop|Kasib Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Overgrowth]]
+{{SpawnInfo|type1=Ghost|biome=[[Overworld]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=9-34
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Nether Overgrowth]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=51}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ghost}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Trick-or-Treat}}
 {{movesLvl|4|Shadow_Sneak}}
@@ -68,13 +77,13 @@
 {{movesLvl|40|Trick}}
 {{movesLvl|44|Pain_Split}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 {{movesB|Bestow}}
 {{movesB|Curse}}
 {{movesB|Destiny_Bond}}
 {{movesB|Disable}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
 {{movesTm|Bullet_Seed}}
@@ -129,7 +138,7 @@
 {{movesTm|Trick_Room}}
 {{movesTm|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ghost}}
 {{moves|Ally_Switch}}
 {{moves|Foul_Play}}
 {{moves|Giga_Drain}}

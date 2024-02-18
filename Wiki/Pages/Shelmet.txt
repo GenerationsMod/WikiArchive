@@ -5,7 +5,7 @@
 |ndex=616
 |type1=Bug
 |type2=
-|ability1=Hydration|ability2=Shellarmor
+|ability1=Shellarmor|ability2=Hydration
 |abilityH=Overcoat
 |genderm=50.0
 |abilityS=
@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Shelmet_(Pok%C3%A9mon) Shelmet] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Iron Helmet|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Swamp]]
+{{SpawnInfo|type1=Bug|biome=[[Swamp]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=25}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Absorb}}
 {{movesLvl|1|Leech_Life}}
 {{movesLvl|1|Protect}}
@@ -69,7 +69,7 @@
 {{movesLvl|44|Bug_Buzz}}
 {{movesLvl|48|Final_Gambit}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 {{movesB|Baton_Pass}}
 {{movesB|Double-Edge}}
 {{movesB|Encore}}
@@ -82,7 +82,7 @@
 {{movesB|Spikes}}
 {{movesB|Toxic_Spikes}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
 {{movesTm|Body_Slam}}
@@ -117,7 +117,7 @@
 {{movesTm|Toxic_Spikes}}
 {{movesTm|Venoshock}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Acid}}
 {{moves|Baton_Pass}}
 {{moves|Body_Slam}}

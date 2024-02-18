@@ -5,7 +5,7 @@
 |ndex=765
 |type1=Normal
 |type2=Psychic
-|ability1=Telepathy|ability2=Innerfocus
+|ability1=Innerfocus|ability2=Telepathy
 |abilityH=Symbiosis
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Oranguru_(Pok%C3%A9mon) Oranguru] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Wise Glasses|1|100}}
 {{Drop|Nanab Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Jungle]]
+{{SpawnInfo|type1=Normal|biome=[[Jungle]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Confusion}}
 {{movesLvl|1|Taunt}}
 {{movesLvl|5|After_You}}
@@ -69,7 +69,7 @@
 {{movesLvl|55|Foul_Play}}
 {{movesLvl|60|Future_Sight}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Dream_Eater}}
 {{movesB|Extrasensory}}
 {{movesB|Last_Resort}}
@@ -77,7 +77,7 @@
 {{movesB|Wonder_Room}}
 {{movesB|Yawn}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -150,7 +150,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|After_You}}
 {{moves|Ally_Switch}}
 {{moves|Block}}

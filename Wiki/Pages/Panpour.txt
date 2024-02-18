@@ -31,13 +31,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Panpour_(Pok%C3%A9mon) Panpour] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Water Stone|1|100}}
 {{Drop|Mystic Water|1|100}}
 {{Drop|Rindo Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Jungle]]
+{{SpawnInfo|type1=Water|biome=[[Jungle]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -55,7 +55,7 @@
 |spe=64}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Play_Nice}}
 {{movesLvl|1|Scratch}}
 {{movesLvl|4|Leer}}
@@ -73,7 +73,7 @@
 {{movesLvl|40|Natural_Gift}}
 {{movesLvl|43|Crunch}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Aqua_Ring}}
 {{movesB|Aqua_Tail}}
 {{movesB|Astonish}}
@@ -86,7 +86,7 @@
 {{movesB|Role_Play}}
 {{movesB|Tickle}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -126,7 +126,7 @@
 {{movesTm|Waterfall}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Aqua_Tail}}
 {{moves|Covet}}
 {{moves|Endeavor}}

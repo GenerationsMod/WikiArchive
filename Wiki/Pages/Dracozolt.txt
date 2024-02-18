@@ -5,7 +5,7 @@
 |ndex=880
 |type1=Electric
 |type2=Dragon
-|ability1=Hustle|ability2=Voltabsorb
+|ability1=Voltabsorb|ability2=Hustle
 |abilityH=Sandrush
 |genderm=Genderless
 |abilityS=
@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Dracozolt_(Pok%C3%A9mon) Dracozolt] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 |}
 |}
-{{SpawnInfo|biome=[[End]]
+{{SpawnInfo|type1=Electric|biome=[[End]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=75}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|1|Thunder_Shock}}
 {{movesLvl|7|Charge}}
@@ -65,9 +65,9 @@
 {{movesLvl|70|Dragon_Pulse}}
 {{movesLvl|77|Dragon_Rush}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Body_Slam}}
 {{movesTm|Breaking_Swipe}}
 {{movesTm|Brutal_Swing}}
@@ -112,7 +112,7 @@
 {{movesTm|Thunder_Wave}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Charge}}
 {{moves|Draco_Meteor}}
 {{moves|Meteor_Beam}}

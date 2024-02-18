@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Kingambit_(Pok%C3%A9mon) Kingambit] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dark}}
 {{Drop|Iron Helmet|1|100}}
 {{Drop|Chople Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Badlands]]
+{{SpawnInfo|type1=Dark|biome=[[Badlands]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=50}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dark}}
 {{movesLvl|1|Fury_Cutter}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Metal_Burst}}
@@ -71,9 +71,9 @@
 {{movesLvl|64|Swords_Dance}}
 {{movesLvl|71|Guillotine}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
 {{movesTm|Brick_Break}}
@@ -118,7 +118,7 @@
 {{movesTm|X-Scissor}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=982|prev=Dondozo|dexnext=984|next=Great Tusk}}

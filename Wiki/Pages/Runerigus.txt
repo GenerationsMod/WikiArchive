@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Runerigus_(Pok%C3%A9mon) Runerigus] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ground}}
 {{Drop|Kasib Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Desert]]
+{{SpawnInfo|type1=Ground|biome=[[Desert]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=30}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ground}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Haze}}
 {{movesLvl|1|Night_Shade}}
@@ -70,9 +70,9 @@
 {{movesLvl|56|Power_Split}}
 {{movesLvl|62|Destiny_Bond}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -129,7 +129,7 @@
 {{movesTm|Wonder_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ground}}
 {{moves|Poltergeist}}
 |}
 |}

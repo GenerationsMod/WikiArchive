@@ -31,13 +31,31 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Ditto_(Pok%C3%A9mon) Ditto] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Quick Powder|1|100}}
 {{Drop|Metal Powder|1|100}}
 {{Drop|Ditto Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=[[Ocean]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=4-29
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=[[Ocean]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=4-29
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -55,14 +73,14 @@
 |spe=48}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Transform}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Transform}}
 |}
 |}

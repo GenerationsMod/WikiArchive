@@ -29,13 +29,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Rhydon_(Pok%C3%A9mon) Rhydon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ground}}
 {{Drop|Protector|1|100}}
 {{Drop|Passho Berry|1|100}}
 {{Drop|Rhydon Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Savanna]]
+{{SpawnInfo|type1=Ground|biome=[[Savanna]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=40}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ground}}
 {{movesLvl|1|Bulldoze}}
 {{movesLvl|1|Fury_Attack}}
 {{movesLvl|1|Hammer_Arm}}
@@ -72,9 +72,9 @@
 {{movesLvl|61|Megahorn}}
 {{movesLvl|68|Horn_Drill}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
 {{movesTm|Blizzard}}
@@ -171,7 +171,7 @@
 {{movesTm|Uproar}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ground}}
 {{moves|Ancient_Power}}
 {{moves|Aqua_Tail}}
 {{moves|Attract}}

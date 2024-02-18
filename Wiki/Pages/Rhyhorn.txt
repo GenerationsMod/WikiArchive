@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Rhyhorn_(Pok%C3%A9mon) Rhyhorn] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ground}}
 {{Drop|Protector|1|100}}
 {{Drop|Passho Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Savanna]]
+{{SpawnInfo|type1=Ground|biome=[[Savanna]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=25}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ground}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|1|Tail_Whip}}
 {{movesLvl|5|Fury_Attack}}
@@ -70,7 +70,7 @@
 {{movesLvl|55|Megahorn}}
 {{movesLvl|60|Horn_Drill}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ground}}
 {{movesB|Counter}}
 {{movesB|Crunch}}
 {{movesB|Crush_Claw}}
@@ -91,7 +91,7 @@
 {{movesB|Swords_Dance}}
 {{movesB|Thunder_Fang}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Body_Slam}}
@@ -160,7 +160,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Uproar}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ground}}
 {{moves|Ancient_Power}}
 {{moves|Aqua_Tail}}
 {{moves|Attract}}

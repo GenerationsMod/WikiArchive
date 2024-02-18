@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Wynaut_(Pok%C3%A9mon) Wynaut] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 {{Drop|Colbur Berry|1|100}}
 {{Drop|Wynaut Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
 |antibiome=[[Abyss]]
 |location=Underground
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=23}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Amnesia}}
 {{movesLvl|1|Charm}}
 {{movesLvl|1|Counter}}
@@ -64,15 +64,15 @@
 {{movesLvl|1|Safeguard}}
 {{movesLvl|1|Splash}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Amnesia}}
 {{movesTm|Charm}}
 {{movesTm|Encore}}
 {{movesTm|Safeguard}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Charm}}
 {{moves|Encore}}
 {{moves|Splash}}

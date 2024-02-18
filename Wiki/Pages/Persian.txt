@@ -29,13 +29,67 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Persian_(Pok%C3%A9mon) Persian] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Gold Nugget|1|100}}
 {{Drop|Quick Claw|1|100}}
 {{Drop|Pinap Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=[[Arid]], [[Freezing]], [[Taiga]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=28-44
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=[[Arid]], [[Freezing]], [[Taiga]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=28-44
+}}
+{{SpawnInfo|type1=Normal|biome=[[Arid]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=28-44
+}}
+{{SpawnInfo|type1=Normal|biome=[[Arid]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=28-44
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=[[Arid]], [[Freezing]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=28-44
+}}
+{{SpawnInfo|type1=Normal|biome=[[Arid]], [[Freezing]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=28-44
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +107,7 @@
 |spe=115}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Fake_Out}}
 {{movesLvl|1|Feint}}
 {{movesLvl|1|Growl}}
@@ -75,9 +129,9 @@
 {{movesLvl|61|Night_Slash}}
 {{movesLvl|61|Swagger}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Amnesia}}
@@ -156,7 +210,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Amnesia}}
 {{moves|Attract}}
 {{moves|Bide}}

@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Glastrier_(Pok%C3%A9mon) Glastrier] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ice}}
 |}
 |}
-{{SpawnInfo|biome=[[Taiga]]
+{{SpawnInfo|type1=Ice|biome=[[Taiga]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=30}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ice}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|1|Tail_Whip}}
 {{movesLvl|6|Double_Kick}}
@@ -66,9 +66,9 @@
 {{movesLvl|66|Double-Edge}}
 {{movesLvl|72|Swords_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Assurance}}
 {{movesTm|Avalanche}}
 {{movesTm|Blizzard}}
@@ -113,7 +113,7 @@
 {{movesTm|Uproar}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ice}}
 {{moves|Double-Edge}}
 {{moves|Icicle_Crash}}
 {{moves|Lash_Out}}

@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Skuntank_(Pok%C3%A9mon) Skuntank] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Poison}}
 {{Drop|Pecha Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]]
+{{SpawnInfo|type1=Poison|biome=[[Forest]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=84}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Poison}}
 {{movesLvl|1|Feint}}
 {{movesLvl|1|Flamethrower}}
 {{movesLvl|1|Focus_Energy}}
@@ -98,9 +98,9 @@
 {{movesLvl|56|Belch}}
 {{movesLvl|61|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -172,7 +172,7 @@
 {{movesTm|Venom_Drench}}
 {{movesTm|Venoshock}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Poison}}
 {{moves|Burning_Jealousy}}
 {{moves|Corrosive_Gas}}
 {{moves|Dark_Pulse}}

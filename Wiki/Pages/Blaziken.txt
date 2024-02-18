@@ -31,13 +31,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Blaziken_(Pok%C3%A9mon) Blaziken] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Feather|1|100}}
 {{Drop|Chicken|1|100}}
 {{Drop|Charcoal Stick|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Plains]]
+{{SpawnInfo|type1=Fire|biome=[[Plains]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -55,7 +55,7 @@
 |spe=80}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Brave_Bird}}
 {{movesLvl|1|Double_Kick}}
 {{movesLvl|1|Ember}}
@@ -81,9 +81,9 @@
 {{movesLvl|57|Sky_Uppercut}}
 {{movesLvl|63|Flare_Blitz}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -165,7 +165,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Blast_Burn}}
 {{moves|Blaze_Kick}}
 {{moves|Body_Slam}}

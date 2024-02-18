@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Kecleon_(Pok%C3%A9mon) Kecleon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Persim Berry|1|100}}
 {{Drop|Kecleon Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Jungle]]
+{{SpawnInfo|type1=Normal|biome=[[Jungle]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=40}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Lick}}
 {{movesLvl|1|Scratch}}
@@ -75,7 +75,7 @@
 {{movesLvl|46|Sucker_Punch}}
 {{movesLvl|50|Synchronoise}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Camouflage}}
 {{movesB|Disable}}
 {{movesB|Dizzy_Punch}}
@@ -89,7 +89,7 @@
 {{movesB|Snatch}}
 {{movesB|Trick}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -150,7 +150,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|After_You}}
 {{moves|Ancient_Power}}
 {{moves|Aqua_Tail}}

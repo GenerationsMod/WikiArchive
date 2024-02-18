@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Flygon_(Pok%C3%A9mon) Flygon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ground}}
 {{Drop|Soft Sand|1|100}}
 {{Drop|Yache Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Desert]]
+{{SpawnInfo|type1=Ground|biome=[[Desert]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=100}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ground}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Bide}}
 {{movesLvl|1|Bite}}
@@ -84,9 +84,9 @@
 {{movesLvl|60|Dragon_Rush}}
 {{movesLvl|68|Boomburst}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
 {{movesTm|Attract}}
@@ -161,7 +161,7 @@
 {{movesTm|Uproar}}
 {{movesTm|U-turn}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ground}}
 {{moves|Air_Cutter}}
 {{moves|Body_Slam}}
 {{moves|Bug_Bite}}

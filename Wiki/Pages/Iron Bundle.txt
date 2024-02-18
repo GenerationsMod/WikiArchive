@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Iron Bundle_(Pok%C3%A9mon) Iron Bundle] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ice}}
 |}
 |}
-{{SpawnInfo|biome=[[Glacial]]
+{{SpawnInfo|type1=Ice|biome=[[Glacial]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=136}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ice}}
 {{movesLvl|1|Electric_Terrain}}
 {{movesLvl|1|Present}}
 {{movesLvl|7|Powder_Snow}}
@@ -67,9 +67,9 @@
 {{movesLvl|84|Aurora_Veil}}
 {{movesLvl|91|Blizzard}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
 {{movesTm|Air_Cutter}}
@@ -105,7 +105,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Water_Pulse}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ice}}
 {{moves|Drill_Peck}}
 {{moves|Flip_Turn}}
 {{moves|Freeze-Dry}}

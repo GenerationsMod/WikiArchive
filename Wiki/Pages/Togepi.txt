@@ -29,14 +29,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Togepi_(Pok%C3%A9mon) Togepi] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fairy}}
 {{Drop|Lucky Egg|1|100}}
 {{Drop|Shiny Stone|1|100}}
 {{Drop|Fairy Feather|1|100}}
 {{Drop|Togepi Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]]
+{{SpawnInfo|type1=Fairy|biome=[[Forest]]|
 |antibiome=[[Spooky]]
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=20}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fairy}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Pound}}
 {{movesLvl|4|Sweet_Kiss}}
@@ -73,7 +73,7 @@
 {{movesLvl|48|Last_Resort}}
 {{movesLvl|52|Wish}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 {{movesB|Aerial_Ace}}
 {{movesB|Extrasensory}}
 {{movesB|Foresight}}
@@ -90,7 +90,7 @@
 {{movesB|Stored_Power}}
 {{movesB|Substitute}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
 {{movesTm|Body_Slam}}
@@ -156,7 +156,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fairy}}
 {{moves|After_You}}
 {{moves|Ancient_Power}}
 {{moves|Attract}}

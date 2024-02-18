@@ -29,13 +29,40 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Murkrow_(Pok%C3%A9mon) Murkrow] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dark}}
 {{Drop|Feather|1|100}}
 {{Drop|Chicken|1|100}}
 {{Drop|Bluk Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Sky]]
+{{SpawnInfo|type1=Dark|biome=[[Spooky]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=16-41
+}}
+{{SpawnInfo|type1=Dark|biome=[[Swamp]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=16-41
+}}
+{{SpawnInfo|type1=Dark|biome=[[Taiga]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=16-41
+}}
+{{SpawnInfo|type1=Dark|biome=[[Sky]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +80,7 @@
 |spe=91}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dark}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Peck}}
 {{movesLvl|5|Gust}}
@@ -71,7 +98,7 @@
 {{movesLvl|55|Torment}}
 {{movesLvl|60|Quash}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dark}}
 {{movesB|Assurance}}
 {{movesB|Brave_Bird}}
 {{movesB|Confuse_Ray}}
@@ -88,7 +115,7 @@
 {{movesB|Whirlwind}}
 {{movesB|Wing_Attack}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Cutter}}
@@ -152,7 +179,7 @@
 {{movesTm|Toxic}}
 {{movesTm|U-turn}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dark}}
 {{moves|Air_Cutter}}
 {{moves|Astonish}}
 {{moves|Attract}}

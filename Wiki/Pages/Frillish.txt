@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Frillish_(Pok%C3%A9mon) Frillish] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Glow Ink Sac|1|100}}
 {{Drop|Kasib Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Frigid]], [[Frozen]]
+{{SpawnInfo|type1=Water|biome=[[Frigid]], [[Frozen]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=40}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Absorb}}
 {{movesLvl|1|Bubble}}
 {{movesLvl|1|Water_Gun}}
@@ -73,7 +73,7 @@
 {{movesLvl|48|Water_Spout}}
 {{movesLvl|55|Wring_Out}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Acid_Armor}}
 {{movesB|Bubble_Beam}}
 {{movesB|Confuse_Ray}}
@@ -83,7 +83,7 @@
 {{movesB|Recover}}
 {{movesB|Strength_Sap}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Brine}}
@@ -132,7 +132,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Bind}}
 {{moves|Dark_Pulse}}
 {{moves|Giga_Drain}}

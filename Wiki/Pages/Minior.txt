@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Minior_(Pok%C3%A9mon) Minior] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Rock}}
 |}
 |}
-{{SpawnInfo|biome=[[Peak]]
+{{SpawnInfo|type1=Rock|biome=[[Peak]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=120}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Rock}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|3|Defense_Curl}}
 {{movesLvl|8|Rollout}}
@@ -67,9 +67,9 @@
 {{movesLvl|45|Shell_Smash}}
 {{movesLvl|50|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
 {{movesTm|Bulldoze}}
@@ -107,7 +107,7 @@
 {{movesTm|Toxic}}
 {{movesTm|U-turn}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Rock}}
 {{moves|Endeavor}}
 {{moves|Gravity}}
 {{moves|Iron_Head}}

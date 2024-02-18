@@ -29,13 +29,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Wattrel_(Pok%C3%A9mon) Wattrel] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 {{Drop|Feather|1|100}}
 {{Drop|Chicken|1|100}}
 {{Drop|Razz Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Coast]]
+{{SpawnInfo|type1=Electric|biome=[[Coast]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Peck}}
 {{movesLvl|4|Thunder_Shock}}
@@ -67,7 +67,7 @@
 {{movesLvl|37|Volt_Switch}}
 {{movesLvl|43|Discharge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 {{movesB|Endeavor}}
 {{movesB|Feather_Dance}}
 {{movesB|Spit_Up}}
@@ -75,7 +75,7 @@
 {{movesB|Swallow}}
 {{movesB|Weather_Ball}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -105,7 +105,7 @@
 {{movesTm|Volt_Switch}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=939|prev=Ceruledge|dexnext=941|next=Bellibolt}}

@@ -5,7 +5,7 @@
 |ndex=271
 |type1=Water
 |type2=Grass
-|ability1=Swiftswim|ability2=Raindish
+|ability1=Raindish|ability2=Swiftswim
 |abilityH=Owntempo
 |genderm=50.0
 |abilityS=
@@ -29,13 +29,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Lombre_(Pok%C3%A9mon) Lombre] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Lily Pad|1|100}}
 {{Drop|Mental Herb|1|100}}
 {{Drop|Kebia Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Swamp]]
+{{SpawnInfo|type1=Water|biome=[[Swamp]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=14-34
+}}
+{{SpawnInfo|type1=Water|biome=[[Swamp]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=50}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Absorb}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Fake_Out}}
@@ -77,9 +86,9 @@
 {{movesLvl|57|Energy_Ball}}
 {{movesLvl|64|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Body_Slam}}
@@ -143,7 +152,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Body_Slam}}
 {{moves|Dive}}
 {{moves|Double-Edge}}

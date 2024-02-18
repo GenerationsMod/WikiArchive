@@ -5,7 +5,7 @@
 |ndex=302
 |type1=Dark
 |type2=Ghost
-|ability1=Stall|ability2=Keeneye
+|ability1=Keeneye|ability2=Stall
 |abilityH=Prankster
 |genderm=50.0
 |abilityS=
@@ -29,7 +29,7 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Sableye_(Pok%C3%A9mon) Sableye] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dark}}
 {{Drop|Amethyst Shard|1|100}}
 {{Drop|Diamond|1|100}}
 {{Drop|Emerald|1|100}}
@@ -37,7 +37,16 @@
 {{Drop|Sableye Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[The Bumblezone:Crystal Canyon]]
+{{SpawnInfo|type1=Dark|biome=[[Overworld]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=13-38
+}}
+{{SpawnInfo|type1=Dark|biome=[[The Bumblezone:Crystal Canyon]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -55,7 +64,7 @@
 |spe=50}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dark}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Scratch}}
 {{movesLvl|3|Astonish}}
@@ -78,7 +87,7 @@
 {{movesLvl|45|Shadow_Ball}}
 {{movesLvl|48|Foul_Play}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dark}}
 {{movesB|Captivate}}
 {{movesB|Feint}}
 {{movesB|Flatter}}
@@ -93,7 +102,7 @@
 {{movesB|Torment}}
 {{movesB|Trick}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -192,7 +201,7 @@
 {{movesTm|X-Scissor}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dark}}
 {{moves|Ally_Switch}}
 {{moves|Body_Slam}}
 {{moves|Calm_Mind}}

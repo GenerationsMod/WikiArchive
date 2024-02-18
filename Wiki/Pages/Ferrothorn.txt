@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Ferrothorn_(Pok%C3%A9mon) Ferrothorn] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Grass}}
 {{Drop|Raw Iron|1|100}}
 {{Drop|Occa Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Abyss]]
+{{SpawnInfo|type1=Grass|biome=[[Abyss]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground

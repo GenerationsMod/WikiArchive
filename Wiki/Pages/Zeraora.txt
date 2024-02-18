@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Zeraora_(Pok%C3%A9mon) Zeraora] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 {{Drop|Zeraora Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Plateau]]
+{{SpawnInfo|type1=Electric|biome=[[Plateau]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=143}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Fake_Out}}
 {{movesLvl|1|Power-Up_Punch}}
 {{movesLvl|1|Quick_Attack}}
@@ -71,9 +71,9 @@
 {{movesLvl|88|Plasma_Fists}}
 {{movesLvl|96|Close_Combat}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -137,7 +137,7 @@
 {{movesTm|Wild_Charge}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Blaze_Kick}}
 {{moves|Bounce}}
 {{moves|Close_Combat}}

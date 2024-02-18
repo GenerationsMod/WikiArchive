@@ -29,13 +29,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Makuhita_(Pok%C3%A9mon) Makuhita] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fighting}}
 {{Drop|Black Belt|1|100}}
 {{Drop|Kings Rock|1|100}}
 {{Drop|Payapa Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Mountain]]
+{{SpawnInfo|type1=Fighting|biome=[[Mountain]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=25}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fighting}}
 {{movesLvl|1|Focus_Energy}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|4|Sand_Attack}}
@@ -75,7 +75,7 @@
 {{movesLvl|43|Reversal}}
 {{movesLvl|46|Heavy_Slam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 {{movesB|Bullet_Punch}}
 {{movesB|Chip_Away}}
 {{movesB|Counter}}
@@ -91,7 +91,7 @@
 {{movesB|Wake-Up_Slap}}
 {{movesB|Wide_Guard}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -157,7 +157,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fighting}}
 {{moves|Arm_Thrust}}
 {{moves|Body_Slam}}
 {{moves|Brick_Break}}

@@ -158,7 +158,7 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
         txt_file.write(f"|notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/{pokemon_name}_(Pok%C3%A9mon) {pokemon_name}] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.\n}}}}\n\n")
 
         # Write Drops section
-        txt_file.write("{{PokeDrops|Unknown}}\n")
+        txt_file.write(f"{{{{PokeDrops|type1={pokemon_data.get('primaryType', '').capitalize()}}}}}\n")
         
         drops_data = pokemon_data.get("drops", {})
         amount = drops_data.get("amount", 1)
@@ -175,62 +175,65 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
 
 
         # Write Spawns section
-        txt_file.write("{{SpawnInfo")
         spawn_entries = extract_spawn_data(pokemon_name, spawn_folder)
         if spawn_entries:
             for spawn_entry in spawn_entries:
                 conditions = spawn_entry.get("condition", {})
                 anticonditions = spawn_entry.get("anticondition", {})
-
-        def biome_cleanup(biome):
-            # Strip "cobblemon:is_" or "cobblemon:" prefixes
-            cleaned_biome = biome.replace("#cobblemon:is_", "").replace("#cobblemon:", "").replace("#the_bumblezone:", "").replace("#minecraft:is_", "").replace("#minecraft:", "")
-            # Replace underscores with spaces
-            cleaned_biome = cleaned_biome.replace("_", " ")
-            # Capitalize each word
-            cleaned_biome = cleaned_biome.title()
-            return f"[[{cleaned_biome}]]"
-
-        # Write Biomes section
-        biomes = conditions.get("biomes", [])
-        biomes_list = ", ".join([biome_cleanup(biome) for biome in biomes])
-        txt_file.write(f"|biome={biomes_list}\n")
         
-        # Write AntiBiomes section
-        antibiomes = anticonditions.get("biomes", [])
-        antibiomes_list = ", ".join([biome_cleanup(biome) for biome in antibiomes])
-        txt_file.write(f"|antibiome={antibiomes_list}\n")
+                def biome_cleanup(biome):
+                    # Strip "cobblemon:is_" or "cobblemon:" prefixes
+                    cleaned_biome = biome.replace("#cobblemon:is_", "").replace("#cobblemon:", "").replace("#the_bumblezone:", "").replace("#minecraft:is_", "").replace("#minecraft:", "")
+                    # Replace underscores with spaces
+                    cleaned_biome = cleaned_biome.replace("_", " ")
+                    # Capitalize each word
+                    cleaned_biome = cleaned_biome.title()
+                    return f"[[{cleaned_biome}]]"
+        
+                # Write Biomes section
+                biomes = conditions.get("biomes", [])
+                biomes_list = ", ".join([biome_cleanup(biome) for biome in biomes])
+                txt_file.write(f"{{{{SpawnInfo|type1={pokemon_data.get('primaryType', '').capitalize()}|biome={biomes_list}|\n")
+        
+                # Write AntiBiomes section
+                antibiomes = anticonditions.get("biomes", [])
+                antibiomes_list = ", ".join([biome_cleanup(biome) for biome in antibiomes])
+                txt_file.write(f"|antibiome={antibiomes_list}\n")
+        
+                # Write Location section
+                can_see_sky = conditions.get("canSeeSky", False)
+                if can_see_sky:
+                    txt_file.write("|location=Land\n")
+                else:
+                    txt_file.write("|location=Underground\n")
+        
+                # Write AntiLocation section
+                anti_can_see_sky = anticonditions.get("canSeeSky", False)
+                if anti_can_see_sky:
+                    txt_file.write("|antilocation=Land\n")
+                else:
+                    txt_file.write("|antilocation=Underground\n")
+        
+                # Write Time section (assuming timeRange is present)
+                time_range = conditions.get("timeRange", "Any")
+                txt_file.write(f"|time={time_range}\n")
+        
+                # Write AntiTime section
+                anti_time_range = anticonditions.get("timeRange", "Any")
+                txt_file.write(f"|antitime={anti_time_range}\n")
+        
+                # Write Rarity section
+                bucket = spawn_entry.get("bucket", "Unknown")
+                txt_file.write(f"|rarity={bucket}\n")
+        
+                # Write Level Range section
+                level_range = spawn_entry.get("level", "Unknown")
+                txt_file.write(f"|levelrange={level_range}\n")
+        
+                # Finish the SpawnInfo section
+                txt_file.write("}}\n")
 
-        # Write Location section
-        can_see_sky = conditions.get("canSeeSky", False)
-        if can_see_sky:
-            txt_file.write("|location=Land\n")
-        else:
-            txt_file.write("|location=Underground\n")
 
-        # Write AntiLocation section
-        anti_can_see_sky = anticonditions.get("canSeeSky", False)
-        if anti_can_see_sky:
-            txt_file.write("|antilocation=Land\n")
-        else:
-            txt_file.write("|antilocation=Underground\n")
-
-        # Write Time section (assuming timeRange is present)
-        time_range = conditions.get("timeRange", "Any")
-        txt_file.write(f"|time={time_range}\n")
-
-        # Write AntiTime section
-        anti_time_range = anticonditions.get("timeRange", "Any")
-        txt_file.write(f"|antitime={anti_time_range}\n")
-
-        # Write Rarity section.
-        bucket = spawn_entry.get("bucket", "Unknown")
-        txt_file.write(f"|rarity={bucket}\n")
-
-        # Write Level Range section
-        level_range = spawn_entry.get("level", "Unknown")
-        txt_file.write(f"|levelrange={level_range}\n")
-        txt_file.write("}}\n")
 
 
 
@@ -248,7 +251,7 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
         # Write Moves section
         txt_file.write("{{MovesLayoutTop}}\n")
         # Level Moves
-        txt_file.write("{{MovesAlign}}{{MovesLvlTop|Grass}}\n")
+        txt_file.write(f"{{{{MovesAlign}}}}{{{{MovesLvlTop|{pokemon_data.get('primaryType', '').capitalize()}}}}}\n")
         moves = pokemon_data.get("moves", [])
         for move in moves:
             if move[0].isdigit():  # Check if the move starts with a number and assume they're level moves
@@ -264,7 +267,7 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
         txt_file.write("|}\n")
 
         # Write Breeding Moves section
-        txt_file.write("{{MovesAlign}}{{MovesBTop|Grass}}\n")
+        txt_file.write(f"{{{{MovesAlign}}}}{{{{MovesBTop|{pokemon_data.get('primaryType', '').capitalize()}}}}}\n")
         for move in moves:
             if move.startswith("egg:"):
                 move_name = move.split(":")[1]  # Strip the "egg:" prefix
@@ -279,7 +282,7 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
         txt_file.write("|}\n")
 
         # Write TM Moves section
-        txt_file.write("{{MovesAlign}}{{MovesTmTop|Grass}}\n")
+        txt_file.write(f"{{{{MovesAlign}}}}{{{{MovesTmTop|{pokemon_data.get('primaryType', '').capitalize()}}}}}\n")
         for move in moves:
             if move.startswith("tm:"):
                 move_name = move.split(":")[1]  # Strip the "tm:" prefix
@@ -294,7 +297,7 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
         txt_file.write("|}\n")
 
         # Write Tutor Moves section
-        txt_file.write("{{MovesAlign}}{{MovesTop|Grass}}\n")
+        txt_file.write(f"{{{{MovesAlign}}}}{{{{MovesTop|{pokemon_data.get('primaryType', '').capitalize()}}}}}\n")
         for move in moves:
             if move.startswith("tutor:"):
                 move_name = move.split(":")[1]  # Strip the "tutor:" prefix

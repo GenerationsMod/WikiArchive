@@ -5,7 +5,7 @@
 |ndex=557
 |type1=Bug
 |type2=Rock
-|ability1=Sturdy|ability2=Shellarmor
+|ability1=Shellarmor|ability2=Sturdy
 |abilityH=Weakarmor
 |genderm=50.0
 |abilityS=
@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Dwebble_(Pok%C3%A9mon) Dwebble] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Hard Stone|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Badlands]]
+{{SpawnInfo|type1=Bug|biome=[[Badlands]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=55}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Fury_Cutter}}
 {{movesLvl|1|Sand_Attack}}
 {{movesLvl|4|Withdraw}}
@@ -68,7 +68,7 @@
 {{movesLvl|44|Shell_Smash}}
 {{movesLvl|48|Rock_Wrecker}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 {{movesB|Block}}
 {{movesB|Counter}}
 {{movesB|Curse}}
@@ -81,7 +81,7 @@
 {{movesB|Spikes}}
 {{movesB|Wide_Guard}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Bulldoze}}
@@ -126,7 +126,7 @@
 {{movesTm|Toxic}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Block}}
 {{moves|Bug_Bite}}
 {{moves|Iron_Defense}}

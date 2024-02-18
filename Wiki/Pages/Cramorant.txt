@@ -29,14 +29,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Cramorant_(Pok%C3%A9mon) Cramorant] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Flying}}
 {{Drop|Feather|1|100}}
 {{Drop|Chicken|1|100}}
 {{Drop|Cod|1|100}}
 {{Drop|Wacan Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Coast]]
+{{SpawnInfo|type1=Flying|biome=[[Coast]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=85}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Flying}}
 {{movesLvl|1|Belch}}
 {{movesLvl|1|Peck}}
 {{movesLvl|1|Spit_Up}}
@@ -69,14 +69,14 @@
 {{movesLvl|49|Thrash}}
 {{movesLvl|56|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Flying}}
 {{movesB|Aerial_Ace}}
 {{movesB|Aqua_Ring}}
 {{movesB|Defog}}
 {{movesB|Feather_Dance}}
 {{movesB|Roost}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Flying}}
 {{movesTm|Agility}}
 {{movesTm|Air_Slash}}
 {{movesTm|Amnesia}}
@@ -113,7 +113,7 @@
 {{movesTm|Weather_Ball}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Flying}}
 {{moves|Dual_Wingbeat}}
 |}
 |}

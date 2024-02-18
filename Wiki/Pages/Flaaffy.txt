@@ -31,13 +31,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Flaaffy_(Pok%C3%A9mon) Flaaffy] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 {{Drop|Mutton|1|100}}
 {{Drop|White Wool|1|100}}
 {{Drop|Cheri Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Highlands]], [[Plains]]
+{{SpawnInfo|type1=Electric|biome=[[Highlands]], [[Plains]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -55,7 +55,7 @@
 |spe=45}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|6|Thunder_Shock}}
@@ -73,9 +73,9 @@
 {{movesLvl|52|Light_Screen}}
 {{movesLvl|56|Thunder}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -134,7 +134,7 @@
 {{movesTm|Volt_Switch}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 {{moves|After_You}}
 {{moves|Attract}}
 {{moves|Body_Slam}}

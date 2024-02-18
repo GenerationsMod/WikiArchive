@@ -5,7 +5,7 @@
 |ndex=323
 |type1=Fire
 |type2=Ground
-|ability1=Solidrock|ability2=Magmaarmor
+|ability1=Magmaarmor|ability2=Solidrock
 |abilityH=Angerpoint
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Camerupt_(Pok%C3%A9mon) Camerupt] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Magma Cream|1|100}}
 {{Drop|Rawst Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Overgrowth]], [[Nether Wasteland]]
+{{SpawnInfo|type1=Fire|biome=[[Badlands]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=33-46
+}}
+{{SpawnInfo|type1=Fire|biome=[[Volcanic]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=33-46
+}}
+{{SpawnInfo|type1=Fire|biome=[[Nether Overgrowth]], [[Nether Wasteland]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +70,7 @@
 |spe=40}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Ember}}
 {{movesLvl|1|Eruption}}
 {{movesLvl|1|Fissure}}
@@ -72,9 +90,9 @@
 {{movesLvl|39|Yawn}}
 {{movesLvl|46|Earthquake}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -140,7 +158,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|After_You}}
 {{moves|Body_Slam}}
 {{moves|Curse}}

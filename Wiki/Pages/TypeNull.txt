@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/TypeNull_(Pok%C3%A9mon) TypeNull] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 |}
 |}
-{{SpawnInfo|biome=[[Tundra]]
+{{SpawnInfo|type1=Normal|biome=[[Tundra]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=59}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Imprison}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|5|Aerial_Ace}}
@@ -70,9 +70,9 @@
 {{movesLvl|70|Razor_Wind}}
 {{movesLvl|85|Heal_Block}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
 {{movesTm|Confide}}
@@ -115,7 +115,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Air_Slash}}
 {{moves|Crush_Claw}}
 {{moves|Double_Hit}}

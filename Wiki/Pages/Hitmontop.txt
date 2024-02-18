@@ -5,7 +5,7 @@
 |ndex=237
 |type1=Fighting
 |type2=
-|ability1=Technician|ability2=Intimidate
+|ability1=Intimidate|ability2=Technician
 |abilityH=Steadfast
 |genderm=100
 |abilityS=
@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Hitmontop_(Pok%C3%A9mon) Hitmontop] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fighting}}
 {{Drop|Black Belt|1|100}}
 {{Drop|Payapa Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Hills]]
+{{SpawnInfo|type1=Fighting|biome=[[Hills]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fighting}}
 {{movesLvl|1|Fake_Out}}
 {{movesLvl|1|Feint}}
 {{movesLvl|1|Focus_Energy}}
@@ -75,9 +75,9 @@
 {{movesLvl|40|Counter}}
 {{movesLvl|44|Endeavor}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -130,7 +130,7 @@
 {{movesTm|Uproar}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fighting}}
 {{moves|Agility}}
 {{moves|Attract}}
 {{moves|Body_Slam}}

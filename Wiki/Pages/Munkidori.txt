@@ -31,10 +31,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Munkidori_(Pok%C3%A9mon) Munkidori] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Poison}}
 |}
 |}
-{{SpawnInfo|biome=[[Jungle]]
+{{SpawnInfo|type1=Poison|biome=[[Jungle]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=106}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Poison}}
 {{movesLvl|1|Confusion}}
 {{movesLvl|1|Fake_Out}}
 {{movesLvl|1|Flatter}}
@@ -67,9 +67,9 @@
 {{movesLvl|64|Future_Sight}}
 {{movesLvl|72|Parting_Shot}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Baton_Pass}}
 {{movesTm|Calm_Mind}}
@@ -117,7 +117,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Venoshock}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Poison}}
 {{moves|Future_Sight}}
 {{moves|Nasty_Plot}}
 {{moves|Psychic}}

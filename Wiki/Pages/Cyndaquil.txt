@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Cyndaquil_(Pok%C3%A9mon) Cyndaquil] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Charcoal Stick|1|100}}
 {{Drop|Cyndaquil Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Temperate]]
+{{SpawnInfo|type1=Fire|biome=[[Temperate]]|
 |antibiome=[[Spooky]]
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|6|Smokescreen}}
@@ -73,7 +73,7 @@
 {{movesLvl|58|Overheat}}
 {{movesLvl|64|Eruption}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 {{movesB|Covet}}
 {{movesB|Crush_Claw}}
 {{movesB|Curse}}
@@ -90,7 +90,7 @@
 {{movesB|Reversal}}
 {{movesB|Thrash}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -136,7 +136,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Attract}}
 {{moves|Blast_Burn}}
 {{moves|Body_Slam}}

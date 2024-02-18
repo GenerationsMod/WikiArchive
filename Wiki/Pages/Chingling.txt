@@ -29,11 +29,20 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Chingling_(Pok%C3%A9mon) Chingling] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 {{Drop|Colbur Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Magical]]
+{{SpawnInfo|type1=Psychic|biome=[[Forest]], [[Mountain]], [[Spooky]], [[Taiga]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=uncommon
+|levelrange=4-29
+}}
+{{SpawnInfo|type1=Psychic|biome=[[Magical]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +60,7 @@
 |spe=45}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Wrap}}
 {{movesLvl|4|Growl}}
 {{movesLvl|6|Growl}}
@@ -67,7 +76,7 @@
 {{movesLvl|25|Entrainment}}
 {{movesLvl|32|Uproar}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 {{movesB|Cosmic_Power}}
 {{movesB|Curse}}
 {{movesB|Disable}}
@@ -79,7 +88,7 @@
 {{movesB|Stored_Power}}
 {{movesB|Wish}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Attract}}
 {{movesTm|Calm_Mind}}
 {{movesTm|Captivate}}
@@ -124,7 +133,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Trick_Room}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Ally_Switch}}
 {{moves|Bind}}
 {{moves|Gravity}}

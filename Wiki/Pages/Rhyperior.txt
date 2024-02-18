@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Rhyperior_(Pok%C3%A9mon) Rhyperior] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ground}}
 {{Drop|Protector|1|100}}
 {{Drop|Passho Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Hills]]
+{{SpawnInfo|type1=Ground|biome=[[Hills]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=40}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ground}}
 {{movesLvl|1|Bulldoze}}
 {{movesLvl|1|Fury_Attack}}
 {{movesLvl|1|Hammer_Arm}}
@@ -107,9 +107,9 @@
 {{movesLvl|77|Megahorn}}
 {{movesLvl|86|Rock_Wrecker}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
 {{movesTm|Blizzard}}
@@ -208,7 +208,7 @@
 {{movesTm|Uproar}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ground}}
 {{moves|Ancient_Power}}
 {{moves|Aqua_Tail}}
 {{moves|Block}}

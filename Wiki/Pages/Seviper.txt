@@ -31,13 +31,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Seviper_(Pok%C3%A9mon) Seviper] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Poison}}
 {{Drop|Razor Fang|1|100}}
 {{Drop|Poison Barb|1|100}}
 {{Drop|Persim Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Grassland]]
+{{SpawnInfo|type1=Poison|biome=[[Grassland]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -55,7 +55,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Poison}}
 {{movesLvl|1|Swagger}}
 {{movesLvl|1|Wrap}}
 {{movesLvl|4|Bite}}
@@ -78,7 +78,7 @@
 {{movesLvl|46|Sludge_Bomb}}
 {{movesLvl|46|Wring_Out}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Poison}}
 {{movesB|Assurance}}
 {{movesB|Body_Slam}}
 {{movesB|Final_Gambit}}
@@ -92,7 +92,7 @@
 {{movesB|Switcheroo}}
 {{movesB|Wring_Out}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -160,7 +160,7 @@
 {{movesTm|X-Scissor}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Poison}}
 {{moves|Aqua_Tail}}
 {{moves|Bind}}
 {{moves|Bite}}

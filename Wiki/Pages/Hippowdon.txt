@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Hippowdon_(Pok%C3%A9mon) Hippowdon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ground}}
 {{Drop|Soft Sand|1|100}}
 {{Drop|Chesto Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Desert]]
+{{SpawnInfo|type1=Ground|biome=[[Desert]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=47}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ground}}
 {{movesLvl|1|Bite}}
 {{movesLvl|1|Fire_Fang}}
 {{movesLvl|1|Ice_Fang}}
@@ -80,9 +80,9 @@
 {{movesLvl|60|Fissure}}
 {{movesLvl|62|Slack_Off}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -142,7 +142,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Weather_Ball}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ground}}
 {{moves|Earth_Power}}
 {{moves|Headbutt}}
 {{moves|Iron_Head}}

@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Castform_(Pok%C3%A9mon) Castform] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Mystic Water|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|10|Ember}}
 {{movesLvl|10|Powder_Snow}}
@@ -66,7 +66,7 @@
 {{movesLvl|35|Hydro_Pump}}
 {{movesLvl|45|Hurricane}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Amnesia}}
 {{movesB|Clear_Smog}}
 {{movesB|Cosmic_Power}}
@@ -79,7 +79,7 @@
 {{movesB|Psych_Up}}
 {{movesB|Reflect_Type}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
 {{movesTm|Blizzard}}
@@ -123,7 +123,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Body_Slam}}
 {{moves|Defense_Curl}}
 {{moves|Defog}}

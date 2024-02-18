@@ -29,12 +29,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Lechonk_(Pok%C3%A9mon) Lechonk] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Porkchop|1|100}}
 {{Drop|Oran Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Crimson]], [[Nether Fungus]], [[Nether Overgrowth]]
+{{SpawnInfo|type1=Normal|biome=[[Mushroom]], [[Temperate]]|
+|antibiome=[[Minecraft:Mushroom Fields]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=1-25
+}}
+{{SpawnInfo|type1=Normal|biome=[[Swamp]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=1-25
+}}
+{{SpawnInfo|type1=Normal|biome=[[Nether Crimson]], [[Nether Fungus]], [[Nether Overgrowth]]|
 |antibiome=[[Nether Warped]]
 |location=Underground
 |antilocation=Underground
@@ -52,7 +70,7 @@
 |spe=35}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|1|Tail_Whip}}
 {{movesLvl|5|Disarming_Voice}}
@@ -67,14 +85,14 @@
 {{movesLvl|32|Uproar}}
 {{movesLvl|35|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Endeavor}}
 {{movesB|Spit_Up}}
 {{movesB|Stockpile}}
 {{movesB|Stuff_Cheeks}}
 {{movesB|Swallow}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Body_Slam}}
 {{movesTm|Bulldoze}}
 {{movesTm|Bullet_Seed}}
@@ -102,7 +120,7 @@
 {{movesTm|Trailblaze}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=914|prev=Quaquaval|dexnext=916|next=Oinkologne}}

@@ -5,7 +5,7 @@
 |ndex=548
 |type1=Grass
 |type2=
-|ability1=Owntempo|ability2=Chlorophyll
+|ability1=Chlorophyll|ability2=Owntempo
 |abilityH=Leafguard
 |genderm=0
 |abilityS=
@@ -29,13 +29,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Petilil_(Pok%C3%A9mon) Petilil] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Grass}}
 {{Drop|Big Root|1|100}}
 {{Drop|Revival Herb|1|100}}
 {{Drop|Persim Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]]
+{{SpawnInfo|type1=Grass|biome=[[Forest]]|
 |antibiome=
 |location=Land
 |antilocation=Underground

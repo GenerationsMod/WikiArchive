@@ -29,13 +29,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Litleo_(Pok%C3%A9mon) Litleo] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Rotten Flesh|1|100}}
 {{Drop|Blaze Powder|1|100}}
 {{Drop|Rawst Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Savanna]]
+{{SpawnInfo|type1=Fire|biome=[[Savanna]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=72}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|5|Ember}}
@@ -70,14 +70,14 @@
 {{movesLvl|46|Incinerate}}
 {{movesLvl|50|Overheat}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 {{movesB|Entrainment}}
 {{movesB|Fire_Spin}}
 {{movesB|Flare_Blitz}}
 {{movesB|Snatch}}
 {{movesB|Yawn}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -134,7 +134,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Endeavor}}
 {{moves|Heat_Wave}}
 {{moves|Helping_Hand}}

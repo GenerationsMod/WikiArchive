@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Dhelmise_(Pok%C3%A9mon) Dhelmise] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ghost}}
 {{Drop|Kelp|1|100}}
 {{Drop|Raw Iron|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Ocean]]
+{{SpawnInfo|type1=Ghost|biome=[[Ocean]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=40}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ghost}}
 {{movesLvl|1|Absorb}}
 {{movesLvl|1|Rapid_Spin}}
 {{movesLvl|4|Astonish}}
@@ -72,9 +72,9 @@
 {{movesLvl|60|Phantom_Force}}
 {{movesLvl|64|Power_Whip}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Assurance}}
@@ -132,7 +132,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ghost}}
 {{moves|Ally_Switch}}
 {{moves|Block}}
 {{moves|Giga_Drain}}

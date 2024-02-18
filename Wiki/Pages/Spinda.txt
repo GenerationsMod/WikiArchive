@@ -5,7 +5,7 @@
 |ndex=327
 |type1=Normal
 |type2=
-|ability1=Owntempo|ability2=Tangledfeet
+|ability1=Tangledfeet|ability2=Owntempo
 |abilityH=Contrary
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,48 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Spinda_(Pok%C3%A9mon) Spinda] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Bamboo|1|100}}
 {{Drop|Chesto Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Bamboo]], [[Hills]]
+{{SpawnInfo|type1=Normal|biome=[[Bamboo]], [[Hills]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=11-36
+}}
+{{SpawnInfo|type1=Normal|biome=[[Bamboo]], [[Hills]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=11-36
+}}
+{{SpawnInfo|type1=Normal|biome=[[Bamboo]], [[Hills]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=11-36
+}}
+{{SpawnInfo|type1=Normal|biome=[[Bamboo]], [[Hills]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=11-36
+}}
+{{SpawnInfo|type1=Normal|biome=[[Bamboo]], [[Hills]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +88,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|5|Copycat}}
 {{movesLvl|10|Feint_Attack}}
@@ -67,7 +103,7 @@
 {{movesLvl|50|Flail}}
 {{movesLvl|55|Thrash}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Assist}}
 {{movesB|Baton_Pass}}
 {{movesB|Disable}}
@@ -87,7 +123,7 @@
 {{movesB|Water_Pulse}}
 {{movesB|Wish}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
 {{movesTm|Brick_Break}}
 {{movesTm|Calm_Mind}}
@@ -136,7 +172,7 @@
 {{movesTm|Wild_Charge}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Body_Slam}}
 {{moves|Copycat}}
 {{moves|Counter}}

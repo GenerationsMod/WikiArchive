@@ -5,7 +5,7 @@
 |ndex=863
 |type1=Steel
 |type2=
-|ability1=Toughclaws|ability2=Battlearmor
+|ability1=Battlearmor|ability2=Toughclaws
 |abilityH=Steelyspirit
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Perrserker_(Pok%C3%A9mon) Perrserker] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Steel}}
 {{Drop|Razor Claw|1|100}}
 {{Drop|Wepear Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Freezing]], [[Taiga]]
+{{SpawnInfo|type1=Steel|biome=[[Freezing]], [[Taiga]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=28-44
+}}
+{{SpawnInfo|type1=Steel|biome=[[Freezing]], [[Taiga]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +61,7 @@
 |spe=50}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Steel}}
 {{movesLvl|1|Fake_Out}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Hone_Claws}}
@@ -69,9 +78,9 @@
 {{movesLvl|48|Metal_Sound}}
 {{movesLvl|54|Thrash}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Amnesia}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -135,7 +144,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Steel}}
 {{moves|Lash_Out}}
 {{moves|Steel_Beam}}
 |}

@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Purrloin_(Pok%C3%A9mon) Purrloin] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dark}}
 {{Drop|Rotten Flesh|1|100}}
 {{Drop|Bluk Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Savanna]]
+{{SpawnInfo|type1=Dark|biome=[[Savanna]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=66}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dark}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Scratch}}
 {{movesLvl|4|Sand_Attack}}
@@ -71,7 +71,7 @@
 {{movesLvl|39|Snatch}}
 {{movesLvl|40|Play_Rough}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dark}}
 {{movesB|Charm}}
 {{movesB|Copycat}}
 {{movesB|Covet}}
@@ -85,7 +85,7 @@
 {{movesB|Slash}}
 {{movesB|Yawn}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -140,7 +140,7 @@
 {{movesTm|Trick}}
 {{movesTm|U-turn}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dark}}
 {{moves|Covet}}
 {{moves|Dark_Pulse}}
 {{moves|Foul_Play}}

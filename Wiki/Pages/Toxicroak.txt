@@ -5,7 +5,7 @@
 |ndex=454
 |type1=Poison
 |type2=Fighting
-|ability1=Anticipation|ability2=Dryskin
+|ability1=Dryskin|ability2=Anticipation
 |abilityH=Poisontouch
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Toxicroak_(Pok%C3%A9mon) Toxicroak] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Poison}}
 {{Drop|Black Sludge|1|100}}
 {{Drop|Payapa Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Swamp]]
+{{SpawnInfo|type1=Poison|biome=[[Swamp]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=85}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Poison}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Mud-Slap}}
 {{movesLvl|1|Poison_Sting}}
@@ -86,9 +86,9 @@
 {{movesLvl|58|Belch}}
 {{movesLvl|62|Flatter}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Assurance}}
@@ -177,7 +177,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Poison}}
 {{moves|Bounce}}
 {{moves|Coaching}}
 {{moves|Corrosive_Gas}}

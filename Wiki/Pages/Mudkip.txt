@@ -31,13 +31,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Mudkip_(Pok%C3%A9mon) Mudkip] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Clay Ball|1|100}}
 {{Drop|Mystic Water|1|100}}
 {{Drop|Mudkip Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Swamp]]
+{{SpawnInfo|type1=Water|biome=[[Swamp]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=5-31
+}}
+{{SpawnInfo|type1=Water|biome=[[Swamp]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -55,7 +64,7 @@
 |spe=40}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|3|Water_Gun}}
@@ -77,7 +86,7 @@
 {{movesLvl|36|Endeavor}}
 {{movesLvl|39|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Ancient_Power}}
 {{movesB|Avalanche}}
 {{movesB|Barrier}}
@@ -97,7 +106,7 @@
 {{movesB|Wide_Guard}}
 {{movesB|Yawn}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
@@ -147,7 +156,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Ancient_Power}}
 {{moves|Aqua_Tail}}
 {{moves|Body_Slam}}

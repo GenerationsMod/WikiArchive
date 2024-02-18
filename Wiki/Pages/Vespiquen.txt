@@ -31,14 +31,23 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Vespiquen_(Pok%C3%A9mon) Vespiquen] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Honey Bottle|1|100}}
 {{Drop|Honeycomb|1|100}}
 {{Drop|Poison Barb|1|100}}
 {{Drop|Charti Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[The Bumblezone]]
+{{SpawnInfo|type1=Bug|biome=[[Temperate]]|
+|antibiome=[[Freezing]], [[Spooky]]
+|location=Land
+|antilocation=Underground
+|time=day
+|antitime=Any
+|rarity=common
+|levelrange=21-47
+}}
+{{SpawnInfo|type1=Bug|biome=[[The Bumblezone]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -56,7 +65,7 @@
 |spe=40}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Bug_Bite}}
 {{movesLvl|1|Confuse_Ray}}
 {{movesLvl|1|Destiny_Bond}}
@@ -106,9 +115,9 @@
 {{movesLvl|45|Attack_Order}}
 {{movesLvl|49|Swagger}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -175,7 +184,7 @@
 {{movesTm|Venoshock}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Air_Cutter}}
 {{moves|Bug_Bite}}
 {{moves|Defog}}

@@ -5,7 +5,7 @@
 |ndex=950
 |type1=Rock
 |type2=
-|ability1=Angershell|ability2=Shellarmor
+|ability1=Shellarmor|ability2=Angershell
 |abilityH=Regenerator
 |genderm=50.0
 |abilityS=
@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Klawf_(Pok%C3%A9mon) Klawf] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Rock}}
 {{Drop|Pinap Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Badlands]]
+{{SpawnInfo|type1=Rock|biome=[[Badlands]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=75}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Rock}}
 {{movesLvl|1|Rock_Throw}}
 {{movesLvl|1|Vise_Grip}}
 {{movesLvl|6|Harden}}
@@ -68,13 +68,13 @@
 {{movesLvl|51|Iron_Defense}}
 {{movesLvl|56|Guillotine}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Rock}}
 {{movesB|Ancient_Power}}
 {{movesB|Crabhammer}}
 {{movesB|Endeavor}}
 {{movesB|Knock_Off}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Body_Slam}}
 {{movesTm|Brick_Break}}
 {{movesTm|Bulldoze}}
@@ -114,7 +114,7 @@
 {{movesTm|Trailblaze}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Rock}}
 {{moves|Block}}
 {{moves|Rock_Smash}}
 {{moves|Rock_Tomb}}

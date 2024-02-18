@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Hydreigon_(Pok%C3%A9mon) Hydreigon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dark}}
 {{Drop|Dragon Breath|1|100}}
 {{Drop|Roseli Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Dark|biome=[[Overworld]]|
 |antibiome=[[Abyss]], [[Mountain]]
 |location=Underground
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=98}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dark}}
 {{movesLvl|1|Bite}}
 {{movesLvl|1|Double_Hit}}
 {{movesLvl|1|Dragon_Breath}}
@@ -75,9 +75,9 @@
 {{movesLvl|68|Outrage}}
 {{movesLvl|76|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Acrobatics}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -166,7 +166,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dark}}
 {{moves|Aqua_Tail}}
 {{moves|Crunch}}
 {{moves|Dark_Pulse}}

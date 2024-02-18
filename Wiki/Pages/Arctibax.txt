@@ -31,11 +31,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Arctibax_(Pok%C3%A9mon) Arctibax] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dragon}}
 {{Drop|Haban Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Frigid]]
+{{SpawnInfo|type1=Dragon|biome=[[Frigid]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=62}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dragon}}
 {{movesLvl|1|Dragon_Tail}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Tackle}}
@@ -67,9 +67,9 @@
 {{movesLvl|50|Crunch}}
 {{movesLvl|55|Icicle_Crash}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Avalanche}}
 {{movesTm|Blizzard}}
@@ -100,7 +100,7 @@
 {{movesTm|Take_Down}}
 {{movesTm|Tera_Blast}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=996|prev=Frigibax|dexnext=998|next=Baxcalibur}}

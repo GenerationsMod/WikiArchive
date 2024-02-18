@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Kingdra_(Pok%C3%A9mon) Kingdra] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Prismarine Shard|1|100}}
 {{Drop|Dragon Scale|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Lukewarm Ocean]], [[Warm Ocean]]
+{{SpawnInfo|type1=Water|biome=[[Lukewarm Ocean]], [[Warm Ocean]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=85}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Bubble}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Smokescreen}}
@@ -71,9 +71,9 @@
 {{movesLvl|58|Dragon_Dance}}
 {{movesLvl|65|Rain_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -124,7 +124,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Agility}}
 {{moves|Attract}}
 {{moves|Blizzard}}

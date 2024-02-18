@@ -29,11 +29,20 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Jynx_(Pok%C3%A9mon) Jynx] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ice}}
 {{Drop|Aspear Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Freezing]]
+{{SpawnInfo|type1=Ice|biome=[[Freezing]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=30-46
+}}
+{{SpawnInfo|type1=Ice|biome=[[Freezing]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +60,7 @@
 |spe=95}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ice}}
 {{movesLvl|1|Copycat}}
 {{movesLvl|1|Draining_Kiss}}
 {{movesLvl|1|Lick}}
@@ -75,9 +84,9 @@
 {{movesLvl|52|Perish_Song}}
 {{movesLvl|58|Blizzard}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
 {{movesTm|Aurora_Veil}}
@@ -158,7 +167,7 @@
 {{movesTm|Wonder_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ice}}
 {{moves|Ally_Switch}}
 {{moves|Attract}}
 {{moves|Bide}}

@@ -31,12 +31,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Yamper_(Pok%C3%A9mon) Yamper] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 {{Drop|Bone|1|100}}
 {{Drop|Wepear Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Electric|biome=[[Overworld]]|
+|antibiome=[[Freezing]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=2-27
+}}
+{{SpawnInfo|type1=Electric|biome=[[Overworld]]|
 |antibiome=[[Freezing]]
 |location=Land
 |antilocation=Underground
@@ -54,7 +63,7 @@
 |spe=26}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|1|Tail_Whip}}
 {{movesLvl|5|Nuzzle}}
@@ -67,14 +76,14 @@
 {{movesLvl|40|Wild_Charge}}
 {{movesLvl|45|Play_Rough}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 {{movesB|Discharge}}
 {{movesB|Double-Edge}}
 {{movesB|Flame_Charge}}
 {{movesB|Howl}}
 {{movesB|Sand_Attack}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Attract}}
 {{movesTm|Charm}}
 {{movesTm|Crunch}}
@@ -101,7 +110,7 @@
 {{movesTm|Volt_Switch}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Rising_Voltage}}
 |}
 |}

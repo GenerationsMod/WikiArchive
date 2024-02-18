@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Magearna_(Pok%C3%A9mon) Magearna] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Steel}}
 |}
 |}
-{{SpawnInfo|biome=[[Magical]]
+{{SpawnInfo|type1=Steel|biome=[[Magical]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Steel}}
 {{movesLvl|1|Gyro_Ball}}
 {{movesLvl|1|Helping_Hand}}
 {{movesLvl|1|Sonic_Boom}}
@@ -78,9 +78,9 @@
 {{movesLvl|90|Fleur_Cannon}}
 {{movesLvl|97|Trump_Card}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Agility}}
 {{movesTm|Aura_Sphere}}
 {{movesTm|Baton_Pass}}
@@ -158,7 +158,7 @@
 {{movesTm|Volt_Switch}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Steel}}
 {{moves|After_You}}
 {{moves|Flash_Cannon}}
 {{moves|Fleur_Cannon}}

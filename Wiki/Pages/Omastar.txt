@@ -5,7 +5,7 @@
 |ndex=139
 |type1=Rock
 |type2=Water
-|ability1=Swiftswim|ability2=Shellarmor
+|ability1=Shellarmor|ability2=Swiftswim
 |abilityH=Weakarmor
 |genderm=87.5
 |abilityS=
@@ -29,12 +29,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Omastar_(Pok%C3%A9mon) Omastar] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Rock}}
 {{Drop|Nautilus Shell|1|100}}
 {{Drop|Bone Meal|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Lush]]
+{{SpawnInfo|type1=Rock|biome=[[Lush]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=40-50
+}}
+{{SpawnInfo|type1=Rock|biome=[[Lush]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +61,7 @@
 |spe=55}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Rock}}
 {{movesLvl|1|Bind}}
 {{movesLvl|1|Bite}}
 {{movesLvl|1|Constrict}}
@@ -72,9 +81,9 @@
 {{movesLvl|63|Shell_Smash}}
 {{movesLvl|70|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Body_Slam}}
@@ -132,7 +141,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Rock}}
 {{moves|Ancient_Power}}
 {{moves|Attract}}
 {{moves|Bide}}

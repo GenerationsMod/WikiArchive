@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Orthworm_(Pok%C3%A9mon) Orthworm] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Steel}}
 {{Drop|Iron Nugget|1|100}}
 {{Drop|Shuca Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Desert]]
+{{SpawnInfo|type1=Steel|biome=[[Desert]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Steel}}
 {{movesLvl|1|Harden}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|1|Wrap}}
@@ -70,12 +70,12 @@
 {{movesLvl|47|Earthquake}}
 {{movesLvl|52|Shed_Tail}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Steel}}
 {{movesB|Coil}}
 {{movesB|Curse}}
 {{movesB|Metal_Burst}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
 {{movesTm|Bulldoze}}
@@ -108,7 +108,7 @@
 {{movesTm|Take_Down}}
 {{movesTm|Tera_Blast}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Steel}}
 {{moves|Headbutt}}
 {{moves|Iron_Tail}}
 {{moves|Sandstorm}}

@@ -5,7 +5,7 @@
 |ndex=286
 |type1=Grass
 |type2=Fighting
-|ability1=Poisonheal|ability2=Effectspore
+|ability1=Effectspore|ability2=Poisonheal
 |abilityH=Technician
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Breloom_(Pok%C3%A9mon) Breloom] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Grass}}
 {{Drop|Brown Mushroom|1|100}}
 {{Drop|Kebia Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Mushroom]]
+{{SpawnInfo|type1=Grass|biome=[[Forest]]|
+|antibiome=[[Freezing]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=23-46
+}}
+{{SpawnInfo|type1=Grass|biome=[[Mushroom]]|
 |antibiome=
 |location=Land
 |antilocation=Underground

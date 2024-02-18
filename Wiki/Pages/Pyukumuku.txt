@@ -31,11 +31,29 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Pyukumuku_(Pok%C3%A9mon) Pyukumuku] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Slime Ball|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Warm Ocean]]
+{{SpawnInfo|type1=Water|biome=[[Beach]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=16-41
+}}
+{{SpawnInfo|type1=Water|biome=[[Ocean]]|
+|antibiome=[[Warm Ocean]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=16-41
+}}
+{{SpawnInfo|type1=Water|biome=[[Warm Ocean]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +71,7 @@
 |spe=5}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Baton_Pass}}
 {{movesLvl|1|Bide}}
 {{movesLvl|1|Harden}}
@@ -72,7 +90,7 @@
 {{movesLvl|55|Toxic}}
 {{movesLvl|60|Memento}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Bestow}}
 {{movesB|Endure}}
 {{movesB|Mirror_Coat}}
@@ -81,7 +99,7 @@
 {{movesB|Tickle}}
 {{movesB|Venom_Drench}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
 {{movesTm|Confide}}
@@ -105,7 +123,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Venom_Drench}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Block}}
 {{moves|Gastro_Acid}}
 {{moves|Helping_Hand}}

@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Oshawott_(Pok%C3%A9mon) Oshawott] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Mystic Water|1|100}}
 {{Drop|Nautilus Shell|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Coast]]
+{{SpawnInfo|type1=Water|biome=[[Coast]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=45}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|5|Tail_Whip}}
 {{movesLvl|7|Water_Gun}}
@@ -73,7 +73,7 @@
 {{movesLvl|41|Swords_Dance}}
 {{movesLvl|43|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Air_Slash}}
 {{movesB|Aqua_Cutter}}
 {{movesB|Assurance}}
@@ -86,7 +86,7 @@
 {{movesB|Screech}}
 {{movesB|Trump_Card}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
 {{movesTm|Attract}}
@@ -139,7 +139,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Aqua_Tail}}
 {{moves|Covet}}
 {{moves|Helping_Hand}}

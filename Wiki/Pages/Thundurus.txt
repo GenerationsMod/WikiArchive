@@ -31,10 +31,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Thundurus_(Pok%C3%A9mon) Thundurus] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 |}
 |}
-{{SpawnInfo|biome=[[Highlands]]
+{{SpawnInfo|type1=Electric|biome=[[Highlands]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=111}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Nasty_Plot}}
 {{movesLvl|1|Thunder_Shock}}
@@ -75,9 +75,9 @@
 {{movesLvl|70|Thrash}}
 {{movesLvl|75|Wildbolt_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
@@ -152,7 +152,7 @@
 {{movesTm|Wild_Charge}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Agility}}
 {{moves|Astonish}}
 {{moves|Charge}}

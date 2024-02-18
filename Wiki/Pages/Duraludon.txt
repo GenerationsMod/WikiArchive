@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Duraludon_(Pok%C3%A9mon) Duraludon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Steel}}
 {{Drop|Iron Ingot|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Mountain]]
+{{SpawnInfo|type1=Steel|biome=[[Mountain]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=85}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Steel}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Metal_Claw}}
 {{movesLvl|6|Rock_Smash}}
@@ -66,12 +66,12 @@
 {{movesLvl|60|Metal_Burst}}
 {{movesLvl|66|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Steel}}
 {{movesB|Mirror_Coat}}
 {{movesB|Night_Slash}}
 {{movesB|Slash}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -113,7 +113,7 @@
 {{movesTm|Thunderbolt}}
 {{movesTm|Thunder_Wave}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Steel}}
 {{moves|Draco_Meteor}}
 {{moves|Steel_Beam}}
 {{moves|Steel_Roller}}

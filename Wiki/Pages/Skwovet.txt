@@ -31,11 +31,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Skwovet_(Pok%C3%A9mon) Skwovet] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Oran Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Taiga]]
+{{SpawnInfo|type1=Normal|biome=[[Taiga]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=25}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|1|Tail_Whip}}
 {{movesLvl|5|Bite}}
@@ -68,13 +68,13 @@
 {{movesLvl|40|Super_Fang}}
 {{movesLvl|45|Belch}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Belly_Drum}}
 {{movesB|Defense_Curl}}
 {{movesB|Last_Resort}}
 {{movesB|Rollout}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Amnesia}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -106,7 +106,7 @@
 {{movesTm|Trailblaze}}
 {{movesTm|Uproar}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=818|prev=Inteleon|dexnext=820|next=Greedent}}

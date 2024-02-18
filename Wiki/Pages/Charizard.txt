@@ -31,13 +31,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon) Charizard] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Blaze Powder|1|100}}
 {{Drop|Charcoal Stick|1|100}}
 {{Drop|Charizard Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Basalt]]
+{{SpawnInfo|type1=Fire|biome=[[Hills]], [[Volcanic]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=36-53
+}}
+{{SpawnInfo|type1=Fire|biome=[[Nether Basalt]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -55,7 +64,7 @@
 |spe=100}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Air_Slash}}
 {{movesLvl|1|Dragon_Claw}}
 {{movesLvl|1|Ember}}
@@ -78,9 +87,9 @@
 {{movesLvl|54|Inferno}}
 {{movesLvl|62|Flare_Blitz}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Cutter}}
@@ -172,7 +181,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Air_Cutter}}
 {{moves|Air_Slash}}
 {{moves|Attract}}

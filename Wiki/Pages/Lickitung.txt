@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Lickitung_(Pok%C3%A9mon) Lickitung] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Slime Ball|1|100}}
 {{Drop|Oran Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Grassland]]
+{{SpawnInfo|type1=Normal|biome=[[Grassland]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=30}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Defense_Curl}}
 {{movesLvl|1|Lick}}
 {{movesLvl|6|Rollout}}
@@ -70,7 +70,7 @@
 {{movesLvl|57|Wring_Out}}
 {{movesLvl|60|Belly_Drum}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Amnesia}}
 {{movesB|Belch}}
 {{movesB|Belly_Drum}}
@@ -86,7 +86,7 @@
 {{movesB|Thrash}}
 {{movesB|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -163,7 +163,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Acid}}
 {{moves|Aqua_Tail}}
 {{moves|Attract}}

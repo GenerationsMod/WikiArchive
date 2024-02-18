@@ -5,7 +5,7 @@
 |ndex=023
 |type1=Poison
 |type2=
-|ability1=Shedskin|ability2=Intimidate
+|ability1=Intimidate|ability2=Shedskin
 |abilityH=Unnerve
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,66 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Ekans_(Pok%C3%A9mon) Ekans] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Poison}}
 {{Drop|Razor Fang|1|100}}
 {{Drop|Ekans Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Desert]]
+{{SpawnInfo|type1=Poison|biome=[[Arid]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=4-29
+}}
+{{SpawnInfo|type1=Poison|biome=[[Arid]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=4-29
+}}
+{{SpawnInfo|type1=Poison|biome=[[Arid]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=4-29
+}}
+{{SpawnInfo|type1=Poison|biome=[[Arid]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=4-29
+}}
+{{SpawnInfo|type1=Poison|biome=[[Arid]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=4-29
+}}
+{{SpawnInfo|type1=Poison|biome=[[Arid]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=4-29
+}}
+{{SpawnInfo|type1=Poison|biome=[[Nether Desert]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +106,7 @@
 |spe=55}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Poison}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Wrap}}
 {{movesLvl|4|Poison_Sting}}
@@ -71,7 +125,7 @@
 {{movesLvl|44|Coil}}
 {{movesLvl|49|Gunk_Shot}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Poison}}
 {{movesB|Beat_Up}}
 {{movesB|Disable}}
 {{movesB|Iron_Tail}}
@@ -85,7 +139,7 @@
 {{movesB|Sucker_Punch}}
 {{movesB|Switcheroo}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Attract}}
 {{movesTm|Brutal_Swing}}
 {{movesTm|Bulldoze}}
@@ -126,7 +180,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Venoshock}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Poison}}
 {{moves|Acid}}
 {{moves|Aqua_Tail}}
 {{moves|Attract}}

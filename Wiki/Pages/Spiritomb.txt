@@ -31,11 +31,38 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Spiritomb_(Pok%C3%A9mon) Spiritomb] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ghost}}
 {{Drop|Spell Tag|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[The Bumblezone:Howling Constructs]]
+{{SpawnInfo|type1=Ghost|biome=[[Deep Dark]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=24-49
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Overworld]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=24-49
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Overworld]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=24-49
+}}
+{{SpawnInfo|type1=Ghost|biome=[[The Bumblezone:Howling Constructs]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +80,7 @@
 |spe=35}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ghost}}
 {{movesLvl|1|Confuse_Ray}}
 {{movesLvl|1|Curse}}
 {{movesLvl|1|Night_Shade}}
@@ -81,7 +108,7 @@
 {{movesLvl|55|Hypnosis}}
 {{movesLvl|60|Dream_Eater}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 {{movesB|Ally_Switch}}
 {{movesB|Captivate}}
 {{movesB|Destiny_Bond}}
@@ -94,7 +121,7 @@
 {{movesB|Shadow_Sneak}}
 {{movesB|Smokescreen}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -163,7 +190,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Wonder_Room}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ghost}}
 {{moves|Ally_Switch}}
 {{moves|Burning_Jealousy}}
 {{moves|Dark_Pulse}}

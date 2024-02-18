@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Bellibolt_(Pok%C3%A9mon) Bellibolt] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 {{Drop|Ochre Froglight|1|100}}
 {{Drop|Wepear Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Swamp]]
+{{SpawnInfo|type1=Electric|biome=[[Swamp]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=45}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Mud-Slap}}
 {{movesLvl|1|Slack_Off}}
 {{movesLvl|1|Tackle}}
@@ -68,9 +68,9 @@
 {{movesLvl|45|Sucker_Punch}}
 {{movesLvl|50|Zap_Cannon}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Charge_Beam}}
 {{movesTm|Chilling_Water}}
@@ -100,7 +100,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=938|prev=Armarouge|dexnext=940|next=Tadbulb}}

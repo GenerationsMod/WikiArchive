@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Deoxys_(Pok%C3%A9mon) Deoxys] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 {{Drop|Eye Of Ender|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Hills]]
+{{SpawnInfo|type1=Psychic|biome=[[Hills]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=150}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Wrap}}
 {{movesLvl|7|Night_Shade}}
@@ -79,9 +79,9 @@
 {{movesLvl|73|Hyper_Beam}}
 {{movesLvl|73|Mirror_Coat}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Avalanche}}
@@ -150,7 +150,7 @@
 {{movesTm|Trick_Room}}
 {{movesTm|Water_Pulse}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Ally_Switch}}
 {{moves|Bind}}
 {{moves|Body_Slam}}

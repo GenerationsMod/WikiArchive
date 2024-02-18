@@ -29,12 +29,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Cryogonal_(Pok%C3%A9mon) Cryogonal] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ice}}
 {{Drop|Never Melt Ice|1|100}}
 {{Drop|Aspear Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Frozen]]
+{{SpawnInfo|type1=Ice|biome=[[Freezing]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=27-52
+}}
+{{SpawnInfo|type1=Ice|biome=[[Nether Frozen]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +61,7 @@
 |spe=105}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ice}}
 {{movesLvl|1|Bind}}
 {{movesLvl|1|Ice_Shard}}
 {{movesLvl|1|Sharpen}}
@@ -75,12 +84,12 @@
 {{movesLvl|56|Solar_Beam}}
 {{movesLvl|60|Sheer_Cold}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ice}}
 {{movesB|Aurora_Veil}}
 {{movesB|Explosion}}
 {{movesB|Frost_Breath}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
 {{movesTm|Aurora_Veil}}
@@ -128,7 +137,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Water_Pulse}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ice}}
 {{moves|Bind}}
 {{moves|Defog}}
 {{moves|Icy_Wind}}

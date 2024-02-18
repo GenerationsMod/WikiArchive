@@ -5,7 +5,7 @@
 |ndex=363
 |type1=Ice
 |type2=Water
-|ability1=Thickfat|ability2=Icebody
+|ability1=Icebody|ability2=Thickfat
 |abilityH=Oblivious
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Spheal_(Pok%C3%A9mon) Spheal] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ice}}
 {{Drop|Cod|1|100}}
 {{Drop|Chesto Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Cold]]
+{{SpawnInfo|type1=Ice|biome=[[Cold]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=25}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ice}}
 {{movesLvl|1|Defense_Curl}}
 {{movesLvl|1|Rollout}}
 {{movesLvl|4|Growl}}
@@ -70,7 +70,7 @@
 {{movesLvl|48|Hail}}
 {{movesLvl|52|Sheer_Cold}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ice}}
 {{movesB|Aqua_Ring}}
 {{movesB|Belly_Drum}}
 {{movesB|Curse}}
@@ -86,7 +86,7 @@
 {{movesB|Water_Sport}}
 {{movesB|Yawn}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Body_Slam}}
@@ -129,7 +129,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ice}}
 {{moves|Aqua_Tail}}
 {{moves|Aurora_Beam}}
 {{moves|Body_Slam}}

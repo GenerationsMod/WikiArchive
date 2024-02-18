@@ -29,11 +29,38 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Weezing_(Pok%C3%A9mon) Weezing] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Poison}}
 {{Drop|Black Sludge|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Swamp]]
+{{SpawnInfo|type1=Poison|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=35-49
+}}
+{{SpawnInfo|type1=Poison|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=35-49
+}}
+{{SpawnInfo|type1=Poison|biome=[[Nether Toxic]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=35-49
+}}
+{{SpawnInfo|type1=Poison|biome=[[Swamp]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +78,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Poison}}
 {{movesLvl|1|Double_Hit}}
 {{movesLvl|1|Heat_Wave}}
 {{movesLvl|1|Poison_Gas}}
@@ -71,9 +98,9 @@
 {{movesLvl|56|Memento}}
 {{movesLvl|62|Destiny_Bond}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
 {{movesTm|Captivate}}
@@ -125,7 +152,7 @@
 {{movesTm|Venoshock}}
 {{movesTm|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Poison}}
 {{moves|Attract}}
 {{moves|Bide}}
 {{moves|Clear_Smog}}

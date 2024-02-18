@@ -5,7 +5,7 @@
 |ndex=626
 |type1=Normal
 |type2=
-|ability1=Reckless|ability2=Sapsipper
+|ability1=Sapsipper|ability2=Reckless
 |abilityH=Soundproof
 |genderm=50.0
 |abilityS=
@@ -29,14 +29,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Bouffalant_(Pok%C3%A9mon) Bouffalant] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Leather|1|100}}
 {{Drop|Beef|1|100}}
 {{Drop|Brown Wool|1|100}}
 {{Drop|Wepear Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Plains]]
+{{SpawnInfo|type1=Normal|biome=[[Plains]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=55}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Pursuit}}
 {{movesLvl|1|Tackle}}
@@ -72,7 +72,7 @@
 {{movesLvl|50|Thrash}}
 {{movesLvl|55|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Amnesia}}
 {{movesB|Belch}}
 {{movesB|Cotton_Guard}}
@@ -85,7 +85,7 @@
 {{movesB|Skull_Bash}}
 {{movesB|Stomp}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Amnesia}}
 {{movesTm|Assurance}}
@@ -143,7 +143,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Earthquake}}
 {{moves|Endeavor}}
 {{moves|Facade}}

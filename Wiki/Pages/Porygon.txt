@@ -5,7 +5,7 @@
 |ndex=137
 |type1=Normal
 |type2=
-|ability1=Trace|ability2=Download
+|ability1=Download|ability2=Trace
 |abilityH=Analytic
 |genderm=Genderless
 |abilityS=
@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Porygon_(Pok%C3%A9mon) Porygon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=40}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Conversion}}
 {{movesLvl|1|Sharpen}}
 {{movesLvl|1|Tackle}}
@@ -68,9 +68,9 @@
 {{movesLvl|55|Lock-On}}
 {{movesLvl|60|Zap_Cannon}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
@@ -126,7 +126,7 @@
 {{movesTm|Wonder_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Agility}}
 {{moves|Ally_Switch}}
 {{moves|Barrier}}

@@ -5,7 +5,7 @@
 |ndex=437
 |type1=Steel
 |type2=Psychic
-|ability1=Heatproof|ability2=Levitate
+|ability1=Levitate|ability2=Heatproof
 |abilityH=Heavymetal
 |genderm=Genderless
 |abilityS=
@@ -29,14 +29,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Bronzong_(Pok%C3%A9mon) Bronzong] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Steel}}
 {{Drop|Raw Iron|1|100}}
 {{Drop|Mental Herb|1|100}}
 {{Drop|Light Clay|1|100}}
 {{Drop|Occa Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Abyss]]
+{{SpawnInfo|type1=Steel|biome=[[Abyss]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=33}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Steel}}
 {{movesLvl|1|Block}}
 {{movesLvl|1|Confuse_Ray}}
 {{movesLvl|1|Confusion}}
@@ -98,9 +98,9 @@
 {{movesLvl|61|Payback}}
 {{movesLvl|67|Heal_Block}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -182,7 +182,7 @@
 {{movesTm|Wonder_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Steel}}
 {{moves|Ally_Switch}}
 {{moves|Ancient_Power}}
 {{moves|Block}}

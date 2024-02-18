@@ -29,13 +29,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Chinchou_(Pok%C3%A9mon) Chinchou] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Prismarine Crystals|1|100}}
 {{Drop|Deep Sea Scale|1|100}}
 {{Drop|Persim Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Deep Ocean]]
+{{SpawnInfo|type1=Water|biome=[[Deep Ocean]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=67}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Bubble}}
 {{movesLvl|1|Supersonic}}
 {{movesLvl|1|Water_Gun}}
@@ -71,7 +71,7 @@
 {{movesLvl|44|Hydro_Pump}}
 {{movesLvl|47|Ion_Deluge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Agility}}
 {{movesB|Amnesia}}
 {{movesB|Brine}}
@@ -84,7 +84,7 @@
 {{movesB|Water_Pulse}}
 {{movesB|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -132,7 +132,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Amnesia}}
 {{moves|Attract}}
 {{moves|Bounce}}

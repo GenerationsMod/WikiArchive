@@ -29,13 +29,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Seel_(Pok%C3%A9mon) Seel] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Cod|1|100}}
 {{Drop|Never Melt Ice|1|100}}
 {{Drop|Aspear Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Frozen Ocean]]
+{{SpawnInfo|type1=Water|biome=[[Frozen Ocean]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=8-33
+}}
+{{SpawnInfo|type1=Water|biome=[[Frozen Ocean]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=45}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Headbutt}}
 {{movesLvl|3|Growl}}
 {{movesLvl|7|Water_Sport}}
@@ -72,7 +81,7 @@
 {{movesLvl|51|Safeguard}}
 {{movesLvl|53|Hail}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Belch}}
 {{movesB|Disable}}
 {{movesB|Encore}}
@@ -91,7 +100,7 @@
 {{movesB|Swallow}}
 {{movesB|Water_Pulse}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Brine}}
@@ -126,7 +135,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Aqua_Jet}}
 {{moves|Aqua_Tail}}
 {{moves|Attract}}

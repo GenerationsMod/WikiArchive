@@ -31,14 +31,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Froslass_(Pok%C3%A9mon) Froslass] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ice}}
 {{Drop|Snowball|1|100}}
 {{Drop|Dawn Stone|1|100}}
 {{Drop|Never Melt Ice|1|100}}
 {{Drop|Babiri Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Cold]]
+{{SpawnInfo|type1=Ice|biome=[[Cold]]|
 |antibiome=[[Abyss]]
 |location=Underground
 |antilocation=Underground
@@ -56,7 +56,7 @@
 |spe=110}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ice}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Bite}}
 {{movesLvl|1|Crunch}}
@@ -99,9 +99,9 @@
 {{movesLvl|61|Shadow_Ball}}
 {{movesLvl|68|Blizzard}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
 {{movesTm|Aurora_Veil}}
@@ -176,7 +176,7 @@
 {{movesTm|Weather_Ball}}
 {{movesTm|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ice}}
 {{moves|Ally_Switch}}
 {{moves|Block}}
 {{moves|Headbutt}}

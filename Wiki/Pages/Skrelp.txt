@@ -5,7 +5,7 @@
 |ndex=690
 |type1=Poison
 |type2=Water
-|ability1=Poisontouch|ability2=Poisonpoint
+|ability1=Poisonpoint|ability2=Poisontouch
 |abilityH=Adaptability
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Skrelp_(Pok%C3%A9mon) Skrelp] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Poison}}
 {{Drop|Kelp|1|100}}
 {{Drop|Pecha Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Ocean]]
+{{SpawnInfo|type1=Poison|biome=[[Ocean]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=30}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Poison}}
 {{movesLvl|1|Smokescreen}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|5|Acid}}
@@ -70,7 +70,7 @@
 {{movesLvl|50|Sludge_Bomb}}
 {{movesLvl|55|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Poison}}
 {{movesB|Acid_Armor}}
 {{movesB|Dragon_Tail}}
 {{movesB|Haze}}
@@ -79,7 +79,7 @@
 {{movesB|Twister}}
 {{movesB|Venom_Drench}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Attract}}
 {{movesTm|Bounce}}
@@ -132,7 +132,7 @@
 {{movesTm|Waterfall}}
 {{movesTm|Water_Pulse}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Poison}}
 {{moves|Aqua_Tail}}
 {{moves|Bounce}}
 {{moves|Dragon_Pulse}}

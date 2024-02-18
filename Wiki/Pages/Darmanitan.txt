@@ -31,11 +31,20 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Darmanitan_(Pok%C3%A9mon) Darmanitan] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Rawst Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Snowy]]
+{{SpawnInfo|type1=Fire|biome=[[Desert]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=35-60
+}}
+{{SpawnInfo|type1=Fire|biome=[[Snowy]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=95}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Bite}}
 {{movesLvl|1|Ember}}
 {{movesLvl|1|Hammer_Arm}}
@@ -75,9 +84,9 @@
 {{movesLvl|54|Overheat}}
 {{movesLvl|56|Superpower}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -152,7 +161,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Belly_Drum}}
 {{moves|Burning_Jealousy}}
 {{moves|Endeavor}}

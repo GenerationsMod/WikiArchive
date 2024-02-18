@@ -5,7 +5,7 @@
 |ndex=115
 |type1=Normal
 |type2=
-|ability1=Earlybird|ability2=Scrappy
+|ability1=Scrappy|ability2=Earlybird
 |abilityH=Innerfocus
 |genderm=0
 |abilityS=
@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Kangaskhan_(Pok%C3%A9mon) Kangaskhan] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Chilan Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Savanna]]
+{{SpawnInfo|type1=Normal|biome=[[Savanna]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=90}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Comet_Punch}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Pound}}
@@ -74,7 +74,7 @@
 {{movesLvl|48|Outrage}}
 {{movesLvl|52|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Circle_Throw}}
 {{movesB|Counter}}
 {{movesB|Crush_Claw}}
@@ -91,7 +91,7 @@
 {{movesB|Trump_Card}}
 {{movesB|Uproar}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -172,7 +172,7 @@
 {{movesTm|Whirlpool}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Aqua_Tail}}
 {{moves|Attract}}
 {{moves|Bide}}

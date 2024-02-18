@@ -31,11 +31,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Ho-Oh_(Pok%C3%A9mon) Ho-Oh] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Hooh Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Volcanic]]
+{{SpawnInfo|type1=Fire|biome=[[Volcanic]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=90}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Ancient_Power}}
 {{movesLvl|1|Gust}}
 {{movesLvl|1|Weather_Ball}}
@@ -74,9 +74,9 @@
 {{movesLvl|90|Sky_Attack}}
 {{movesLvl|99|Burn_Up}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
 {{movesTm|Brave_Bird}}
@@ -150,7 +150,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Air_Cutter}}
 {{moves|Ancient_Power}}
 {{moves|Brave_Bird}}

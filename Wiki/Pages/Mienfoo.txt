@@ -5,7 +5,7 @@
 |ndex=619
 |type1=Fighting
 |type2=
-|ability1=Innerfocus|ability2=Regenerator
+|ability1=Regenerator|ability2=Innerfocus
 |abilityH=Reckless
 |genderm=50.0
 |abilityS=
@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Mienfoo_(Pok%C3%A9mon) Mienfoo] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fighting}}
 {{Drop|Payapa Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Mountain]]
+{{SpawnInfo|type1=Fighting|biome=[[Mountain]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fighting}}
 {{movesLvl|1|Detect}}
 {{movesLvl|1|Pound}}
 {{movesLvl|5|Fake_Out}}
@@ -71,7 +71,7 @@
 {{movesLvl|55|Calm_Mind}}
 {{movesLvl|60|High_Jump_Kick}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 {{movesB|Ally_Switch}}
 {{movesB|Baton_Pass}}
 {{movesB|Endure}}
@@ -83,7 +83,7 @@
 {{movesB|Smelling_Salts}}
 {{movesB|Vital_Throw}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -144,7 +144,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fighting}}
 {{moves|Ally_Switch}}
 {{moves|Bounce}}
 {{moves|Coaching}}

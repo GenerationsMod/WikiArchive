@@ -31,10 +31,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Tapu Lele_(Pok%C3%A9mon) Tapu Lele] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 |}
 |}
-{{SpawnInfo|biome=[[Floral]]
+{{SpawnInfo|type1=Psychic|biome=[[Floral]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=95}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Confusion}}
 {{movesLvl|5|Withdraw}}
@@ -72,9 +72,9 @@
 {{movesLvl|70|Skill_Swap}}
 {{movesLvl|75|Psychic_Terrain}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Calm_Mind}}
 {{movesTm|Charge_Beam}}
@@ -130,7 +130,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Wonder_Room}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Ally_Switch}}
 {{moves|Charm}}
 {{moves|Extrasensory}}

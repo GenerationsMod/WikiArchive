@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Slither Wing_(Pok%C3%A9mon) Slither Wing] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 |}
 |}
-{{SpawnInfo|biome=[[Volcanic]]
+{{SpawnInfo|type1=Bug|biome=[[Volcanic]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=81}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Bug_Bite}}
 {{movesLvl|1|Ember}}
 {{movesLvl|1|Gust}}
@@ -70,9 +70,9 @@
 {{movesLvl|84|Leech_Life}}
 {{movesLvl|91|Thrash}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Body_Press}}
@@ -112,7 +112,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Low_Sweep}}
 {{moves|Lunge}}
 {{moves|Morning_Sun}}

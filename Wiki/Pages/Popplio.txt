@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Popplio_(Pok%C3%A9mon) Popplio] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Mystic Water|1|100}}
 {{Drop|Popplio Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Coast]]
+{{SpawnInfo|type1=Water|biome=[[Coast]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=40}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Pound}}
 {{movesLvl|3|Water_Gun}}
@@ -72,7 +72,7 @@
 {{movesLvl|36|Hydro_Pump}}
 {{movesLvl|39|Captivate}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Amnesia}}
 {{movesB|Aqua_Ring}}
 {{movesB|Aromatic_Mist}}
@@ -81,7 +81,7 @@
 {{movesB|Perish_Song}}
 {{movesB|Wonder_Room}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -125,7 +125,7 @@
 {{movesTm|Wonder_Room}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Aqua_Tail}}
 {{moves|Covet}}
 {{moves|Flip_Turn}}

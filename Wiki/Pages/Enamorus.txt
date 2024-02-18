@@ -31,10 +31,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Enamorus_(Pok%C3%A9mon) Enamorus] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fairy}}
 |}
 |}
-{{SpawnInfo|biome=[[Highlands]]
+{{SpawnInfo|type1=Fairy|biome=[[Highlands]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=106}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fairy}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Fairy_Wind}}
 {{movesLvl|5|Torment}}
@@ -71,9 +71,9 @@
 {{movesLvl|70|Outrage}}
 {{movesLvl|75|Springtide_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Agility}}
 {{movesTm|Body_Slam}}
 {{movesTm|Calm_Mind}}
@@ -110,7 +110,7 @@
 {{movesTm|Tera_Blast}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=904|prev=Overqwil|dexnext=906|next=Sprigatito}}

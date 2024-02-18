@@ -5,7 +5,7 @@
 |ndex=192
 |type1=Grass
 |type2=
-|ability1=Solarpower|ability2=Chlorophyll
+|ability1=Chlorophyll|ability2=Solarpower
 |abilityH=Earlybird
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Sunflora_(Pok%C3%A9mon) Sunflora] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Grass}}
 {{Drop|Sunflower|1|100}}
 {{Drop|Coba Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Floral]]
+{{SpawnInfo|type1=Grass|biome=[[Floral]]|
 |antibiome=
 |location=Land
 |antilocation=Underground

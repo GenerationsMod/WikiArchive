@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Solosis_(Pok%C3%A9mon) Solosis] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 {{Drop|Slime Ball|1|100}}
 {{Drop|Persim Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Temperate]]
+{{SpawnInfo|type1=Psychic|biome=[[Temperate]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=20}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Confusion}}
 {{movesLvl|1|Protect}}
 {{movesLvl|1|Psywave}}
@@ -74,7 +74,7 @@
 {{movesLvl|46|Heal_Block}}
 {{movesLvl|48|Wonder_Room}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 {{movesB|Acid_Armor}}
 {{movesB|Astonish}}
 {{movesB|Confuse_Ray}}
@@ -84,7 +84,7 @@
 {{movesB|Secret_Power}}
 {{movesB|Trick}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
 {{movesTm|Calm_Mind}}
@@ -141,7 +141,7 @@
 {{movesTm|Wonder_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|After_You}}
 {{moves|Ally_Switch}}
 {{moves|Endeavor}}

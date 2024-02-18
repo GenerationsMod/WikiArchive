@@ -31,12 +31,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Sandslash_(Pok%C3%A9mon) Sandslash] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ground}}
 {{Drop|Quick Claw|1|100}}
 {{Drop|Soft Sand|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Cold]]
+{{SpawnInfo|type1=Ground|biome=[[Sandy]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=22-45
+}}
+{{SpawnInfo|type1=Ground|biome=[[Cold]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +63,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ground}}
 {{movesLvl|1|Crush_Claw}}
 {{movesLvl|1|Defense_Curl}}
 {{movesLvl|1|Poison_Sting}}
@@ -75,9 +84,9 @@
 {{movesLvl|56|Sandstorm}}
 {{movesLvl|61|Earthquake}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Amnesia}}
@@ -141,7 +150,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ground}}
 {{moves|Attract}}
 {{moves|Bide}}
 {{moves|Body_Slam}}

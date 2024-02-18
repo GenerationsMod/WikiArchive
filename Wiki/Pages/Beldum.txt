@@ -31,11 +31,29 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Beldum_(Pok%C3%A9mon) Beldum] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Steel}}
 {{Drop|Metal Coat|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[The Bumblezone:Howling Constructs]]
+{{SpawnInfo|type1=Steel|biome=[[Dripstone]], [[Peak]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=5-30
+}}
+{{SpawnInfo|type1=Steel|biome=[[End]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=5-30
+}}
+{{SpawnInfo|type1=Steel|biome=[[The Bumblezone:Howling Constructs]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,18 +71,18 @@
 |spe=30}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Steel}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|1|Take_Down}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Iron_Defense}}
 {{movesTm|Iron_Head}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Steel}}
 {{moves|Headbutt}}
 {{moves|Hold_Back}}
 {{moves|Iron_Defense}}

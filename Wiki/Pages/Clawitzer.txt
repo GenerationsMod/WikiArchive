@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Clawitzer_(Pok%C3%A9mon) Clawitzer] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 |}
 |}
-{{SpawnInfo|biome=[[Reef]]
+{{SpawnInfo|type1=Water|biome=[[Reef]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=59}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Dark_Pulse}}
 {{movesLvl|1|Dragon_Pulse}}
 {{movesLvl|1|Flail}}
@@ -71,9 +71,9 @@
 {{movesLvl|56|Muddy_Water}}
 {{movesLvl|63|Crabhammer}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Aura_Sphere}}
 {{movesTm|Blizzard}}
@@ -132,7 +132,7 @@
 {{movesTm|Waterfall}}
 {{movesTm|Water_Pulse}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Aqua_Tail}}
 {{moves|Bounce}}
 {{moves|Dragon_Pulse}}

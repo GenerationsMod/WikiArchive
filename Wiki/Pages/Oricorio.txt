@@ -29,14 +29,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Oricorio_(Pok%C3%A9mon) Oricorio] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Feather|1|100}}
 {{Drop|Chicken|1|100}}
 {{Drop|Honey Bottle|1|100}}
 {{Drop|Pinap Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Floral]]
+{{SpawnInfo|type1=Fire|biome=[[Floral]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=93}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Pound}}
 {{movesLvl|4|Growl}}
 {{movesLvl|6|Peck}}
@@ -74,7 +74,7 @@
 {{movesLvl|43|Mirror_Move}}
 {{movesLvl|47|Hurricane}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 {{movesB|Attract}}
 {{movesB|Captivate}}
 {{movesB|Defog}}
@@ -83,7 +83,7 @@
 {{movesB|Safeguard}}
 {{movesB|Tailwind}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -130,7 +130,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Covet}}
 {{moves|Defog}}
 {{moves|Helping_Hand}}

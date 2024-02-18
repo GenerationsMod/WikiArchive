@@ -31,12 +31,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Beedrill_(Pok%C3%A9mon) Beedrill] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Poison Barb|1|100}}
 {{Drop|Pinap Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[The Bumblezone]]
+{{SpawnInfo|type1=Bug|biome=[[Forest]], [[Jungle]]|
+|antibiome=[[Freezing]]
+|location=Land
+|antilocation=Underground
+|time=day
+|antitime=Any
+|rarity=common
+|levelrange=10-40
+}}
+{{SpawnInfo|type1=Bug|biome=[[The Bumblezone]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -54,7 +63,7 @@
 |spe=75}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Fury_Attack}}
 {{movesLvl|1|Twineedle}}
 {{movesLvl|14|Rage}}
@@ -69,9 +78,9 @@
 {{movesLvl|41|Endeavor}}
 {{movesLvl|44|Fell_Stinger}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -117,7 +126,7 @@
 {{movesTm|Venoshock}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Agility}}
 {{moves|Air_Cutter}}
 {{moves|Attract}}

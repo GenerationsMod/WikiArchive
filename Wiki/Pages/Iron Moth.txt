@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Iron Moth_(Pok%C3%A9mon) Iron Moth] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 |}
 |}
-{{SpawnInfo|biome=[[Volcanic]]
+{{SpawnInfo|type1=Fire|biome=[[Volcanic]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=110}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Acid_Spray}}
 {{movesLvl|1|Electric_Terrain}}
 {{movesLvl|1|Ember}}
@@ -70,9 +70,9 @@
 {{movesLvl|84|Bug_Buzz}}
 {{movesLvl|91|Overheat}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -114,7 +114,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Venoshock}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Discharge}}
 {{moves|Lunge}}
 {{moves|Screech}}

@@ -29,13 +29,31 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Abra_(Pok%C3%A9mon) Abra] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 {{Drop|Ender Pearl|1|100}}
 {{Drop|Twisted Spoon|1|100}}
 {{Drop|Kasib Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Psychic|biome=[[Hills]], [[Temperate]]|
+|antibiome=[[Magical]]
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=rare
+|levelrange=6-31
+}}
+{{SpawnInfo|type1=Psychic|biome=[[Magical]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=uncommon
+|levelrange=6-31
+}}
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,10 +71,10 @@
 |spe=90}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Teleport}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 {{movesB|Ally_Switch}}
 {{movesB|Barrier}}
 {{movesB|Confusion}}
@@ -73,7 +91,7 @@
 {{movesB|Skill_Swap}}
 {{movesB|Thunder_Punch}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -145,7 +163,7 @@
 {{movesTm|Wonder_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Ally_Switch}}
 {{moves|Attract}}
 {{moves|Barrier}}

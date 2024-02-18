@@ -31,13 +31,40 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Vulpix_(Pok%C3%A9mon) Vulpix] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Sweet Berries|1|100}}
 {{Drop|Charcoal|1|100}}
 {{Drop|Rawst Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Frozen]]
+{{SpawnInfo|type1=Fire|biome=[[Forest]], [[Taiga]]|
+|antibiome=[[Freezing]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=5-30
+}}
+{{SpawnInfo|type1=Fire|biome=[[Nether Forest]]|
+|antibiome=[[Nether Frozen]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=5-30
+}}
+{{SpawnInfo|type1=Fire|biome=[[Snowy Forest]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=5-30
+}}
+{{SpawnInfo|type1=Fire|biome=[[Nether Frozen]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -55,7 +82,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Ember}}
 {{movesLvl|1|Tail_Whip}}
 {{movesLvl|4|Disable}}
@@ -80,7 +107,7 @@
 {{movesLvl|52|Grudge}}
 {{movesLvl|56|Fire_Blast}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 {{movesB|Baby-Doll_Eyes}}
 {{movesB|Captivate}}
 {{movesB|Disable}}
@@ -102,7 +129,7 @@
 {{movesB|Spite}}
 {{movesB|Tail_Slap}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -153,7 +180,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Attract}}
 {{moves|Bide}}
 {{moves|Body_Slam}}

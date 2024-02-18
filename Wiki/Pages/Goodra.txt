@@ -29,12 +29,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Goodra_(Pok%C3%A9mon) Goodra] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dragon}}
 {{Drop|Slime Ball|1|100}}
 {{Drop|Haban Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Swamp]]
+{{SpawnInfo|type1=Dragon|biome=[[Swamp]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=55-60
+}}
+{{SpawnInfo|type1=Dragon|biome=[[Swamp]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +61,7 @@
 |spe=80}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dragon}}
 {{movesLvl|1|Absorb}}
 {{movesLvl|1|Acid_Spray}}
 {{movesLvl|1|Aqua_Tail}}
@@ -75,9 +84,9 @@
 {{movesLvl|58|Muddy_Water}}
 {{movesLvl|67|Power_Whip}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -147,7 +156,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Weather_Ball}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dragon}}
 {{moves|Aqua_Tail}}
 {{moves|Draco_Meteor}}
 {{moves|Dragon_Pulse}}

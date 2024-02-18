@@ -31,14 +31,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Larvesta_(Pok%C3%A9mon) Larvesta] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|String|1|100}}
 {{Drop|Blaze Powder|1|100}}
 {{Drop|Silver Powder|1|100}}
 {{Drop|Charti Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Volcanic]]
+{{SpawnInfo|type1=Bug|biome=[[Volcanic]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -56,7 +56,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Ember}}
 {{movesLvl|1|String_Shot}}
 {{movesLvl|6|Flame_Charge}}
@@ -73,7 +73,7 @@
 {{movesLvl|66|Flare_Blitz}}
 {{movesLvl|90|Thrash}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 {{movesB|Absorb}}
 {{movesB|Endure}}
 {{movesB|Foresight}}
@@ -84,7 +84,7 @@
 {{movesB|Thrash}}
 {{movesB|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -133,7 +133,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Bug_Bite}}
 {{moves|Giga_Drain}}
 {{moves|Heat_Wave}}

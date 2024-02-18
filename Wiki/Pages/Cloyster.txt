@@ -5,7 +5,7 @@
 |ndex=091
 |type1=Water
 |type2=Ice
-|ability1=Skilllink|ability2=Shellarmor
+|ability1=Shellarmor|ability2=Skilllink
 |abilityH=Overcoat
 |genderm=50.0
 |abilityS=
@@ -29,11 +29,20 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Cloyster_(Pok%C3%A9mon) Cloyster] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Aspear Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Ocean]]
+{{SpawnInfo|type1=Water|biome=[[Cold Ocean]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=26-53
+}}
+{{SpawnInfo|type1=Water|biome=[[Ocean]]|
 |antibiome=[[Cold Ocean]]
 |location=Land
 |antilocation=Underground
@@ -51,7 +60,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Aurora_Beam}}
 {{movesLvl|1|Hydro_Pump}}
 {{movesLvl|1|Ice_Beam}}
@@ -71,9 +80,9 @@
 {{movesLvl|5|Razor_Shell}}
 {{movesLvl|13|Spike_Cannon}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
 {{movesTm|Blizzard}}
@@ -139,7 +148,7 @@
 {{movesTm|Weather_Ball}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Attract}}
 {{moves|Aurora_Beam}}
 {{moves|Barrier}}

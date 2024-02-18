@@ -5,7 +5,7 @@
 |ndex=842
 |type1=Grass
 |type2=Dragon
-|ability1=Gluttony|ability2=Ripen
+|ability1=Ripen|ability2=Gluttony
 |abilityH=Thickfat
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Appletun_(Pok%C3%A9mon) Appletun] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Grass}}
 {{Drop|Apple|1|100}}
 {{Drop|Yache Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]]
+{{SpawnInfo|type1=Grass|biome=[[Forest]]|
 |antibiome=
 |location=Land
 |antilocation=Underground

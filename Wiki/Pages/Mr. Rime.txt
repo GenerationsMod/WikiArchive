@@ -5,7 +5,7 @@
 |ndex=866
 |type1=Ice
 |type2=Psychic
-|ability1=Screencleaner|ability2=Tangledfeet
+|ability1=Tangledfeet|ability2=Screencleaner
 |abilityH=Icebody
 |genderm=50.0
 |abilityS=
@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Mr. Rime_(Pok%C3%A9mon) Mr. Rime] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ice}}
 {{Drop|Aspear Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Taiga]]
+{{SpawnInfo|type1=Ice|biome=[[Taiga]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ice}}
 {{movesLvl|1|After_You}}
 {{movesLvl|1|Baton_Pass}}
 {{movesLvl|1|Block}}
@@ -83,9 +83,9 @@
 {{movesLvl|48|Psychic}}
 {{movesLvl|52|Teeter_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
@@ -156,7 +156,7 @@
 {{movesTm|Wonder_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ice}}
 {{moves|Expanding_Force}}
 {{moves|Triple_Axel}}
 |}

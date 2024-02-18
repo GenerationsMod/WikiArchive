@@ -29,13 +29,31 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Honchkrow_(Pok%C3%A9mon) Honchkrow] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dark}}
 {{Drop|Feather|1|100}}
 {{Drop|Chicken|1|100}}
 {{Drop|Bluk Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Sky]]
+{{SpawnInfo|type1=Dark|biome=[[Spooky]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=36-51
+}}
+{{SpawnInfo|type1=Dark|biome=[[Swamp]], [[Taiga]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=36-51
+}}
+{{SpawnInfo|type1=Dark|biome=[[Sky]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +71,7 @@
 |spe=71}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dark}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Haze}}
 {{movesLvl|1|Night_Slash}}
@@ -71,9 +89,9 @@
 {{movesLvl|65|Quash}}
 {{movesLvl|75|Dark_Pulse}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Cutter}}
@@ -140,7 +158,7 @@
 {{movesTm|Toxic}}
 {{movesTm|U-turn}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dark}}
 {{moves|Air_Cutter}}
 {{moves|Dark_Pulse}}
 {{moves|Defog}}

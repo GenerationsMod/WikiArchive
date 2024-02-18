@@ -29,14 +29,23 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Gigalith_(Pok%C3%A9mon) Gigalith] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Rock}}
 {{Drop|Raw Copper|1|100}}
 {{Drop|Hard Stone|1|100}}
 {{Drop|Everstone|1|100}}
 {{Drop|Black Augurite|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Deep Dark]]
+{{SpawnInfo|type1=Rock|biome=[[Overworld]]|
+|antibiome=[[Deep Dark]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=34-52
+}}
+{{SpawnInfo|type1=Rock|biome=[[Deep Dark]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -54,7 +63,7 @@
 |spe=25}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Rock}}
 {{movesLvl|1|Harden}}
 {{movesLvl|1|Power_Gem}}
 {{movesLvl|1|Sand_Attack}}
@@ -70,9 +79,9 @@
 {{movesLvl|48|Stone_Edge}}
 {{movesLvl|54|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
 {{movesTm|Bulldoze}}
@@ -121,7 +130,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Weather_Ball}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Rock}}
 {{moves|Block}}
 {{moves|Earth_Power}}
 {{moves|Gravity}}

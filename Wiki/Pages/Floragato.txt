@@ -31,11 +31,20 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Floragato_(Pok%C3%A9mon) Floragato] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Grass}}
 {{Drop|Miracle Seed|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Warped]]
+{{SpawnInfo|type1=Grass|biome=[[Floral]], [[Magical]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=16-41
+}}
+{{SpawnInfo|type1=Grass|biome=[[Nether Warped]]|
 |antibiome=[[Nether Desert]]
 |location=Underground
 |antilocation=Underground

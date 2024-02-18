@@ -5,7 +5,7 @@
 |ndex=586
 |type1=Normal
 |type2=Grass
-|ability1=Sapsipper|ability2=Chlorophyll
+|ability1=Chlorophyll|ability2=Sapsipper
 |abilityH=Serenegrace
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Sawsbuck_(Pok%C3%A9mon) Sawsbuck] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Leather|1|100}}
 {{Drop|Yache Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[The Bumblezone:Floral Meadow]]
+{{SpawnInfo|type1=Normal|biome=[[Floral]], [[Forest]], [[Hills]], [[Plains]], [[Snowy Forest]], [[Taiga]]|
+|antibiome=[[Savanna]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=34-48
+}}
+{{SpawnInfo|type1=Normal|biome=[[The Bumblezone:Floral Meadow]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +61,7 @@
 |spe=95}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Camouflage}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Horn_Leech}}
@@ -73,9 +82,9 @@
 {{movesLvl|44|Nature_Power}}
 {{movesLvl|52|Solar_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -134,7 +143,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Bounce}}
 {{moves|Giga_Drain}}
 {{moves|Last_Resort}}

@@ -31,14 +31,32 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Dragonair_(Pok%C3%A9mon) Dragonair] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dragon}}
 {{Drop|Dragon Breath|1|100}}
 {{Drop|Dragon Fang|1|100}}
 {{Drop|Dragon Scale|1|100}}
 {{Drop|Yache Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Ocean]]
+{{SpawnInfo|type1=Dragon|biome=[[Overworld]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=30-42
+}}
+{{SpawnInfo|type1=Dragon|biome=[[Overworld]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=30-42
+}}
+{{SpawnInfo|type1=Dragon|biome=[[Ocean]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -56,7 +74,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dragon}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Thunder_Wave}}
 {{movesLvl|1|Twister}}
@@ -73,9 +91,9 @@
 {{movesLvl|67|Outrage}}
 {{movesLvl|74|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -135,7 +153,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dragon}}
 {{moves|Agility}}
 {{moves|Aqua_Tail}}
 {{moves|Attract}}

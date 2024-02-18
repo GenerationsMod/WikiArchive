@@ -5,7 +5,7 @@
 |ndex=740
 |type1=Fighting
 |type2=Ice
-|ability1=Ironfist|ability2=Hypercutter
+|ability1=Hypercutter|ability2=Ironfist
 |abilityH=Angerpoint
 |genderm=50.0
 |abilityS=
@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Crabominable_(Pok%C3%A9mon) Crabominable] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fighting}}
 {{Drop|Aspear Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Peak]]
+{{SpawnInfo|type1=Fighting|biome=[[Peak]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=43}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fighting}}
 {{movesLvl|1|Bubble}}
 {{movesLvl|1|Ice_Punch}}
 {{movesLvl|1|Leer}}
@@ -70,9 +70,9 @@
 {{movesLvl|45|Dynamic_Punch}}
 {{movesLvl|49|Close_Combat}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
@@ -138,7 +138,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fighting}}
 {{moves|Block}}
 {{moves|Drain_Punch}}
 {{moves|Dual_Chop}}

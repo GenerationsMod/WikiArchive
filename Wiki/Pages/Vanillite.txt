@@ -29,13 +29,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Vanillite_(Pok%C3%A9mon) Vanillite] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ice}}
 {{Drop|Snowball|1|100}}
 {{Drop|Never Melt Ice|1|100}}
 {{Drop|Aspear Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Cold]]
+{{SpawnInfo|type1=Ice|biome=[[Cold]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=44}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ice}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Harden}}
 {{movesLvl|4|Taunt}}
@@ -70,7 +70,7 @@
 {{movesLvl|44|Blizzard}}
 {{movesLvl|48|Sheer_Cold}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ice}}
 {{movesB|Aurora_Veil}}
 {{movesB|Autotomize}}
 {{movesB|Explosion}}
@@ -83,7 +83,7 @@
 {{movesB|Powder_Snow}}
 {{movesB|Water_Pulse}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
@@ -120,7 +120,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Uproar}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ice}}
 {{moves|Ally_Switch}}
 {{moves|Icy_Wind}}
 {{moves|Iron_Defense}}

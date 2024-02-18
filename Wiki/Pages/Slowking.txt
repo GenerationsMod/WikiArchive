@@ -29,12 +29,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Slowking_(Pok%C3%A9mon) Slowking] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Kings Rock|1|100}}
 {{Drop|Chesto Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Beach]]
+{{SpawnInfo|type1=Water|biome=[[Beach]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=37-49
+}}
+{{SpawnInfo|type1=Water|biome=[[Beach]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +61,7 @@
 |spe=30}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Chilly_Reception}}
 {{movesLvl|1|Curse}}
 {{movesLvl|1|Future_Sight}}
@@ -78,9 +87,9 @@
 {{movesLvl|45|Heal_Pulse}}
 {{movesLvl|49|Trump_Card}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
@@ -186,7 +195,7 @@
 {{movesTm|Wonder_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|After_You}}
 {{moves|Ally_Switch}}
 {{moves|Aqua_Tail}}

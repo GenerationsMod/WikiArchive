@@ -5,7 +5,7 @@
 |ndex=073
 |type1=Water
 |type2=Poison
-|ability1=Liquidooze|ability2=Clearbody
+|ability1=Clearbody|ability2=Liquidooze
 |abilityH=Raindish
 |genderm=50.0
 |abilityS=
@@ -29,13 +29,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Tentacruel_(Pok%C3%A9mon) Tentacruel] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Ink Sac|1|100}}
 {{Drop|Glow Ink Sac|1|100}}
 {{Drop|Poison Barb|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Ocean]]
+{{SpawnInfo|type1=Water|biome=[[Deep Ocean]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=30-52
+}}
+{{SpawnInfo|type1=Water|biome=[[Ocean]]|
 |antibiome=[[Deep Ocean]]
 |location=Land
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=100}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Acid}}
 {{movesLvl|1|Constrict}}
 {{movesLvl|1|Poison_Sting}}
@@ -76,9 +85,9 @@
 {{movesLvl|52|Sludge_Wave}}
 {{movesLvl|58|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Brine}}
@@ -133,7 +142,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Acid}}
 {{moves|Attract}}
 {{moves|Barrier}}

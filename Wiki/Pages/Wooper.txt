@@ -29,12 +29,93 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Wooper_(Pok%C3%A9mon) Wooper] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Clay Ball|1|100}}
 {{Drop|Rindo Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Savanna]]
+{{SpawnInfo|type1=Water|biome=[[Lush]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=1-21
+}}
+{{SpawnInfo|type1=Water|biome=[[Lush]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=1-21
+}}
+{{SpawnInfo|type1=Water|biome=[[Overworld]]|
+|antibiome=[[Lush]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=1-21
+}}
+{{SpawnInfo|type1=Water|biome=[[Overworld]]|
+|antibiome=[[Lush]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=1-21
+}}
+{{SpawnInfo|type1=Water|biome=[[Swamp]]|
+|antibiome=[[Minecraft:Mangrove Swamp]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=1-21
+}}
+{{SpawnInfo|type1=Water|biome=[[Swamp]]|
+|antibiome=[[Minecraft:Mangrove Swamp]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=1-21
+}}
+{{SpawnInfo|type1=Water|biome=[[Minecraft:Mangrove Swamp]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=1-21
+}}
+{{SpawnInfo|type1=Water|biome=[[Minecraft:Mangrove Swamp]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=1-21
+}}
+{{SpawnInfo|type1=Water|biome=[[Savanna]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=1-21
+}}
+{{SpawnInfo|type1=Water|biome=[[Savanna]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +133,7 @@
 |spe=15}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Tail_Whip}}
 {{movesLvl|1|Water_Gun}}
 {{movesLvl|4|Rain_Dance}}
@@ -69,7 +150,7 @@
 {{movesLvl|36|Toxic}}
 {{movesLvl|40|Earthquake}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Acid_Spray}}
 {{movesB|After_You}}
 {{movesB|Ancient_Power}}
@@ -89,7 +170,7 @@
 {{movesB|Stockpile}}
 {{movesB|Swallow}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -158,7 +239,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|After_You}}
 {{moves|Amnesia}}
 {{moves|Ancient_Power}}

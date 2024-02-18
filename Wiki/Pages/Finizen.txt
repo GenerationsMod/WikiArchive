@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Finizen_(Pok%C3%A9mon) Finizen] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Cod|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Lukewarm]]
+{{SpawnInfo|type1=Water|biome=[[Lukewarm]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=75}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Supersonic}}
 {{movesLvl|1|Water_Gun}}
 {{movesLvl|7|Astonish}}
@@ -66,14 +66,14 @@
 {{movesLvl|44|Mist}}
 {{movesLvl|50|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Boomburst}}
 {{movesB|Bounce}}
 {{movesB|Counter}}
 {{movesB|Haze}}
 {{movesB|Tickle}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
 {{movesTm|Blizzard}}
@@ -104,7 +104,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=962|prev=Tinkatuff|dexnext=964|next=Wiglett}}

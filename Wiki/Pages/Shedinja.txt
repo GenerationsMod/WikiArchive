@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Shedinja_(Pok%C3%A9mon) Shedinja] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]], [[Jungle]]
+{{SpawnInfo|type1=Bug|biome=[[Forest]], [[Jungle]]|
 |antibiome=[[Freezing]]
 |location=Land
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=40}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Dig}}
 {{movesLvl|1|False_Swipe}}
 {{movesLvl|1|Grudge}}
@@ -71,9 +71,9 @@
 {{movesLvl|57|Spite}}
 {{movesLvl|64|Phantom_Force}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
@@ -119,7 +119,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Ally_Switch}}
 {{moves|Bug_Bite}}
 {{moves|Confuse_Ray}}

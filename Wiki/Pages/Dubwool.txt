@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Dubwool_(Pok%C3%A9mon) Dubwool] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Mutton|1|100}}
 {{Drop|White Wool|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Mountain]], [[Plains]]
+{{SpawnInfo|type1=Normal|biome=[[Mountain]], [[Plains]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=88}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Copycat}}
 {{movesLvl|1|Defense_Curl}}
 {{movesLvl|1|Growl}}
@@ -67,9 +67,9 @@
 {{movesLvl|50|Double-Edge}}
 {{movesLvl|56|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -97,7 +97,7 @@
 {{movesTm|Wild_Charge}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Grassy_Glide}}
 |}
 |}

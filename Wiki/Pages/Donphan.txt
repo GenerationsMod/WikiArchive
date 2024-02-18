@@ -31,13 +31,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Donphan_(Pok%C3%A9mon) Donphan] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ground}}
 {{Drop|Clay Ball|1|100}}
 {{Drop|Protector|1|100}}
 {{Drop|Passho Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Savanna]]
+{{SpawnInfo|type1=Ground|biome=[[Badlands]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=25-50
+}}
+{{SpawnInfo|type1=Ground|biome=[[Savanna]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -55,7 +64,7 @@
 |spe=50}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ground}}
 {{movesLvl|1|Bulldoze}}
 {{movesLvl|1|Defense_Curl}}
 {{movesLvl|1|Fire_Fang}}
@@ -76,9 +85,9 @@
 {{movesLvl|43|Earthquake}}
 {{movesLvl|50|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -145,7 +154,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Trailblaze}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ground}}
 {{moves|Ancient_Power}}
 {{moves|Attract}}
 {{moves|Block}}

@@ -31,12 +31,39 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Crobat_(Pok%C3%A9mon) Crobat] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Poison}}
 {{Drop|Razor Fang|1|100}}
 {{Drop|Persim Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Spooky]]
+{{SpawnInfo|type1=Poison|biome=[[Forest]], [[Grassland]], [[Hills]], [[Jungle]], [[Sky]], [[Swamp]]|
+|antibiome=[[Spooky]], [[Freezing]]
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=41-54
+}}
+{{SpawnInfo|type1=Poison|biome=[[Overworld]]|
+|antibiome=[[Deep Dark]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=41-54
+}}
+{{SpawnInfo|type1=Poison|biome=[[Overworld]]|
+|antibiome=[[Deep Dark]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=41-54
+}}
+{{SpawnInfo|type1=Poison|biome=[[Spooky]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +81,7 @@
 |spe=130}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Poison}}
 {{movesLvl|1|Absorb}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Cross_Poison}}
@@ -76,9 +103,9 @@
 {{movesLvl|62|Air_Slash}}
 {{movesLvl|69|Leech_Life}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -138,7 +165,7 @@
 {{movesTm|X-Scissor}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Poison}}
 {{moves|Air_Cutter}}
 {{moves|Air_Slash}}
 {{moves|Attract}}

@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Koraidon_(Pok%C3%A9mon) Koraidon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fighting}}
 |}
 |}
-{{SpawnInfo|biome=[[Plateau]]
+{{SpawnInfo|type1=Fighting|biome=[[Plateau]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=135}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fighting}}
 {{movesLvl|1|Breaking_Swipe}}
 {{movesLvl|1|Sunny_Day}}
 {{movesLvl|7|Rock_Smash}}
@@ -68,9 +68,9 @@
 {{movesLvl|91|Flare_Blitz}}
 {{movesLvl|98|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
 {{movesTm|Body_Press}}
@@ -128,7 +128,7 @@
 {{movesTm|Wild_Charge}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fighting}}
 {{moves|Bulk_Up}}
 {{moves|Collision_Course}}
 {{moves|Endure}}

@@ -29,12 +29,39 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Volbeat_(Pok%C3%A9mon) Volbeat] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Bright Powder|1|100}}
 {{Drop|Razz Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[The Bumblezone]]
+{{SpawnInfo|type1=Bug|biome=|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=18-43
+}}
+{{SpawnInfo|type1=Bug|biome=|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=18-43
+}}
+{{SpawnInfo|type1=Bug|biome=[[The Bumblezone:Floral Meadow]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=18-43
+}}
+{{SpawnInfo|type1=Bug|biome=[[The Bumblezone]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +79,7 @@
 |spe=85}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Flash}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|5|Double_Team}}
@@ -70,7 +97,7 @@
 {{movesLvl|47|Double-Edge}}
 {{movesLvl|50|Infestation}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 {{movesB|Baton_Pass}}
 {{movesB|Bug_Buzz}}
 {{movesB|Dizzy_Punch}}
@@ -80,7 +107,7 @@
 {{movesB|Silver_Wind}}
 {{movesB|Trick}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -127,7 +154,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Water_Pulse}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Air_Cutter}}
 {{moves|Body_Slam}}
 {{moves|Bug_Bite}}

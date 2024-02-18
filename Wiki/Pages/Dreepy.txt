@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Dreepy_(Pok%C3%A9mon) Dreepy] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dragon}}
 {{Drop|Haban Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[End]]
+{{SpawnInfo|type1=Dragon|biome=[[End]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,13 +51,13 @@
 |spe=82}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dragon}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Bite}}
 {{movesLvl|1|Infestation}}
 {{movesLvl|1|Quick_Attack}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 {{movesB|Confuse_Ray}}
 {{movesB|Curse}}
 {{movesB|Disable}}
@@ -66,7 +66,7 @@
 {{movesB|Grudge}}
 {{movesB|Sucker_Punch}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
 {{movesTm|Confuse_Ray}}
@@ -85,7 +85,7 @@
 {{movesTm|Tera_Blast}}
 {{movesTm|Thunder_Wave}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dragon}}
 {{moves|Draco_Meteor}}
 |}
 |}

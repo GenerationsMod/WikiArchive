@@ -29,12 +29,39 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Avalugg_(Pok%C3%A9mon) Avalugg] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ice}}
 {{Drop|Never Melt Ice|1|100}}
 {{Drop|Aspear Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Frozen]]
+{{SpawnInfo|type1=Ice|biome=[[Frozen Ocean]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=37-51
+}}
+{{SpawnInfo|type1=Ice|biome=[[Frozen Ocean]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=37-51
+}}
+{{SpawnInfo|type1=Ice|biome=[[Nether Frozen]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=37-51
+}}
+{{SpawnInfo|type1=Ice|biome=[[Frozen]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +79,7 @@
 |spe=28}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ice}}
 {{movesLvl|1|Body_Slam}}
 {{movesLvl|1|Harden}}
 {{movesLvl|1|Powder_Snow}}
@@ -76,9 +103,9 @@
 {{movesLvl|51|Icicle_Crash}}
 {{movesLvl|51|Skull_Bash}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
 {{movesTm|Blizzard}}
@@ -138,7 +165,7 @@
 {{movesTm|Tera_Blast}}
 {{movesTm|Toxic}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ice}}
 {{moves|After_You}}
 {{moves|Block}}
 {{moves|Icy_Wind}}

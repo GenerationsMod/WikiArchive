@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Barraskewda_(Pok%C3%A9mon) Barraskewda] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Salmon|1|100}}
 {{Drop|Bone Meal|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Ocean]], [[Minecraft:Mangrove Swamp]]
+{{SpawnInfo|type1=Water|biome=[[Ocean]], [[Minecraft:Mangrove Swamp]]|
 |antibiome=[[Freezing]]
 |location=Land
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=136}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Aqua_Jet}}
 {{movesLvl|1|Bite}}
 {{movesLvl|1|Fury_Attack}}
@@ -68,9 +68,9 @@
 {{movesLvl|48|Liquidation}}
 {{movesLvl|56|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -111,7 +111,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Flip_Turn}}
 {{moves|Scale_Shot}}
 |}

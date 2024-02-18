@@ -31,12 +31,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Giratina_(Pok%C3%A9mon) Giratina] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ghost}}
 {{Drop|Giratina Altered Doll|1|100}}
 {{Drop|Giratina Origin Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[End]]
+{{SpawnInfo|type1=Ghost|biome=[[End]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=90}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ghost}}
 {{movesLvl|1|Defog}}
 {{movesLvl|1|Dragon_Breath}}
 {{movesLvl|1|Scary_Face}}
@@ -84,9 +84,9 @@
 {{movesLvl|77|Shadow_Force}}
 {{movesLvl|84|Destiny_Bond}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Aura_Sphere}}
 {{movesTm|Body_Slam}}
@@ -162,7 +162,7 @@
 {{movesTm|Toxic}}
 {{movesTm|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ghost}}
 {{moves|Air_Cutter}}
 {{moves|Ancient_Power}}
 {{moves|Aqua_Tail}}

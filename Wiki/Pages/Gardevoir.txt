@@ -5,7 +5,7 @@
 |ndex=282
 |type1=Psychic
 |type2=Fairy
-|ability1=Trace|ability2=Synchronize
+|ability1=Synchronize|ability2=Trace
 |abilityH=Telepathy
 |genderm=50.0
 |abilityS=
@@ -29,14 +29,41 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Gardevoir_(Pok%C3%A9mon) Gardevoir] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 {{Drop|Ender Pearl|1|100}}
 {{Drop|Dawn Stone|1|100}}
 {{Drop|Twisted Spoon|1|100}}
 {{Drop|Kasib Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Psychic|biome=[[Floral]], [[Magical]], [[Snowy Forest]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=30-52
+}}
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=30-52
+}}
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=30-52
+}}
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -54,7 +81,7 @@
 |spe=80}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Charm}}
 {{movesLvl|1|Confusion}}
 {{movesLvl|1|Disarming_Voice}}
@@ -80,9 +107,9 @@
 {{movesLvl|56|Dream_Eater}}
 {{movesLvl|63|Future_Sight}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
 {{movesTm|Aura_Sphere}}
@@ -170,7 +197,7 @@
 {{movesTm|Wonder_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Ally_Switch}}
 {{moves|Body_Slam}}
 {{moves|Calm_Mind}}

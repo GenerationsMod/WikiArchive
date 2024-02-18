@@ -5,7 +5,7 @@
 |ndex=440
 |type1=Normal
 |type2=
-|ability1=Serenegrace|ability2=Naturalcure
+|ability1=Naturalcure|ability2=Serenegrace
 |abilityH=Friendguard
 |genderm=0
 |abilityS=
@@ -29,11 +29,20 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Happiny_(Pok%C3%A9mon) Happiny] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Oval Stone|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=1-22
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +60,7 @@
 |spe=30}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Charm}}
 {{movesLvl|1|Copycat}}
 {{movesLvl|1|Minimize}}
@@ -65,7 +74,7 @@
 {{movesLvl|16|Covet}}
 {{movesLvl|20|Charm}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Aromatherapy}}
 {{movesB|Counter}}
 {{movesB|Endure}}
@@ -80,7 +89,7 @@
 {{movesB|Seismic_Toss}}
 {{movesB|Substitute}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
 {{movesTm|Captivate}}
 {{movesTm|Charm}}
@@ -136,7 +145,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Covet}}
 {{moves|Drain_Punch}}
 {{moves|Endeavor}}

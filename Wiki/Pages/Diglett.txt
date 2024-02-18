@@ -29,13 +29,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Diglett_(Pok%C3%A9mon) Diglett] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ground}}
 {{Drop|Potato|1|100}}
 {{Drop|Big Root|1|100}}
 {{Drop|Soft Sand|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Ground|biome=[[Overworld]]|
+|antibiome=[[Abyss]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=8-26
+}}
+{{SpawnInfo|type1=Ground|biome=[[Overworld]]|
 |antibiome=[[Abyss]]
 |location=Underground
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=95}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ground}}
 {{movesLvl|1|Sand_Attack}}
 {{movesLvl|1|Scratch}}
 {{movesLvl|4|Growl}}
@@ -71,7 +80,7 @@
 {{movesLvl|40|Earthquake}}
 {{movesLvl|44|Fissure}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ground}}
 {{movesB|Ancient_Power}}
 {{movesB|Astonish}}
 {{movesB|Beat_Up}}
@@ -88,7 +97,7 @@
 {{movesB|Screech}}
 {{movesB|Uproar}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
@@ -146,7 +155,7 @@
 {{movesTm|Uproar}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ground}}
 {{moves|Agility}}
 {{moves|Ancient_Power}}
 {{moves|Attract}}

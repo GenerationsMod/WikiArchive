@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Glameow_(Pok%C3%A9mon) Glameow] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Cheri Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Temperate]]
+{{SpawnInfo|type1=Normal|biome=[[Temperate]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=85}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Fake_Out}}
 {{movesLvl|5|Scratch}}
 {{movesLvl|8|Growl}}
@@ -68,7 +68,7 @@
 {{movesLvl|48|Hone_Claws}}
 {{movesLvl|50|Play_Rough}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Assurance}}
 {{movesB|Bite}}
 {{movesB|Fake_Tears}}
@@ -80,7 +80,7 @@
 {{movesB|Tail_Whip}}
 {{movesB|Wake-Up_Slap}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Captivate}}
@@ -125,7 +125,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Assurance}}
 {{moves|Covet}}
 {{moves|Fake_Out}}

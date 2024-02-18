@@ -29,10 +29,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Walking Wake_(Pok%C3%A9mon) Walking Wake] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 |}
 |}
-{{SpawnInfo|biome=[[River]]
+{{SpawnInfo|type1=Water|biome=[[River]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -50,7 +50,7 @@
 |spe=109}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Aqua_Jet}}
 {{movesLvl|1|Hone_Claws}}
 {{movesLvl|1|Leer}}
@@ -69,9 +69,9 @@
 {{movesLvl|77|Flamethrower}}
 {{movesLvl|84|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Body_Slam}}
 {{movesTm|Chilling_Water}}
@@ -108,7 +108,7 @@
 {{movesTm|Waterfall}}
 {{movesTm|Water_Pulse}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Dragon_Pulse}}
 {{moves|Flamethrower}}
 {{moves|Hydrosteam}}

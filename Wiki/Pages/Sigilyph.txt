@@ -29,12 +29,39 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Sigilyph_(Pok%C3%A9mon) Sigilyph] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 {{Drop|Light Clay|1|100}}
 {{Drop|Colbur Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[The Bumblezone:Howling Constructs]]
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=24-49
+}}
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=24-49
+}}
+{{SpawnInfo|type1=Psychic|biome=[[End]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=24-49
+}}
+{{SpawnInfo|type1=Psychic|biome=[[The Bumblezone:Howling Constructs]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +79,7 @@
 |spe=97}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Confusion}}
 {{movesLvl|1|Gust}}
 {{movesLvl|1|Miracle_Eye}}
@@ -73,7 +100,7 @@
 {{movesLvl|55|Sky_Attack}}
 {{movesLvl|60|Skill_Swap}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 {{movesB|Ancient_Power}}
 {{movesB|Future_Sight}}
 {{movesB|Psycho_Shift}}
@@ -82,7 +109,7 @@
 {{movesB|Steel_Wing}}
 {{movesB|Stored_Power}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
 {{movesTm|Attract}}
@@ -146,7 +173,7 @@
 {{movesTm|Trick_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Dark_Pulse}}
 {{moves|Defog}}
 {{moves|Dual_Wingbeat}}

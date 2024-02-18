@@ -5,7 +5,7 @@
 |ndex=944
 |type1=Poison
 |type2=Normal
-|ability1=Unburden|ability2=Pickpocket
+|ability1=Pickpocket|ability2=Unburden
 |abilityH=Prankster
 |genderm=50.0
 |abilityS=
@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Shroodle_(Pok%C3%A9mon) Shroodle] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Poison}}
 {{Drop|Nanab Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Jungle]], [[Tropical Island]]
+{{SpawnInfo|type1=Poison|biome=[[Jungle]], [[Tropical Island]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=75}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Poison}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Scratch}}
 {{movesLvl|5|Acid_Spray}}
@@ -68,7 +68,7 @@
 {{movesLvl|40|Knock_Off}}
 {{movesLvl|45|Gunk_Shot}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Poison}}
 {{movesB|Copycat}}
 {{movesB|Cross_Poison}}
 {{movesB|Parting_Shot}}
@@ -76,7 +76,7 @@
 {{movesB|Swagger}}
 {{movesB|Toxic}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Acrobatics}}
 {{movesTm|Baton_Pass}}
@@ -110,7 +110,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Venoshock}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=943|prev=Kilowattrel|dexnext=945|next=Farigiraf}}

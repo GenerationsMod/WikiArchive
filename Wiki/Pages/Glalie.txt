@@ -29,14 +29,14 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Glalie_(Pok%C3%A9mon) Glalie] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ice}}
 {{Drop|Snowball|1|100}}
 {{Drop|Dawn Stone|1|100}}
 {{Drop|Never Melt Ice|1|100}}
 {{Drop|Babiri Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Cold]]
+{{SpawnInfo|type1=Ice|biome=[[Cold]]|
 |antibiome=[[Abyss]]
 |location=Underground
 |antilocation=Underground
@@ -54,7 +54,7 @@
 |spe=80}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ice}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Double_Team}}
 {{movesLvl|1|Freeze-Dry}}
@@ -75,9 +75,9 @@
 {{movesLvl|61|Crunch}}
 {{movesLvl|68|Blizzard}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
 {{movesTm|Blizzard}}
@@ -139,7 +139,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Weather_Ball}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ice}}
 {{moves|Block}}
 {{moves|Body_Slam}}
 {{moves|Dark_Pulse}}

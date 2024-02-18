@@ -5,7 +5,7 @@
 |ndex=677
 |type1=Psychic
 |type2=
-|ability1=Infiltrator|ability2=Keeneye
+|ability1=Keeneye|ability2=Infiltrator
 |abilityH=Owntempo
 |genderm=50.0
 |abilityS=
@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Espurr_(Pok%C3%A9mon) Espurr] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 {{Drop|Colbur Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Temperate]]
+{{SpawnInfo|type1=Psychic|biome=[[Temperate]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=68}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Scratch}}
 {{movesLvl|3|Fake_Out}}
@@ -63,14 +63,14 @@
 {{movesLvl|30|Reflect}}
 {{movesLvl|33|Psyshock}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 {{movesB|Assist}}
 {{movesB|Barrier}}
 {{movesB|Tickle}}
 {{movesB|Trick}}
 {{movesB|Yawn}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
 {{movesTm|Calm_Mind}}
@@ -124,7 +124,7 @@
 {{movesTm|Work_Up}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Ally_Switch}}
 {{moves|Covet}}
 {{moves|Expanding_Force}}

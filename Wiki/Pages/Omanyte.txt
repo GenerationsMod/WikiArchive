@@ -5,7 +5,7 @@
 |ndex=138
 |type1=Rock
 |type2=Water
-|ability1=Swiftswim|ability2=Shellarmor
+|ability1=Shellarmor|ability2=Swiftswim
 |abilityH=Weakarmor
 |genderm=87.5
 |abilityS=
@@ -29,12 +29,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Omanyte_(Pok%C3%A9mon) Omanyte] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Rock}}
 {{Drop|Nautilus Shell|1|100}}
 {{Drop|Bone Meal|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Lush]]
+{{SpawnInfo|type1=Rock|biome=[[Lush]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=11-36
+}}
+{{SpawnInfo|type1=Rock|biome=[[Lush]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +61,7 @@
 |spe=35}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Rock}}
 {{movesLvl|1|Bind}}
 {{movesLvl|1|Constrict}}
 {{movesLvl|1|Withdraw}}
@@ -71,7 +80,7 @@
 {{movesLvl|55|Shell_Smash}}
 {{movesLvl|60|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Rock}}
 {{movesB|Aurora_Beam}}
 {{movesB|Bide}}
 {{movesB|Bite}}
@@ -90,7 +99,7 @@
 {{movesB|Whirlpool}}
 {{movesB|Wring_Out}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Body_Slam}}
@@ -141,7 +150,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Rock}}
 {{moves|Ancient_Power}}
 {{moves|Attract}}
 {{moves|Aurora_Beam}}

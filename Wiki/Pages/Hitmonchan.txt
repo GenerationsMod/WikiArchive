@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Hitmonchan_(Pok%C3%A9mon) Hitmonchan] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fighting}}
 {{Drop|Black Belt|1|100}}
 {{Drop|Payapa Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Hills]]
+{{SpawnInfo|type1=Fighting|biome=[[Hills]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=76}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fighting}}
 {{movesLvl|1|Bullet_Punch}}
 {{movesLvl|1|Comet_Punch}}
 {{movesLvl|1|Fake_Out}}
@@ -77,9 +77,9 @@
 {{movesLvl|41|Sky_Uppercut}}
 {{movesLvl|44|Focus_Punch}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
 {{movesTm|Aura_Sphere}}
@@ -138,7 +138,7 @@
 {{movesTm|Uproar}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fighting}}
 {{moves|Agility}}
 {{moves|Attract}}
 {{moves|Bide}}

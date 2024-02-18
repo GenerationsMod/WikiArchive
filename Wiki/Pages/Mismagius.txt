@@ -29,12 +29,48 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Mismagius_(Pok%C3%A9mon) Mismagius] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ghost}}
 {{Drop|Spell Tag|1|100}}
 {{Drop|Kasib Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Warped]]
+{{SpawnInfo|type1=Ghost|biome=[[Spooky]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=39-50
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Spooky]], [[Swamp]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=39-50
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Spooky]], [[Swamp]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=39-50
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Swamp]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=39-50
+}}
+{{SpawnInfo|type1=Ghost|biome=[[Nether Warped]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +88,7 @@
 |spe=105}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ghost}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Lucky_Chant}}
@@ -63,9 +99,9 @@
 {{movesLvl|1|Psywave}}
 {{movesLvl|1|Spite}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Calm_Mind}}
@@ -139,7 +175,7 @@
 {{movesTm|Trick_Room}}
 {{movesTm|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ghost}}
 {{moves|Ally_Switch}}
 {{moves|Dark_Pulse}}
 {{moves|Foul_Play}}

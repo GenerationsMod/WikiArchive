@@ -5,7 +5,7 @@
 |ndex=942
 |type1=Dark
 |type2=
-|ability1=Runaway|ability2=Intimidate
+|ability1=Intimidate|ability2=Runaway
 |abilityH=Stakeout
 |genderm=50.0
 |abilityS=
@@ -29,13 +29,40 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Maschiff_(Pok%C3%A9mon) Maschiff] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Dark}}
 {{Drop|Bone|1|100}}
 {{Drop|Rotten Flesh|1|100}}
 {{Drop|Tanga Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Dark|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=9-34
+}}
+{{SpawnInfo|type1=Dark|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=9-34
+}}
+{{SpawnInfo|type1=Dark|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=9-34
+}}
+{{SpawnInfo|type1=Dark|biome=[[Overworld]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +80,7 @@
 |spe=51}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Dark}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Scary_Face}}
 {{movesLvl|1|Tackle}}
@@ -70,13 +97,13 @@
 {{movesLvl|43|Jaw_Lock}}
 {{movesLvl|49|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Dark}}
 {{movesB|Destiny_Bond}}
 {{movesB|Endeavor}}
 {{movesB|Play_Rough}}
 {{movesB|Retaliate}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Body_Slam}}
 {{movesTm|Charm}}
 {{movesTm|Crunch}}
@@ -106,7 +133,7 @@
 {{movesTm|Thunder_Fang}}
 {{movesTm|Trailblaze}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=941|prev=Bellibolt|dexnext=943|next=Kilowattrel}}

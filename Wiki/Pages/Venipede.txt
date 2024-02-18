@@ -5,7 +5,7 @@
 |ndex=543
 |type1=Bug
 |type2=Poison
-|ability1=Swarm|ability2=Poisonpoint
+|ability1=Poisonpoint|ability2=Swarm
 |abilityH=Speedboost
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,39 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Venipede_(Pok%C3%A9mon) Venipede] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Poison Barb|1|100}}
 {{Drop|Pecha Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Forest]], [[Nether Fungus]]
+{{SpawnInfo|type1=Bug|biome=[[Forest]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=uncommon
+|levelrange=1-26
+}}
+{{SpawnInfo|type1=Bug|biome=[[Jungle]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=1-26
+}}
+{{SpawnInfo|type1=Bug|biome=[[Lush]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=1-26
+}}
+{{SpawnInfo|type1=Bug|biome=[[Nether Forest]], [[Nether Fungus]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +79,7 @@
 |spe=57}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Defense_Curl}}
 {{movesLvl|1|Poison_Sting}}
 {{movesLvl|4|Rollout}}
@@ -70,7 +97,7 @@
 {{movesLvl|40|Venom_Drench}}
 {{movesLvl|44|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 {{movesB|Bite}}
 {{movesB|Fury_Cutter}}
 {{movesB|Pin_Missile}}
@@ -80,7 +107,7 @@
 {{movesB|Toxic_Spikes}}
 {{movesB|Twineedle}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
 {{movesTm|Confide}}
@@ -117,7 +144,7 @@
 {{movesTm|Venom_Drench}}
 {{movesTm|Venoshock}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Bug_Bite}}
 {{moves|Endeavor}}
 {{moves|Iron_Defense}}

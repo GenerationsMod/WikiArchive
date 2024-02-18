@@ -5,7 +5,7 @@
 |ndex=140
 |type1=Rock
 |type2=Water
-|ability1=Swiftswim|ability2=Battlearmor
+|ability1=Battlearmor|ability2=Swiftswim
 |abilityH=Weakarmor
 |genderm=87.5
 |abilityS=
@@ -29,12 +29,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Kabuto_(Pok%C3%A9mon) Kabuto] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Rock}}
 {{Drop|Scute|1|100}}
 {{Drop|Bone Meal|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Lush]]
+{{SpawnInfo|type1=Rock|biome=[[Lush]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=11-36
+}}
+{{SpawnInfo|type1=Rock|biome=[[Lush]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +61,7 @@
 |spe=55}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Rock}}
 {{movesLvl|1|Absorb}}
 {{movesLvl|1|Harden}}
 {{movesLvl|5|Scratch}}
@@ -71,7 +80,7 @@
 {{movesLvl|55|Metal_Sound}}
 {{movesLvl|60|Stone_Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Rock}}
 {{movesB|Aurora_Beam}}
 {{movesB|Bubble_Beam}}
 {{movesB|Confuse_Ray}}
@@ -87,7 +96,7 @@
 {{movesB|Screech}}
 {{movesB|Take_Down}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -141,7 +150,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Rock}}
 {{moves|Absorb}}
 {{moves|Ancient_Power}}
 {{moves|Aqua_Jet}}

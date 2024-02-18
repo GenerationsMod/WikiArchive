@@ -31,10 +31,10 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Ninjask_(Pok%C3%A9mon) Ninjask] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]], [[Jungle]]
+{{SpawnInfo|type1=Bug|biome=[[Forest]], [[Jungle]]|
 |antibiome=[[Freezing]]
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=160}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Aerial_Ace}}
 {{movesLvl|1|Baton_Pass}}
 {{movesLvl|1|Dig}}
@@ -75,9 +75,9 @@
 {{movesLvl|57|Swords_Dance}}
 {{movesLvl|64|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -128,7 +128,7 @@
 {{movesTm|U-turn}}
 {{movesTm|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Air_Cutter}}
 {{moves|Bug_Bite}}
 {{moves|Defog}}

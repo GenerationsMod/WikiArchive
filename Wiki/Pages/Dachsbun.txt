@@ -31,12 +31,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Dachsbun_(Pok%C3%A9mon) Dachsbun] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fairy}}
 {{Drop|Bread|1|100}}
 {{Drop|Nanab Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Fairy|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=26-48
+}}
+{{SpawnInfo|type1=Fairy|biome=[[Overworld]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +63,7 @@
 |spe=95}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fairy}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|3|Lick}}
@@ -71,9 +80,9 @@
 {{movesLvl|47|Crunch}}
 {{movesLvl|53|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Agility}}
 {{movesTm|Baton_Pass}}
 {{movesTm|Body_Press}}
@@ -109,7 +118,7 @@
 {{movesTm|Thunder_Fang}}
 {{movesTm|Trailblaze}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=926|prev=Maushold|dexnext=928|next=Dachsbun}}

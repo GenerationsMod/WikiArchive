@@ -29,13 +29,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Dugtrio_(Pok%C3%A9mon) Dugtrio] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Ground}}
 {{Drop|Potato|1|100}}
 {{Drop|Big Root|1|100}}
 {{Drop|Soft Sand|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Ground|biome=[[Overworld]]|
+|antibiome=[[Abyss]]
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=26-42
+}}
+{{SpawnInfo|type1=Ground|biome=[[Overworld]]|
 |antibiome=[[Abyss]]
 |location=Underground
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=120}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Ground}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Night_Slash}}
@@ -75,9 +84,9 @@
 {{movesLvl|48|Earthquake}}
 {{movesLvl|54|Fissure}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
@@ -141,7 +150,7 @@
 {{movesTm|Uproar}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Ground}}
 {{moves|Agility}}
 {{moves|Attract}}
 {{moves|Bide}}

@@ -31,13 +31,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Pansear_(Pok%C3%A9mon) Pansear] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Fire Stone|1|100}}
 {{Drop|Charcoal Stick|1|100}}
 {{Drop|Passho Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Jungle]]
+{{SpawnInfo|type1=Fire|biome=[[Jungle]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -55,7 +55,7 @@
 |spe=64}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Play_Nice}}
 {{movesLvl|1|Scratch}}
 {{movesLvl|4|Leer}}
@@ -73,7 +73,7 @@
 {{movesLvl|40|Natural_Gift}}
 {{movesLvl|43|Crunch}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 {{movesB|Astonish}}
 {{movesB|Belch}}
 {{movesB|Covet}}
@@ -88,7 +88,7 @@
 {{movesB|Sleep_Talk}}
 {{movesB|Tickle}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
 {{movesTm|Confide}}
@@ -128,7 +128,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Covet}}
 {{moves|Endeavor}}
 {{moves|Fire_Pledge}}

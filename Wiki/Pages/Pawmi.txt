@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Pawmi_(Pok%C3%A9mon) Pawmi] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Electric}}
 {{Drop|Cheri Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Floral]]
+{{SpawnInfo|type1=Electric|biome=[[Floral]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Electric}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Scratch}}
 {{movesLvl|3|Thunder_Shock}}
@@ -68,13 +68,13 @@
 {{movesLvl|40|Agility}}
 {{movesLvl|44|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Electric}}
 {{movesB|Fake_Out}}
 {{movesB|Mach_Punch}}
 {{movesB|Sweet_Kiss}}
 {{movesB|Wish}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
 {{movesTm|Baton_Pass}}
 {{movesTm|Charge_Beam}}
@@ -108,7 +108,7 @@
 {{movesTm|Volt_Switch}}
 {{movesTm|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=920|prev=Lokix|dexnext=922|next=Pawmo}}

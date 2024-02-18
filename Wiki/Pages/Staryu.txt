@@ -29,10 +29,19 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Staryu_(Pok%C3%A9mon) Staryu] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 |}
 |}
-{{SpawnInfo|biome=[[Ocean]]
+{{SpawnInfo|type1=Water|biome=[[Coast]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=uncommon
+|levelrange=9-34
+}}
+{{SpawnInfo|type1=Water|biome=[[Ocean]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -50,7 +59,7 @@
 |spe=85}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Harden}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|4|Water_Gun}}
@@ -73,9 +82,9 @@
 {{movesLvl|52|Cosmic_Power}}
 {{movesLvl|56|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Blizzard}}
 {{movesTm|Brine}}
 {{movesTm|Confide}}
@@ -123,7 +132,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Attract}}
 {{moves|Bide}}
 {{moves|Blizzard}}

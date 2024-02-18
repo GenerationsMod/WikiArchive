@@ -29,11 +29,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Gholdengo_(Pok%C3%A9mon) Gholdengo] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Steel}}
 {{Drop|Gold Nugget|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Badlands]]
+{{SpawnInfo|type1=Steel|biome=[[Badlands]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -51,7 +51,7 @@
 |spe=84}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Steel}}
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|7|Night_Shade}}
@@ -65,9 +65,9 @@
 {{movesLvl|63|Nasty_Plot}}
 {{movesLvl|70|Memento}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Charge_Beam}}
 {{movesTm|Confuse_Ray}}
 {{movesTm|Dazzling_Gleam}}
@@ -106,7 +106,7 @@
 {{movesTm|Thunder_Wave}}
 {{movesTm|Trick}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=999|prev=Gimmighoul|dexnext=1001|next=Wo-Chien}}

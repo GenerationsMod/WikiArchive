@@ -5,7 +5,7 @@
 |ndex=097
 |type1=Psychic
 |type2=
-|ability1=Insomnia|ability2=Forewarn
+|ability1=Forewarn|ability2=Insomnia
 |abilityH=Innerfocus
 |genderm=50.0
 |abilityS=
@@ -29,11 +29,20 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Hypno_(Pok%C3%A9mon) Hypno] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 {{Drop|Chesto Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
+|antibiome=[[Freezing]]
+|location=Land
+|antilocation=Underground
+|time=night
+|antitime=Any
+|rarity=common
+|levelrange=26-48
+}}
+{{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
 |antibiome=[[Freezing]]
 |location=Land
 |antilocation=Underground
@@ -51,7 +60,7 @@
 |spe=67}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Confusion}}
 {{movesLvl|1|Disable}}
 {{movesLvl|1|Hypnosis}}
@@ -72,9 +81,9 @@
 {{movesLvl|51|Psyshock}}
 {{movesLvl|56|Future_Sight}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
 {{movesTm|Body_Press}}
@@ -153,7 +162,7 @@
 {{movesTm|Trick_Room}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Ally_Switch}}
 {{moves|Attract}}
 {{moves|Barrier}}

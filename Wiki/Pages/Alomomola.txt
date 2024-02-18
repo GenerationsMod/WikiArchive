@@ -29,13 +29,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Alomomola_(Pok%C3%A9mon) Alomomola] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Cod|1|100}}
 {{Drop|Bone Meal|1|100}}
 {{Drop|Deep Sea Scale|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Ocean]]
+{{SpawnInfo|type1=Water|biome=[[Ocean]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Play_Nice}}
 {{movesLvl|1|Pound}}
 {{movesLvl|1|Water_Sport}}
@@ -74,7 +74,7 @@
 {{movesLvl|49|Whirlpool}}
 {{movesLvl|55|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Bounce}}
 {{movesB|Endure}}
 {{movesB|Mirror_Coat}}
@@ -83,7 +83,7 @@
 {{movesB|Refresh}}
 {{movesB|Tickle}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -133,7 +133,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Aqua_Ring}}
 {{moves|Bounce}}
 {{moves|Helping_Hand}}

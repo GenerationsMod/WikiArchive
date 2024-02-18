@@ -31,11 +31,29 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Metang_(Pok%C3%A9mon) Metang] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Steel}}
 {{Drop|Metal Coat|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[The Bumblezone:Howling Constructs]]
+{{SpawnInfo|type1=Steel|biome=[[Dripstone]], [[Peak]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=20-44
+}}
+{{SpawnInfo|type1=Steel|biome=[[End]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=20-44
+}}
+{{SpawnInfo|type1=Steel|biome=[[The Bumblezone:Howling Constructs]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +71,7 @@
 |spe=50}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Steel}}
 {{movesLvl|1|Bullet_Punch}}
 {{movesLvl|1|Confusion}}
 {{movesLvl|1|Metal_Claw}}
@@ -71,9 +89,9 @@
 {{movesLvl|66|Agility}}
 {{movesLvl|74|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
@@ -137,7 +155,7 @@
 {{movesTm|Trick}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Steel}}
 {{moves|Ally_Switch}}
 {{moves|Body_Slam}}
 {{moves|Confusion}}

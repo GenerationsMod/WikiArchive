@@ -29,13 +29,40 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Poliwhirl_(Pok%C3%A9mon) Poliwhirl] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Kings Rock|1|100}}
 {{Drop|Chesto Berry|1|100}}
 {{Drop|Poliwhirl Doll|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Lush]]
+{{SpawnInfo|type1=Water|biome=|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=25-39
+}}
+{{SpawnInfo|type1=Water|biome=|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=25-39
+}}
+{{SpawnInfo|type1=Water|biome=[[Lush]]|
+|antibiome=
+|location=Underground
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=25-39
+}}
+{{SpawnInfo|type1=Water|biome=[[Lush]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -53,7 +80,7 @@
 |spe=90}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Hypnosis}}
 {{movesLvl|1|Mud_Shot}}
 {{movesLvl|1|Pound}}
@@ -71,9 +98,9 @@
 {{movesLvl|56|Belly_Drum}}
 {{movesLvl|66|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Body_Slam}}
@@ -127,7 +154,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Amnesia}}
 {{moves|Attract}}
 {{moves|Belly_Drum}}

@@ -5,7 +5,7 @@
 |ndex=349
 |type1=Water
 |type2=
-|ability1=Swiftswim|ability2=Oblivious
+|ability1=Oblivious|ability2=Swiftswim
 |abilityH=Adaptability
 |genderm=50.0
 |abilityS=
@@ -29,13 +29,13 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Feebas_(Pok%C3%A9mon) Feebas] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Salmon|1|100}}
 {{Drop|Bone Meal|1|100}}
 {{Drop|Prism Scale|1|100}}
 |}
 |}
-{{SpawnInfo|biome=
+{{SpawnInfo|type1=Water|biome=|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,12 +53,12 @@
 |spe=80}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Splash}}
 {{movesLvl|15|Tackle}}
 {{movesLvl|25|Flail}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Brine}}
 {{movesB|Captivate}}
 {{movesB|Confuse_Ray}}
@@ -73,7 +73,7 @@
 {{movesB|Mud_Sport}}
 {{movesB|Tickle}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Brine}}
@@ -112,7 +112,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Captivate}}
 {{moves|Dive}}
 {{moves|Double-Edge}}

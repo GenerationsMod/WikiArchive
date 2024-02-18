@@ -31,14 +31,23 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Combee_(Pok%C3%A9mon) Combee] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Bug}}
 {{Drop|Honey Bottle|1|100}}
 {{Drop|Honeycomb|1|100}}
 {{Drop|Poison Barb|1|100}}
 {{Drop|Charti Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[The Bumblezone]]
+{{SpawnInfo|type1=Bug|biome=[[Temperate]]|
+|antibiome=[[Freezing]], [[Spooky]]
+|location=Land
+|antilocation=Underground
+|time=day
+|antitime=Any
+|rarity=common
+|levelrange=1-24
+}}
+{{SpawnInfo|type1=Bug|biome=[[The Bumblezone]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -56,7 +65,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Bug_Bite}}
 {{movesLvl|1|Gust}}
 {{movesLvl|1|Struggle_Bug}}
@@ -64,16 +73,16 @@
 {{movesLvl|13|Bug_Bite}}
 {{movesLvl|29|Bug_Buzz}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Bug_Buzz}}
 {{movesTm|Sleep_Talk}}
 {{movesTm|Snore}}
 {{movesTm|Struggle_Bug}}
 {{movesTm|Tera_Blast}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Air_Cutter}}
 {{moves|Bug_Bite}}
 {{moves|Dual_Wingbeat}}

@@ -5,7 +5,7 @@
 |ndex=083
 |type1=Normal
 |type2=Flying
-|ability1=Innerfocus|ability2=Keeneye
+|ability1=Keeneye|ability2=Innerfocus
 |abilityH=Defiant
 |genderm=50.0
 |abilityS=
@@ -29,14 +29,23 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Farfetchd_(Pok%C3%A9mon) Farfetchd] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Feather|1|100}}
 {{Drop|Chicken|1|100}}
 {{Drop|Medicinal Leek|1|100}}
 {{Drop|Chilan Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Forest]]
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=13-38
+}}
+{{SpawnInfo|type1=Normal|biome=[[Forest]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -54,7 +63,7 @@
 |spe=60}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Peck}}
 {{movesLvl|1|Poison_Jab}}
 {{movesLvl|1|Sand_Attack}}
@@ -76,7 +85,7 @@
 {{movesLvl|60|Agility}}
 {{movesLvl|65|Brave_Bird}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Covet}}
 {{movesB|Curse}}
 {{movesB|Feather_Dance}}
@@ -98,7 +107,7 @@
 {{movesB|Steel_Wing}}
 {{movesB|Trump_Card}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -153,7 +162,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Aerial_Ace}}
 {{moves|Agility}}
 {{moves|Air_Cutter}}

@@ -5,7 +5,7 @@
 |ndex=506
 |type1=Normal
 |type2=
-|ability1=Vitalspirit|ability2=Pickup
+|ability1=Pickup|ability2=Vitalspirit
 |abilityH=Runaway
 |genderm=50.0
 |abilityS=
@@ -29,13 +29,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Lillipup_(Pok%C3%A9mon) Lillipup] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Bone|1|100}}
 {{Drop|Blue Wool|1|100}}
 {{Drop|Chilan Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=[[Desert]]
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=3-28
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
 |antibiome=[[Desert]]
 |location=Land
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=55}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|4|Work_Up}}
@@ -70,7 +79,7 @@
 {{movesLvl|44|Last_Resort}}
 {{movesLvl|48|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|After_You}}
 {{movesB|Charm}}
 {{movesB|Covet}}
@@ -86,7 +95,7 @@
 {{movesB|Thunder_Fang}}
 {{movesB|Yawn}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
 {{movesTm|Charm}}
@@ -132,7 +141,7 @@
 {{movesTm|Wild_Charge}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|After_You}}
 {{moves|Covet}}
 {{moves|Helping_Hand}}

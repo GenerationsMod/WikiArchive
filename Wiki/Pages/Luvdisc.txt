@@ -31,11 +31,11 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Luvdisc_(Pok%C3%A9mon) Luvdisc] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Deep Sea Scale|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Warm Ocean]]
+{{SpawnInfo|type1=Water|biome=[[Warm Ocean]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +53,7 @@
 |spe=97}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Charm}}
 {{movesLvl|1|Tackle}}
 {{movesLvl|4|Water_Gun}}
@@ -74,7 +74,7 @@
 {{movesLvl|46|Hydro_Pump}}
 {{movesLvl|49|Safeguard}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Aqua_Jet}}
 {{movesB|Aqua_Ring}}
 {{movesB|Brine}}
@@ -86,7 +86,7 @@
 {{movesB|Supersonic}}
 {{movesB|Water_Sport}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -128,7 +128,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Bounce}}
 {{moves|Charm}}
 {{moves|Dive}}

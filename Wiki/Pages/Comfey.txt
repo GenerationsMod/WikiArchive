@@ -29,12 +29,30 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Comfey_(Pok%C3%A9mon) Comfey] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fairy}}
 {{Drop|Misty Seed|1|100}}
 {{Drop|Kebia Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[The Bumblezone:Floral Meadow]]
+{{SpawnInfo|type1=Fairy|biome=[[Floral]], [[Tropical Island]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=uncommon
+|levelrange=24-49
+}}
+{{SpawnInfo|type1=Fairy|biome=[[Overworld]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=rare
+|levelrange=24-49
+}}
+{{SpawnInfo|type1=Fairy|biome=[[The Bumblezone:Floral Meadow]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -52,7 +70,7 @@
 |spe=100}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fairy}}
 {{movesLvl|1|Growth}}
 {{movesLvl|1|Wrap}}
 {{movesLvl|3|Vine_Whip}}
@@ -73,7 +91,7 @@
 {{movesLvl|45|Petal_Dance}}
 {{movesLvl|48|Grassy_Terrain}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 {{movesB|After_You}}
 {{movesB|Amnesia}}
 {{movesB|Endure}}
@@ -81,7 +99,7 @@
 {{movesB|Lucky_Chant}}
 {{movesB|Worry_Seed}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Acrobatics}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Amnesia}}
@@ -132,7 +150,7 @@
 {{movesTm|Trick_Room}}
 {{movesTm|U-turn}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fairy}}
 {{moves|After_You}}
 {{moves|Ally_Switch}}
 {{moves|Bind}}

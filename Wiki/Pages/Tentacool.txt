@@ -5,7 +5,7 @@
 |ndex=072
 |type1=Water
 |type2=Poison
-|ability1=Liquidooze|ability2=Clearbody
+|ability1=Clearbody|ability2=Liquidooze
 |abilityH=Raindish
 |genderm=50.0
 |abilityS=
@@ -29,13 +29,22 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Tentacool_(Pok%C3%A9mon) Tentacool] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Water}}
 {{Drop|Ink Sac|1|100}}
 {{Drop|Glow Ink Sac|1|100}}
 {{Drop|Poison Barb|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Ocean]]
+{{SpawnInfo|type1=Water|biome=[[Deep Ocean]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=common
+|levelrange=9-34
+}}
+{{SpawnInfo|type1=Water|biome=[[Ocean]]|
 |antibiome=[[Deep Ocean]]
 |location=Land
 |antilocation=Underground
@@ -53,7 +62,7 @@
 |spe=70}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Water}}
 {{movesLvl|1|Poison_Sting}}
 {{movesLvl|1|Water_Gun}}
 {{movesLvl|4|Acid}}
@@ -75,7 +84,7 @@
 {{movesLvl|48|Hydro_Pump}}
 {{movesLvl|49|Wring_Out}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Water}}
 {{movesB|Acupressure}}
 {{movesB|Aqua_Ring}}
 {{movesB|Aurora_Beam}}
@@ -89,7 +98,7 @@
 {{movesB|Safeguard}}
 {{movesB|Tickle}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
 {{movesTm|Brine}}
@@ -141,7 +150,7 @@
 {{movesTm|Water_Pulse}}
 {{movesTm|Whirlpool}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Water}}
 {{moves|Acid}}
 {{moves|Acupressure}}
 {{moves|Attract}}

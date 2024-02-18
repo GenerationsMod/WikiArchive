@@ -31,12 +31,21 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Emboar_(Pok%C3%A9mon) Emboar] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Fire}}
 {{Drop|Porkchop|1|100}}
 {{Drop|Charcoal Stick|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Nether Crimson]], [[Nether Overgrowth]]
+{{SpawnInfo|type1=Fire|biome=[[Plains]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=Any
+|antitime=Any
+|rarity=ultra-rare
+|levelrange=36-53
+}}
+{{SpawnInfo|type1=Fire|biome=[[Nether Crimson]], [[Nether Overgrowth]]|
 |antibiome=
 |location=Underground
 |antilocation=Underground
@@ -54,7 +63,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Fire}}
 {{movesLvl|1|Arm_Thrust}}
 {{movesLvl|1|Ember}}
 {{movesLvl|1|Hammer_Arm}}
@@ -73,9 +82,9 @@
 {{movesLvl|55|Roar}}
 {{movesLvl|62|Flare_Blitz}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Attract}}
 {{movesTm|Brick_Break}}
 {{movesTm|Bulk_Up}}
@@ -125,7 +134,7 @@
 {{movesTm|Will-O-Wisp}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Blast_Burn}}
 {{moves|Block}}
 {{moves|Covet}}

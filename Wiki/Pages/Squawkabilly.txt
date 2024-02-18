@@ -29,13 +29,40 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Squawkabilly_(Pok%C3%A9mon) Squawkabilly] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Feather|1|100}}
 {{Drop|Chicken|1|100}}
 {{Drop|Chilan Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Sky]]
+{{SpawnInfo|type1=Normal|biome=[[Jungle]], [[Savanna]], [[Tropical Island]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=day
+|antitime=Any
+|rarity=common
+|levelrange=17-42
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=[[Freezing]], [[Sandy]]
+|location=Land
+|antilocation=Underground
+|time=day
+|antitime=Any
+|rarity=common
+|levelrange=17-42
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=[[Freezing]], [[Sandy]]
+|location=Land
+|antilocation=Underground
+|time=day
+|antitime=Any
+|rarity=common
+|levelrange=17-42
+}}
+{{SpawnInfo|type1=Normal|biome=[[Sky]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -53,7 +80,7 @@
 |spe=92}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Mimic}}
 {{movesLvl|1|Peck}}
@@ -71,13 +98,13 @@
 {{movesLvl|47|Roost}}
 {{movesLvl|52|Reversal}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 {{movesB|Double-Edge}}
 {{movesB|Final_Gambit}}
 {{movesB|Flatter}}
 {{movesB|Parting_Shot}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Cutter}}
 {{movesTm|Air_Slash}}
@@ -108,7 +135,7 @@
 {{movesTm|Thief}}
 {{movesTm|U-turn}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=930|prev=Dolliv|dexnext=932|next=Squawkabilly}}

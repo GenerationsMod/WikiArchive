@@ -5,7 +5,7 @@
 |ndex=955
 |type1=Psychic
 |type2=
-|ability1=Anticipation|ability2=Frisk
+|ability1=Frisk|ability2=Anticipation
 |abilityH=Speedboost
 |genderm=50.0
 |abilityS=
@@ -29,12 +29,12 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Flittle_(Pok%C3%A9mon) Flittle] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Psychic}}
 {{Drop|Chicken|1|100}}
 {{Drop|Tanga Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Arid]]
+{{SpawnInfo|type1=Psychic|biome=[[Arid]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
@@ -52,7 +52,7 @@
 |spe=75}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Peck}}
 {{movesLvl|5|Confusion}}
@@ -64,12 +64,12 @@
 {{movesLvl|29|Agility}}
 {{movesLvl|34|Uproar}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 {{movesB|Ally_Switch}}
 {{movesB|Hypnosis}}
 {{movesB|Roost}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Agility}}
 {{movesTm|Baton_Pass}}
 {{movesTm|Calm_Mind}}
@@ -106,7 +106,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Zen_Headbutt}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=954|prev=Klawf|dexnext=956|next=Scovillain}}

@@ -5,7 +5,7 @@
 |ndex=520
 |type1=Normal
 |type2=Flying
-|ability1=Bigpecks|ability2=Superluck
+|ability1=Superluck|ability2=Bigpecks
 |abilityH=Rivalry
 |genderm=50.0
 |abilityS=
@@ -29,14 +29,32 @@
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Tranquill_(Pok%C3%A9mon) Tranquill] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
-{{PokeDrops|Unknown}}
+{{PokeDrops|type1=Normal}}
 {{Drop|Feather|1|100}}
 {{Drop|Chicken|1|100}}
 {{Drop|Sharp Beak|1|100}}
 {{Drop|Razz Berry|1|100}}
 |}
 |}
-{{SpawnInfo|biome=[[Overworld]]
+{{SpawnInfo|type1=Normal|biome=[[Mountain]], [[Sky]]|
+|antibiome=
+|location=Land
+|antilocation=Underground
+|time=day
+|antitime=Any
+|rarity=common
+|levelrange=21-36
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
+|antibiome=[[Arid]], [[Tundra]]
+|location=Land
+|antilocation=Underground
+|time=day
+|antitime=Any
+|rarity=common
+|levelrange=21-36
+}}
+{{SpawnInfo|type1=Normal|biome=[[Overworld]]|
 |antibiome=[[Arid]], [[Tundra]]
 |location=Land
 |antilocation=Underground
@@ -54,7 +72,7 @@
 |spe=65}}
 
 {{MovesLayoutTop}}
-{{MovesAlign}}{{MovesLvlTop|Grass}}
+{{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Gust}}
 {{movesLvl|1|Leer}}
@@ -71,9 +89,9 @@
 {{movesLvl|50|Tailwind}}
 {{movesLvl|56|Sky_Attack}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
-{{MovesAlign}}{{MovesTmTop|Grass}}
+{{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
 {{movesTm|Air_Slash}}
@@ -109,7 +127,7 @@
 {{movesTm|U-turn}}
 {{movesTm|Work_Up}}
 |}
-{{MovesAlign}}{{MovesTop|Grass}}
+{{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Defog}}
 {{moves|Dual_Wingbeat}}
 {{moves|Heat_Wave}}
