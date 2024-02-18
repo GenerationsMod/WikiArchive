@@ -27,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=This creature's fur is most mysteriousâ€”it is wholly impervious to the burning touch of flame. Should Quilava turn its back to you, take heed! Such a posture indicates a forthcoming attack.
+|dexentry=This creature's fur is most mysterious-it is wholly impervious to the burning touch of flame. Should Quilava turn its back to you, take heed! Such a posture indicates a forthcoming attack.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Quilava_(Pok%C3%A9mon) Quilava] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -44,7 +44,7 @@
 |rarity=ultra-rare
 |levelrange=17-41
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fire|
 |hp=58
 |atk=64
 |def=58

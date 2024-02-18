@@ -5,7 +5,7 @@
 |ndex=605
 |type1=Psychic
 |type2=
-|ability1=Telepathy|ability2=Synchronize
+|ability1=Synchronize|ability2=Telepathy
 |abilityH=Analytic
 |genderm=50.0
 |abilityS=
@@ -62,7 +62,7 @@
 |rarity=common
 |levelrange=9-34
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Psychic|
 |hp=55
 |atk=55
 |def=55

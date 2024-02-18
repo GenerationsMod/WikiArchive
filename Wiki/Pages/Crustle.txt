@@ -5,7 +5,7 @@
 |ndex=558
 |type1=Bug
 |type2=Rock
-|ability1=Sturdy|ability2=Shellarmor
+|ability1=Shellarmor|ability2=Sturdy
 |abilityH=Weakarmor
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=common
 |levelrange=34-49
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=70
 |atk=105
 |def=125

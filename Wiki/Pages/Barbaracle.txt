@@ -5,7 +5,7 @@
 |ndex=689
 |type1=Rock
 |type2=Water
-|ability1=Toughclaws|ability2=Sniper
+|ability1=Sniper|ability2=Toughclaws
 |abilityH=Pickpocket
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=rare
 |levelrange=39-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Rock|
 |hp=72
 |atk=105
 |def=115

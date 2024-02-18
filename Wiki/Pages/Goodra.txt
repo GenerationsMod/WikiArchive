@@ -5,7 +5,7 @@
 |ndex=706
 |type1=Dragon
 |type2=
-|ability1=Hydration|ability2=Sapsipper
+|ability1=Sapsipper|ability2=Hydration
 |abilityH=Gooey
 |genderm=50.0
 |abilityS=
@@ -25,7 +25,7 @@
 |form=Hisui
 |alt1=
 |alt1dex=
-|dexentry=Able to freely control the hardness of its metallic shell. It loathes solitude and is extremely clingyâ€”it will fume and run riot if those dearest to it ever leave its side.
+|dexentry=Able to freely control the hardness of its metallic shell. It loathes solitude and is extremely clingy-it will fume and run riot if those dearest to it ever leave its side.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Goodra_(Pok%C3%A9mon) Goodra] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -52,7 +52,7 @@
 |rarity=rare
 |levelrange=55-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Dragon|
 |hp=90
 |atk=100
 |def=70

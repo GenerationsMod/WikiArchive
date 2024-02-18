@@ -63,7 +63,7 @@
 |rarity=common
 |levelrange=21-36
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Normal|
 |hp=62
 |atk=77
 |def=62

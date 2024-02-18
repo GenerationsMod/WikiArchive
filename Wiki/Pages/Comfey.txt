@@ -5,7 +5,7 @@
 |ndex=764
 |type1=Fairy
 |type2=
-|ability1=Triage|ability2=Flowerveil
+|ability1=Flowerveil|ability2=Triage
 |abilityH=Naturalcure
 |genderm=25.0
 |abilityS=
@@ -61,7 +61,7 @@
 |rarity=uncommon
 |levelrange=24-49
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fairy|
 |hp=51
 |atk=52
 |def=90

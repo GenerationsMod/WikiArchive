@@ -27,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Prefers cold climes and appears along coasts. It's an adorable little thingâ€”as cute as any childâ€”but it's also prideful, unwilling to accept handouts from people.
+|dexentry=Prefers cold climes and appears along coasts. It's an adorable little thing-as cute as any child-but it's also prideful, unwilling to accept handouts from people.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Piplup_(Pok%C3%A9mon) Piplup] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -55,7 +55,7 @@
 |rarity=ultra-rare
 |levelrange=5-31
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=53
 |atk=51
 |def=53

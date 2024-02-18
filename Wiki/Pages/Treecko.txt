@@ -27,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Treecko is cool, calm, and collectedâ€”it never panics under any situation. If a bigger foe were to glare at this Pokemon, it would glare right back without conceding an inch of ground.
+|dexentry=Treecko is cool, calm, and collected-it never panics under any situation. If a bigger foe were to glare at this Pokemon, it would glare right back without conceding an inch of ground.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Treecko_(Pok%C3%A9mon) Treecko] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -46,7 +46,7 @@
 |rarity=ultra-rare
 |levelrange=5-31
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Grass|
 |hp=40
 |atk=45
 |def=35

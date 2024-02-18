@@ -62,7 +62,7 @@
 |rarity=common
 |levelrange=22-47
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fire|
 |hp=70
 |atk=85
 |def=140

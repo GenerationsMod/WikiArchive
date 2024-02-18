@@ -5,7 +5,7 @@
 |ndex=193
 |type1=Bug
 |type2=Flying
-|ability1=Compoundeyes|ability2=Speedboost
+|ability1=Speedboost|ability2=Compoundeyes
 |abilityH=Frisk
 |genderm=50.0
 |abilityS=
@@ -60,7 +60,7 @@
 |rarity=common
 |levelrange=14-39
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=65
 |atk=65
 |def=45

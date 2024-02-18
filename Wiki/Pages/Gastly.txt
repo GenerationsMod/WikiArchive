@@ -25,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Gaseous and completely impalpable. Also highly dangerousâ€” inhaling part of its poisonous body will cause one to faint instantly.
+|dexentry=Gaseous and completely impalpable. Also highly dangerous- inhaling part of its poisonous body will cause one to faint instantly.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Gastly_(Pok%C3%A9mon) Gastly] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -79,7 +79,7 @@
 |rarity=common
 |levelrange=6-31
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ghost|
 |hp=30
 |atk=35
 |def=30

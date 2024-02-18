@@ -5,7 +5,7 @@
 |ndex=203
 |type1=Normal
 |type2=Psychic
-|ability1=Innerfocus|ability2=Earlybird
+|ability1=Earlybird|ability2=Innerfocus
 |abilityH=Sapsipper
 |genderm=50.0
 |abilityS=
@@ -44,7 +44,7 @@
 |rarity=uncommon
 |levelrange=5-38
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Normal|
 |hp=70
 |atk=80
 |def=65

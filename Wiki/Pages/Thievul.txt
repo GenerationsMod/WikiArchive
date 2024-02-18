@@ -5,7 +5,7 @@
 |ndex=828
 |type1=Dark
 |type2=
-|ability1=Runaway|ability2=Unburden
+|ability1=Unburden|ability2=Runaway
 |abilityH=Stakeout
 |genderm=50.0
 |abilityS=
@@ -53,7 +53,7 @@
 |rarity=uncommon
 |levelrange=18-46
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Dark|
 |hp=70
 |atk=58
 |def=58

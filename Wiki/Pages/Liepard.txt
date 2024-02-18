@@ -5,7 +5,7 @@
 |ndex=510
 |type1=Dark
 |type2=
-|ability1=Unburden|ability2=Limber
+|ability1=Limber|ability2=Unburden
 |abilityH=Prankster
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=rare
 |levelrange=20-50
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Dark|
 |hp=64
 |atk=88
 |def=50

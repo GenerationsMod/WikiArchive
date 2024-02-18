@@ -45,7 +45,7 @@
 |rarity=common
 |levelrange=18-37
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Flying|
 |hp=68
 |atk=67
 |def=55

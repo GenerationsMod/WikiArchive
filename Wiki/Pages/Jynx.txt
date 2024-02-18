@@ -5,7 +5,7 @@
 |ndex=124
 |type1=Ice
 |type2=Psychic
-|ability1=Oblivious|ability2=Forewarn
+|ability1=Forewarn|ability2=Oblivious
 |abilityH=Dryskin
 |genderm=0
 |abilityS=
@@ -51,7 +51,7 @@
 |rarity=uncommon
 |levelrange=30-46
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ice|
 |hp=65
 |atk=50
 |def=35

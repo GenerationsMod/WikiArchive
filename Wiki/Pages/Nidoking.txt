@@ -5,7 +5,7 @@
 |ndex=034
 |type1=Poison
 |type2=Ground
-|ability1=Poisonpoint|ability2=Rivalry
+|ability1=Rivalry|ability2=Poisonpoint
 |abilityH=Sheerforce
 |genderm=100
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=37-51
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Poison|
 |hp=81
 |atk=102
 |def=77

@@ -5,7 +5,7 @@
 |ndex=560
 |type1=Dark
 |type2=Fighting
-|ability1=Moxie|ability2=Shedskin
+|ability1=Shedskin|ability2=Moxie
 |abilityH=Intimidate
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=rare
 |levelrange=39-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Dark|
 |hp=65
 |atk=90
 |def=115

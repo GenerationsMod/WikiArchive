@@ -5,7 +5,7 @@
 |ndex=619
 |type1=Fighting
 |type2=
-|ability1=Regenerator|ability2=Innerfocus
+|ability1=Innerfocus|ability2=Regenerator
 |abilityH=Reckless
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=uncommon
 |levelrange=6-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fighting|
 |hp=45
 |atk=85
 |def=50

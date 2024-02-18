@@ -5,7 +5,7 @@
 |ndex=942
 |type1=Dark
 |type2=
-|ability1=Runaway|ability2=Intimidate
+|ability1=Intimidate|ability2=Runaway
 |abilityH=Stakeout
 |genderm=50.0
 |abilityS=
@@ -71,7 +71,7 @@
 |rarity=common
 |levelrange=9-34
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Dark|
 |hp=60
 |atk=78
 |def=60

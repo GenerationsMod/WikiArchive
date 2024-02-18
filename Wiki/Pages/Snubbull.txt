@@ -5,7 +5,7 @@
 |ndex=209
 |type1=Fairy
 |type2=
-|ability1=Runaway|ability2=Intimidate
+|ability1=Intimidate|ability2=Runaway
 |abilityH=Rattled
 |genderm=25.0
 |abilityS=
@@ -61,7 +61,7 @@
 |rarity=common
 |levelrange=5-30
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fairy|
 |hp=60
 |atk=80
 |def=50

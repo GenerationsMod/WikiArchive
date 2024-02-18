@@ -42,7 +42,7 @@
 |rarity=rare
 |levelrange=38-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=100
 |atk=70
 |def=72

@@ -63,7 +63,7 @@
 |rarity=common
 |levelrange=5-30
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ground|
 |hp=40
 |atk=40
 |def=55

@@ -5,7 +5,7 @@
 |ndex=561
 |type1=Psychic
 |type2=Flying
-|ability1=Wonderskin|ability2=Magicguard
+|ability1=Magicguard|ability2=Wonderskin
 |abilityH=Tintedlens
 |genderm=50.0
 |abilityS=
@@ -70,7 +70,7 @@
 |rarity=common
 |levelrange=24-49
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Psychic|
 |hp=72
 |atk=58
 |def=80

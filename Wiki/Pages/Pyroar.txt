@@ -5,7 +5,7 @@
 |ndex=668
 |type1=Fire
 |type2=Normal
-|ability1=Unnerve|ability2=Rivalry
+|ability1=Rivalry|ability2=Unnerve
 |abilityH=Moxie
 |genderm=12.5
 |abilityS=
@@ -44,7 +44,7 @@
 |rarity=rare
 |levelrange=35-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fire|
 |hp=86
 |atk=68
 |def=72

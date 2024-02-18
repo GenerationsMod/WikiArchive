@@ -5,7 +5,7 @@
 |ndex=088
 |type1=Poison
 |type2=
-|ability1=Stench|ability2=Stickyhold
+|ability1=Stickyhold|ability2=Stench
 |abilityH=Poisontouch
 |genderm=50.0
 |abilityS=
@@ -79,7 +79,7 @@
 |rarity=common
 |levelrange=8-33
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Poison|
 |hp=80
 |atk=80
 |def=50

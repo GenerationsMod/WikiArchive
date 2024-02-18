@@ -5,7 +5,7 @@
 |ndex=616
 |type1=Bug
 |type2=
-|ability1=Hydration|ability2=Shellarmor
+|ability1=Shellarmor|ability2=Hydration
 |abilityH=Overcoat
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=uncommon
 |levelrange=6-22
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=50
 |atk=40
 |def=85

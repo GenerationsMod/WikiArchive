@@ -41,7 +41,7 @@
 |rarity=rare
 |levelrange=20-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Rock|
 |hp=100
 |atk=125
 |def=135

@@ -5,7 +5,7 @@
 |ndex=588
 |type1=Bug
 |type2=
-|ability1=Swarm|ability2=Shedskin
+|ability1=Shedskin|ability2=Swarm
 |abilityH=Noguard
 |genderm=50.0
 |abilityS=
@@ -25,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=It spits a liquid from its mouth to melt through Shelmetâ€™s shell. Karrablast doesnâ€™t eat the shellâ€” it eats only the contents.
+|dexentry=It spits a liquid from its mouth to melt through Shelmetâ€™s shell. Karrablast doesnâ€™t eat the shell- it eats only the contents.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Karrablast_(Pok%C3%A9mon) Karrablast] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -42,7 +42,7 @@
 |rarity=uncommon
 |levelrange=10-43
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=50
 |atk=75
 |def=45

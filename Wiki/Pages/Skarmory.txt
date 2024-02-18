@@ -5,7 +5,7 @@
 |ndex=227
 |type1=Steel
 |type2=Flying
-|ability1=Sturdy|ability2=Keeneye
+|ability1=Keeneye|ability2=Sturdy
 |abilityH=Weakarmor
 |genderm=50.0
 |abilityS=
@@ -44,7 +44,7 @@
 |rarity=ultra-rare
 |levelrange=30-52
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Steel|
 |hp=65
 |atk=80
 |def=140

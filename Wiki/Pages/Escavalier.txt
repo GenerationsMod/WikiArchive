@@ -5,7 +5,7 @@
 |ndex=589
 |type1=Bug
 |type2=Steel
-|ability1=Swarm|ability2=Shellarmor
+|ability1=Shellarmor|ability2=Swarm
 |abilityH=Overcoat
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=rare
 |levelrange=20-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=70
 |atk=135
 |def=105

@@ -44,7 +44,7 @@
 |rarity=ultra-rare
 |levelrange=17-33
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fire|
 |hp=65
 |atk=85
 |def=50

@@ -5,7 +5,7 @@
 |ndex=881
 |type1=Electric
 |type2=Ice
-|ability1=Voltabsorb|ability2=Static
+|ability1=Static|ability2=Voltabsorb
 |abilityH=Slushrush
 |genderm=Genderless
 |abilityS=
@@ -41,7 +41,7 @@
 |rarity=ultra-rare
 |levelrange=20-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Electric|
 |hp=90
 |atk=100
 |def=90

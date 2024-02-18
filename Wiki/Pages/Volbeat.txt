@@ -5,7 +5,7 @@
 |ndex=313
 |type1=Bug
 |type2=
-|ability1=Swarm|ability2=Illuminate
+|ability1=Illuminate|ability2=Swarm
 |abilityH=Prankster
 |genderm=100
 |abilityS=
@@ -70,7 +70,7 @@
 |rarity=common
 |levelrange=18-43
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=65
 |atk=73
 |def=75

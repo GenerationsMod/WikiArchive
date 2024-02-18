@@ -5,7 +5,7 @@
 |ndex=576
 |type1=Psychic
 |type2=
-|ability1=Competitive|ability2=Frisk
+|ability1=Frisk|ability2=Competitive
 |abilityH=Shadowtag
 |genderm=25.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=rare
 |levelrange=41-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Psychic|
 |hp=70
 |atk=55
 |def=95

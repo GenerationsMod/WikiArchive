@@ -5,7 +5,7 @@
 |ndex=032
 |type1=Poison
 |type2=
-|ability1=Poisonpoint|ability2=Rivalry
+|ability1=Rivalry|ability2=Poisonpoint
 |abilityH=Hustle
 |genderm=100
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=3-28
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Poison|
 |hp=46
 |atk=57
 |def=40

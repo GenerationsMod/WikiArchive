@@ -5,7 +5,7 @@
 |ndex=884
 |type1=Steel
 |type2=Dragon
-|ability1=Heavymetal|ability2=Lightmetal
+|ability1=Lightmetal|ability2=Heavymetal
 |abilityH=Stalwart
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=rare
 |levelrange=30-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Steel|
 |hp=70
 |atk=95
 |def=115

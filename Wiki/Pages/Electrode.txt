@@ -5,7 +5,7 @@
 |ndex=101
 |type1=Electric
 |type2=
-|ability1=Soundproof|ability2=Static
+|ability1=Static|ability2=Soundproof
 |abilityH=Aftermath
 |genderm=Genderless
 |abilityS=
@@ -69,7 +69,7 @@
 |rarity=uncommon
 |levelrange=30-49
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Electric|
 |hp=60
 |atk=50
 |def=70

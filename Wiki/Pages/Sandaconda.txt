@@ -5,7 +5,7 @@
 |ndex=844
 |type1=Ground
 |type2=
-|ability1=Sandspit|ability2=Shedskin
+|ability1=Shedskin|ability2=Sandspit
 |abilityH=Sandveil
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=rare
 |levelrange=36-50
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ground|
 |hp=72
 |atk=107
 |def=125

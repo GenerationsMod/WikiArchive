@@ -5,7 +5,7 @@
 |ndex=183
 |type1=Water
 |type2=Fairy
-|ability1=Thickfat|ability2=Hugepower
+|ability1=Hugepower|ability2=Thickfat
 |abilityH=Sapsipper
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=12-24
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=70
 |atk=20
 |def=50

@@ -5,7 +5,7 @@
 |ndex=296
 |type1=Fighting
 |type2=
-|ability1=Thickfat|ability2=Guts
+|ability1=Guts|ability2=Thickfat
 |abilityH=Sheerforce
 |genderm=75.0
 |abilityS=
@@ -44,7 +44,7 @@
 |rarity=uncommon
 |levelrange=5-30
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fighting|
 |hp=72
 |atk=60
 |def=30

@@ -5,7 +5,7 @@
 |ndex=762
 |type1=Grass
 |type2=
-|ability1=Oblivious|ability2=Leafguard
+|ability1=Leafguard|ability2=Oblivious
 |abilityH=Sweetveil
 |genderm=0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=common
 |levelrange=18-29
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Grass|
 |hp=52
 |atk=40
 |def=48

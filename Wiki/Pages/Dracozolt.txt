@@ -41,7 +41,7 @@
 |rarity=ultra-rare
 |levelrange=20-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Electric|
 |hp=90
 |atk=100
 |def=90

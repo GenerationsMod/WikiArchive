@@ -5,7 +5,7 @@
 |ndex=131
 |type1=Water
 |type2=Ice
-|ability1=Waterabsorb|ability2=Shellarmor
+|ability1=Shellarmor|ability2=Waterabsorb
 |abilityH=Hydration
 |genderm=50.0
 |abilityS=
@@ -55,7 +55,7 @@
 |rarity=rare
 |levelrange=29-54
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=130
 |atk=85
 |def=80

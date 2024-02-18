@@ -5,7 +5,7 @@
 |ndex=748
 |type1=Poison
 |type2=Water
-|ability1=Merciless|ability2=Limber
+|ability1=Limber|ability2=Merciless
 |abilityH=Regenerator
 |genderm=50.0
 |abilityS=
@@ -44,7 +44,7 @@
 |rarity=rare
 |levelrange=38-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Poison|
 |hp=50
 |atk=63
 |def=152

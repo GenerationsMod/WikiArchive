@@ -5,7 +5,7 @@
 |ndex=107
 |type1=Fighting
 |type2=
-|ability1=Ironfist|ability2=Keeneye
+|ability1=Keeneye|ability2=Ironfist
 |abilityH=Innerfocus
 |genderm=100
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=20-46
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fighting|
 |hp=50
 |atk=105
 |def=79

@@ -5,7 +5,7 @@
 |ndex=825
 |type1=Bug
 |type2=Psychic
-|ability1=Swarm|ability2=Compoundeyes
+|ability1=Compoundeyes|ability2=Swarm
 |abilityH=Telepathy
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=uncommon
 |levelrange=10-38
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=50
 |atk=35
 |def=80

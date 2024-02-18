@@ -239,7 +239,7 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
 
         # Write Stats section
         base_stats = pokemon_data.get("baseStats", {})
-        txt_file.write("{{Statbox|Unknown|\n")
+        txt_file.write(f"{{{{Statbox|type1={pokemon_data.get('primaryType', '').capitalize()}|\n")
         txt_file.write(f"|hp={base_stats.get('hp', 'Unknown')}\n")
         txt_file.write(f"|atk={base_stats.get('attack', 'Unknown')}\n")
         txt_file.write(f"|def={base_stats.get('defence', 'Unknown')}\n")

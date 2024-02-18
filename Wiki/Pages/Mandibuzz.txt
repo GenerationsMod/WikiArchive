@@ -5,7 +5,7 @@
 |ndex=630
 |type1=Dark
 |type2=Flying
-|ability1=Bigpecks|ability2=Overcoat
+|ability1=Overcoat|ability2=Bigpecks
 |abilityH=Weakarmor
 |genderm=0
 |abilityS=
@@ -46,7 +46,7 @@
 |rarity=uncommon
 |levelrange=54-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Dark|
 |hp=110
 |atk=65
 |def=105

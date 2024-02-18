@@ -5,7 +5,7 @@
 |ndex=832
 |type1=Normal
 |type2=
-|ability1=Steadfast|ability2=Fluffy
+|ability1=Fluffy|ability2=Steadfast
 |abilityH=Bulletproof
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=common
 |levelrange=24-49
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Normal|
 |hp=72
 |atk=80
 |def=100

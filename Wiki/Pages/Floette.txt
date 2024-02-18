@@ -45,7 +45,7 @@
 |rarity=uncommon
 |levelrange=19-40
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fairy|
 |hp=54
 |atk=45
 |def=47

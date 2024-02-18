@@ -5,7 +5,7 @@
 |ndex=975
 |type1=Ice
 |type2=
-|ability1=Thickfat|ability2=Slushrush
+|ability1=Slushrush|ability2=Thickfat
 |abilityH=Sheerforce
 |genderm=50.0
 |abilityS=
@@ -52,7 +52,7 @@
 |rarity=uncommon
 |levelrange=28-52
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ice|
 |hp=170
 |atk=113
 |def=65

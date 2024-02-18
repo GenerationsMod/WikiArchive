@@ -5,7 +5,7 @@
 |ndex=020
 |type1=Normal
 |type2=
-|ability1=Runaway|ability2=Guts
+|ability1=Guts|ability2=Runaway
 |abilityH=Hustle
 |genderm=50.0
 |abilityS=
@@ -97,7 +97,7 @@
 |rarity=uncommon
 |levelrange=20-41
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Normal|
 |hp=55
 |atk=81
 |def=60

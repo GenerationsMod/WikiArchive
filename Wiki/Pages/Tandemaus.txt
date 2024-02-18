@@ -5,7 +5,7 @@
 |ndex=924
 |type1=Normal
 |type2=
-|ability1=Runaway|ability2=Pickup
+|ability1=Pickup|ability2=Runaway
 |abilityH=Owntempo
 |genderm=Genderless
 |abilityS=
@@ -70,7 +70,7 @@
 |rarity=common
 |levelrange=6-31
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Normal|
 |hp=50
 |atk=50
 |def=45

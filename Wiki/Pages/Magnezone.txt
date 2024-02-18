@@ -5,7 +5,7 @@
 |ndex=462
 |type1=Electric
 |type2=Steel
-|ability1=Sturdy|ability2=Magnetpull
+|ability1=Magnetpull|ability2=Sturdy
 |abilityH=Analytic
 |genderm=Genderless
 |abilityS=
@@ -54,7 +54,7 @@
 |rarity=uncommon
 |levelrange=42-54
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Electric|
 |hp=70
 |atk=70
 |def=115

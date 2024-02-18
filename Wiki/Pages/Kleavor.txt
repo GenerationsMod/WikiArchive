@@ -5,7 +5,7 @@
 |ndex=900
 |type1=Bug
 |type2=Rock
-|ability1=Swarm|ability2=Sheerforce
+|ability1=Sheerforce|ability2=Swarm
 |abilityH=Sharpness
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=rare
 |levelrange=45-50
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=70
 |atk=130
 |def=95

@@ -5,7 +5,7 @@
 |ndex=213
 |type1=Bug
 |type2=Rock
-|ability1=Sturdy|ability2=Gluttony
+|ability1=Gluttony|ability2=Sturdy
 |abilityH=Contrary
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=uncommon
 |levelrange=16-51
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=20
 |atk=10
 |def=230

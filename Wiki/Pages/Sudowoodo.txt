@@ -5,7 +5,7 @@
 |ndex=185
 |type1=Rock
 |type2=
-|ability1=Sturdy|ability2=Rockhead
+|ability1=Rockhead|ability2=Sturdy
 |abilityH=Rattled
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=12-24
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Rock|
 |hp=70
 |atk=100
 |def=115

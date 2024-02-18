@@ -5,7 +5,7 @@
 |ndex=417
 |type1=Electric
 |type2=
-|ability1=Runaway|ability2=Pickup
+|ability1=Pickup|ability2=Runaway
 |abilityH=Voltabsorb
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=uncommon
 |levelrange=16-41
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Electric|
 |hp=60
 |atk=45
 |def=70

@@ -5,7 +5,7 @@
 |ndex=285
 |type1=Grass
 |type2=
-|ability1=Effectspore|ability2=Poisonheal
+|ability1=Poisonheal|ability2=Effectspore
 |abilityH=Quickfeet
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=common
 |levelrange=4-26
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Grass|
 |hp=60
 |atk=40
 |def=60

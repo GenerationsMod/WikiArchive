@@ -5,7 +5,7 @@
 |ndex=1011
 |type1=Grass
 |type2=Dragon
-|ability1=Gluttony|ability2=Supersweetsyrup
+|ability1=Supersweetsyrup|ability2=Gluttony
 |abilityH=Stickyhold
 |genderm=50.0
 |abilityS=
@@ -41,7 +41,7 @@
 |rarity=rare
 |levelrange=20-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Grass|
 |hp=80
 |atk=80
 |def=110

@@ -41,7 +41,7 @@
 |rarity=ultra-rare
 |levelrange=70-75
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fighting|
 |hp=100
 |atk=130
 |def=100

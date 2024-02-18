@@ -5,7 +5,7 @@
 |ndex=701
 |type1=Fighting
 |type2=Flying
-|ability1=Unburden|ability2=Limber
+|ability1=Limber|ability2=Unburden
 |abilityH=Moldbreaker
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=rare
 |levelrange=25-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fighting|
 |hp=78
 |atk=92
 |def=75

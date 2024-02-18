@@ -5,7 +5,7 @@
 |ndex=178
 |type1=Psychic
 |type2=Flying
-|ability1=Synchronize|ability2=Earlybird
+|ability1=Earlybird|ability2=Synchronize
 |abilityH=Magicbounce
 |genderm=50.0
 |abilityS=
@@ -54,7 +54,7 @@
 |rarity=common
 |levelrange=25-47
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Psychic|
 |hp=65
 |atk=75
 |def=70

@@ -5,7 +5,7 @@
 |ndex=938
 |type1=Electric
 |type2=
-|ability1=Owntempo|ability2=Static
+|ability1=Static|ability2=Owntempo
 |abilityH=Damp
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=5-30
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Electric|
 |hp=61
 |atk=31
 |def=41

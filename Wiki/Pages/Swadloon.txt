@@ -5,7 +5,7 @@
 |ndex=541
 |type1=Bug
 |type2=Grass
-|ability1=Chlorophyll|ability2=Leafguard
+|ability1=Leafguard|ability2=Chlorophyll
 |abilityH=Overcoat
 |genderm=50.0
 |abilityS=
@@ -45,7 +45,7 @@
 |rarity=uncommon
 |levelrange=20-40
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=55
 |atk=63
 |def=90

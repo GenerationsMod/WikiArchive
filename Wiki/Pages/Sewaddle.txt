@@ -5,7 +5,7 @@
 |ndex=540
 |type1=Bug
 |type2=Grass
-|ability1=Swarm|ability2=Chlorophyll
+|ability1=Chlorophyll|ability2=Swarm
 |abilityH=Overcoat
 |genderm=50.0
 |abilityS=
@@ -45,7 +45,7 @@
 |rarity=common
 |levelrange=5-22
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=45
 |atk=53
 |def=70

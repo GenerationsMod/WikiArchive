@@ -5,7 +5,7 @@
 |ndex=755
 |type1=Grass
 |type2=Fairy
-|ability1=Effectspore|ability2=Illuminate
+|ability1=Illuminate|ability2=Effectspore
 |abilityH=Raindish
 |genderm=50.0
 |abilityS=
@@ -61,7 +61,7 @@
 |rarity=common
 |levelrange=4-29
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Grass|
 |hp=40
 |atk=35
 |def=55

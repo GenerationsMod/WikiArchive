@@ -5,7 +5,7 @@
 |ndex=826
 |type1=Bug
 |type2=Psychic
-|ability1=Swarm|ability2=Frisk
+|ability1=Frisk|ability2=Swarm
 |abilityH=Telepathy
 |genderm=50.0
 |abilityS=
@@ -25,7 +25,7 @@
 |form=Gmax
 |alt1=
 |alt1dex=
-|dexentry=It emits psychic energy to observe and study whatâ€™s around itâ€”and whatâ€™s around it can include things over six miles away.
+|dexentry=It emits psychic energy to observe and study whatâ€™s around it-and whatâ€™s around it can include things over six miles away.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Orbeetle_(Pok%C3%A9mon) Orbeetle] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -42,7 +42,7 @@
 |rarity=rare
 |levelrange=30-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=60
 |atk=45
 |def=110

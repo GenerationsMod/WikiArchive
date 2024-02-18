@@ -5,7 +5,7 @@
 |ndex=592
 |type1=Water
 |type2=Ghost
-|ability1=Waterabsorb|ability2=Cursedbody
+|ability1=Cursedbody|ability2=Waterabsorb
 |abilityH=Damp
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=12-40
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=55
 |atk=40
 |def=50

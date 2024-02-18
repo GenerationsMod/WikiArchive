@@ -56,7 +56,7 @@
 |rarity=common
 |levelrange=21-47
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=70
 |atk=80
 |def=102

@@ -5,7 +5,7 @@
 |ndex=434
 |type1=Poison
 |type2=Dark
-|ability1=Stench|ability2=Aftermath
+|ability1=Aftermath|ability2=Stench
 |abilityH=Keeneye
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=uncommon
 |levelrange=5-24
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Poison|
 |hp=63
 |atk=63
 |def=47

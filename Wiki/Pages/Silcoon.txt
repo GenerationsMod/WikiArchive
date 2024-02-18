@@ -25,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Wraps itself in thin strings of silk while it stores energy for evolution. It can't extend its limbs and its movement is slow, but its eyes keep a sharp lookoutâ€”Silcoon is always on guard.
+|dexentry=Wraps itself in thin strings of silk while it stores energy for evolution. It can't extend its limbs and its movement is slow, but its eyes keep a sharp lookout-Silcoon is always on guard.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Silcoon_(Pok%C3%A9mon) Silcoon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=4-16
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=50
 |atk=35
 |def=55

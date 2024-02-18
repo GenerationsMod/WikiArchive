@@ -53,7 +53,7 @@
 |rarity=uncommon
 |levelrange=35-45
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Steel|
 |hp=59
 |atk=110
 |def=150

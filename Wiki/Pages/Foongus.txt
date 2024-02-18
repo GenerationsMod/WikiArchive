@@ -45,7 +45,7 @@
 |rarity=uncommon
 |levelrange=9-45
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Grass|
 |hp=69
 |atk=55
 |def=45

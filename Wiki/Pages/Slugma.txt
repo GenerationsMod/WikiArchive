@@ -5,7 +5,7 @@
 |ndex=218
 |type1=Fire
 |type2=
-|ability1=Flamebody|ability2=Magmaarmor
+|ability1=Magmaarmor|ability2=Flamebody
 |abilityH=Weakarmor
 |genderm=50.0
 |abilityS=
@@ -70,7 +70,7 @@
 |rarity=common
 |levelrange=1-25
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fire|
 |hp=40
 |atk=40
 |def=40

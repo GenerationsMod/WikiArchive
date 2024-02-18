@@ -5,7 +5,7 @@
 |ndex=110
 |type1=Poison
 |type2=
-|ability1=Neutralizinggas|ability2=Levitate
+|ability1=Levitate|ability2=Neutralizinggas
 |abilityH=Stench
 |genderm=50.0
 |abilityS=
@@ -69,7 +69,7 @@
 |rarity=uncommon
 |levelrange=35-49
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Poison|
 |hp=65
 |atk=90
 |def=120

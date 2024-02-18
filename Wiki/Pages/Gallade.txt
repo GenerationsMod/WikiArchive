@@ -5,7 +5,7 @@
 |ndex=475
 |type1=Psychic
 |type2=Fighting
-|ability1=Sharpness|ability2=Steadfast
+|ability1=Steadfast|ability2=Sharpness
 |abilityH=Justified
 |genderm=100
 |abilityS=
@@ -72,7 +72,7 @@
 |rarity=common
 |levelrange=30-52
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Psychic|
 |hp=68
 |atk=125
 |def=65

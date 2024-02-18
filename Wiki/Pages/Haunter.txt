@@ -79,7 +79,7 @@
 |rarity=common
 |levelrange=25-41
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ghost|
 |hp=45
 |atk=50
 |def=45

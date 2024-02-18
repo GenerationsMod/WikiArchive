@@ -5,7 +5,7 @@
 |ndex=286
 |type1=Grass
 |type2=Fighting
-|ability1=Effectspore|ability2=Poisonheal
+|ability1=Poisonheal|ability2=Effectspore
 |abilityH=Technician
 |genderm=50.0
 |abilityS=
@@ -52,7 +52,7 @@
 |rarity=common
 |levelrange=23-46
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Grass|
 |hp=60
 |atk=130
 |def=80

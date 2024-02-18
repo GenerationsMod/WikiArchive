@@ -5,7 +5,7 @@
 |ndex=066
 |type1=Fighting
 |type2=
-|ability1=Guts|ability2=Noguard
+|ability1=Noguard|ability2=Guts
 |abilityH=Steadfast
 |genderm=75.0
 |abilityS=
@@ -44,7 +44,7 @@
 |rarity=common
 |levelrange=6-31
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fighting|
 |hp=70
 |atk=80
 |def=50

@@ -5,7 +5,7 @@
 |ndex=215
 |type1=Dark
 |type2=Ice
-|ability1=Innerfocus|ability2=Keeneye
+|ability1=Keeneye|ability2=Innerfocus
 |abilityH=Pickpocket
 |genderm=50.0
 |abilityS=
@@ -53,7 +53,7 @@
 |rarity=uncommon
 |levelrange=12-43
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Dark|
 |hp=55
 |atk=95
 |def=55

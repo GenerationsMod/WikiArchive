@@ -5,7 +5,7 @@
 |ndex=922
 |type1=Electric
 |type2=Fighting
-|ability1=Naturalcure|ability2=Voltabsorb
+|ability1=Voltabsorb|ability2=Naturalcure
 |abilityH=Ironfist
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=uncommon
 |levelrange=18-40
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Electric|
 |hp=60
 |atk=75
 |def=40

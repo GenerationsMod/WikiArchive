@@ -5,7 +5,7 @@
 |ndex=784
 |type1=Dragon
 |type2=Fighting
-|ability1=Soundproof|ability2=Bulletproof
+|ability1=Bulletproof|ability2=Soundproof
 |abilityH=Overcoat
 |genderm=50.0
 |abilityS=
@@ -45,7 +45,7 @@
 |rarity=rare
 |levelrange=55-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Dragon|
 |hp=75
 |atk=110
 |def=125

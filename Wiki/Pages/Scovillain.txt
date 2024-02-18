@@ -5,7 +5,7 @@
 |ndex=952
 |type1=Grass
 |type2=Fire
-|ability1=Insomnia|ability2=Chlorophyll
+|ability1=Chlorophyll|ability2=Insomnia
 |abilityH=Moody
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=rare
 |levelrange=30-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Grass|
 |hp=65
 |atk=108
 |def=65

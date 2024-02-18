@@ -5,7 +5,7 @@
 |ndex=763
 |type1=Grass
 |type2=
-|ability1=Queenlymajesty|ability2=Leafguard
+|ability1=Leafguard|ability2=Queenlymajesty
 |abilityH=Sweetveil
 |genderm=0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=common
 |levelrange=28-51
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Grass|
 |hp=72
 |atk=120
 |def=98

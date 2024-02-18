@@ -5,7 +5,7 @@
 |ndex=165
 |type1=Bug
 |type2=Flying
-|ability1=Swarm|ability2=Earlybird
+|ability1=Earlybird|ability2=Swarm
 |abilityH=Rattled
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=common
 |levelrange=5-20
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=40
 |atk=20
 |def=30

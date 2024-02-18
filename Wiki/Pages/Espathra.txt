@@ -5,7 +5,7 @@
 |ndex=956
 |type1=Psychic
 |type2=
-|ability1=Opportunist|ability2=Frisk
+|ability1=Frisk|ability2=Opportunist
 |abilityH=Speedboost
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=35-48
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Psychic|
 |hp=95
 |atk=60
 |def=60

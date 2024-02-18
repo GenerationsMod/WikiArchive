@@ -5,7 +5,7 @@
 |ndex=263
 |type1=Normal
 |type2=
-|ability1=Gluttony|ability2=Pickup
+|ability1=Pickup|ability2=Gluttony
 |abilityH=Quickfeet
 |genderm=50.0
 |abilityS=
@@ -51,7 +51,7 @@
 |rarity=common
 |levelrange=1-24
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Normal|
 |hp=38
 |atk=30
 |def=41

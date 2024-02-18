@@ -5,7 +5,7 @@
 |ndex=702
 |type1=Electric
 |type2=Fairy
-|ability1=Cheekpouch|ability2=Pickup
+|ability1=Pickup|ability2=Cheekpouch
 |abilityH=Plus
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=uncommon
 |levelrange=12-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Electric|
 |hp=67
 |atk=58
 |def=57

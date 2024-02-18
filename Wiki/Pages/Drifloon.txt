@@ -5,7 +5,7 @@
 |ndex=425
 |type1=Ghost
 |type2=Flying
-|ability1=Unburden|ability2=Aftermath
+|ability1=Aftermath|ability2=Unburden
 |abilityH=Flareboost
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=common
 |levelrange=4-32
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ghost|
 |hp=90
 |atk=50
 |def=34

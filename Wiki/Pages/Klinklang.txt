@@ -5,7 +5,7 @@
 |ndex=601
 |type1=Steel
 |type2=
-|ability1=Minus|ability2=Plus
+|ability1=Plus|ability2=Minus
 |abilityH=Clearbody
 |genderm=Genderless
 |abilityS=
@@ -51,7 +51,7 @@
 |rarity=common
 |levelrange=49-52
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Steel|
 |hp=60
 |atk=100
 |def=115

@@ -46,7 +46,7 @@
 |rarity=uncommon
 |levelrange=38-51
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Dark|
 |hp=70
 |atk=120
 |def=65

@@ -5,7 +5,7 @@
 |ndex=565
 |type1=Water
 |type2=Rock
-|ability1=Sturdy|ability2=Solidrock
+|ability1=Solidrock|ability2=Sturdy
 |abilityH=Swiftswim
 |genderm=87.5
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=rare
 |levelrange=40-55
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=74
 |atk=108
 |def=133

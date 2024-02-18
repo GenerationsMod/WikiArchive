@@ -5,7 +5,7 @@
 |ndex=523
 |type1=Electric
 |type2=
-|ability1=Lightningrod|ability2=Motordrive
+|ability1=Motordrive|ability2=Lightningrod
 |abilityH=Sapsipper
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=20-50
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Electric|
 |hp=75
 |atk=100
 |def=63

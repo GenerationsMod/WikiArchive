@@ -5,7 +5,7 @@
 |ndex=310
 |type1=Electric
 |type2=
-|ability1=Lightningrod|ability2=Static
+|ability1=Static|ability2=Lightningrod
 |abilityH=Minus
 |genderm=50.0
 |abilityS=
@@ -44,7 +44,7 @@
 |rarity=uncommon
 |levelrange=26-55
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Electric|
 |hp=70
 |atk=75
 |def=60

@@ -5,7 +5,7 @@
 |ndex=916
 |type1=Normal
 |type2=
-|ability1=Gluttony|ability2=Lingeringaroma
+|ability1=Lingeringaroma|ability2=Gluttony
 |abilityH=Thickfat
 |genderm=50.0
 |abilityS=
@@ -61,7 +61,7 @@
 |rarity=common
 |levelrange=18-49
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Normal|
 |hp=110
 |atk=100
 |def=75

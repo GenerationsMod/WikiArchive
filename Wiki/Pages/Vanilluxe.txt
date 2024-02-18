@@ -44,7 +44,7 @@
 |rarity=rare
 |levelrange=47-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ice|
 |hp=71
 |atk=95
 |def=85

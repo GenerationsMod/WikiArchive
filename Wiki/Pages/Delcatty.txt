@@ -5,7 +5,7 @@
 |ndex=301
 |type1=Normal
 |type2=
-|ability1=Cutecharm|ability2=Normalize
+|ability1=Normalize|ability2=Cutecharm
 |abilityH=Wonderskin
 |genderm=25.0
 |abilityS=
@@ -25,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Delcatty sleeps anywhere it wants without keeping a permanent nest. If other Pokemon approach it as it sleeps, this Pokemon will never fightâ€”it will just move away somewhere else.
+|dexentry=Delcatty sleeps anywhere it wants without keeping a permanent nest. If other Pokemon approach it as it sleeps, this Pokemon will never fight-it will just move away somewhere else.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Delcatty_(Pok%C3%A9mon) Delcatty] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -43,7 +43,7 @@
 |rarity=rare
 |levelrange=16-55
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Normal|
 |hp=70
 |atk=65
 |def=65

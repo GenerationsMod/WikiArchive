@@ -5,7 +5,7 @@
 |ndex=234
 |type1=Normal
 |type2=
-|ability1=Intimidate|ability2=Frisk
+|ability1=Frisk|ability2=Intimidate
 |abilityH=Sapsipper
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=common
 |levelrange=22-47
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Normal|
 |hp=73
 |atk=95
 |def=62

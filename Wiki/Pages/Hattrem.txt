@@ -5,7 +5,7 @@
 |ndex=857
 |type1=Psychic
 |type2=
-|ability1=Healer|ability2=Anticipation
+|ability1=Anticipation|ability2=Healer
 |abilityH=Magicbounce
 |genderm=0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=rare
 |levelrange=32-48
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Psychic|
 |hp=57
 |atk=40
 |def=65

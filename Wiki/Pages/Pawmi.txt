@@ -5,7 +5,7 @@
 |ndex=921
 |type1=Electric
 |type2=
-|ability1=Naturalcure|ability2=Static
+|ability1=Static|ability2=Naturalcure
 |abilityH=Ironfist
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=common
 |levelrange=6-20
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Electric|
 |hp=45
 |atk=50
 |def=20

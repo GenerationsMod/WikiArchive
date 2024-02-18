@@ -5,7 +5,7 @@
 |ndex=299
 |type1=Rock
 |type2=
-|ability1=Sturdy|ability2=Magnetpull
+|ability1=Magnetpull|ability2=Sturdy
 |abilityH=Sandforce
 |genderm=50.0
 |abilityS=
@@ -45,7 +45,7 @@
 |rarity=uncommon
 |levelrange=16-37
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Rock|
 |hp=30
 |atk=45
 |def=135

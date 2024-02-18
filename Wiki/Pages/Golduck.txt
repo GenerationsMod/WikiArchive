@@ -5,7 +5,7 @@
 |ndex=055
 |type1=Water
 |type2=
-|ability1=Cloudnine|ability2=Damp
+|ability1=Damp|ability2=Cloudnine
 |abilityH=Swiftswim
 |genderm=50.0
 |abilityS=
@@ -53,7 +53,7 @@
 |rarity=common
 |levelrange=33-50
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=80
 |atk=82
 |def=78

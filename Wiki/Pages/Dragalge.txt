@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=48-49
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Poison|
 |hp=65
 |atk=75
 |def=90

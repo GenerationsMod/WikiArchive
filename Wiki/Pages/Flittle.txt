@@ -5,7 +5,7 @@
 |ndex=955
 |type1=Psychic
 |type2=
-|ability1=Anticipation|ability2=Frisk
+|ability1=Frisk|ability2=Anticipation
 |abilityH=Speedboost
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=1-26
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Psychic|
 |hp=30
 |atk=35
 |def=30

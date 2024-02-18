@@ -5,7 +5,7 @@
 |ndex=228
 |type1=Dark
 |type2=Fire
-|ability1=Flashfire|ability2=Earlybird
+|ability1=Earlybird|ability2=Flashfire
 |abilityH=Unnerve
 |genderm=50.0
 |abilityS=
@@ -45,7 +45,7 @@
 |rarity=common
 |levelrange=4-30
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Dark|
 |hp=45
 |atk=60
 |def=30

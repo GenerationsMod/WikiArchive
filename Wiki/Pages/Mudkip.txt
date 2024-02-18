@@ -27,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokemon will unleash its amazing powerâ€”it can crush rocks bigger than itself.
+|dexentry=In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokemon will unleash its amazing power-it can crush rocks bigger than itself.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Mudkip_(Pok%C3%A9mon) Mudkip] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -55,7 +55,7 @@
 |rarity=ultra-rare
 |levelrange=5-31
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=50
 |atk=70
 |def=50

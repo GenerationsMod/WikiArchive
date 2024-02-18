@@ -5,7 +5,7 @@
 |ndex=222
 |type1=Water
 |type2=Rock
-|ability1=Naturalcure|ability2=Hustle
+|ability1=Hustle|ability2=Naturalcure
 |abilityH=Regenerator
 |genderm=25.0
 |abilityS=
@@ -51,7 +51,7 @@
 |rarity=common
 |levelrange=4-33
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=65
 |atk=55
 |def=95

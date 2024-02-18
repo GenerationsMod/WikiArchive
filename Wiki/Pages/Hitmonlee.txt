@@ -5,7 +5,7 @@
 |ndex=106
 |type1=Fighting
 |type2=
-|ability1=Reckless|ability2=Limber
+|ability1=Limber|ability2=Reckless
 |abilityH=Unburden
 |genderm=100
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=20-46
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fighting|
 |hp=50
 |atk=120
 |def=53

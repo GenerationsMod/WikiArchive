@@ -5,7 +5,7 @@
 |ndex=317
 |type1=Poison
 |type2=
-|ability1=Stickyhold|ability2=Liquidooze
+|ability1=Liquidooze|ability2=Stickyhold
 |abilityH=Gluttony
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=rare
 |levelrange=26-55
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Poison|
 |hp=100
 |atk=73
 |def=83

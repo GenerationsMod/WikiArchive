@@ -5,7 +5,7 @@
 |ndex=326
 |type1=Psychic
 |type2=
-|ability1=Thickfat|ability2=Owntempo
+|ability1=Owntempo|ability2=Thickfat
 |abilityH=Gluttony
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=rare
 |levelrange=32-55
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Psychic|
 |hp=80
 |atk=45
 |def=65

@@ -5,7 +5,7 @@
 |ndex=194
 |type1=Water
 |type2=Ground
-|ability1=Waterabsorb|ability2=Damp
+|ability1=Damp|ability2=Waterabsorb
 |abilityH=Unaware
 |genderm=50.0
 |abilityS=
@@ -124,7 +124,7 @@
 |rarity=uncommon
 |levelrange=1-21
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=55
 |atk=45
 |def=45

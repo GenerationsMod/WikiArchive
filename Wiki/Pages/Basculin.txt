@@ -25,7 +25,7 @@
 |form=Blue-Striped, White-Striped
 |alt1=
 |alt1dex=
-|dexentry=Though it differs from other Basculin in several respects, including demeanorâ€”this one is gentleâ€”I have categorized it as a regional form given the vast array of shared qualities.
+|dexentry=Though it differs from other Basculin in several respects, including demeanor-this one is gentle-I have categorized it as a regional form given the vast array of shared qualities.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Basculin_(Pok%C3%A9mon) Basculin] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -116,7 +116,7 @@
 |rarity=common
 |levelrange=21-46
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=70
 |atk=92
 |def=65

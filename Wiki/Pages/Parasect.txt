@@ -5,7 +5,7 @@
 |ndex=047
 |type1=Bug
 |type2=Grass
-|ability1=Effectspore|ability2=Dryskin
+|ability1=Dryskin|ability2=Effectspore
 |abilityH=Damp
 |genderm=50.0
 |abilityS=
@@ -52,7 +52,7 @@
 |rarity=common
 |levelrange=24-40
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=60
 |atk=95
 |def=80

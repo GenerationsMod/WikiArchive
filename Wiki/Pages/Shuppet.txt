@@ -5,7 +5,7 @@
 |ndex=353
 |type1=Ghost
 |type2=
-|ability1=Insomnia|ability2=Frisk
+|ability1=Frisk|ability2=Insomnia
 |abilityH=Cursedbody
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=uncommon
 |levelrange=12-39
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ghost|
 |hp=44
 |atk=75
 |def=35

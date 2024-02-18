@@ -5,7 +5,7 @@
 |ndex=078
 |type1=Fire
 |type2=
-|ability1=Runaway|ability2=Flashfire
+|ability1=Flashfire|ability2=Runaway
 |abilityH=Flamebody
 |genderm=50.0
 |abilityS=
@@ -62,7 +62,7 @@
 |rarity=uncommon
 |levelrange=40-50
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fire|
 |hp=65
 |atk=100
 |def=70

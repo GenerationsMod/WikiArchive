@@ -5,7 +5,7 @@
 |ndex=973
 |type1=Flying
 |type2=Fighting
-|ability1=Tangledfeet|ability2=Scrappy
+|ability1=Scrappy|ability2=Tangledfeet
 |abilityH=Costar
 |genderm=50.0
 |abilityS=
@@ -45,7 +45,7 @@
 |rarity=uncommon
 |levelrange=30-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Flying|
 |hp=82
 |atk=115
 |def=74

@@ -5,7 +5,7 @@
 |ndex=076
 |type1=Rock
 |type2=Ground
-|ability1=Sturdy|ability2=Rockhead
+|ability1=Rockhead|ability2=Sturdy
 |abilityH=Sandveil
 |genderm=50.0
 |abilityS=
@@ -63,7 +63,7 @@
 |rarity=uncommon
 |levelrange=34-50
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Rock|
 |hp=80
 |atk=120
 |def=130

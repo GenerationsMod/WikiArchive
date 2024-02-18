@@ -5,7 +5,7 @@
 |ndex=824
 |type1=Bug
 |type2=
-|ability1=Swarm|ability2=Compoundeyes
+|ability1=Compoundeyes|ability2=Swarm
 |abilityH=Telepathy
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=common
 |levelrange=4-27
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=25
 |atk=20
 |def=20

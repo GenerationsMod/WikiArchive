@@ -5,7 +5,7 @@
 |ndex=440
 |type1=Normal
 |type2=
-|ability1=Naturalcure|ability2=Serenegrace
+|ability1=Serenegrace|ability2=Naturalcure
 |abilityH=Friendguard
 |genderm=0
 |abilityS=
@@ -51,7 +51,7 @@
 |rarity=rare
 |levelrange=1-22
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Normal|
 |hp=100
 |atk=5
 |def=5

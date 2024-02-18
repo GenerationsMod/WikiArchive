@@ -5,7 +5,7 @@
 |ndex=710
 |type1=Ghost
 |type2=Grass
-|ability1=Pickup|ability2=Frisk
+|ability1=Frisk|ability2=Pickup
 |abilityH=Insomnia
 |genderm=50.0
 |abilityS=
@@ -53,7 +53,7 @@
 |rarity=uncommon
 |levelrange=9-34
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ghost|
 |hp=49
 |atk=66
 |def=70

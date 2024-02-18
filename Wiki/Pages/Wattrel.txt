@@ -5,7 +5,7 @@
 |ndex=940
 |type1=Electric
 |type2=Flying
-|ability1=Windpower|ability2=Voltabsorb
+|ability1=Voltabsorb|ability2=Windpower
 |abilityH=Competitive
 |genderm=50.0
 |abilityS=
@@ -44,7 +44,7 @@
 |rarity=uncommon
 |levelrange=4-32
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Electric|
 |hp=40
 |atk=40
 |def=35

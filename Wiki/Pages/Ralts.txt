@@ -5,7 +5,7 @@
 |ndex=280
 |type1=Psychic
 |type2=Fairy
-|ability1=Trace|ability2=Synchronize
+|ability1=Synchronize|ability2=Trace
 |abilityH=Telepathy
 |genderm=50.0
 |abilityS=
@@ -72,7 +72,7 @@
 |rarity=common
 |levelrange=1-20
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Psychic|
 |hp=28
 |atk=25
 |def=25

@@ -27,7 +27,7 @@
 |form=Mega
 |alt1=
 |alt1dex=
-|dexentry=Blaziken has incredibly strong legsâ€”it can easily clear a 30-story building in one leap. This Pokemonâ€™s blazing punches leave its foes scorched and blackened.
+|dexentry=Blaziken has incredibly strong legs-it can easily clear a 30-story building in one leap. This Pokemonâ€™s blazing punches leave its foes scorched and blackened.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Blaziken_(Pok%C3%A9mon) Blaziken] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -46,7 +46,7 @@
 |rarity=ultra-rare
 |levelrange=36-53
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fire|
 |hp=80
 |atk=120
 |def=70

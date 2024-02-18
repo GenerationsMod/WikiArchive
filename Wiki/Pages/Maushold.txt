@@ -70,7 +70,7 @@
 |rarity=common
 |levelrange=25-47
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Normal|
 |hp=74
 |atk=75
 |def=70

@@ -5,7 +5,7 @@
 |ndex=112
 |type1=Ground
 |type2=Rock
-|ability1=Lightningrod|ability2=Rockhead
+|ability1=Rockhead|ability2=Lightningrod
 |abilityH=Reckless
 |genderm=50.0
 |abilityS=
@@ -44,7 +44,7 @@
 |rarity=common
 |levelrange=42-49
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ground|
 |hp=105
 |atk=130
 |def=120

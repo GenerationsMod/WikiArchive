@@ -27,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Its face is sturdyâ€”as strong as diamondâ€”and this hardness offers a very stable defense. Much about this species is still unknown, such as its natural habitat.
+|dexentry=Its face is sturdy-as strong as diamond-and this hardness offers a very stable defense. Much about this species is still unknown, such as its natural habitat.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Bastiodon_(Pok%C3%A9mon) Bastiodon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -44,7 +44,7 @@
 |rarity=ultra-rare
 |levelrange=30-55
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Rock|
 |hp=60
 |atk=52
 |def=168

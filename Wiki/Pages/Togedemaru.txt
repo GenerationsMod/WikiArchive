@@ -5,7 +5,7 @@
 |ndex=777
 |type1=Electric
 |type2=Steel
-|ability1=Ironbarbs|ability2=Lightningrod
+|ability1=Lightningrod|ability2=Ironbarbs
 |abilityH=Sturdy
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=uncommon
 |levelrange=10-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Electric|
 |hp=65
 |atk=98
 |def=63

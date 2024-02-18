@@ -5,7 +5,7 @@
 |ndex=715
 |type1=Flying
 |type2=Dragon
-|ability1=Infiltrator|ability2=Frisk
+|ability1=Frisk|ability2=Infiltrator
 |abilityH=Telepathy
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=rare
 |levelrange=48-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Flying|
 |hp=85
 |atk=70
 |def=80

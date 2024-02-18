@@ -5,7 +5,7 @@
 |ndex=214
 |type1=Bug
 |type2=Fighting
-|ability1=Swarm|ability2=Guts
+|ability1=Guts|ability2=Swarm
 |abilityH=Moxie
 |genderm=50.0
 |abilityS=
@@ -25,7 +25,7 @@
 |form=Mega
 |alt1=
 |alt1dex=
-|dexentry=This Pokemon has an unparalleled horn. Heracross itself demonstrates tremendous powerâ€”it's capable of throwing several people trained in the traditional arts of war at once.
+|dexentry=This Pokemon has an unparalleled horn. Heracross itself demonstrates tremendous power-it's capable of throwing several people trained in the traditional arts of war at once.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Heracross_(Pok%C3%A9mon) Heracross] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=4-55
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=80
 |atk=125
 |def=75

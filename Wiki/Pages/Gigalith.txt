@@ -5,7 +5,7 @@
 |ndex=526
 |type1=Rock
 |type2=
-|ability1=Sturdy|ability2=Sandstream
+|ability1=Sandstream|ability2=Sturdy
 |abilityH=Sandforce
 |genderm=50.0
 |abilityS=
@@ -25,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Although its energy blasts can blow away a dump truck, they have a limitationâ€” they can only be fired when the sun is out.
+|dexentry=Although its energy blasts can blow away a dump truck, they have a limitation- they can only be fired when the sun is out.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Gigalith_(Pok%C3%A9mon) Gigalith] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -54,7 +54,7 @@
 |rarity=uncommon
 |levelrange=34-52
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Rock|
 |hp=85
 |atk=135
 |def=130

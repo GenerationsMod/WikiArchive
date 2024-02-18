@@ -5,7 +5,7 @@
 |ndex=548
 |type1=Grass
 |type2=
-|ability1=Owntempo|ability2=Chlorophyll
+|ability1=Chlorophyll|ability2=Owntempo
 |abilityH=Leafguard
 |genderm=0
 |abilityS=
@@ -44,7 +44,7 @@
 |rarity=uncommon
 |levelrange=5-24
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Grass|
 |hp=45
 |atk=35
 |def=50

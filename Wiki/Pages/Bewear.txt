@@ -42,7 +42,7 @@
 |rarity=rare
 |levelrange=27-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Normal|
 |hp=120
 |atk=125
 |def=80

@@ -5,7 +5,7 @@
 |ndex=939
 |type1=Electric
 |type2=
-|ability1=Electromorphosis|ability2=Static
+|ability1=Static|ability2=Electromorphosis
 |abilityH=Damp
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=rare
 |levelrange=25-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Electric|
 |hp=109
 |atk=64
 |def=91

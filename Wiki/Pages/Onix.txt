@@ -5,7 +5,7 @@
 |ndex=095
 |type1=Rock
 |type2=Ground
-|ability1=Sturdy|ability2=Rockhead
+|ability1=Rockhead|ability2=Sturdy
 |abilityH=Weakarmor
 |genderm=50.0
 |abilityS=
@@ -53,7 +53,7 @@
 |rarity=uncommon
 |levelrange=14-39
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Rock|
 |hp=35
 |atk=45
 |def=160

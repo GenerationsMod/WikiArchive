@@ -27,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Torchic has a place inside its body where it keeps its flame. Give it a hugâ€”it will be glowing with warmth. This Pokemon is covered all over by a fluffy coat of down.
+|dexentry=Torchic has a place inside its body where it keeps its flame. Give it a hug-it will be glowing with warmth. This Pokemon is covered all over by a fluffy coat of down.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Torchic_(Pok%C3%A9mon) Torchic] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -47,7 +47,7 @@
 |rarity=ultra-rare
 |levelrange=5-31
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fire|
 |hp=45
 |atk=60
 |def=40

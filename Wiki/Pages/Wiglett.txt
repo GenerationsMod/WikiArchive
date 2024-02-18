@@ -5,7 +5,7 @@
 |ndex=960
 |type1=Water
 |type2=
-|ability1=Gooey|ability2=Rattled
+|ability1=Rattled|ability2=Gooey
 |abilityH=Sandveil
 |genderm=50.0
 |abilityS=
@@ -41,7 +41,7 @@
 |rarity=uncommon
 |levelrange=4-32
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=10
 |atk=55
 |def=25

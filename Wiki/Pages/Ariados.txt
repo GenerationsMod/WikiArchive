@@ -5,7 +5,7 @@
 |ndex=168
 |type1=Bug
 |type2=Poison
-|ability1=Swarm|ability2=Insomnia
+|ability1=Insomnia|ability2=Swarm
 |abilityH=Sniper
 |genderm=50.0
 |abilityS=
@@ -81,7 +81,7 @@
 |rarity=common
 |levelrange=22-40
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=70
 |atk=90
 |def=70

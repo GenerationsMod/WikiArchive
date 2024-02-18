@@ -5,7 +5,7 @@
 |ndex=122
 |type1=Psychic
 |type2=Fairy
-|ability1=Soundproof|ability2=Filter
+|ability1=Filter|ability2=Soundproof
 |abilityH=Technician
 |genderm=50.0
 |abilityS=
@@ -70,7 +70,7 @@
 |rarity=uncommon
 |levelrange=32-46
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Psychic|
 |hp=40
 |atk=45
 |def=65

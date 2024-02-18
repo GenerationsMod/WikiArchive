@@ -27,7 +27,7 @@
 |form=Mega
 |alt1=
 |alt1dex=
-|dexentry=Soars across the heavens at blinding speedâ€”a magnificent sight! It has a feral disposition. Utmost caution is required if one meets a Garchomp out in the wilds.
+|dexentry=Soars across the heavens at blinding speed-a magnificent sight! It has a feral disposition. Utmost caution is required if one meets a Garchomp out in the wilds.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Garchomp_(Pok%C3%A9mon) Garchomp] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -54,7 +54,7 @@
 |rarity=ultra-rare
 |levelrange=48-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Dragon|
 |hp=108
 |atk=130
 |def=95

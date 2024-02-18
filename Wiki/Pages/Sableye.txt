@@ -5,7 +5,7 @@
 |ndex=302
 |type1=Dark
 |type2=Ghost
-|ability1=Stall|ability2=Keeneye
+|ability1=Keeneye|ability2=Stall
 |abilityH=Prankster
 |genderm=50.0
 |abilityS=
@@ -55,7 +55,7 @@
 |rarity=common
 |levelrange=13-38
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Dark|
 |hp=50
 |atk=75
 |def=75

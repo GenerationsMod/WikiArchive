@@ -5,7 +5,7 @@
 |ndex=206
 |type1=Normal
 |type2=
-|ability1=Runaway|ability2=Serenegrace
+|ability1=Serenegrace|ability2=Runaway
 |abilityH=Rattled
 |genderm=50.0
 |abilityS=
@@ -25,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=The nests Dunsparce live in are mazes of tunnels. They never get lost in their own nestsâ€”they can tell where they are by the scent of the dirt.
+|dexentry=The nests Dunsparce live in are mazes of tunnels. They never get lost in their own nests-they can tell where they are by the scent of the dirt.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Dunsparce_(Pok%C3%A9mon) Dunsparce] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=4-38
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Normal|
 |hp=100
 |atk=70
 |def=70

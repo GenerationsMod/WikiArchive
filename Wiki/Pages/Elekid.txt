@@ -46,7 +46,7 @@
 |rarity=uncommon
 |levelrange=11-36
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Electric|
 |hp=45
 |atk=63
 |def=37

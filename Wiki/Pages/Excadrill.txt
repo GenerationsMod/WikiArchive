@@ -5,7 +5,7 @@
 |ndex=530
 |type1=Ground
 |type2=Steel
-|ability1=Sandforce|ability2=Sandrush
+|ability1=Sandrush|ability2=Sandforce
 |abilityH=Moldbreaker
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=rare
 |levelrange=31-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ground|
 |hp=110
 |atk=135
 |def=60

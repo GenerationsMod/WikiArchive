@@ -5,7 +5,7 @@
 |ndex=060
 |type1=Water
 |type2=
-|ability1=Waterabsorb|ability2=Damp
+|ability1=Damp|ability2=Waterabsorb
 |abilityH=Swiftswim
 |genderm=50.0
 |abilityS=
@@ -70,7 +70,7 @@
 |rarity=common
 |levelrange=5-30
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=40
 |atk=50
 |def=40

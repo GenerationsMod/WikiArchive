@@ -5,7 +5,7 @@
 |ndex=171
 |type1=Water
 |type2=Electric
-|ability1=Voltabsorb|ability2=Illuminate
+|ability1=Illuminate|ability2=Voltabsorb
 |abilityH=Waterabsorb
 |genderm=50.0
 |abilityS=
@@ -44,7 +44,7 @@
 |rarity=common
 |levelrange=27-46
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=125
 |atk=58
 |def=58

@@ -5,7 +5,7 @@
 |ndex=275
 |type1=Grass
 |type2=Dark
-|ability1=Chlorophyll|ability2=Earlybird
+|ability1=Earlybird|ability2=Chlorophyll
 |abilityH=Pickpocket
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=common
 |levelrange=29-48
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Grass|
 |hp=90
 |atk=100
 |def=60

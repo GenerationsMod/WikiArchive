@@ -42,7 +42,7 @@
 |rarity=ultra-rare
 |levelrange=70-75
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ground|
 |hp=100
 |atk=150
 |def=140

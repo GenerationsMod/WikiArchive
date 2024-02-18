@@ -5,7 +5,7 @@
 |ndex=569
 |type1=Poison
 |type2=
-|ability1=Stench|ability2=Weakarmor
+|ability1=Weakarmor|ability2=Stench
 |abilityH=Aftermath
 |genderm=50.0
 |abilityS=
@@ -45,7 +45,7 @@
 |rarity=uncommon
 |levelrange=36-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Poison|
 |hp=80
 |atk=95
 |def=82

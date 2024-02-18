@@ -5,7 +5,7 @@
 |ndex=050
 |type1=Ground
 |type2=
-|ability1=Arenatrap|ability2=Sandveil
+|ability1=Sandveil|ability2=Arenatrap
 |abilityH=Sandforce
 |genderm=50.0
 |abilityS=
@@ -53,7 +53,7 @@
 |rarity=common
 |levelrange=8-26
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ground|
 |hp=10
 |atk=55
 |def=25

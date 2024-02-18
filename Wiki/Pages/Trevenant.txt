@@ -5,7 +5,7 @@
 |ndex=709
 |type1=Ghost
 |type2=Grass
-|ability1=Naturalcure|ability2=Frisk
+|ability1=Frisk|ability2=Naturalcure
 |abilityH=Harvest
 |genderm=50.0
 |abilityS=
@@ -61,7 +61,7 @@
 |rarity=common
 |levelrange=26-47
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ghost|
 |hp=85
 |atk=110
 |def=76

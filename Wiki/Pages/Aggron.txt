@@ -5,7 +5,7 @@
 |ndex=306
 |type1=Steel
 |type2=Rock
-|ability1=Sturdy|ability2=Rockhead
+|ability1=Rockhead|ability2=Sturdy
 |abilityH=Heavymetal
 |genderm=50.0
 |abilityS=
@@ -44,7 +44,7 @@
 |rarity=rare
 |levelrange=42-55
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Steel|
 |hp=70
 |atk=110
 |def=180

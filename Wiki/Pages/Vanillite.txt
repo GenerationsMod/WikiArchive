@@ -5,7 +5,7 @@
 |ndex=582
 |type1=Ice
 |type2=
-|ability1=Snowcloak|ability2=Icebody
+|ability1=Icebody|ability2=Snowcloak
 |abilityH=Weakarmor
 |genderm=50.0
 |abilityS=
@@ -44,7 +44,7 @@
 |rarity=common
 |levelrange=4-40
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ice|
 |hp=36
 |atk=50
 |def=50

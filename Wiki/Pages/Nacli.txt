@@ -5,7 +5,7 @@
 |ndex=932
 |type1=Rock
 |type2=
-|ability1=Purifyingsalt|ability2=Sturdy
+|ability1=Sturdy|ability2=Purifyingsalt
 |abilityH=Clearbody
 |genderm=50.0
 |abilityS=
@@ -61,7 +61,7 @@
 |rarity=common
 |levelrange=3-28
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Rock|
 |hp=55
 |atk=55
 |def=75

@@ -62,7 +62,7 @@
 |rarity=common
 |levelrange=35-50
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Psychic|
 |hp=55
 |atk=50
 |def=45

@@ -5,7 +5,7 @@
 |ndex=048
 |type1=Bug
 |type2=Poison
-|ability1=Tintedlens|ability2=Compoundeyes
+|ability1=Compoundeyes|ability2=Tintedlens
 |abilityH=Runaway
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=common
 |levelrange=13-30
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=60
 |atk=55
 |def=50

@@ -5,7 +5,7 @@
 |ndex=117
 |type1=Water
 |type2=
-|ability1=Poisonpoint|ability2=Sniper
+|ability1=Sniper|ability2=Poisonpoint
 |abilityH=Damp
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=common
 |levelrange=32-44
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=55
 |atk=65
 |def=95

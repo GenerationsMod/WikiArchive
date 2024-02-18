@@ -5,7 +5,7 @@
 |ndex=883
 |type1=Water
 |type2=Ice
-|ability1=Waterabsorb|ability2=Icebody
+|ability1=Icebody|ability2=Waterabsorb
 |abilityH=Slushrush
 |genderm=Genderless
 |abilityS=
@@ -41,7 +41,7 @@
 |rarity=ultra-rare
 |levelrange=20-60
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=90
 |atk=90
 |def=100

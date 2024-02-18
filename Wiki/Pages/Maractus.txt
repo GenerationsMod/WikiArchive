@@ -5,7 +5,7 @@
 |ndex=556
 |type1=Grass
 |type2=
-|ability1=Waterabsorb|ability2=Chlorophyll
+|ability1=Chlorophyll|ability2=Waterabsorb
 |abilityH=Stormdrain
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=common
 |levelrange=8-46
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Grass|
 |hp=75
 |atk=86
 |def=67

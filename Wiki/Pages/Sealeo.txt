@@ -5,7 +5,7 @@
 |ndex=364
 |type1=Ice
 |type2=Water
-|ability1=Thickfat|ability2=Icebody
+|ability1=Icebody|ability2=Thickfat
 |abilityH=Oblivious
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=32-50
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ice|
 |hp=90
 |atk=60
 |def=70

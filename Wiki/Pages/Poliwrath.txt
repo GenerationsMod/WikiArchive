@@ -5,7 +5,7 @@
 |ndex=062
 |type1=Water
 |type2=Fighting
-|ability1=Waterabsorb|ability2=Damp
+|ability1=Damp|ability2=Waterabsorb
 |abilityH=Swiftswim
 |genderm=50.0
 |abilityS=
@@ -70,7 +70,7 @@
 |rarity=common
 |levelrange=34-51
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=90
 |atk=95
 |def=95

@@ -5,7 +5,7 @@
 |ndex=404
 |type1=Electric
 |type2=
-|ability1=Intimidate|ability2=Rivalry
+|ability1=Rivalry|ability2=Intimidate
 |abilityH=Guts
 |genderm=50.0
 |abilityS=
@@ -43,7 +43,7 @@
 |rarity=uncommon
 |levelrange=15-36
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Electric|
 |hp=60
 |atk=85
 |def=49

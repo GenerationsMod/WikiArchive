@@ -5,7 +5,7 @@
 |ndex=545
 |type1=Bug
 |type2=Poison
-|ability1=Swarm|ability2=Poisonpoint
+|ability1=Poisonpoint|ability2=Swarm
 |abilityH=Speedboost
 |genderm=50.0
 |abilityS=
@@ -70,7 +70,7 @@
 |rarity=common
 |levelrange=30-49
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Bug|
 |hp=60
 |atk=100
 |def=89

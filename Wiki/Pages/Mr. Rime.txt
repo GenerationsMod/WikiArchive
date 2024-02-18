@@ -5,7 +5,7 @@
 |ndex=866
 |type1=Ice
 |type2=Psychic
-|ability1=Tangledfeet|ability2=Screencleaner
+|ability1=Screencleaner|ability2=Tangledfeet
 |abilityH=Icebody
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=rare
 |levelrange=32-46
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ice|
 |hp=80
 |atk=85
 |def=75

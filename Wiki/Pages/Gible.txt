@@ -54,7 +54,7 @@
 |rarity=ultra-rare
 |levelrange=5-30
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Dragon|
 |hp=58
 |atk=70
 |def=45

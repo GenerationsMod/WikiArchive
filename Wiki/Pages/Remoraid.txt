@@ -5,7 +5,7 @@
 |ndex=223
 |type1=Water
 |type2=
-|ability1=Sniper|ability2=Hustle
+|ability1=Hustle|ability2=Sniper
 |abilityH=Moody
 |genderm=50.0
 |abilityS=
@@ -44,7 +44,7 @@
 |rarity=uncommon
 |levelrange=10-29
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Water|
 |hp=35
 |atk=65
 |def=35

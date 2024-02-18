@@ -5,7 +5,7 @@
 |ndex=190
 |type1=Normal
 |type2=
-|ability1=Runaway|ability2=Pickup
+|ability1=Pickup|ability2=Runaway
 |abilityH=Skilllink
 |genderm=50.0
 |abilityS=
@@ -42,7 +42,7 @@
 |rarity=common
 |levelrange=11-36
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Normal|
 |hp=55
 |atk=70
 |def=55

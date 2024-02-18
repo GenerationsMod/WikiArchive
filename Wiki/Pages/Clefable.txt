@@ -5,7 +5,7 @@
 |ndex=036
 |type1=Fairy
 |type2=
-|ability1=Cutecharm|ability2=Magicguard
+|ability1=Magicguard|ability2=Cutecharm
 |abilityH=Unaware
 |genderm=25.0
 |abilityS=
@@ -71,7 +71,7 @@
 |rarity=uncommon
 |levelrange=27-48
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Fairy|
 |hp=95
 |atk=70
 |def=73

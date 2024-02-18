@@ -5,7 +5,7 @@
 |ndex=712
 |type1=Ice
 |type2=
-|ability1=Owntempo|ability2=Icebody
+|ability1=Icebody|ability2=Owntempo
 |abilityH=Sturdy
 |genderm=50.0
 |abilityS=
@@ -61,7 +61,7 @@
 |rarity=common
 |levelrange=5-30
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Ice|
 |hp=55
 |atk=69
 |def=85

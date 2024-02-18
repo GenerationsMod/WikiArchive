@@ -5,7 +5,7 @@
 |ndex=137
 |type1=Normal
 |type2=
-|ability1=Trace|ability2=Download
+|ability1=Download|ability2=Trace
 |abilityH=Analytic
 |genderm=Genderless
 |abilityS=
@@ -41,7 +41,7 @@
 |rarity=uncommon
 |levelrange=15-40
 }}
-{{Statbox|Unknown|
+{{Statbox|type1=Normal|
 |hp=65
 |atk=60
 |def=70
