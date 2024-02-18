@@ -91,8 +91,6 @@
 {{movesLvl|56|Fire_Blast}}
 {{movesLvl|63|Flare_Blitz}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
@@ -206,6 +204,8 @@
 {{moves|Throat_Chop}}
 {{moves|Toxic}}
 {{moves|Will-O-Wisp}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=077|prev=Ponyta|dexnext=079|next=Slowpoke}}

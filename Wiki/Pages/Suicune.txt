@@ -76,8 +76,6 @@
 {{movesLvl|72|Hydro_Pump}}
 {{movesLvl|78|Blizzard}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Air_Slash}}
@@ -198,6 +196,8 @@
 {{moves|Water_Gun}}
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=244|prev=Entei|dexnext=246|next=Larvitar}}

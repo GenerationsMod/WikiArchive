@@ -61,8 +61,6 @@
 {{movesLvl|1|Lick}}
 {{movesLvl|1|Seed_Bomb}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
@@ -128,6 +126,8 @@
 {{moves|Throat_Chop}}
 {{moves|Uproar}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=511|prev=Pansage|dexnext=513|next=Pansear}}

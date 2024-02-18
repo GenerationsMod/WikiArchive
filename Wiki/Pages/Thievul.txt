@@ -76,8 +76,6 @@
 {{movesLvl|46|Foul_Play}}
 {{movesLvl|52|Parting_Shot}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -121,6 +119,8 @@
 {{MovesAlign}}{{MovesTop|Dark}}
 {{moves|Burning_Jealousy}}
 {{moves|Lash_Out}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=827|prev=Nickit|dexnext=829|next=Gossifleur}}

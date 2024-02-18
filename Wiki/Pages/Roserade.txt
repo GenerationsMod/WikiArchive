@@ -75,8 +75,6 @@
 {{movesLvl|1|Weather_Ball}}
 {{movesLvl|1|Worry_Seed}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -143,6 +141,8 @@
 {{moves|Swift}}
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=406|prev=Budew|dexnext=408|next=Cranidos}}

@@ -93,8 +93,6 @@
 {{movesLvl|43|Sandstorm}}
 {{movesLvl|48|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Body_Press}}
@@ -202,6 +200,8 @@
 {{moves|Trick}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=343|prev=Baltoy|dexnext=345|next=Lileep}}

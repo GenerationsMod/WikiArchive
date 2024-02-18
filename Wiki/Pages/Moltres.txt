@@ -84,8 +84,6 @@
 {{movesLvl|70|Sky_Attack}}
 {{movesLvl|71|Solar_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -207,6 +205,8 @@
 {{moves|Whirlwind}}
 {{moves|Will-O-Wisp}}
 {{moves|Wing_Attack}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=145|prev=Zapdos|dexnext=147|next=Dratini}}

@@ -78,8 +78,6 @@
 {{movesLvl|90|Fleur_Cannon}}
 {{movesLvl|97|Trump_Card}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Agility}}
 {{movesTm|Aura_Sphere}}
@@ -177,6 +175,8 @@
 {{moves|Steel_Beam}}
 {{moves|Steel_Roller}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=800|prev=Necrozma|dexnext=802|next=Marshadow}}

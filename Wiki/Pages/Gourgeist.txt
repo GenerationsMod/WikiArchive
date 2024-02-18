@@ -80,8 +80,6 @@
 {{movesLvl|44|Pain_Split}}
 {{movesLvl|48|Phantom_Force}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -161,6 +159,8 @@
 {{moves|Telekinesis}}
 {{moves|Trick}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=710|prev=Pumpkaboo|dexnext=712|next=Bergmite}}

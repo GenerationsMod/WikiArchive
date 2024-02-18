@@ -78,8 +78,6 @@
 {{movesLvl|48|Metal_Sound}}
 {{movesLvl|54|Thrash}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Amnesia}}
 {{movesTm|Assurance}}
@@ -147,6 +145,8 @@
 {{MovesAlign}}{{MovesTop|Steel}}
 {{moves|Lash_Out}}
 {{moves|Steel_Beam}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=862|prev=Obstagoon|dexnext=864|next=Cursola}}

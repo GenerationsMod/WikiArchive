@@ -77,8 +77,6 @@
 {{movesLvl|50|Perish_Song}}
 {{movesLvl|56|Sky_Attack}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -195,6 +193,8 @@
 {{moves|Twister}}
 {{moves|Uproar}}
 {{moves|Wonder_Room}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=333|prev=Swablu|dexnext=335|next=Zangoose}}

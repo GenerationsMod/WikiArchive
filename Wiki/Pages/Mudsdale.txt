@@ -5,7 +5,7 @@
 |ndex=750
 |type1=Ground
 |type2=
-|ability1=Stamina|ability2=Owntempo
+|ability1=Owntempo|ability2=Stamina
 |abilityH=Innerfocus
 |genderm=50.0
 |abilityS=
@@ -72,8 +72,6 @@
 {{movesLvl|46|Mega_Kick}}
 {{movesLvl|52|Superpower}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -136,6 +134,8 @@
 {{moves|Stealth_Rock}}
 {{moves|Stomping_Tantrum}}
 {{moves|Superpower}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=749|prev=Mudbray|dexnext=751|next=Dewpider}}

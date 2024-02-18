@@ -75,8 +75,6 @@
 {{movesLvl|57|Swords_Dance}}
 {{movesLvl|64|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -152,6 +150,8 @@
 {{moves|Swift}}
 {{moves|Swords_Dance}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=290|prev=Nincada|dexnext=292|next=Shedinja}}

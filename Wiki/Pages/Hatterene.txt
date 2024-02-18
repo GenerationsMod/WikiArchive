@@ -5,7 +5,7 @@
 |ndex=858
 |type1=Psychic
 |type2=Fairy
-|ability1=Anticipation|ability2=Healer
+|ability1=Healer|ability2=Anticipation
 |abilityH=Magicbounce
 |genderm=0
 |abilityS=
@@ -67,8 +67,6 @@
 {{movesLvl|55|Healing_Wish}}
 {{movesLvl|64|Magic_Powder}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -126,6 +124,8 @@
 {{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Expanding_Force}}
 {{moves|Misty_Explosion}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=857|prev=Hattrem|dexnext=859|next=Impidimp}}

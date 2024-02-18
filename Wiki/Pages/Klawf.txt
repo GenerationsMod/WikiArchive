@@ -5,7 +5,7 @@
 |ndex=950
 |type1=Rock
 |type2=
-|ability1=Shellarmor|ability2=Angershell
+|ability1=Angershell|ability2=Shellarmor
 |abilityH=Regenerator
 |genderm=50.0
 |abilityS=
@@ -68,12 +68,6 @@
 {{movesLvl|51|Iron_Defense}}
 {{movesLvl|56|Guillotine}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-{{movesB|Ancient_Power}}
-{{movesB|Crabhammer}}
-{{movesB|Endeavor}}
-{{movesB|Knock_Off}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Body_Slam}}
 {{movesTm|Brick_Break}}
@@ -119,6 +113,12 @@
 {{moves|Rock_Smash}}
 {{moves|Rock_Tomb}}
 {{moves|Vise_Grip}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
+{{movesB|Ancient_Power}}
+{{movesB|Crabhammer}}
+{{movesB|Endeavor}}
+{{movesB|Knock_Off}}
 |}
 |}
 {{NextPrev|dexprev=949|prev=Grafaiai|dexnext=951|next=Brambleghast}}

@@ -69,12 +69,6 @@
 {{movesLvl|32|Bounce}}
 {{movesLvl|36|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-{{movesB|High_Jump_Kick}}
-{{movesB|Sand_Attack}}
-{{movesB|Sucker_Punch}}
-{{movesB|Super_Fang}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -121,6 +115,12 @@
 |}
 {{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Fire_Pledge}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
+{{movesB|High_Jump_Kick}}
+{{movesB|Sand_Attack}}
+{{movesB|Sucker_Punch}}
+{{movesB|Super_Fang}}
 |}
 |}
 {{NextPrev|dexprev=812|prev=Rillaboom|dexnext=814|next=Raboot}}

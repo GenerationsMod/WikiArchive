@@ -80,8 +80,6 @@
 {{movesLvl|57|Superpower}}
 {{movesLvl|60|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -191,6 +189,8 @@
 {{moves|Water_Pledge}}
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=158|prev=Totodile|dexnext=160|next=Feraligatr}}

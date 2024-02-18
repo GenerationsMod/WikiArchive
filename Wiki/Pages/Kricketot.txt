@@ -60,8 +60,6 @@
 {{movesLvl|6|Struggle_Bug}}
 {{movesLvl|16|Bug_Bite}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Struggle_Bug}}
 {{movesTm|Tera_Blast}}
@@ -74,6 +72,8 @@
 {{moves|String_Shot}}
 {{moves|Struggle_Bug}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=400|prev=Bibarel|dexnext=402|next=Kricketune}}

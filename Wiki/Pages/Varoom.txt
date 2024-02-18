@@ -81,13 +81,6 @@
 {{movesLvl|46|Spin_Out}}
 {{movesLvl|50|Gunk_Shot}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-{{movesB|Haze}}
-{{movesB|Parting_Shot}}
-{{movesB|Self-Destruct}}
-{{movesB|Torment}}
-{{movesB|Toxic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Body_Slam}}
@@ -117,6 +110,13 @@
 {{movesTm|Zen_Headbutt}}
 |}
 {{MovesAlign}}{{MovesTop|Steel}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
+{{movesB|Haze}}
+{{movesB|Parting_Shot}}
+{{movesB|Self-Destruct}}
+{{movesB|Torment}}
+{{movesB|Toxic}}
 |}
 |}
 {{NextPrev|dexprev=964|prev=Wiglett|dexnext=966|next=Bombirdier}}

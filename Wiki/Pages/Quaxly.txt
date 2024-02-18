@@ -67,12 +67,6 @@
 {{movesLvl|31|Acrobatics}}
 {{movesLvl|35|Liquidation}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-{{movesB|Detect}}
-{{movesB|Last_Resort}}
-{{movesB|Rapid_Spin}}
-{{movesB|Roost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -100,6 +94,12 @@
 {{movesTm|Water_Pledge}}
 |}
 {{MovesAlign}}{{MovesTop|Water}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
+{{movesB|Detect}}
+{{movesB|Last_Resort}}
+{{movesB|Rapid_Spin}}
+{{movesB|Roost}}
 |}
 |}
 {{NextPrev|dexprev=911|prev=Skeledirge|dexnext=913|next=Quaxwell}}

@@ -72,8 +72,6 @@
 {{movesLvl|42|Gastro_Acid}}
 {{movesLvl|49|Belch}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Amnesia}}
@@ -172,6 +170,8 @@
 {{moves|Swagger}}
 {{moves|Thunder_Punch}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=316|prev=Gulpin|dexnext=318|next=Carvanha}}

@@ -67,8 +67,6 @@
 {{movesLvl|56|Gastro_Acid}}
 {{movesLvl|63|Toxic}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Charm}}
 {{movesTm|Confide}}
@@ -117,6 +115,8 @@
 {{moves|Snore}}
 {{moves|Uproar}}
 {{moves|Venom_Drench}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=802|prev=Marshadow|dexnext=804|next=Naganadel}}

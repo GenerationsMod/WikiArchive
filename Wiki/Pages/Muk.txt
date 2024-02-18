@@ -5,7 +5,7 @@
 |ndex=089
 |type1=Poison
 |type2=
-|ability1=Stickyhold|ability2=Stench
+|ability1=Stench|ability2=Stickyhold
 |abilityH=Poisontouch
 |genderm=50.0
 |abilityS=
@@ -108,8 +108,6 @@
 {{movesLvl|46|Acid_Armor}}
 {{movesLvl|52|Belch}}
 {{movesLvl|57|Memento}}
-|}
-{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
@@ -247,6 +245,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Toxic}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=088|prev=Grimer|dexnext=090|next=Shellder}}

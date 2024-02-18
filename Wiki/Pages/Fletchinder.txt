@@ -85,8 +85,6 @@
 {{movesLvl|57|Roost}}
 {{movesLvl|64|Fly}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -143,6 +141,8 @@
 {{moves|Snatch}}
 {{moves|Snore}}
 {{moves|Tailwind}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=661|prev=Fletchling|dexnext=663|next=Talonflame}}

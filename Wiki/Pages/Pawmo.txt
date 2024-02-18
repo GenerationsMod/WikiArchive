@@ -5,7 +5,7 @@
 |ndex=922
 |type1=Electric
 |type2=Fighting
-|ability1=Voltabsorb|ability2=Naturalcure
+|ability1=Naturalcure|ability2=Voltabsorb
 |abilityH=Ironfist
 |genderm=50.0
 |abilityS=
@@ -69,8 +69,6 @@
 {{movesLvl|46|Agility}}
 {{movesLvl|52|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
 {{movesTm|Baton_Pass}}
@@ -109,6 +107,8 @@
 {{movesTm|Wild_Charge}}
 |}
 {{MovesAlign}}{{MovesTop|Electric}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=921|prev=Pawmi|dexnext=923|next=Pawmot}}

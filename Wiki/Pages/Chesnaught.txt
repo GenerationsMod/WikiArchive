@@ -75,8 +75,6 @@
 {{movesLvl|66|Wood_Hammer}}
 {{movesLvl|78|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -188,6 +186,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Worry_Seed}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=651|prev=Quilladin|dexnext=653|next=Fennekin}}

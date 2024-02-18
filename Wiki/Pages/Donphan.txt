@@ -85,8 +85,6 @@
 {{movesLvl|43|Earthquake}}
 {{movesLvl|50|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -205,6 +203,8 @@
 {{moves|Superpower}}
 {{moves|Swagger}}
 {{moves|Toxic}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=231|prev=Phanpy|dexnext=233|next=Porygon2}}

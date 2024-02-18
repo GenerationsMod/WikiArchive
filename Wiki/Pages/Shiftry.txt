@@ -81,8 +81,6 @@
 {{movesLvl|20|Leaf_Tornado}}
 {{movesLvl|44|Leaf_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -206,6 +204,8 @@
 {{moves|Throat_Chop}}
 {{moves|Twister}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=274|prev=Nuzleaf|dexnext=276|next=Taillow}}

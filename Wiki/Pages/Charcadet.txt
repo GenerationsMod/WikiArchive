@@ -76,11 +76,6 @@
 {{movesLvl|28|Incinerate}}
 {{movesLvl|32|Lava_Plume}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-{{movesB|Destiny_Bond}}
-{{movesB|Disable}}
-{{movesB|Spite}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Confuse_Ray}}
 {{movesTm|Endure}}
@@ -103,6 +98,11 @@
 {{movesTm|Will-O-Wisp}}
 |}
 {{MovesAlign}}{{MovesTop|Fire}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
+{{movesB|Destiny_Bond}}
+{{movesB|Disable}}
+{{movesB|Spite}}
 |}
 |}
 {{NextPrev|dexprev=934|prev=Naclstack|dexnext=936|next=Annihilape}}

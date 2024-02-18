@@ -73,8 +73,6 @@
 {{movesLvl|52|Petal_Blizzard}}
 {{movesLvl|58|Petal_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Bullet_Seed}}
 {{movesTm|Charm}}
@@ -110,6 +108,8 @@
 {{movesTm|Trailblaze}}
 |}
 {{MovesAlign}}{{MovesTop|Grass}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=929|prev=Smoliv|dexnext=931|next=Arboliva}}

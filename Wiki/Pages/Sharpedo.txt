@@ -76,8 +76,6 @@
 {{movesLvl|52|Take_Down}}
 {{movesLvl|56|Taunt}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
@@ -174,6 +172,8 @@
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=318|prev=Carvanha|dexnext=320|next=Wailmer}}

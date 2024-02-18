@@ -98,10 +98,6 @@
 {{movesLvl|55|Double-Edge}}
 {{movesLvl|60|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-{{movesB|Curse}}
-{{movesB|Endeavor}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -242,6 +238,10 @@
 {{moves|Water_Pulse}}
 {{moves|Zap_Cannon}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
+{{movesB|Curse}}
+{{movesB|Endeavor}}
 |}
 |}
 {{NextPrev|dexprev=127|prev=Pinsir|dexnext=129|next=Magikarp}}

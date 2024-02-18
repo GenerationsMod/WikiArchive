@@ -70,8 +70,6 @@
 {{movesLvl|70|Memento}}
 {{movesLvl|75|Overheat}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Confuse_Ray}}
 {{movesTm|Crunch}}
@@ -110,6 +108,8 @@
 {{moves|Lava_Plume}}
 {{moves|Ruination}}
 {{moves|Swagger}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=1003|prev=Ting-Lu|dexnext=1005|next=Roaring Moon}}

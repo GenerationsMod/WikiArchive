@@ -5,7 +5,7 @@
 |ndex=943
 |type1=Dark
 |type2=
-|ability1=Intimidate|ability2=Guarddog
+|ability1=Guarddog|ability2=Intimidate
 |abilityH=Stakeout
 |genderm=50.0
 |abilityS=
@@ -99,8 +99,6 @@
 {{movesLvl|55|Double-Edge}}
 {{movesLvl|60|Outrage}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Body_Slam}}
 {{movesTm|Charm}}
@@ -137,6 +135,8 @@
 {{movesTm|Wild_Charge}}
 |}
 {{MovesAlign}}{{MovesTop|Dark}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=942|prev=Wattrel|dexnext=944|next=Dudunsparce}}

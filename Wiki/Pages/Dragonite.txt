@@ -97,8 +97,6 @@
 {{movesLvl|62|Dragon_Dance}}
 {{movesLvl|80|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -301,6 +299,8 @@
 {{moves|Wing_Attack}}
 {{moves|Wrap}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=148|prev=Dragonair|dexnext=150|next=Mewtwo}}

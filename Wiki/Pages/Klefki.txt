@@ -73,13 +73,6 @@
 {{movesLvl|50|Heal_Block}}
 {{movesLvl|52|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-{{movesB|Iron_Defense}}
-{{movesB|Lock-On}}
-{{movesB|Magnet_Rise}}
-{{movesB|Switcheroo}}
-{{movesB|Thief}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Attract}}
 {{movesTm|Calm_Mind}}
@@ -142,6 +135,13 @@
 {{moves|Recycle}}
 {{moves|Snore}}
 {{moves|Steel_Beam}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
+{{movesB|Iron_Defense}}
+{{movesB|Lock-On}}
+{{movesB|Magnet_Rise}}
+{{movesB|Switcheroo}}
+{{movesB|Thief}}
 |}
 |}
 {{NextPrev|dexprev=706|prev=Goodra|dexnext=708|next=Phantump}}

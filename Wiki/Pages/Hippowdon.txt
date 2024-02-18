@@ -80,8 +80,6 @@
 {{movesLvl|60|Fissure}}
 {{movesLvl|62|Slack_Off}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -155,6 +153,8 @@
 {{moves|Stomping_Tantrum}}
 {{moves|Superpower}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=449|prev=Hippopotas|dexnext=451|next=Skorupi}}

@@ -5,7 +5,7 @@
 |ndex=876
 |type1=Psychic
 |type2=Normal
-|ability1=Synchronize|ability2=Innerfocus
+|ability1=Innerfocus|ability2=Synchronize
 |abilityH=Psychicsurge
 |genderm=100
 |abilityS=
@@ -67,11 +67,6 @@
 {{movesLvl|50|Psychic_Terrain}}
 {{movesLvl|55|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-{{movesB|Extrasensory}}
-{{movesB|Fake_Out}}
-{{movesB|Psych_Up}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -121,6 +116,11 @@
 {{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Expanding_Force}}
 {{moves|Terrain_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
+{{movesB|Extrasensory}}
+{{movesB|Fake_Out}}
+{{movesB|Psych_Up}}
 |}
 |}
 {{NextPrev|dexprev=875|prev=Eiscue|dexnext=877|next=Morpeko}}

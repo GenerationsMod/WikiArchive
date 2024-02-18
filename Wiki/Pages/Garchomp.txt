@@ -90,8 +90,6 @@
 {{movesLvl|72|Take_Down}}
 {{movesLvl|82|Dragon_Rush}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -200,6 +198,8 @@
 {{moves|Swift}}
 {{moves|Swords_Dance}}
 {{moves|Twister}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=444|prev=Gabite|dexnext=446|next=Munchlax}}

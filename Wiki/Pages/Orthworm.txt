@@ -70,11 +70,6 @@
 {{movesLvl|47|Earthquake}}
 {{movesLvl|52|Shed_Tail}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-{{movesB|Coil}}
-{{movesB|Curse}}
-{{movesB|Metal_Burst}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -113,6 +108,11 @@
 {{moves|Iron_Tail}}
 {{moves|Sandstorm}}
 {{moves|Wrap}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
+{{movesB|Coil}}
+{{movesB|Curse}}
+{{movesB|Metal_Burst}}
 |}
 |}
 {{NextPrev|dexprev=967|prev=Finizen|dexnext=969|next=Varoom}}

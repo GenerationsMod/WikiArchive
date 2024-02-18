@@ -65,12 +65,6 @@
 {{movesLvl|29|Dig}}
 {{movesLvl|35|Lunge}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-{{movesB|Cosmic_Power}}
-{{movesB|Memento}}
-{{movesB|Recover}}
-{{movesB|Weather_Ball}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Bug_Buzz}}
 {{movesTm|Dig}}
@@ -96,6 +90,12 @@
 {{movesTm|X-Scissor}}
 |}
 {{MovesAlign}}{{MovesTop|Bug}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
+{{movesB|Cosmic_Power}}
+{{movesB|Memento}}
+{{movesB|Recover}}
+{{movesB|Weather_Ball}}
 |}
 |}
 {{NextPrev|dexprev=952|prev=Toedscool|dexnext=954|next=Klawf}}

@@ -72,10 +72,6 @@
 {{movesLvl|52|Double-Edge}}
 {{movesLvl|56|Head_Smash}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-{{movesB|Endeavor}}
-{{movesB|Last_Respects}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Blizzard}}
@@ -111,6 +107,10 @@
 {{movesTm|Water_Pulse}}
 |}
 {{MovesAlign}}{{MovesTop|Water}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
+{{movesB|Endeavor}}
+{{movesB|Last_Respects}}
 |}
 |}
 {{NextPrev|dexprev=901|prev=Ursaluna|dexnext=903|next=Sneasler}}

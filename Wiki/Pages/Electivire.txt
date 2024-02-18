@@ -101,8 +101,6 @@
 {{movesLvl|67|Giga_Impact}}
 {{movesLvl|68|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -199,6 +197,8 @@
 {{moves|Swift}}
 {{moves|Thunderbolt}}
 {{moves|Thunder_Punch}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=465|prev=Tangrowth|dexnext=467|next=Magmortar}}

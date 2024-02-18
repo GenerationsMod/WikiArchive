@@ -73,8 +73,6 @@
 {{movesLvl|53|Outrage}}
 {{movesLvl|57|Final_Gambit}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Acrobatics}}
 {{movesTm|Body_Slam}}
@@ -131,6 +129,8 @@
 {{movesTm|U-turn}}
 |}
 {{MovesAlign}}{{MovesTop|Fighting}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=978|prev=Cetoddle|dexnext=980|next=Kingambit}}

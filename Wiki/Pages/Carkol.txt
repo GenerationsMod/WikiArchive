@@ -67,8 +67,6 @@
 {{movesLvl|55|Burn_Up}}
 {{movesLvl|55|Stone_Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -117,6 +115,8 @@
 {{MovesAlign}}{{MovesTop|Rock}}
 {{moves|Meteor_Beam}}
 {{moves|Scorching_Sands}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=837|prev=Rolycoly|dexnext=839|next=Coalossal}}

@@ -5,7 +5,7 @@
 |ndex=476
 |type1=Rock
 |type2=Steel
-|ability1=Magnetpull|ability2=Sturdy
+|ability1=Sturdy|ability2=Magnetpull
 |abilityH=Sandforce
 |genderm=50.0
 |abilityS=
@@ -94,8 +94,6 @@
 {{movesLvl|73|Lock-On}}
 {{movesLvl|79|Earth_Power}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Attract}}
 {{movesTm|Bulldoze}}
@@ -163,6 +161,8 @@
 {{moves|Stomping_Tantrum}}
 {{moves|Telekinesis}}
 {{moves|Thunder_Punch}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=475|prev=Gallade|dexnext=477|next=Dusknoir}}

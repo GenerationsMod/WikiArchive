@@ -71,8 +71,6 @@
 {{movesLvl|84|Overheat}}
 {{movesLvl|90|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -167,6 +165,8 @@
 {{moves|Stomping_Tantrum}}
 {{moves|Superpower}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=720|prev=Hoopa|dexnext=722|next=Rowlet}}

@@ -73,8 +73,6 @@
 {{movesLvl|90|Endeavor}}
 {{movesLvl|99|Close_Combat}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -169,6 +167,8 @@
 {{moves|Throat_Chop}}
 {{moves|Thunder_Punch}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=801|prev=Magearna|dexnext=803|next=Poipole}}

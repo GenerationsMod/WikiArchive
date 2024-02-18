@@ -90,8 +90,6 @@
 {{movesLvl|72|Agility}}
 {{movesLvl|82|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -208,6 +206,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Trick}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=375|prev=Metang|dexnext=377|next=Regirock}}

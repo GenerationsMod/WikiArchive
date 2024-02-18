@@ -70,8 +70,6 @@
 {{movesLvl|47|Pain_Split}}
 {{movesLvl|53|Wood_Hammer}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -169,6 +167,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Worry_Seed}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=650|prev=Chespin|dexnext=652|next=Chesnaught}}

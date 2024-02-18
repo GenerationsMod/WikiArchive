@@ -72,8 +72,6 @@
 {{movesLvl|58|Overheat}}
 {{movesLvl|64|Memento}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -137,6 +135,8 @@
 {{moves|Spite}}
 {{moves|Telekinesis}}
 {{moves|Trick}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=607|prev=Litwick|dexnext=609|next=Chandelure}}

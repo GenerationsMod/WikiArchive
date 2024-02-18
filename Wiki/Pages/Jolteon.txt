@@ -107,8 +107,6 @@
 {{movesLvl|50|Thunder}}
 {{movesLvl|55|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -239,6 +237,8 @@
 {{moves|Volt_Switch}}
 {{moves|Yawn}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=134|prev=Vaporeon|dexnext=136|next=Flareon}}

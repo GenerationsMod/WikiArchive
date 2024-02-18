@@ -60,8 +60,6 @@
 {{movesLvl|5|Poison_Sting}}
 {{movesLvl|15|Bug_Bite}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 |}
 {{MovesAlign}}{{MovesTop|Bug}}
@@ -70,6 +68,8 @@
 {{moves|Poison_Sting}}
 {{moves|Snore}}
 {{moves|String_Shot}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=264|prev=Linoone|dexnext=266|next=Silcoon}}

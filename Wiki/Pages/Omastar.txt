@@ -81,8 +81,6 @@
 {{movesLvl|63|Shell_Smash}}
 {{movesLvl|70|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -204,6 +202,8 @@
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
 {{moves|Withdraw}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=138|prev=Omanyte|dexnext=140|next=Kabuto}}

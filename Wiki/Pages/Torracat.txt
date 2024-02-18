@@ -71,8 +71,6 @@
 {{movesLvl|50|Flare_Blitz}}
 {{movesLvl|55|Outrage}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
@@ -126,6 +124,8 @@
 {{moves|Heat_Wave}}
 {{moves|Outrage}}
 {{moves|Snore}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=725|prev=Litten|dexnext=727|next=Incineroar}}

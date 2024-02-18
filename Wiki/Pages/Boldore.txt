@@ -5,7 +5,7 @@
 |ndex=525
 |type1=Rock
 |type2=
-|ability1=Sturdy|ability2=Weakarmor
+|ability1=Weakarmor|ability2=Sturdy
 |abilityH=Sandforce
 |genderm=50.0
 |abilityS=
@@ -79,8 +79,6 @@
 {{movesLvl|48|Stone_Edge}}
 {{movesLvl|54|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -135,6 +133,8 @@
 {{moves|Snore}}
 {{moves|Stealth_Rock}}
 {{moves|Stomping_Tantrum}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=524|prev=Roggenrola|dexnext=526|next=Gigalith}}

@@ -70,8 +70,6 @@
 {{movesLvl|40|Fly}}
 {{movesLvl|44|Dragon_Rush}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Acrobatics}}
@@ -117,6 +115,8 @@
 {{moves|Draco_Meteor}}
 {{moves|Dual_Wingbeat}}
 {{moves|Grassy_Glide}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=840|prev=Applin|dexnext=842|next=Appletun}}

@@ -84,8 +84,6 @@
 {{movesLvl|54|Overheat}}
 {{movesLvl|56|Superpower}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -180,6 +178,8 @@
 {{moves|Thrash}}
 {{moves|Uproar}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=554|prev=Darumaka|dexnext=556|next=Maractus}}

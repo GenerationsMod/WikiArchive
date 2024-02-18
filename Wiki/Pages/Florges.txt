@@ -70,8 +70,6 @@
 {{movesLvl|1|Wish}}
 {{movesLvl|5|Moonblast}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -137,6 +135,8 @@
 {{moves|Snore}}
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=670|prev=Floette|dexnext=672|next=Skiddo}}

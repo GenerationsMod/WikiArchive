@@ -5,7 +5,7 @@
 |ndex=404
 |type1=Electric
 |type2=
-|ability1=Rivalry|ability2=Intimidate
+|ability1=Intimidate|ability2=Rivalry
 |abilityH=Guts
 |genderm=50.0
 |abilityS=
@@ -80,8 +80,6 @@
 {{movesLvl|60|Swagger}}
 {{movesLvl|68|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Attract}}
 {{movesTm|Captivate}}
@@ -149,6 +147,8 @@
 {{moves|Sleep_Talk}}
 {{moves|Snore}}
 {{moves|Swift}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=403|prev=Shinx|dexnext=405|next=Luxray}}

@@ -5,7 +5,7 @@
 |ndex=039
 |type1=Normal
 |type2=Fairy
-|ability1=Competitive|ability2=Cutecharm
+|ability1=Cutecharm|ability2=Competitive
 |abilityH=Friendguard
 |genderm=25.0
 |abilityS=
@@ -88,8 +88,6 @@
 {{movesLvl|36|Hyper_Voice}}
 {{movesLvl|40|Play_Rough}}
 {{movesLvl|44|Double-Edge}}
-|}
-{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Ally_Switch}}
@@ -289,6 +287,8 @@
 {{moves|Water_Gun}}
 {{moves|Water_Pulse}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=038|prev=Ninetales|dexnext=040|next=Wigglytuff}}

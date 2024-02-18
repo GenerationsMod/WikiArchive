@@ -98,8 +98,6 @@
 {{movesLvl|1|Water_Gun}}
 {{movesLvl|37|Bounce}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -219,6 +217,8 @@
 {{moves|Water_Gun}}
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=185|prev=Sudowoodo|dexnext=187|next=Hoppip}}

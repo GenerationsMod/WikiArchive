@@ -107,8 +107,6 @@
 {{movesLvl|50|Moonblast}}
 {{movesLvl|55|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -192,6 +190,8 @@
 {{moves|Skill_Swap}}
 {{moves|Snore}}
 {{moves|Telekinesis}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=699|prev=Aurorus|dexnext=701|next=Hawlucha}}

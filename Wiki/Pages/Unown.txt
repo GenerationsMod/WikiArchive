@@ -54,13 +54,13 @@
 {{MovesAlign}}{{MovesLvlTop|Psychic}}
 {{movesLvl|1|Hidden_Power}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Hidden_Power}}
 |}
 {{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Hidden_Power}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=200|prev=Misdreavus|dexnext=202|next=Wobbuffet}}

@@ -5,7 +5,7 @@
 |ndex=675
 |type1=Fighting
 |type2=Dark
-|ability1=Ironfist|ability2=Moldbreaker
+|ability1=Moldbreaker|ability2=Ironfist
 |abilityH=Scrappy
 |genderm=50.0
 |abilityS=
@@ -72,8 +72,6 @@
 {{movesLvl|52|Entrainment}}
 {{movesLvl|52|Sky_Uppercut}}
 {{movesLvl|58|Hammer_Arm}}
-|}
-{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Aerial_Ace}}
@@ -193,6 +191,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Uproar}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=674|prev=Pancham|dexnext=676|next=Furfrou}}

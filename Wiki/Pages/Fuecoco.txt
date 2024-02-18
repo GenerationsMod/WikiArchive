@@ -76,12 +76,6 @@
 {{movesLvl|32|Hyper_Voice}}
 {{movesLvl|36|Fire_Blast}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-{{movesB|Belch}}
-{{movesB|Curse}}
-{{movesB|Encore}}
-{{movesB|Slack_Off}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Body_Slam}}
 {{movesTm|Crunch}}
@@ -118,6 +112,12 @@
 {{movesTm|Zen_Headbutt}}
 |}
 {{MovesAlign}}{{MovesTop|Fire}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
+{{movesB|Belch}}
+{{movesB|Curse}}
+{{movesB|Encore}}
+{{movesB|Slack_Off}}
 |}
 |}
 {{NextPrev|dexprev=908|prev=Meowscarada|dexnext=910|next=Crocalor}}

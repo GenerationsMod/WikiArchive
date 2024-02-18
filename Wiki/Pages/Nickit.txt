@@ -75,12 +75,6 @@
 {{movesLvl|32|Tail_Slap}}
 {{movesLvl|36|Foul_Play}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-{{movesB|Howl}}
-{{movesB|Knock_Off}}
-{{movesB|Quick_Guard}}
-{{movesB|Torment}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
@@ -110,6 +104,12 @@
 |}
 {{MovesAlign}}{{MovesTop|Dark}}
 {{moves|Lash_Out}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
+{{movesB|Howl}}
+{{movesB|Knock_Off}}
+{{movesB|Quick_Guard}}
+{{movesB|Torment}}
 |}
 |}
 {{NextPrev|dexprev=826|prev=Orbeetle|dexnext=828|next=Thievul}}

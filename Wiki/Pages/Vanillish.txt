@@ -5,7 +5,7 @@
 |ndex=583
 |type1=Ice
 |type2=
-|ability1=Icebody|ability2=Snowcloak
+|ability1=Snowcloak|ability2=Icebody
 |abilityH=Weakarmor
 |genderm=50.0
 |abilityS=
@@ -70,8 +70,6 @@
 {{movesLvl|50|Blizzard}}
 {{movesLvl|56|Sheer_Cold}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -123,6 +121,8 @@
 {{moves|Snore}}
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=582|prev=Vanillite|dexnext=584|next=Vanilluxe}}

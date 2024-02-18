@@ -85,10 +85,6 @@
 {{movesLvl|45|Misty_Terrain}}
 {{movesLvl|50|Entrainment}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-{{movesB|Baby-Doll_Eyes}}
-{{movesB|Last_Resort}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Attract}}
 {{movesTm|Charm}}
@@ -112,6 +108,10 @@
 {{moves|Celebrate}}
 {{moves|Entrainment}}
 {{moves|Last_Resort}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
+{{movesB|Baby-Doll_Eyes}}
+{{movesB|Last_Resort}}
 |}
 |}
 {{NextPrev|dexprev=867|prev=Runerigus|dexnext=869|next=Alcremie}}

@@ -83,8 +83,6 @@
 {{movesLvl|80|Iron_Tail}}
 {{movesLvl|88|Roar_of_Time}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Aura_Sphere}}
@@ -200,6 +198,8 @@
 {{moves|Stomping_Tantrum}}
 {{moves|Swift}}
 {{moves|Twister}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=482|prev=Azelf|dexnext=484|next=Palkia}}

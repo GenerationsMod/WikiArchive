@@ -73,8 +73,6 @@
 {{movesLvl|65|Quiver_Dance}}
 {{movesLvl|70|High_Jump_Kick}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
@@ -146,6 +144,8 @@
 {{moves|Throat_Chop}}
 {{moves|Triple_Axel}}
 {{moves|Triple_Kick}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=794|prev=Buzzwole|dexnext=796|next=Xurkitree}}

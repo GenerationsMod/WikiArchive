@@ -5,7 +5,7 @@
 |ndex=081
 |type1=Electric
 |type2=Steel
-|ability1=Magnetpull|ability2=Sturdy
+|ability1=Sturdy|ability2=Magnetpull
 |abilityH=Analytic
 |genderm=Genderless
 |abilityS=
@@ -83,10 +83,6 @@
 {{movesLvl|44|Light_Screen}}
 {{movesLvl|48|Lock-On}}
 {{movesLvl|52|Zap_Cannon}}
-|}
-{{MovesAlign}}{{MovesBTop|Electric}}
-{{movesB|Electroweb}}
-{{movesB|Explosion}}
 |}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Charge_Beam}}
@@ -189,6 +185,10 @@
 {{moves|Thunder_Wave}}
 {{moves|Toxic}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
+{{movesB|Electroweb}}
+{{movesB|Explosion}}
 |}
 |}
 {{NextPrev|dexprev=080|prev=Slowbro|dexnext=082|next=Magneton}}

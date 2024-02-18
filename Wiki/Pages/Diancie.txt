@@ -72,8 +72,6 @@
 {{movesLvl|77|Moonblast}}
 {{movesLvl|84|Stone_Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Amnesia}}
@@ -168,6 +166,8 @@
 {{moves|Telekinesis}}
 {{moves|Terrain_Pulse}}
 {{moves|Wonder_Room}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=718|prev=Zygarde|dexnext=720|next=Hoopa}}

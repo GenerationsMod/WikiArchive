@@ -129,8 +129,6 @@
 {{movesLvl|71|Leaf_Blade}}
 {{movesLvl|78|Swords_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -225,6 +223,8 @@
 {{moves|Tackle}}
 {{moves|Tail_Whip}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=469|prev=Yanmega|dexnext=471|next=Glaceon}}

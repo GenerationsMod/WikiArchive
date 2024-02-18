@@ -69,8 +69,6 @@
 {{movesLvl|77|Wide_Guard}}
 {{movesLvl|84|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -161,6 +159,8 @@
 {{moves|Telekinesis}}
 {{moves|Trick}}
 {{moves|Wonder_Room}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=791|prev=Solgaleo|dexnext=793|next=Nihilego}}

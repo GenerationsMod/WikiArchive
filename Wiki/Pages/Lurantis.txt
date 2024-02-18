@@ -72,8 +72,6 @@
 {{movesLvl|51|Sunny_Day}}
 {{movesLvl|63|Solar_Blade}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -142,6 +140,8 @@
 {{moves|Superpower}}
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=753|prev=Fomantis|dexnext=755|next=Morelull}}

@@ -65,10 +65,6 @@
 {{movesLvl|60|Stone_Edge}}
 {{movesLvl|66|Mega_Kick}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-{{movesB|Ancient_Power}}
-{{movesB|Curse}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -114,6 +110,10 @@
 |}
 {{MovesAlign}}{{MovesTop|Rock}}
 {{moves|Meteor_Beam}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
+{{movesB|Ancient_Power}}
+{{movesB|Curse}}
 |}
 |}
 {{NextPrev|dexprev=873|prev=Frosmoth|dexnext=875|next=Eiscue}}

@@ -73,8 +73,6 @@
 {{movesLvl|54|Psychic}}
 {{movesLvl|59|Misty_Terrain}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -160,6 +158,8 @@
 {{moves|Trick}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=677|prev=Espurr|dexnext=679|next=Honedge}}

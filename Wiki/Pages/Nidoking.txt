@@ -70,8 +70,6 @@
 {{movesLvl|23|Chip_Away}}
 {{movesLvl|35|Thrash}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -268,6 +266,8 @@
 {{moves|Uproar}}
 {{moves|Water_Gun}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=033|prev=Nidorino|dexnext=035|next=Clefairy}}

@@ -67,8 +67,6 @@
 {{movesLvl|40|Swagger}}
 {{movesLvl|46|Brave_Bird}}
 |}
-{{MovesAlign}}{{MovesBTop|Flying}}
-|}
 {{MovesAlign}}{{MovesTmTop|Flying}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -107,6 +105,8 @@
 |}
 {{MovesAlign}}{{MovesTop|Flying}}
 {{moves|Dual_Wingbeat}}
+|}
+{{MovesAlign}}{{MovesBTop|Flying}}
 |}
 |}
 {{NextPrev|dexprev=821|prev=Rookidee|dexnext=823|next=Corviknight}}

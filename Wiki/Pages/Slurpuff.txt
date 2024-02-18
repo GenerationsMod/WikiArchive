@@ -75,8 +75,6 @@
 {{movesLvl|58|Light_Screen}}
 {{movesLvl|67|Safeguard}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -133,6 +131,8 @@
 {{moves|Magic_Coat}}
 {{moves|Misty_Explosion}}
 {{moves|Snore}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=684|prev=Swirlix|dexnext=686|next=Inkay}}

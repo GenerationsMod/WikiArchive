@@ -67,8 +67,6 @@
 {{movesLvl|63|Stone_Edge}}
 {{movesLvl|70|Close_Combat}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -152,6 +150,8 @@
 {{moves|Swords_Dance}}
 {{moves|Work_Up}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=638|prev=Cobalion|dexnext=640|next=Virizion}}

@@ -83,8 +83,6 @@
 {{movesLvl|50|Dynamic_Punch}}
 {{movesLvl|55|Focus_Punch}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -193,6 +191,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Vacuum_Wave}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=285|prev=Shroomish|dexnext=287|next=Slakoth}}

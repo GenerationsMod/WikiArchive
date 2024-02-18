@@ -82,8 +82,6 @@
 {{movesLvl|52|Cosmic_Power}}
 {{movesLvl|56|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Blizzard}}
 {{movesTm|Brine}}
@@ -198,6 +196,8 @@
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=119|prev=Seaking|dexnext=121|next=Starmie}}

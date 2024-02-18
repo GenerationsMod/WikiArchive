@@ -72,8 +72,6 @@
 {{movesLvl|46|Leaf_Storm}}
 {{movesLvl|58|High_Jump_Kick}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
@@ -145,6 +143,8 @@
 {{moves|Triple_Axel}}
 {{moves|Worry_Seed}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=762|prev=Steenee|dexnext=764|next=Comfey}}

@@ -67,8 +67,6 @@
 {{movesLvl|63|Iron_Head}}
 {{movesLvl|70|Close_Combat}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -151,6 +149,8 @@
 {{moves|Swords_Dance}}
 {{moves|Work_Up}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=637|prev=Volcarona|dexnext=639|next=Terrakion}}

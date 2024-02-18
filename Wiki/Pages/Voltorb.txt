@@ -98,10 +98,6 @@
 {{movesLvl|46|Gyro_Ball}}
 {{movesLvl|50|Mirror_Coat}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-{{movesB|Metal_Sound}}
-{{movesB|Recycle}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
 {{movesTm|Charge_Beam}}
@@ -193,6 +189,10 @@
 {{moves|Thunder_Wave}}
 {{moves|Toxic}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
+{{movesB|Metal_Sound}}
+{{movesB|Recycle}}
 |}
 |}
 {{NextPrev|dexprev=099|prev=Kingler|dexnext=101|next=Electrode}}

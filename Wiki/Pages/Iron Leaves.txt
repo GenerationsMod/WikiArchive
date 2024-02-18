@@ -71,8 +71,6 @@
 {{movesLvl|84|Ally_Switch}}
 {{movesLvl|91|Solar_Blade}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -119,6 +117,8 @@
 {{moves|Megahorn}}
 {{moves|Psyblade}}
 {{moves|Swords_Dance}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=1009|prev=Walking Wake|dexnext=1011|next=Dipplin}}

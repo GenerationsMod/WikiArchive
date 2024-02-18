@@ -80,8 +80,6 @@
 {{movesLvl|45|Hydro_Pump}}
 {{movesLvl|50|Skull_Bash}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Aura_Sphere}}
@@ -207,6 +205,8 @@
 {{moves|Whirlpool}}
 {{moves|Withdraw}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=007|prev=Squirtle|dexnext=009|next=Blastoise}}

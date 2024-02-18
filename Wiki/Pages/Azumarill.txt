@@ -72,8 +72,6 @@
 {{movesLvl|45|Double-Edge}}
 {{movesLvl|50|Superpower}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -208,6 +206,8 @@
 {{moves|Water_Gun}}
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=183|prev=Marill|dexnext=185|next=Sudowoodo}}

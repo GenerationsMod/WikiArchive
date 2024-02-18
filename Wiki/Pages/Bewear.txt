@@ -69,8 +69,6 @@
 {{movesLvl|54|Double-Edge}}
 {{movesLvl|60|Superpower}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -145,6 +143,8 @@
 {{moves|Superpower}}
 {{moves|Thunder_Punch}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=759|prev=Stufful|dexnext=761|next=Bounsweet}}

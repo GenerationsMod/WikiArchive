@@ -74,13 +74,6 @@
 {{movesLvl|58|Light_Screen}}
 {{movesLvl|67|Safeguard}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-{{movesB|After_You}}
-{{movesB|Belly_Drum}}
-{{movesB|Copycat}}
-{{movesB|Sticky_Web}}
-{{movesB|Yawn}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -131,6 +124,13 @@
 {{moves|Magic_Coat}}
 {{moves|Misty_Explosion}}
 {{moves|Snore}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
+{{movesB|After_You}}
+{{movesB|Belly_Drum}}
+{{movesB|Copycat}}
+{{movesB|Sticky_Web}}
+{{movesB|Yawn}}
 |}
 |}
 {{NextPrev|dexprev=683|prev=Aromatisse|dexnext=685|next=Slurpuff}}

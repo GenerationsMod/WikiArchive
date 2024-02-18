@@ -65,8 +65,6 @@
 {{movesLvl|37|Focus_Punch}}
 {{movesLvl|43|Reversal}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Amnesia}}
@@ -186,6 +184,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=287|prev=Slakoth|dexnext=289|next=Slaking}}

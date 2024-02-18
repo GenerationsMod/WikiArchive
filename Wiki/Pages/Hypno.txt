@@ -81,8 +81,6 @@
 {{movesLvl|51|Psyshock}}
 {{movesLvl|56|Future_Sight}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -242,6 +240,8 @@
 {{moves|Trick}}
 {{moves|Zap_Cannon}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=096|prev=Drowzee|dexnext=098|next=Krabby}}

@@ -103,8 +103,6 @@
 {{movesLvl|40|Rage_Powder}}
 {{movesLvl|44|Quiver_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -224,6 +222,8 @@
 {{moves|Twister}}
 {{moves|U-turn}}
 {{moves|Whirlwind}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=011|prev=Metapod|dexnext=013|next=Weedle}}

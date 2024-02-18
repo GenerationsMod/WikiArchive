@@ -5,7 +5,7 @@
 |ndex=475
 |type1=Psychic
 |type2=Fighting
-|ability1=Steadfast|ability2=Sharpness
+|ability1=Sharpness|ability2=Steadfast
 |abilityH=Justified
 |genderm=100
 |abilityS=
@@ -147,8 +147,6 @@
 {{movesLvl|59|Close_Combat}}
 {{movesLvl|63|Close_Combat}}
 {{movesLvl|64|Stored_Power}}
-|}
-{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Aerial_Ace}}
@@ -304,6 +302,8 @@
 {{moves|Vacuum_Wave}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=474|prev=Porygon-Z|dexnext=476|next=Probopass}}

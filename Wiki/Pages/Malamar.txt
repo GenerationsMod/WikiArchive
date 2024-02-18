@@ -74,8 +74,6 @@
 {{movesLvl|42|Topsy-Turvy}}
 {{movesLvl|47|Superpower}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Ally_Switch}}
@@ -153,6 +151,8 @@
 {{moves|Superpower}}
 {{moves|Telekinesis}}
 {{moves|Throat_Chop}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=686|prev=Inkay|dexnext=688|next=Binacle}}

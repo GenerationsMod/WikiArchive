@@ -71,8 +71,6 @@
 {{movesLvl|60|Superpower}}
 {{movesLvl|66|Wood_Hammer}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Brick_Break}}
 {{movesTm|Bullet_Seed}}
@@ -126,6 +124,8 @@
 {{moves|Low_Kick}}
 {{moves|Slam}}
 {{moves|Vine_Whip}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=1016|prev=Fezandipiti|dexnext=1018|next=Archaludon}}

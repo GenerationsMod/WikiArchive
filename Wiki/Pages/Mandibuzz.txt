@@ -5,7 +5,7 @@
 |ndex=630
 |type1=Dark
 |type2=Flying
-|ability1=Overcoat|ability2=Bigpecks
+|ability1=Bigpecks|ability2=Overcoat
 |abilityH=Weakarmor
 |genderm=0
 |abilityS=
@@ -78,8 +78,6 @@
 {{movesLvl|64|Defog}}
 {{movesLvl|72|Attract}}
 {{movesLvl|80|Brave_Bird}}
-|}
-{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Aerial_Ace}}
@@ -154,6 +152,8 @@
 {{moves|Snatch}}
 {{moves|Snore}}
 {{moves|Tailwind}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=629|prev=Vullaby|dexnext=631|next=Heatmor}}

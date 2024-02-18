@@ -70,8 +70,6 @@
 {{movesLvl|63|Toxic}}
 {{movesLvl|70|Dragon_Rush}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -155,6 +153,8 @@
 {{moves|Tailwind}}
 {{moves|Throat_Chop}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=803|prev=Poipole|dexnext=805|next=Stakataka}}

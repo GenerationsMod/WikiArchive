@@ -72,8 +72,6 @@
 {{movesLvl|45|Endeavor}}
 {{movesLvl|57|Reversal}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -132,6 +130,8 @@
 {{moves|Swift}}
 {{moves|Tailwind}}
 {{moves|Twister}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=276|prev=Taillow|dexnext=278|next=Wingull}}

@@ -74,8 +74,6 @@
 {{movesLvl|48|Bounce}}
 {{movesLvl|53|Axe_Kick}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -109,6 +107,8 @@
 {{movesTm|X-Scissor}}
 |}
 {{MovesAlign}}{{MovesTop|Bug}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=919|prev=Nymble|dexnext=921|next=Pawmi}}

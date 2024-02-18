@@ -87,8 +87,6 @@
 {{movesLvl|15|Tackle}}
 {{movesLvl|25|Flail}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Bounce}}
 {{movesTm|Hydro_Pump}}
@@ -101,6 +99,8 @@
 {{moves|Hydro_Pump}}
 {{moves|Splash}}
 {{moves|Tackle}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=128|prev=Tauros|dexnext=130|next=Gyarados}}

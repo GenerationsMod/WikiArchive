@@ -70,8 +70,6 @@
 {{movesLvl|44|Feather_Dance}}
 {{movesLvl|50|Hyper_Voice}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -113,6 +111,8 @@
 {{moves|Snore}}
 {{moves|Tailwind}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=732|prev=Trumbeak|dexnext=734|next=Yungoos}}

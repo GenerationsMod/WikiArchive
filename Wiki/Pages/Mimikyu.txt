@@ -79,12 +79,6 @@
 {{movesLvl|54|Play_Rough}}
 {{movesLvl|60|Pain_Split}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-{{movesB|Curse}}
-{{movesB|Destiny_Bond}}
-{{movesB|Grudge}}
-{{movesB|Nightmare}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Attract}}
 {{movesTm|Beat_Up}}
@@ -173,6 +167,12 @@
 {{moves|Substitute}}
 {{moves|Telekinesis}}
 {{moves|Trick}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
+{{movesB|Curse}}
+{{movesB|Destiny_Bond}}
+{{movesB|Grudge}}
+{{movesB|Nightmare}}
 |}
 |}
 {{NextPrev|dexprev=777|prev=Togedemaru|dexnext=779|next=Bruxish}}

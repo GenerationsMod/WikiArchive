@@ -68,8 +68,6 @@
 {{movesLvl|80|Outrage}}
 {{movesLvl|88|Bolt_Strike}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Body_Press}}
 {{movesTm|Breaking_Swipe}}
@@ -167,6 +165,8 @@
 {{moves|Tailwind}}
 {{moves|Thunder_Punch}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=643|prev=Reshiram|dexnext=645|next=Landorus}}

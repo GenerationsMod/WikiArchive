@@ -67,8 +67,6 @@
 {{movesLvl|63|Hydro_Pump}}
 {{movesLvl|70|Close_Combat}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -153,6 +151,8 @@
 {{moves|Superpower}}
 {{moves|Swords_Dance}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=646|prev=Kyurem|dexnext=648|next=Meloetta}}

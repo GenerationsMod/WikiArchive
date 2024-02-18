@@ -70,8 +70,6 @@
 {{movesLvl|50|Reversal}}
 {{movesLvl|55|Superpower}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -147,6 +145,8 @@
 {{moves|Superpower}}
 {{moves|Thunder_Punch}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=537|prev=Seismitoad|dexnext=539|next=Sawk}}

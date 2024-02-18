@@ -70,12 +70,6 @@
 {{movesLvl|40|Throat_Chop}}
 {{movesLvl|44|Skitter_Smack}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-{{movesB|First_Impression}}
-{{movesB|Lunge}}
-{{movesB|Memento}}
-{{movesB|Sucker_Punch}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Body_Slam}}
 {{movesTm|Bug_Buzz}}
@@ -105,6 +99,12 @@
 {{movesTm|X-Scissor}}
 |}
 {{MovesAlign}}{{MovesTop|Bug}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
+{{movesB|First_Impression}}
+{{movesB|Lunge}}
+{{movesB|Memento}}
+{{movesB|Sucker_Punch}}
 |}
 |}
 {{NextPrev|dexprev=916|prev=Oinkologne|dexnext=918|next=Spidops}}

@@ -89,8 +89,6 @@
 {{movesLvl|65|Quash}}
 {{movesLvl|75|Dark_Pulse}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -180,6 +178,8 @@
 {{moves|Tailwind}}
 {{moves|Twister}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=429|prev=Mismagius|dexnext=431|next=Glameow}}

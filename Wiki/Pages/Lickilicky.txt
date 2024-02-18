@@ -89,8 +89,6 @@
 {{movesLvl|60|Belly_Drum}}
 {{movesLvl|61|Gyro_Ball}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -194,6 +192,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Water_Pulse}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=462|prev=Magnezone|dexnext=464|next=Rhyperior}}

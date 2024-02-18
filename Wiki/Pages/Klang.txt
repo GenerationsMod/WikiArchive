@@ -77,8 +77,6 @@
 {{movesLvl|48|Zap_Cannon}}
 {{movesLvl|54|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Assurance}}
@@ -131,6 +129,8 @@
 {{moves|Steel_Roller}}
 {{moves|Telekinesis}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=599|prev=Klink|dexnext=601|next=Klinklang}}

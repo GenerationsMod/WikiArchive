@@ -5,7 +5,7 @@
 |ndex=237
 |type1=Fighting
 |type2=
-|ability1=Intimidate|ability2=Technician
+|ability1=Technician|ability2=Intimidate
 |abilityH=Steadfast
 |genderm=100
 |abilityS=
@@ -74,8 +74,6 @@
 {{movesLvl|36|Close_Combat}}
 {{movesLvl|40|Counter}}
 {{movesLvl|44|Endeavor}}
-|}
-{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Aerial_Ace}}
@@ -183,6 +181,8 @@
 {{moves|Triple_Kick}}
 {{moves|Twister}}
 {{moves|Vacuum_Wave}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=236|prev=Tyrogue|dexnext=238|next=Smoochum}}

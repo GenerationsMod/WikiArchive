@@ -70,8 +70,6 @@
 {{movesLvl|48|Gastro_Acid}}
 {{movesLvl|52|Leaf_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -120,6 +118,8 @@
 {{moves|Snore}}
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=495|prev=Snivy|dexnext=497|next=Serperior}}

@@ -76,12 +76,12 @@
 {{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Transform}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 |}
 {{MovesAlign}}{{MovesTop|Normal}}
 {{moves|Transform}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=131|prev=Lapras|dexnext=133|next=Eevee}}

@@ -71,8 +71,6 @@
 {{movesLvl|84|Overheat}}
 {{movesLvl|91|Final_Gambit}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Baton_Pass}}
 {{movesTm|Blaze_Kick}}
@@ -190,6 +188,8 @@
 {{moves|V-create}}
 {{moves|Work_Up}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=493|prev=Arceus|dexnext=495|next=Snivy}}

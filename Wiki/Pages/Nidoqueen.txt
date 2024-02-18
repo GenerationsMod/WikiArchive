@@ -70,8 +70,6 @@
 {{movesLvl|23|Chip_Away}}
 {{movesLvl|35|Body_Slam}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -264,6 +262,8 @@
 {{moves|Uproar}}
 {{moves|Water_Gun}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=030|prev=Nidorina|dexnext=032|next=Nidoran (M)}}

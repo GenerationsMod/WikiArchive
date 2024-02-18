@@ -71,8 +71,6 @@
 {{movesLvl|65|Fire_Blast}}
 {{movesLvl|70|Mind_Blown}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Calm_Mind}}
 {{movesTm|Confide}}
@@ -144,6 +142,8 @@
 {{moves|Trick}}
 {{moves|Uproar}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=805|prev=Stakataka|dexnext=807|next=Zeraora}}

@@ -88,8 +88,6 @@
 {{movesLvl|44|Thunder}}
 {{movesLvl|50|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -253,6 +251,8 @@
 {{moves|Wish}}
 {{moves|Yawn}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=024|prev=Arbok|dexnext=026|next=Raichu}}

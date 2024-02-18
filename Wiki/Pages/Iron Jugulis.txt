@@ -69,8 +69,6 @@
 {{movesLvl|84|Dragon_Pulse}}
 {{movesLvl|91|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Acrobatics}}
 {{movesTm|Air_Cutter}}
@@ -120,6 +118,8 @@
 {{moves|Dragon_Breath}}
 {{moves|Hyper_Voice}}
 {{moves|Snarl}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=992|prev=Iron Hands|dexnext=994|next=Iron Moth}}

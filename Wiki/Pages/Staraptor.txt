@@ -72,8 +72,6 @@
 {{movesLvl|49|Brave_Bird}}
 {{movesLvl|57|Final_Gambit}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -139,6 +137,8 @@
 {{moves|Tailwind}}
 {{moves|Twister}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=397|prev=Staravia|dexnext=399|next=Bidoof}}

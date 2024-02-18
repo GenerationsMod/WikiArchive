@@ -5,7 +5,7 @@
 |ndex=880
 |type1=Electric
 |type2=Dragon
-|ability1=Voltabsorb|ability2=Hustle
+|ability1=Hustle|ability2=Voltabsorb
 |abilityH=Sandrush
 |genderm=Genderless
 |abilityS=
@@ -65,8 +65,6 @@
 {{movesLvl|70|Dragon_Pulse}}
 {{movesLvl|77|Dragon_Rush}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Body_Slam}}
 {{movesTm|Breaking_Swipe}}
@@ -119,6 +117,8 @@
 {{moves|Rising_Voltage}}
 {{moves|Tackle}}
 {{moves|Thunder_Shock}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=879|prev=Copperajah|dexnext=881|next=Arctozolt}}

@@ -79,8 +79,6 @@
 {{movesLvl|73|Hyper_Beam}}
 {{movesLvl|73|Mirror_Coat}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Ally_Switch}}
@@ -220,6 +218,8 @@
 {{moves|Wrap}}
 {{moves|Zap_Cannon}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=385|prev=Jirachi|dexnext=387|next=Turtwig}}

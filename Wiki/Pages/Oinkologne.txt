@@ -5,7 +5,7 @@
 |ndex=916
 |type1=Normal
 |type2=
-|ability1=Lingeringaroma|ability2=Gluttony
+|ability1=Gluttony|ability2=Lingeringaroma
 |abilityH=Thickfat
 |genderm=50.0
 |abilityS=
@@ -87,8 +87,6 @@
 {{movesLvl|48|Earth_Power}}
 {{movesLvl|54|Belch}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -124,6 +122,8 @@
 {{movesTm|Zen_Headbutt}}
 |}
 {{MovesAlign}}{{MovesTop|Normal}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=915|prev=Lechonk|dexnext=917|next=Tarountula}}

@@ -69,8 +69,6 @@
 {{movesLvl|45|Superpower}}
 {{movesLvl|50|Topsy-Turvy}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -115,6 +113,8 @@
 {{MovesAlign}}{{MovesTop|Fighting}}
 {{moves|Coaching}}
 {{moves|Skitter_Smack}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=852|prev=Clobbopus|dexnext=854|next=Sinistea}}

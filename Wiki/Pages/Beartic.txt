@@ -77,8 +77,6 @@
 {{movesLvl|46|Sheer_Cold}}
 {{movesLvl|51|Superpower}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Assurance}}
@@ -175,6 +173,8 @@
 {{moves|Superpower}}
 {{moves|Throat_Chop}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=613|prev=Cubchoo|dexnext=615|next=Cryogonal}}

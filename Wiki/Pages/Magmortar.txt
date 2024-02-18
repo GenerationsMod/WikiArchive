@@ -116,8 +116,6 @@
 {{movesLvl|67|Hyper_Beam}}
 {{movesLvl|68|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -209,6 +207,8 @@
 {{moves|Solar_Beam}}
 {{moves|Stomping_Tantrum}}
 {{moves|Thunder_Punch}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=466|prev=Electivire|dexnext=468|next=Togekiss}}

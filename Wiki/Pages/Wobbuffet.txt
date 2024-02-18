@@ -63,8 +63,6 @@
 {{movesLvl|1|Safeguard}}
 {{movesLvl|1|Splash}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Amnesia}}
 {{movesTm|Charm}}
@@ -78,6 +76,8 @@
 {{moves|Encore}}
 {{moves|Mirror_Coat}}
 {{moves|Safeguard}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=201|prev=Unown|dexnext=203|next=Girafarig}}

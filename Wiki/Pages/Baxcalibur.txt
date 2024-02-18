@@ -72,8 +72,6 @@
 {{movesLvl|55|Crunch}}
 {{movesLvl|62|Icicle_Crash}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Avalanche}}
@@ -116,6 +114,8 @@
 {{movesTm|Zen_Headbutt}}
 |}
 {{MovesAlign}}{{MovesTop|Dragon}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=997|prev=Arctibax|dexnext=999|next=Gimmighoul}}

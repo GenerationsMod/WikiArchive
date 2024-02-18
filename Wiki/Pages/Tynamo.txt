@@ -57,8 +57,6 @@
 {{movesLvl|1|Tackle}}
 {{movesLvl|1|Thunder_Wave}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Charge_Beam}}
 {{movesTm|Tera_Blast}}
@@ -66,6 +64,8 @@
 |}
 {{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Magnet_Rise}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=601|prev=Klinklang|dexnext=603|next=Eelektrik}}

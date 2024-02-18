@@ -86,8 +86,6 @@
 {{movesLvl|56|Double_Team}}
 {{movesLvl|68|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -177,6 +175,8 @@
 {{moves|Water_Pledge}}
 {{moves|Water_Pulse}}
 {{moves|Water_Shuriken}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=657|prev=Frogadier|dexnext=659|next=Bunnelby}}

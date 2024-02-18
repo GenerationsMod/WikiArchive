@@ -70,8 +70,6 @@
 {{movesLvl|72|Hyper_Beam}}
 {{movesLvl|78|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Amnesia}}
 {{movesTm|Aurora_Veil}}
@@ -182,6 +180,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Thunder_Wave}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=377|prev=Regirock|dexnext=379|next=Registeel}}

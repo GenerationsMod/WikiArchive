@@ -68,8 +68,6 @@
 {{movesLvl|1|String_Shot}}
 {{movesLvl|9|Bug_Bite}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 |}
 {{MovesAlign}}{{MovesTop|Bug}}
@@ -77,6 +75,8 @@
 {{moves|Electroweb}}
 {{moves|Poison_Sting}}
 {{moves|String_Shot}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=012|prev=Butterfree|dexnext=014|next=Kakuna}}

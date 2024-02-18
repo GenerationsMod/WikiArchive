@@ -74,8 +74,6 @@
 {{movesLvl|48|Soak}}
 {{movesLvl|54|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -182,6 +180,8 @@
 {{moves|Water_Gun}}
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=223|prev=Remoraid|dexnext=225|next=Delibird}}

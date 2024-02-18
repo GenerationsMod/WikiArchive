@@ -86,8 +86,6 @@
 {{movesLvl|1|Thunder_Wave}}
 {{movesLvl|5|Thunderbolt}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -228,6 +226,8 @@
 {{moves|Thunder_Wave}}
 {{moves|Toxic}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=025|prev=Pikachu|dexnext=027|next=Sandshrew}}

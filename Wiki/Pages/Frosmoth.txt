@@ -75,8 +75,6 @@
 {{movesLvl|48|Wide_Guard}}
 {{movesLvl|52|Quiver_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Acrobatics}}
 {{movesTm|Air_Slash}}
@@ -124,6 +122,8 @@
 {{moves|Dual_Wingbeat}}
 {{moves|Skitter_Smack}}
 {{moves|Triple_Axel}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=872|prev=Snom|dexnext=874|next=Stonjourner}}

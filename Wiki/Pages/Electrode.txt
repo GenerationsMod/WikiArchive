@@ -99,8 +99,6 @@
 {{movesLvl|54|Gyro_Ball}}
 {{movesLvl|58|Mirror_Coat}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
 {{movesTm|Charge_Beam}}
@@ -194,6 +192,8 @@
 {{moves|Thunder_Wave}}
 {{moves|Toxic}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=100|prev=Voltorb|dexnext=102|next=Exeggcute}}

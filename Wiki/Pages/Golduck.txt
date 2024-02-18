@@ -5,7 +5,7 @@
 |ndex=055
 |type1=Water
 |type2=
-|ability1=Damp|ability2=Cloudnine
+|ability1=Cloudnine|ability2=Damp
 |abilityH=Swiftswim
 |genderm=50.0
 |abilityS=
@@ -81,8 +81,6 @@
 {{movesLvl|36|Amnesia}}
 {{movesLvl|40|Hydro_Pump}}
 {{movesLvl|45|Wonder_Room}}
-|}
-{{MovesAlign}}{{MovesBTop|Water}}
 |}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
@@ -253,6 +251,8 @@
 {{moves|Worry_Seed}}
 {{moves|Yawn}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=054|prev=Psyduck|dexnext=056|next=Mankey}}

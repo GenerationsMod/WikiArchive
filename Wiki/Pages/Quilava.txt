@@ -72,8 +72,6 @@
 {{movesLvl|68|Overheat}}
 {{movesLvl|75|Eruption}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -169,6 +167,8 @@
 {{moves|Swift}}
 {{moves|Tackle}}
 {{moves|Toxic}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=155|prev=Cyndaquil|dexnext=157|next=Typhlosion}}

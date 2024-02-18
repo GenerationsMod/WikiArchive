@@ -70,8 +70,6 @@
 {{movesLvl|56|Power_Split}}
 {{movesLvl|62|Destiny_Bond}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Amnesia}}
@@ -131,6 +129,8 @@
 |}
 {{MovesAlign}}{{MovesTop|Ground}}
 {{moves|Poltergeist}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=866|prev=Mr. Rime|dexnext=868|next=Milcery}}

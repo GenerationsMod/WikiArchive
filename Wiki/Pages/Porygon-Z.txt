@@ -86,8 +86,6 @@
 {{movesLvl|65|Hyper_Beam}}
 {{movesLvl|67|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -171,6 +169,8 @@
 {{moves|Uproar}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=473|prev=Mamoswine|dexnext=475|next=Gallade}}

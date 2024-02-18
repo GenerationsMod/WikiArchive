@@ -75,8 +75,6 @@
 {{movesLvl|42|Soak}}
 {{movesLvl|48|Rain_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -114,6 +112,8 @@
 |}
 {{MovesAlign}}{{MovesTop|Water}}
 {{moves|Water_Pledge}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=816|prev=Sobble|dexnext=818|next=Inteleon}}

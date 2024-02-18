@@ -90,8 +90,6 @@
 {{movesLvl|50|Double-Edge}}
 {{movesLvl|54|Stone_Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Attract}}
 {{movesTm|Brick_Break}}
@@ -197,6 +195,8 @@
 {{moves|Take_Down}}
 {{moves|Thunder_Punch}}
 {{moves|Toxic}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=074|prev=Geodude|dexnext=076|next=Golem}}

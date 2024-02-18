@@ -72,8 +72,6 @@
 {{movesLvl|46|Thrash}}
 {{movesLvl|51|Endeavor}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -163,6 +161,8 @@
 {{moves|Tailwind}}
 {{moves|Uproar}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=566|prev=Archen|dexnext=568|next=Trubbish}}

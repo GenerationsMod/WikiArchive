@@ -68,9 +68,6 @@
 {{movesLvl|54|Memento}}
 {{movesLvl|60|Shell_Smash}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-{{movesB|Ally_Switch}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Baton_Pass}}
@@ -109,6 +106,9 @@
 |}
 {{MovesAlign}}{{MovesTop|Ghost}}
 {{moves|Poltergeist}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
+{{movesB|Ally_Switch}}
 |}
 |}
 {{NextPrev|dexprev=853|prev=Grapploct|dexnext=855|next=Polteageist}}

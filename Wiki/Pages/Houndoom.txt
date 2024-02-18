@@ -5,7 +5,7 @@
 |ndex=229
 |type1=Dark
 |type2=Fire
-|ability1=Earlybird|ability2=Flashfire
+|ability1=Flashfire|ability2=Earlybird
 |abilityH=Unnerve
 |genderm=50.0
 |abilityS=
@@ -75,8 +75,6 @@
 {{movesLvl|50|Flamethrower}}
 {{movesLvl|56|Crunch}}
 {{movesLvl|62|Inferno}}
-|}
-{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Attract}}
@@ -199,6 +197,8 @@
 {{moves|Throat_Chop}}
 {{moves|Toxic}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=228|prev=Houndour|dexnext=230|next=Kingdra}}

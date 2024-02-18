@@ -78,8 +78,6 @@
 {{movesLvl|49|Cotton_Spore}}
 {{movesLvl|54|Sandstorm}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -190,6 +188,8 @@
 {{moves|Synthesis}}
 {{moves|Thunder_Punch}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=331|prev=Cacnea|dexnext=333|next=Swablu}}

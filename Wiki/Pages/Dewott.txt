@@ -73,8 +73,6 @@
 {{movesLvl|50|Swords_Dance}}
 {{movesLvl|53|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -139,6 +137,8 @@
 {{moves|Snore}}
 {{moves|Water_Pledge}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=501|prev=Oshawott|dexnext=503|next=Samurott}}

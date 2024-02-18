@@ -68,8 +68,6 @@
 {{movesLvl|90|Perish_Song}}
 {{movesLvl|100|Judgment}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Aerial_Ace}}
@@ -264,6 +262,8 @@
 {{moves|Twister}}
 {{moves|Water_Pulse}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=492|prev=Shaymin|dexnext=494|next=Victini}}

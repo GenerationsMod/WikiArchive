@@ -84,8 +84,6 @@
 {{movesLvl|93|Psychic}}
 {{movesLvl|99|Moonblast}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -184,6 +182,8 @@
 {{moves|Telekinesis}}
 {{moves|Trick}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=487|prev=Giratina|dexnext=489|next=Phione}}

@@ -112,8 +112,6 @@
 {{movesLvl|46|Light_Screen}}
 {{movesLvl|48|Healing_Wish}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Amnesia}}
@@ -315,6 +313,8 @@
 {{moves|Wonder_Room}}
 {{moves|Zap_Cannon}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=034|prev=Nidoking|dexnext=036|next=Clefable}}

@@ -116,8 +116,6 @@
 {{movesLvl|58|Sticky_Web}}
 {{movesLvl|63|Toxic_Thread}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Attract}}
 {{movesTm|Captivate}}
@@ -202,6 +200,8 @@
 {{moves|Thief}}
 {{moves|Throat_Chop}}
 {{moves|Toxic}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=167|prev=Spinarak|dexnext=169|next=Crobat}}

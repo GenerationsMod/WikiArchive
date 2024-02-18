@@ -67,8 +67,6 @@
 {{movesLvl|72|Hyper_Beam}}
 {{movesLvl|78|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Body_Slam}}
 {{movesTm|Breaking_Swipe}}
@@ -109,6 +107,8 @@
 {{moves|Hammer_Arm}}
 {{moves|Laser_Focus}}
 {{moves|Scale_Shot}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=894|prev=Regieleki|dexnext=896|next=Glastrier}}

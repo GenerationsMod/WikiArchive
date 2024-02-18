@@ -114,8 +114,6 @@
 {{movesLvl|46|Toxic}}
 {{movesLvl|52|Earthquake}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Amnesia}}
@@ -255,6 +253,8 @@
 {{moves|Water_Gun}}
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=194|prev=Wooper|dexnext=196|next=Espeon}}

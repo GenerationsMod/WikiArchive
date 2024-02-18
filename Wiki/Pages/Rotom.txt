@@ -81,8 +81,6 @@
 {{movesLvl|57|Charge}}
 {{movesLvl|64|Discharge}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Charge_Beam}}
@@ -165,6 +163,8 @@
 {{moves|Thunder_Wave}}
 {{moves|Trick}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=478|prev=Froslass|dexnext=480|next=Uxie}}

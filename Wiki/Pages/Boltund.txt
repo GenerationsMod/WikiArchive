@@ -78,8 +78,6 @@
 {{movesLvl|55|Play_Rough}}
 {{movesLvl|62|Electric_Terrain}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -118,6 +116,8 @@
 |}
 {{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Rising_Voltage}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=835|prev=Yamper|dexnext=837|next=Rolycoly}}

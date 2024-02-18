@@ -74,8 +74,6 @@
 {{movesLvl|45|Wonder_Room}}
 {{movesLvl|50|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Acrobatics}}
 {{movesTm|Ally_Switch}}
@@ -205,6 +203,8 @@
 {{moves|Telekinesis}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=337|prev=Lunatone|dexnext=339|next=Barboach}}

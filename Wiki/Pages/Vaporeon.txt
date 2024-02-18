@@ -116,8 +116,6 @@
 {{movesLvl|50|Hydro_Pump}}
 {{movesLvl|55|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -253,6 +251,8 @@
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
 {{moves|Yawn}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=133|prev=Eevee|dexnext=135|next=Jolteon}}

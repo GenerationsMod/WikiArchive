@@ -70,8 +70,6 @@
 {{movesLvl|40|Dragon_Pulse}}
 {{movesLvl|44|Energy_Ball}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -125,6 +123,8 @@
 {{MovesAlign}}{{MovesTop|Grass}}
 {{moves|Draco_Meteor}}
 {{moves|Grassy_Glide}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=841|prev=Flapple|dexnext=843|next=Silicobra}}

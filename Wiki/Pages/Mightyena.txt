@@ -5,7 +5,7 @@
 |ndex=262
 |type1=Dark
 |type2=
-|ability1=Intimidate|ability2=Quickfeet
+|ability1=Quickfeet|ability2=Intimidate
 |abilityH=Moxie
 |genderm=50.0
 |abilityS=
@@ -85,8 +85,6 @@
 {{movesLvl|52|Sucker_Punch}}
 {{movesLvl|56|Play_Rough}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Attract}}
 {{movesTm|Captivate}}
@@ -156,6 +154,8 @@
 {{moves|Throat_Chop}}
 {{moves|Thunder_Fang}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=261|prev=Poochyena|dexnext=263|next=Zigzagoon}}

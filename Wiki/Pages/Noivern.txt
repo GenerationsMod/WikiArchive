@@ -5,7 +5,7 @@
 |ndex=715
 |type1=Flying
 |type2=Dragon
-|ability1=Frisk|ability2=Infiltrator
+|ability1=Infiltrator|ability2=Frisk
 |abilityH=Telepathy
 |genderm=50.0
 |abilityS=
@@ -73,8 +73,6 @@
 {{movesLvl|51|Tailwind}}
 {{movesLvl|56|Hurricane}}
 {{movesLvl|62|Boomburst}}
-|}
-{{MovesAlign}}{{MovesBTop|Flying}}
 |}
 {{MovesAlign}}{{MovesTmTop|Flying}}
 {{movesTm|Acrobatics}}
@@ -161,6 +159,8 @@
 {{moves|Tailwind}}
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Flying}}
 |}
 |}
 {{NextPrev|dexprev=714|prev=Noibat|dexnext=716|next=Xerneas}}

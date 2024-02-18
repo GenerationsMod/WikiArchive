@@ -74,8 +74,6 @@
 {{movesLvl|45|Feather_Dance}}
 {{movesLvl|50|Brave_Bird}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Cutter}}
@@ -141,6 +139,8 @@
 {{moves|Snore}}
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=722|prev=Rowlet|dexnext=724|next=Decidueye}}

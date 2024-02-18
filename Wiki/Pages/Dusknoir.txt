@@ -120,8 +120,6 @@
 {{movesLvl|58|Payback}}
 {{movesLvl|61|Future_Sight}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -222,6 +220,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Trick}}
 {{moves|Wonder_Room}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=476|prev=Probopass|dexnext=478|next=Froslass}}

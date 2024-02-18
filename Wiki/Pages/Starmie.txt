@@ -78,8 +78,6 @@
 {{movesLvl|1|Tackle}}
 {{movesLvl|1|Water_Gun}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
@@ -216,6 +214,8 @@
 {{moves|Whirlpool}}
 {{moves|Wonder_Room}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=120|prev=Staryu|dexnext=122|next=Mr. Mime}}

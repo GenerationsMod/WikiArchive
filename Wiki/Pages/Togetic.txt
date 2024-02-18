@@ -74,8 +74,6 @@
 {{movesLvl|48|Last_Resort}}
 {{movesLvl|52|Wish}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -233,6 +231,8 @@
 {{moves|Water_Pulse}}
 {{moves|Zap_Cannon}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=175|prev=Togepi|dexnext=177|next=Natu}}

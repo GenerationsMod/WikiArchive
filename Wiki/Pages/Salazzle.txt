@@ -80,8 +80,6 @@
 {{movesLvl|51|Venom_Drench}}
 {{movesLvl|58|Toxic}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Acrobatics}}
@@ -170,6 +168,8 @@
 {{moves|Snatch}}
 {{moves|Snore}}
 {{moves|Toxic}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=757|prev=Salandit|dexnext=759|next=Stufful}}

@@ -5,7 +5,7 @@
 |ndex=941
 |type1=Electric
 |type2=Flying
-|ability1=Voltabsorb|ability2=Windpower
+|ability1=Windpower|ability2=Voltabsorb
 |abilityH=Competitive
 |genderm=50.0
 |abilityS=
@@ -70,8 +70,6 @@
 {{movesLvl|48|Discharge}}
 {{movesLvl|55|Hurricane}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -106,6 +104,8 @@
 {{movesTm|Wild_Charge}}
 |}
 {{MovesAlign}}{{MovesTop|Electric}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=940|prev=Tadbulb|dexnext=942|next=Wattrel}}

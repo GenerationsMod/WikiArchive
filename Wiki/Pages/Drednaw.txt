@@ -5,7 +5,7 @@
 |ndex=834
 |type1=Water
 |type2=Rock
-|ability1=Shellarmor|ability2=Strongjaw
+|ability1=Strongjaw|ability2=Shellarmor
 |abilityH=Swiftswim
 |genderm=50.0
 |abilityS=
@@ -66,8 +66,6 @@
 {{movesLvl|48|Liquidation}}
 {{movesLvl|57|Body_Slam}}
 {{movesLvl|66|Head_Smash}}
-|}
-{{MovesAlign}}{{MovesBTop|Water}}
 |}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Assurance}}
@@ -134,6 +132,8 @@
 {{moves|Meteor_Beam}}
 {{moves|Scale_Shot}}
 {{moves|Skitter_Smack}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=833|prev=Chewtle|dexnext=835|next=Yamper}}

@@ -101,8 +101,6 @@
 {{movesLvl|1|Tail_Whip}}
 {{movesLvl|1|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -223,6 +221,8 @@
 {{moves|Toxic}}
 {{moves|Will-O-Wisp}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=037|prev=Vulpix|dexnext=039|next=Jigglypuff}}

@@ -77,8 +77,6 @@
 {{movesLvl|54|Heavy_Slam}}
 {{movesLvl|60|Headlong_Rush}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -182,6 +180,8 @@
 {{moves|Throat_Chop}}
 {{moves|Thunder_Punch}}
 {{moves|Vacuum_Wave}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=296|prev=Makuhita|dexnext=298|next=Azurill}}

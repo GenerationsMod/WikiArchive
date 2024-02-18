@@ -70,8 +70,6 @@
 {{movesLvl|45|Dynamic_Punch}}
 {{movesLvl|49|Close_Combat}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -152,6 +150,8 @@
 {{moves|Superpower}}
 {{moves|Thunder_Punch}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=739|prev=Crabrawler|dexnext=741|next=Oricorio}}

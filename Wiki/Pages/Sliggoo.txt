@@ -78,8 +78,6 @@
 {{movesLvl|49|Body_Slam}}
 {{movesLvl|56|Muddy_Water}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Attract}}
@@ -131,6 +129,8 @@
 {{moves|Skitter_Smack}}
 {{moves|Snore}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=704|prev=Goomy|dexnext=706|next=Goodra}}

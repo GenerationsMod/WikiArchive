@@ -79,8 +79,6 @@
 {{movesLvl|46|Aqua_Tail}}
 {{movesLvl|50|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -137,6 +135,8 @@
 {{moves|Swagger}}
 {{moves|Swift}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=366|prev=Clamperl|dexnext=368|next=Gorebyss}}

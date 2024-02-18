@@ -5,7 +5,7 @@
 |ndex=068
 |type1=Fighting
 |type2=
-|ability1=Noguard|ability2=Guts
+|ability1=Guts|ability2=Noguard
 |abilityH=Steadfast
 |genderm=75.0
 |abilityS=
@@ -74,8 +74,6 @@
 {{movesLvl|54|Dynamic_Punch}}
 {{movesLvl|60|Cross_Chop}}
 {{movesLvl|66|Double-Edge}}
-|}
-{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Assurance}}
@@ -226,6 +224,8 @@
 {{moves|Vacuum_Wave}}
 {{moves|Vital_Throw}}
 {{moves|Wide_Guard}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=067|prev=Machoke|dexnext=069|next=Bellsprout}}

@@ -67,8 +67,6 @@
 {{movesLvl|40|X-Scissor}}
 {{movesLvl|44|Swords_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -112,6 +110,8 @@
 {{movesTm|X-Scissor}}
 |}
 {{MovesAlign}}{{MovesTop|Bug}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=899|prev=Wyrdeer|dexnext=901|next=Ursaluna}}

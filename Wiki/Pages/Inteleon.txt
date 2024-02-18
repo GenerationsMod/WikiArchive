@@ -78,8 +78,6 @@
 {{movesLvl|54|Rain_Dance}}
 {{movesLvl|62|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -139,6 +137,8 @@
 {{moves|Hydro_Cannon}}
 {{moves|Scale_Shot}}
 {{moves|Water_Pledge}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=817|prev=Drizzile|dexnext=819|next=Skwovet}}

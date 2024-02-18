@@ -5,7 +5,7 @@
 |ndex=1011
 |type1=Grass
 |type2=Dragon
-|ability1=Supersweetsyrup|ability2=Gluttony
+|ability1=Gluttony|ability2=Supersweetsyrup
 |abilityH=Stickyhold
 |genderm=50.0
 |abilityS=
@@ -67,8 +67,6 @@
 {{movesLvl|40|Energy_Ball}}
 {{movesLvl|44|Substitute}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Body_Slam}}
 {{movesTm|Bug_Bite}}
@@ -102,6 +100,8 @@
 {{movesTm|Tera_Blast}}
 |}
 {{MovesAlign}}{{MovesTop|Grass}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=1010|prev=Iron Leaves|dexnext=1012|next=Poltchageist}}

@@ -108,8 +108,6 @@
 {{movesLvl|50|Mean_Look}}
 {{movesLvl|55|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -241,6 +239,8 @@
 {{moves|Toxic}}
 {{moves|Wonder_Room}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=196|prev=Espeon|dexnext=198|next=Murkrow}}

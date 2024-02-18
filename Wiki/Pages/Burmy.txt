@@ -60,8 +60,6 @@
 {{movesLvl|15|Bug_Bite}}
 {{movesLvl|20|Hidden_Power}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Hidden_Power}}
 {{movesTm|Protect}}
@@ -72,6 +70,8 @@
 {{moves|Protect}}
 {{moves|Snore}}
 {{moves|String_Shot}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=411|prev=Bastiodon|dexnext=413|next=Wormadam}}

@@ -71,8 +71,6 @@
 {{movesLvl|57|Spite}}
 {{movesLvl|64|Phantom_Force}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -144,6 +142,8 @@
 {{moves|Swagger}}
 {{moves|Telekinesis}}
 {{moves|Trick}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=291|prev=Ninjask|dexnext=293|next=Whismur}}

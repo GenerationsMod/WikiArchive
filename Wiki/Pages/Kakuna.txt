@@ -64,8 +64,6 @@
 {{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Harden}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 |}
 {{MovesAlign}}{{MovesTop|Bug}}
@@ -74,6 +72,8 @@
 {{moves|Harden}}
 {{moves|Iron_Defense}}
 {{moves|String_Shot}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=013|prev=Weedle|dexnext=015|next=Beedrill}}

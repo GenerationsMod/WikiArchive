@@ -68,8 +68,6 @@
 {{movesLvl|48|Close_Combat}}
 {{movesLvl|52|Focus_Punch}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -137,6 +135,8 @@
 {{MovesAlign}}{{MovesTop|Fighting}}
 {{moves|Coaching}}
 {{moves|Lash_Out}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=891|prev=Kubfu|dexnext=893|next=Zarude}}

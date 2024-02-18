@@ -78,8 +78,6 @@
 {{movesLvl|64|Outrage}}
 {{movesLvl|73|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -199,6 +197,8 @@
 {{moves|Tailwind}}
 {{moves|Twister}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=372|prev=Shelgon|dexnext=374|next=Beldum}}

@@ -87,8 +87,6 @@
 {{movesLvl|53|Spotlight}}
 {{movesLvl|56|Dream_Eater}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -143,6 +141,8 @@
 {{moves|Synthesis}}
 {{moves|Wonder_Room}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=755|prev=Morelull|dexnext=757|next=Salandit}}

@@ -5,7 +5,7 @@
 |ndex=539
 |type1=Fighting
 |type2=
-|ability1=Innerfocus|ability2=Sturdy
+|ability1=Sturdy|ability2=Innerfocus
 |abilityH=Moldbreaker
 |genderm=100
 |abilityS=
@@ -68,8 +68,6 @@
 {{movesLvl|45|Endure}}
 {{movesLvl|50|Reversal}}
 {{movesLvl|55|Close_Combat}}
-|}
-{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Attract}}
@@ -147,6 +145,8 @@
 {{moves|Throat_Chop}}
 {{moves|Thunder_Punch}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=538|prev=Throh|dexnext=540|next=Sewaddle}}

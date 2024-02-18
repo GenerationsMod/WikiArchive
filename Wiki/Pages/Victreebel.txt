@@ -66,8 +66,6 @@
 {{movesLvl|32|Leaf_Storm}}
 {{movesLvl|44|Leaf_Blade}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Bullet_Seed}}
@@ -160,6 +158,8 @@
 {{moves|Vine_Whip}}
 {{moves|Worry_Seed}}
 {{moves|Wrap}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=070|prev=Weepinbell|dexnext=072|next=Tentacool}}

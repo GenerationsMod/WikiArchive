@@ -75,8 +75,6 @@
 {{movesLvl|52|Head_Smash}}
 {{movesLvl|58|Head_Smash}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
@@ -162,6 +160,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Uproar}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=408|prev=Cranidos|dexnext=410|next=Shieldon}}

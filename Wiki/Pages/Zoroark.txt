@@ -83,8 +83,6 @@
 {{movesLvl|52|Nasty_Plot}}
 {{movesLvl|58|Foul_Play}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -192,6 +190,8 @@
 {{moves|Throat_Chop}}
 {{moves|Trick}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=570|prev=Zorua|dexnext=572|next=Minccino}}

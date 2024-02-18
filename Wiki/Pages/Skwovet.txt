@@ -68,12 +68,6 @@
 {{movesLvl|40|Super_Fang}}
 {{movesLvl|45|Belch}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-{{movesB|Belly_Drum}}
-{{movesB|Defense_Curl}}
-{{movesB|Last_Resort}}
-{{movesB|Rollout}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Amnesia}}
 {{movesTm|Assurance}}
@@ -107,6 +101,12 @@
 {{movesTm|Uproar}}
 |}
 {{MovesAlign}}{{MovesTop|Normal}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
+{{movesB|Belly_Drum}}
+{{movesB|Defense_Curl}}
+{{movesB|Last_Resort}}
+{{movesB|Rollout}}
 |}
 |}
 {{NextPrev|dexprev=818|prev=Inteleon|dexnext=820|next=Greedent}}

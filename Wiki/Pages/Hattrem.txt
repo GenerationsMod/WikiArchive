@@ -5,7 +5,7 @@
 |ndex=857
 |type1=Psychic
 |type2=
-|ability1=Anticipation|ability2=Healer
+|ability1=Healer|ability2=Anticipation
 |abilityH=Magicbounce
 |genderm=0
 |abilityS=
@@ -65,8 +65,6 @@
 {{movesLvl|44|Psychic}}
 {{movesLvl|51|Healing_Wish}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -110,6 +108,8 @@
 |}
 {{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Expanding_Force}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=856|prev=Hatenna|dexnext=858|next=Hatterene}}

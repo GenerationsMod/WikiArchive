@@ -88,8 +88,6 @@
 {{movesLvl|66|Take_Down}}
 {{movesLvl|74|Dragon_Rush}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -174,6 +172,8 @@
 {{moves|Stealth_Rock}}
 {{moves|Swift}}
 {{moves|Twister}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=443|prev=Gible|dexnext=445|next=Garchomp}}

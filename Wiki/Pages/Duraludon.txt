@@ -66,11 +66,6 @@
 {{movesLvl|60|Metal_Burst}}
 {{movesLvl|66|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-{{movesB|Mirror_Coat}}
-{{movesB|Night_Slash}}
-{{movesB|Slash}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -117,6 +112,11 @@
 {{moves|Draco_Meteor}}
 {{moves|Steel_Beam}}
 {{moves|Steel_Roller}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
+{{movesB|Mirror_Coat}}
+{{movesB|Night_Slash}}
+{{movesB|Slash}}
 |}
 |}
 {{NextPrev|dexprev=883|prev=Arctovish|dexnext=885|next=Dreepy}}

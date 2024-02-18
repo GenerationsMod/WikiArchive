@@ -81,8 +81,6 @@
 {{movesLvl|56|Sheer_Cold}}
 {{movesLvl|58|Sheer_Cold}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
@@ -178,6 +176,8 @@
 {{moves|Synthesis}}
 {{moves|Water_Pulse}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=459|prev=Snover|dexnext=461|next=Weavile}}

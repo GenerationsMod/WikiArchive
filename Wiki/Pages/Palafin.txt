@@ -70,8 +70,6 @@
 {{movesLvl|55|Focus_Punch}}
 {{movesLvl|61|Wave_Crash}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -118,6 +116,8 @@
 {{movesTm|Zen_Headbutt}}
 |}
 {{MovesAlign}}{{MovesTop|Water}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=963|prev=Tinkaton|dexnext=965|next=Wugtrio}}

@@ -90,8 +90,6 @@
 {{movesLvl|49|Petal_Blizzard}}
 {{movesLvl|50|Petal_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Bullet_Seed}}
@@ -182,6 +180,8 @@
 {{moves|Take_Down}}
 {{moves|Toxic}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=043|prev=Oddish|dexnext=045|next=Vileplume}}

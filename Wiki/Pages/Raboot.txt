@@ -69,8 +69,6 @@
 {{movesLvl|42|Bounce}}
 {{movesLvl|48|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -119,6 +117,8 @@
 |}
 {{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Fire_Pledge}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=813|prev=Scorbunny|dexnext=815|next=Cinderace}}

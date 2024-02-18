@@ -83,13 +83,6 @@
 {{movesLvl|45|Roost}}
 {{movesLvl|50|Fly}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-{{movesB|Defog}}
-{{movesB|Flame_Charge}}
-{{movesB|Quick_Guard}}
-{{movesB|Snatch}}
-{{movesB|Tailwind}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -142,6 +135,13 @@
 {{moves|Snatch}}
 {{moves|Snore}}
 {{moves|Tailwind}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
+{{movesB|Defog}}
+{{movesB|Flame_Charge}}
+{{movesB|Quick_Guard}}
+{{movesB|Snatch}}
+{{movesB|Tailwind}}
 |}
 |}
 {{NextPrev|dexprev=660|prev=Diggersby|dexnext=662|next=Fletchinder}}

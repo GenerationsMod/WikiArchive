@@ -72,8 +72,6 @@
 {{movesLvl|51|Petal_Dance}}
 {{movesLvl|58|Solar_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -137,6 +135,8 @@
 {{moves|Snore}}
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=669|prev=Flabebe|dexnext=671|next=Florges}}

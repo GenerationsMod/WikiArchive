@@ -76,8 +76,6 @@
 {{movesLvl|70|Memento}}
 {{movesLvl|75|Psycho_Shift}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -210,6 +208,8 @@
 {{moves|Water_Pulse}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=380|prev=Latias|dexnext=382|next=Kyogre}}

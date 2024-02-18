@@ -79,8 +79,6 @@
 {{movesLvl|52|Hyper_Beam}}
 {{movesLvl|59|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Assurance}}
@@ -269,6 +267,8 @@
 {{moves|Toxic}}
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=247|prev=Pupitar|dexnext=249|next=Lugia}}

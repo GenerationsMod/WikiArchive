@@ -69,8 +69,6 @@
 {{movesLvl|54|Rain_Dance}}
 {{movesLvl|60|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Bounce}}
@@ -127,6 +125,8 @@
 {{moves|Stealth_Rock}}
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=535|prev=Tympole|dexnext=537|next=Seismitoad}}

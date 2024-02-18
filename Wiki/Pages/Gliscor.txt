@@ -98,8 +98,6 @@
 {{movesLvl|49|Guillotine}}
 {{movesLvl|50|Swords_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -178,6 +176,8 @@
 {{moves|Swift}}
 {{moves|Tailwind}}
 {{moves|Throat_Chop}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=471|prev=Glaceon|dexnext=473|next=Mamoswine}}

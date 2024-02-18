@@ -72,8 +72,6 @@
 {{movesLvl|80|Sky_Attack}}
 {{movesLvl|85|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -151,6 +149,8 @@
 {{moves|Tailwind}}
 {{moves|Taunt}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=716|prev=Xerneas|dexnext=718|next=Zygarde}}

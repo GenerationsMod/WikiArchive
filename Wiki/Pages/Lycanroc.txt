@@ -75,8 +75,6 @@
 {{movesLvl|54|Stealth_Rock}}
 {{movesLvl|60|Stone_Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
@@ -153,6 +151,8 @@
 {{moves|Stealth_Rock}}
 {{moves|Stomping_Tantrum}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=744|prev=Rockruff|dexnext=746|next=Wishiwashi}}

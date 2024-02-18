@@ -240,8 +240,6 @@
 {{movesLvl|45|Quiver_Dance}}
 {{movesLvl|50|Hurricane}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -304,6 +302,8 @@
 {{moves|Signal_Beam}}
 {{moves|Snore}}
 {{moves|Tailwind}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=665|prev=Spewpa|dexnext=667|next=Litleo}}

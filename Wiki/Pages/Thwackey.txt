@@ -67,8 +67,6 @@
 {{movesLvl|42|Wood_Hammer}}
 {{movesLvl|48|Endeavor}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Acrobatics}}
 {{movesTm|Assurance}}
@@ -117,6 +115,8 @@
 {{MovesAlign}}{{MovesTop|Grass}}
 {{moves|Grass_Pledge}}
 {{moves|Grassy_Glide}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=810|prev=Grookey|dexnext=812|next=Rillaboom}}

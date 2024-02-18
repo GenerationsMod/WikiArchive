@@ -62,8 +62,6 @@
 {{movesLvl|1|String_Shot}}
 {{movesLvl|1|Tackle}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Attract}}
 {{movesTm|Calm_Mind}}
@@ -106,6 +104,8 @@
 {{moves|Snore}}
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=540|prev=Sewaddle|dexnext=542|next=Leavanny}}

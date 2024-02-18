@@ -78,8 +78,6 @@
 {{movesLvl|53|Sky_Uppercut}}
 {{movesLvl|55|Flare_Blitz}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -180,6 +178,8 @@
 {{moves|Swords_Dance}}
 {{moves|Thunder_Punch}}
 {{moves|Vacuum_Wave}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=255|prev=Torchic|dexnext=257|next=Blaziken}}

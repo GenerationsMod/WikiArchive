@@ -65,13 +65,6 @@
 {{movesLvl|35|Crunch}}
 {{movesLvl|40|Dig}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-{{movesB|Discharge}}
-{{movesB|Electroweb}}
-{{movesB|Endure}}
-{{movesB|Harden}}
-{{movesB|Mud_Shot}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
@@ -113,6 +106,13 @@
 {{moves|Shock_Wave}}
 {{moves|Skitter_Smack}}
 {{moves|Snore}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
+{{movesB|Discharge}}
+{{movesB|Electroweb}}
+{{movesB|Endure}}
+{{movesB|Harden}}
+{{movesB|Mud_Shot}}
 |}
 |}
 {{NextPrev|dexprev=735|prev=Gumshoos|dexnext=737|next=Charjabug}}

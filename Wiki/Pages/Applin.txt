@@ -56,12 +56,6 @@
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Withdraw}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-{{movesB|Defense_Curl}}
-{{movesB|Recycle}}
-{{movesB|Rollout}}
-{{movesB|Sucker_Punch}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Pounce}}
@@ -70,6 +64,12 @@
 {{MovesAlign}}{{MovesTop|Grass}}
 {{moves|Draco_Meteor}}
 {{moves|Grassy_Glide}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
+{{movesB|Defense_Curl}}
+{{movesB|Recycle}}
+{{movesB|Rollout}}
+{{movesB|Sucker_Punch}}
 |}
 |}
 {{NextPrev|dexprev=839|prev=Coalossal|dexnext=841|next=Flapple}}

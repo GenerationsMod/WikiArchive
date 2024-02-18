@@ -75,8 +75,6 @@
 {{movesLvl|65|Brave_Bird}}
 {{movesLvl|70|Meteor_Assault}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -116,6 +114,8 @@
 {{moves|Fury_Cutter}}
 {{moves|Grassy_Glide}}
 {{moves|Meteor_Assault}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=864|prev=Cursola|dexnext=866|next=Mr. Rime}}

@@ -71,8 +71,6 @@
 {{movesLvl|47|Snatch}}
 {{movesLvl|52|Play_Rough}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Assurance}}
@@ -156,6 +154,8 @@
 {{moves|Swagger}}
 {{moves|Throat_Chop}}
 {{moves|Trick}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=509|prev=Purrloin|dexnext=511|next=Pansage}}

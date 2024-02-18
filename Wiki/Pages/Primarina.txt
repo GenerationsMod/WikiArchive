@@ -72,8 +72,6 @@
 {{movesLvl|51|Moonblast}}
 {{movesLvl|58|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Amnesia}}
@@ -151,6 +149,8 @@
 {{moves|Water_Pledge}}
 {{moves|Water_Pulse}}
 {{moves|Wonder_Room}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=729|prev=Brionne|dexnext=731|next=Pikipek}}

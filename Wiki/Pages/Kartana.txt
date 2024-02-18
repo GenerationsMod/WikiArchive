@@ -72,8 +72,6 @@
 {{movesLvl|67|Psycho_Cut}}
 {{movesLvl|70|Guillotine}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -123,6 +121,8 @@
 {{moves|Tailwind}}
 {{moves|Vacuum_Wave}}
 {{moves|X-Scissor}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=797|prev=Celesteela|dexnext=799|next=Guzzlord}}

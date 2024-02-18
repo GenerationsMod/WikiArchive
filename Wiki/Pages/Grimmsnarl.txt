@@ -70,8 +70,6 @@
 {{movesLvl|56|Foul_Play}}
 {{movesLvl|64|Hammer_Arm}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -138,6 +136,8 @@
 {{MovesAlign}}{{MovesTop|Dark}}
 {{moves|Burning_Jealousy}}
 {{moves|Lash_Out}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=860|prev=Morgrem|dexnext=862|next=Obstagoon}}

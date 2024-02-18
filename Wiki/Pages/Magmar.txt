@@ -93,8 +93,6 @@
 {{movesLvl|58|Fire_Blast}}
 {{movesLvl|64|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -219,6 +217,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Toxic}}
 {{moves|Will-O-Wisp}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=125|prev=Electabuzz|dexnext=127|next=Pinsir}}

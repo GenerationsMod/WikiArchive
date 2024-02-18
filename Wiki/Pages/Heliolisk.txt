@@ -68,8 +68,6 @@
 {{movesLvl|1|Thunder_Wave}}
 {{movesLvl|1|Volt_Switch}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
@@ -149,6 +147,8 @@
 {{moves|Signal_Beam}}
 {{moves|Snore}}
 {{moves|Thunder_Punch}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=694|prev=Helioptile|dexnext=696|next=Tyrunt}}

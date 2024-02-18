@@ -75,8 +75,6 @@
 {{movesLvl|68|Outrage}}
 {{movesLvl|76|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Acrobatics}}
 {{movesTm|Assurance}}
@@ -197,6 +195,8 @@
 {{moves|Throat_Chop}}
 {{moves|Uproar}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=634|prev=Zweilous|dexnext=636|next=Larvesta}}

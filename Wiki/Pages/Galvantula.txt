@@ -92,8 +92,6 @@
 {{movesLvl|50|Gastro_Acid}}
 {{movesLvl|56|Bug_Buzz}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -161,6 +159,8 @@
 {{moves|Sleep_Talk}}
 {{moves|Snore}}
 {{moves|Throat_Chop}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=595|prev=Joltik|dexnext=597|next=Ferroseed}}

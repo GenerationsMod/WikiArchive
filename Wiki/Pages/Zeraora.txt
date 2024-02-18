@@ -71,8 +71,6 @@
 {{movesLvl|88|Plasma_Fists}}
 {{movesLvl|96|Close_Combat}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -162,6 +160,8 @@
 {{moves|Throat_Chop}}
 {{moves|Thunder}}
 {{moves|Thunder_Punch}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=806|prev=Blacephalon|dexnext=808|next=Meltan}}

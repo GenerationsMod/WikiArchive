@@ -69,8 +69,6 @@
 {{movesLvl|64|Crunch}}
 {{movesLvl|71|Earth_Power}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -182,6 +180,8 @@
 {{moves|Toxic}}
 {{moves|Water_Gun}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=029|prev=Nidoran (F)|dexnext=031|next=Nidoqueen}}

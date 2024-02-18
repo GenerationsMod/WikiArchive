@@ -87,8 +87,6 @@
 {{movesLvl|45|Heal_Pulse}}
 {{movesLvl|49|Trump_Card}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -269,6 +267,8 @@
 {{moves|Wonder_Room}}
 {{moves|Zap_Cannon}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=198|prev=Murkrow|dexnext=200|next=Misdreavus}}

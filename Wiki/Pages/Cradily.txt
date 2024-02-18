@@ -73,8 +73,6 @@
 {{movesLvl|43|Swallow}}
 {{movesLvl|48|Energy_Ball}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -156,6 +154,8 @@
 {{moves|Swagger}}
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=345|prev=Lileep|dexnext=347|next=Anorith}}

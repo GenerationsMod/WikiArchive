@@ -73,8 +73,6 @@
 {{movesLvl|52|Light_Screen}}
 {{movesLvl|56|Thunder}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -182,6 +180,8 @@
 {{moves|Thunder_Wave}}
 {{moves|Toxic}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=179|prev=Mareep|dexnext=181|next=Ampharos}}

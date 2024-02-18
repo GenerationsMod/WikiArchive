@@ -102,8 +102,6 @@
 {{movesLvl|65|Crunch}}
 {{movesLvl|73|Cross_Poison}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -195,6 +193,8 @@
 {{moves|Snore}}
 {{moves|Stomping_Tantrum}}
 {{moves|Throat_Chop}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=451|prev=Skorupi|dexnext=453|next=Croagunk}}

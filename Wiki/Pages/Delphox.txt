@@ -78,8 +78,6 @@
 {{movesLvl|68|Magic_Room}}
 {{movesLvl|74|Fire_Blast}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -184,6 +182,8 @@
 {{moves|Trick}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=654|prev=Braixen|dexnext=656|next=Froakie}}

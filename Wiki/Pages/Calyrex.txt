@@ -69,8 +69,6 @@
 {{movesLvl|80|Solar_Beam}}
 {{movesLvl|88|Future_Sight}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
@@ -135,6 +133,8 @@
 {{moves|Expanding_Force}}
 {{moves|Giga_Drain}}
 {{moves|Psychic}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=897|prev=Spectrier|dexnext=899|next=Wyrdeer}}

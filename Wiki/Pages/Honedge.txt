@@ -79,13 +79,6 @@
 {{movesLvl|44|Swords_Dance}}
 {{movesLvl|48|Sacred_Sword}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-{{movesB|Block}}
-{{movesB|Destiny_Bond}}
-{{movesB|Metal_Sound}}
-{{movesB|Shadow_Sneak}}
-{{movesB|Wide_Guard}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -136,6 +129,13 @@
 {{moves|Snore}}
 {{moves|Spite}}
 {{moves|Steel_Beam}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
+{{movesB|Block}}
+{{movesB|Destiny_Bond}}
+{{movesB|Metal_Sound}}
+{{movesB|Shadow_Sneak}}
+{{movesB|Wide_Guard}}
 |}
 |}
 {{NextPrev|dexprev=678|prev=Meowstic|dexnext=680|next=Doublade}}

@@ -68,10 +68,6 @@
 {{movesLvl|38|Sucker_Punch}}
 {{movesLvl|41|First_Impression}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-{{movesB|Counter}}
-{{movesB|Skitter_Smack}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Agility}}
 {{movesTm|Bug_Buzz}}
@@ -94,6 +90,10 @@
 {{movesTm|X-Scissor}}
 |}
 {{MovesAlign}}{{MovesTop|Bug}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
+{{movesB|Counter}}
+{{movesB|Skitter_Smack}}
 |}
 |}
 {{NextPrev|dexprev=918|prev=Spidops|dexnext=920|next=Lokix}}

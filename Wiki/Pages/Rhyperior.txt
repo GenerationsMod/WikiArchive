@@ -5,7 +5,7 @@
 |ndex=464
 |type1=Ground
 |type2=Rock
-|ability1=Solidrock|ability2=Lightningrod
+|ability1=Lightningrod|ability2=Solidrock
 |abilityH=Reckless
 |genderm=50.0
 |abilityS=
@@ -106,8 +106,6 @@
 {{movesLvl|75|Rock_Wrecker}}
 {{movesLvl|77|Megahorn}}
 {{movesLvl|86|Rock_Wrecker}}
-|}
-{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Attract}}
@@ -238,6 +236,8 @@
 {{moves|Superpower}}
 {{moves|Thunder_Punch}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=463|prev=Lickilicky|dexnext=465|next=Tangrowth}}

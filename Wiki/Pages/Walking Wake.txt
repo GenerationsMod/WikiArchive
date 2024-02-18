@@ -69,8 +69,6 @@
 {{movesLvl|77|Flamethrower}}
 {{movesLvl|84|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Body_Slam}}
@@ -113,6 +111,8 @@
 {{moves|Flamethrower}}
 {{moves|Hydrosteam}}
 {{moves|Noble_Roar}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=1008|prev=Miraidon|dexnext=1010|next=Iron Leaves}}

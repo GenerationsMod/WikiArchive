@@ -5,7 +5,7 @@
 |ndex=534
 |type1=Fighting
 |type2=
-|ability1=Sheerforce|ability2=Guts
+|ability1=Guts|ability2=Sheerforce
 |abilityH=Ironfist
 |genderm=75.0
 |abilityS=
@@ -79,8 +79,6 @@
 {{movesLvl|48|Stone_Edge}}
 {{movesLvl|54|Superpower}}
 {{movesLvl|60|Focus_Punch}}
-|}
-{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Attract}}
@@ -159,6 +157,8 @@
 {{moves|Stomping_Tantrum}}
 {{moves|Superpower}}
 {{moves|Thunder_Punch}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=533|prev=Gurdurr|dexnext=535|next=Tympole}}

@@ -5,7 +5,7 @@
 |ndex=833
 |type1=Water
 |type2=
-|ability1=Shellarmor|ability2=Strongjaw
+|ability1=Strongjaw|ability2=Shellarmor
 |abilityH=Swiftswim
 |genderm=50.0
 |abilityS=
@@ -63,12 +63,6 @@
 {{movesLvl|42|Liquidation}}
 {{movesLvl|49|Body_Slam}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-{{movesB|Dragon_Tail}}
-{{movesB|Gastro_Acid}}
-{{movesB|Shell_Smash}}
-{{movesB|Skull_Bash}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -106,6 +100,12 @@
 {{MovesAlign}}{{MovesTop|Water}}
 {{moves|Scale_Shot}}
 {{moves|Skitter_Smack}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
+{{movesB|Dragon_Tail}}
+{{movesB|Gastro_Acid}}
+{{movesB|Shell_Smash}}
+{{movesB|Skull_Bash}}
 |}
 |}
 {{NextPrev|dexprev=832|prev=Dubwool|dexnext=834|next=Drednaw}}

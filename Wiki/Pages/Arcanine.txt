@@ -5,7 +5,7 @@
 |ndex=059
 |type1=Fire
 |type2=
-|ability1=Intimidate|ability2=Flashfire
+|ability1=Flashfire|ability2=Intimidate
 |abilityH=Justified
 |genderm=75.0
 |abilityS=
@@ -91,8 +91,6 @@
 {{movesLvl|1|Thunder_Fang}}
 {{movesLvl|5|Flamethrower}}
 {{movesLvl|34|Extreme_Speed}}
-|}
-{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Aerial_Ace}}
@@ -218,6 +216,8 @@
 {{moves|Thunder_Fang}}
 {{moves|Toxic}}
 {{moves|Will-O-Wisp}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=058|prev=Growlithe|dexnext=060|next=Poliwag}}

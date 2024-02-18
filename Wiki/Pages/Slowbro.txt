@@ -82,8 +82,6 @@
 {{movesLvl|46|Rain_Dance}}
 {{movesLvl|51|Heal_Pulse}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Amnesia}}
@@ -280,6 +278,8 @@
 {{moves|Yawn}}
 {{moves|Zap_Cannon}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=079|prev=Slowpoke|dexnext=081|next=Magnemite}}

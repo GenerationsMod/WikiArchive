@@ -68,8 +68,6 @@
 {{movesLvl|81|Solar_Beam}}
 {{movesLvl|90|Eruption}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Body_Press}}
@@ -208,6 +206,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Thunder_Wave}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=382|prev=Kyogre|dexnext=384|next=Rayquaza}}

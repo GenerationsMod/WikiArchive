@@ -73,8 +73,6 @@
 {{movesLvl|52|Future_Sight}}
 {{movesLvl|58|Magic_Room}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -168,6 +166,8 @@
 {{moves|Trick}}
 {{moves|Uproar}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=574|prev=Gothita|dexnext=576|next=Gothitelle}}

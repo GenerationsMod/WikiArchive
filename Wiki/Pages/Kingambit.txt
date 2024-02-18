@@ -71,8 +71,6 @@
 {{movesLvl|64|Swords_Dance}}
 {{movesLvl|71|Guillotine}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -119,6 +117,8 @@
 {{movesTm|Zen_Headbutt}}
 |}
 {{MovesAlign}}{{MovesTop|Dark}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=982|prev=Dondozo|dexnext=984|next=Great Tusk}}

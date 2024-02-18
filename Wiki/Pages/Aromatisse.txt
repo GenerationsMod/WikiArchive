@@ -76,8 +76,6 @@
 {{movesLvl|42|Psych_Up}}
 {{movesLvl|57|Reflect}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -147,6 +145,8 @@
 {{moves|Snore}}
 {{moves|Telekinesis}}
 {{moves|Trick_Room}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=682|prev=Spritzee|dexnext=684|next=Swirlix}}

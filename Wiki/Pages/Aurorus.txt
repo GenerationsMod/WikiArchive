@@ -74,8 +74,6 @@
 {{movesLvl|60|Blizzard}}
 {{movesLvl|66|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
@@ -159,6 +157,8 @@
 {{moves|Stealth_Rock}}
 {{moves|Water_Pulse}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=698|prev=Amaura|dexnext=700|next=Sylveon}}

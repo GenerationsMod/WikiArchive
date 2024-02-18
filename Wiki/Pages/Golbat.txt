@@ -100,8 +100,6 @@
 {{movesLvl|62|Air_Slash}}
 {{movesLvl|69|Leech_Life}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -218,6 +216,8 @@
 {{moves|Whirlwind}}
 {{moves|Wing_Attack}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=041|prev=Zubat|dexnext=043|next=Oddish}}

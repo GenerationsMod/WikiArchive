@@ -5,7 +5,7 @@
 |ndex=544
 |type1=Bug
 |type2=Poison
-|ability1=Poisonpoint|ability2=Swarm
+|ability1=Swarm|ability2=Poisonpoint
 |abilityH=Speedboost
 |genderm=50.0
 |abilityS=
@@ -98,8 +98,6 @@
 {{movesLvl|50|Venom_Drench}}
 {{movesLvl|56|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -146,6 +144,8 @@
 {{moves|Sleep_Talk}}
 {{moves|Snore}}
 {{moves|Steel_Roller}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=543|prev=Venipede|dexnext=545|next=Scolipede}}

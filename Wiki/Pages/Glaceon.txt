@@ -129,8 +129,6 @@
 {{movesLvl|71|Blizzard}}
 {{movesLvl|78|Barrier}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Attract}}
 {{movesTm|Aurora_Veil}}
@@ -219,6 +217,8 @@
 {{moves|Tail_Whip}}
 {{moves|Triple_Axel}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=470|prev=Leafeon|dexnext=472|next=Gliscor}}

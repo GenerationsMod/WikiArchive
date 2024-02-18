@@ -5,7 +5,7 @@
 |ndex=844
 |type1=Ground
 |type2=
-|ability1=Shedskin|ability2=Sandspit
+|ability1=Sandspit|ability2=Shedskin
 |abilityH=Sandveil
 |genderm=50.0
 |abilityS=
@@ -66,8 +66,6 @@
 {{movesLvl|49|Coil}}
 {{movesLvl|51|Sand_Tomb}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -115,6 +113,8 @@
 {{moves|Scale_Shot}}
 {{moves|Scorching_Sands}}
 {{moves|Skitter_Smack}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=843|prev=Silicobra|dexnext=845|next=Cramorant}}

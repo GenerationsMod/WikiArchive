@@ -72,8 +72,6 @@
 {{movesLvl|48|Solar_Beam}}
 {{movesLvl|54|Spore}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -133,6 +131,8 @@
 {{moves|Stomping_Tantrum}}
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=590|prev=Foongus|dexnext=592|next=Frillish}}

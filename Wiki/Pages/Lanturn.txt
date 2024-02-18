@@ -76,8 +76,6 @@
 {{movesLvl|54|Hydro_Pump}}
 {{movesLvl|54|Ion_Deluge}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Amnesia}}
@@ -173,6 +171,8 @@
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=170|prev=Chinchou|dexnext=172|next=Pichu}}

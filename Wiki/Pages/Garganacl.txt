@@ -92,8 +92,6 @@
 {{movesLvl|54|Stone_Edge}}
 {{movesLvl|60|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Avalanche}}
 {{movesTm|Body_Press}}
@@ -136,6 +134,8 @@
 {{movesTm|Zen_Headbutt}}
 |}
 {{MovesAlign}}{{MovesTop|Rock}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=933|prev=Nacli|dexnext=935|next=Garganacl}}

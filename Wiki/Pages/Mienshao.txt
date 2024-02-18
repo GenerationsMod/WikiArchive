@@ -72,8 +72,6 @@
 {{movesLvl|59|Calm_Mind}}
 {{movesLvl|66|High_Jump_Kick}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -157,6 +155,8 @@
 {{moves|Sleep_Talk}}
 {{moves|Snore}}
 {{moves|U-turn}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=619|prev=Mienfoo|dexnext=621|next=Druddigon}}

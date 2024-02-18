@@ -66,8 +66,6 @@
 {{movesLvl|69|Rain_Dance}}
 {{movesLvl|76|Heart_Swap}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Blizzard}}
 {{movesTm|Brine}}
@@ -139,6 +137,8 @@
 {{moves|Water_Pulse}}
 {{moves|Water_Sport}}
 {{moves|Whirlpool}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=489|prev=Phione|dexnext=491|next=Darkrai}}

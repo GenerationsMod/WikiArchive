@@ -71,13 +71,6 @@
 {{movesLvl|50|Pain_Split}}
 {{movesLvl|55|Power_Whip}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-{{movesB|Beat_Up}}
-{{movesB|Block}}
-{{movesB|Leech_Seed}}
-{{movesB|Shadow_Sneak}}
-{{movesB|Strength_Sap}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Bullet_Seed}}
 {{movesTm|Confuse_Ray}}
@@ -106,6 +99,13 @@
 {{movesTm|Trailblaze}}
 |}
 {{MovesAlign}}{{MovesTop|Grass}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
+{{movesB|Beat_Up}}
+{{movesB|Block}}
+{{movesB|Leech_Seed}}
+{{movesB|Shadow_Sneak}}
+{{movesB|Strength_Sap}}
 |}
 |}
 {{NextPrev|dexprev=945|prev=Farigiraf|dexnext=947|next=Mabosstiff}}

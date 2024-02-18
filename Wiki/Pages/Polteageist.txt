@@ -70,8 +70,6 @@
 {{movesLvl|60|Shell_Smash}}
 {{movesLvl|66|Curse}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Baton_Pass}}
@@ -115,6 +113,8 @@
 |}
 {{MovesAlign}}{{MovesTop|Ghost}}
 {{moves|Poltergeist}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=854|prev=Sinistea|dexnext=856|next=Hatenna}}

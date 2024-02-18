@@ -104,8 +104,6 @@
 {{movesLvl|48|Thrash}}
 {{movesLvl|52|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
@@ -255,6 +253,8 @@
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=129|prev=Magikarp|dexnext=131|next=Lapras}}

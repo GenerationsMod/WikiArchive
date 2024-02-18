@@ -70,8 +70,6 @@
 {{movesLvl|51|Giga_Drain}}
 {{movesLvl|57|Leaf_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Bulldoze}}
@@ -143,6 +141,8 @@
 {{moves|Synthesis}}
 {{moves|Wood_Hammer}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=388|prev=Grotle|dexnext=390|next=Chimchar}}

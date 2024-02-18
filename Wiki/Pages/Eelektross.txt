@@ -64,8 +64,6 @@
 {{movesLvl|1|Zap_Cannon}}
 {{movesLvl|5|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Acrobatics}}
@@ -161,6 +159,8 @@
 {{moves|Superpower}}
 {{moves|Throat_Chop}}
 {{moves|Thunder_Punch}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=603|prev=Eelektrik|dexnext=605|next=Elgyem}}

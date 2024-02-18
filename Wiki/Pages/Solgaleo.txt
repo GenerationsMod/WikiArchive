@@ -70,8 +70,6 @@
 {{movesLvl|77|Wide_Guard}}
 {{movesLvl|84|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Agility}}
 {{movesTm|Bulldoze}}
@@ -163,6 +161,8 @@
 {{moves|Sunsteel_Strike}}
 {{moves|Superpower}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=790|prev=Cosmoem|dexnext=792|next=Lunala}}

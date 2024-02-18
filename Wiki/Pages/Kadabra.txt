@@ -5,7 +5,7 @@
 |ndex=064
 |type1=Psychic
 |type2=
-|ability1=Synchronize|ability2=Innerfocus
+|ability1=Innerfocus|ability2=Synchronize
 |abilityH=Magicguard
 |genderm=75.0
 |abilityS=
@@ -89,8 +89,6 @@
 {{movesLvl|45|Future_Sight}}
 {{movesLvl|46|Trick}}
 {{movesLvl|50|Calm_Mind}}
-|}
-{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
@@ -247,6 +245,8 @@
 {{moves|Wonder_Room}}
 {{moves|Zap_Cannon}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=063|prev=Abra|dexnext=065|next=Alakazam}}

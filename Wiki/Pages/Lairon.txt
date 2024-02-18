@@ -73,8 +73,6 @@
 {{movesLvl|70|Double-Edge}}
 {{movesLvl|76|Metal_Burst}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -161,6 +159,8 @@
 {{moves|Swagger}}
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=304|prev=Aron|dexnext=306|next=Aggron}}

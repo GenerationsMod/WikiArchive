@@ -106,8 +106,6 @@
 {{movesLvl|60|Dream_Eater}}
 {{movesLvl|61|Nightmare}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Ally_Switch}}
@@ -255,6 +253,8 @@
 {{moves|Will-O-Wisp}}
 {{moves|Wonder_Room}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=092|prev=Gastly|dexnext=094|next=Gengar}}

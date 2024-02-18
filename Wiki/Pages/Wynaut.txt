@@ -64,8 +64,6 @@
 {{movesLvl|1|Safeguard}}
 {{movesLvl|1|Splash}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Amnesia}}
 {{movesTm|Charm}}
@@ -77,6 +75,8 @@
 {{moves|Encore}}
 {{moves|Splash}}
 {{moves|Tickle}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=359|prev=Absol|dexnext=361|next=Snorunt}}

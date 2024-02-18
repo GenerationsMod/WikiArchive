@@ -68,8 +68,6 @@
 {{movesLvl|90|Aura_Sphere}}
 {{movesLvl|100|Psychic}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Acrobatics}}
@@ -555,6 +553,8 @@
 {{moves|X-Scissor}}
 {{moves|Zap_Cannon}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=150|prev=Mewtwo|dexnext=152|next=Chikorita}}

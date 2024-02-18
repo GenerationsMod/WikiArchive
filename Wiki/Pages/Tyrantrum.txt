@@ -73,8 +73,6 @@
 {{movesLvl|60|Giga_Impact}}
 {{movesLvl|66|Head_Smash}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Assurance}}
@@ -159,6 +157,8 @@
 {{moves|Stomping_Tantrum}}
 {{moves|Superpower}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=696|prev=Tyrunt|dexnext=698|next=Amaura}}

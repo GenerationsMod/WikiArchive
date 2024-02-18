@@ -66,8 +66,6 @@
 {{movesLvl|66|Double-Edge}}
 {{movesLvl|72|Nasty_Plot}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
@@ -114,6 +112,8 @@
 {{moves|Lash_Out}}
 {{moves|Nasty_Plot}}
 {{moves|Thrash}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=896|prev=Glastrier|dexnext=898|next=Calyrex}}

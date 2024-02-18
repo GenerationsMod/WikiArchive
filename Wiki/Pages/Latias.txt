@@ -74,8 +74,6 @@
 {{movesLvl|70|Healing_Wish}}
 {{movesLvl|75|Psycho_Shift}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -215,6 +213,8 @@
 {{moves|Water_Sport}}
 {{moves|Wish}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=379|prev=Registeel|dexnext=381|next=Latios}}

@@ -92,8 +92,6 @@
 {{movesLvl|56|Double-Edge}}
 {{movesLvl|60|Magnet_Rise}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -226,6 +224,8 @@
 {{moves|Tackle}}
 {{moves|Toxic}}
 {{moves|Twister}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=207|prev=Gligar|dexnext=209|next=Snubbull}}

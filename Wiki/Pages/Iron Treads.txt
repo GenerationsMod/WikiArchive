@@ -68,8 +68,6 @@
 {{movesLvl|84|Giga_Impact}}
 {{movesLvl|91|Steel_Roller}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -116,6 +114,8 @@
 {{moves|Knock_Off}}
 {{moves|Rapid_Spin}}
 {{moves|Stomping_Tantrum}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=989|prev=Sandy Shocks|dexnext=991|next=Iron Bundle}}

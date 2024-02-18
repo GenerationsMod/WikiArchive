@@ -72,8 +72,6 @@
 {{movesLvl|91|Lucky_Chant}}
 {{movesLvl|100|Seed_Flare}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Bullet_Seed}}
 {{movesTm|Confide}}
@@ -137,6 +135,8 @@
 {{moves|Tailwind}}
 {{moves|Worry_Seed}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=491|prev=Darkrai|dexnext=493|next=Arceus}}

@@ -69,8 +69,6 @@
 {{movesLvl|50|Future_Sight}}
 {{movesLvl|55|Simple_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -169,6 +167,8 @@
 {{moves|Trick}}
 {{moves|Uproar}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=527|prev=Woobat|dexnext=529|next=Drilbur}}

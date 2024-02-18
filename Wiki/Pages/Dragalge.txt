@@ -5,7 +5,7 @@
 |ndex=691
 |type1=Poison
 |type2=Dragon
-|ability1=Poisonpoint|ability2=Poisontouch
+|ability1=Poisontouch|ability2=Poisonpoint
 |abilityH=Adaptability
 |genderm=50.0
 |abilityS=
@@ -72,8 +72,6 @@
 {{movesLvl|52|Sludge_Bomb}}
 {{movesLvl|59|Hydro_Pump}}
 {{movesLvl|66|Outrage}}
-|}
-{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
@@ -147,6 +145,8 @@
 {{moves|Shock_Wave}}
 {{moves|Snore}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=690|prev=Skrelp|dexnext=692|next=Clauncher}}

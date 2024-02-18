@@ -74,8 +74,6 @@
 {{movesLvl|90|Sky_Attack}}
 {{movesLvl|99|Burn_Up}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -223,6 +221,8 @@
 {{moves|Whirlwind}}
 {{moves|Zap_Cannon}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=249|prev=Lugia|dexnext=251|next=Celebi}}

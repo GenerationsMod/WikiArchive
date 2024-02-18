@@ -68,8 +68,6 @@
 {{movesLvl|88|Eternabeam}}
 {{movesLvl|88|Outrage}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
@@ -128,6 +126,8 @@
 {{moves|Flamethrower}}
 {{moves|Meteor_Beam}}
 {{moves|Sludge_Bomb}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=889|prev=Zamazenta|dexnext=891|next=Kubfu}}

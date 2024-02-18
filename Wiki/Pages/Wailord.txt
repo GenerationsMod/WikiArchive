@@ -73,8 +73,6 @@
 {{movesLvl|49|Hydro_Pump}}
 {{movesLvl|54|Water_Spout}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -158,6 +156,8 @@
 {{moves|Water_Pulse}}
 {{moves|Water_Spout}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=320|prev=Wailmer|dexnext=322|next=Numel}}

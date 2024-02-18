@@ -81,8 +81,6 @@
 {{movesLvl|47|Roar}}
 {{movesLvl|52|Flare_Blitz}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Attract}}
 {{movesTm|Brick_Break}}
@@ -143,6 +141,8 @@
 {{moves|Superpower}}
 {{moves|Thunder_Punch}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=498|prev=Tepig|dexnext=500|next=Emboar}}

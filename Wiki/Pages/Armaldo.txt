@@ -70,8 +70,6 @@
 {{movesLvl|43|Protect}}
 {{movesLvl|48|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -164,6 +162,8 @@
 {{moves|Swagger}}
 {{moves|Swords_Dance}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=347|prev=Anorith|dexnext=349|next=Feebas}}

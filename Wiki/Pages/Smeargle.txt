@@ -53,8 +53,6 @@
 {{MovesAlign}}{{MovesLvlTop|Normal}}
 {{movesLvl|1|Sketch}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 |}
 {{MovesAlign}}{{MovesTop|Normal}}
@@ -68,6 +66,8 @@
 {{moves|Sketch}}
 {{moves|Sleep_Talk}}
 {{moves|Spore}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=234|prev=Stantler|dexnext=236|next=Tyrogue}}

@@ -5,7 +5,7 @@
 |ndex=549
 |type1=Grass
 |type2=
-|ability1=Chlorophyll|ability2=Owntempo
+|ability1=Owntempo|ability2=Chlorophyll
 |abilityH=Leafguard
 |genderm=0
 |abilityS=
@@ -85,8 +85,6 @@
 {{movesLvl|5|Magical_Leaf}}
 {{movesLvl|46|Petal_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Bullet_Seed}}
@@ -147,6 +145,8 @@
 {{moves|Snore}}
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=548|prev=Petilil|dexnext=550|next=Basculin}}

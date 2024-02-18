@@ -79,8 +79,6 @@
 {{movesLvl|50|Swords_Dance}}
 {{movesLvl|56|Sacred_Sword}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -131,6 +129,8 @@
 {{moves|Snore}}
 {{moves|Spite}}
 {{moves|Steel_Beam}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=679|prev=Honedge|dexnext=681|next=Aegislash}}

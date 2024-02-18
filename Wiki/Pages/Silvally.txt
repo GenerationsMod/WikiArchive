@@ -79,8 +79,6 @@
 {{movesLvl|65|Punishment}}
 {{movesLvl|70|Razor_Wind}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -167,6 +165,8 @@
 {{moves|Tailwind}}
 {{moves|Terrain_Pulse}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=772|prev=Type: Null|dexnext=774|next=Minior}}

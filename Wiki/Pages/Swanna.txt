@@ -71,8 +71,6 @@
 {{movesLvl|47|Brave_Bird}}
 {{movesLvl|55|Hurricane}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -115,6 +113,8 @@
 {{moves|Tailwind}}
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=580|prev=Ducklett|dexnext=582|next=Vanillite}}

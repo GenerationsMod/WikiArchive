@@ -89,8 +89,6 @@
 {{movesLvl|58|Calm_Mind}}
 {{movesLvl|68|Flare_Blitz}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -182,6 +180,8 @@
 {{moves|Thunder_Punch}}
 {{moves|U-turn}}
 {{moves|Vacuum_Wave}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=391|prev=Monferno|dexnext=393|next=Piplup}}

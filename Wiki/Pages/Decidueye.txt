@@ -88,8 +88,6 @@
 {{movesLvl|51|Feather_Dance}}
 {{movesLvl|58|Brave_Bird}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -182,6 +180,8 @@
 {{moves|Synthesis}}
 {{moves|Tailwind}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=723|prev=Dartrix|dexnext=725|next=Litten}}

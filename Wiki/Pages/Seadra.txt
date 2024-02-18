@@ -69,8 +69,6 @@
 {{movesLvl|58|Dragon_Dance}}
 {{movesLvl|65|Rain_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -172,6 +170,8 @@
 {{moves|Water_Gun}}
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=116|prev=Horsea|dexnext=118|next=Goldeen}}

@@ -95,8 +95,6 @@
 {{movesLvl|42|Shadow_Ball}}
 {{movesLvl|48|Future_Sight}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -210,6 +208,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Trick}}
 {{moves|Wonder_Room}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=355|prev=Duskull|dexnext=357|next=Tropius}}

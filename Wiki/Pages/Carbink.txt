@@ -74,8 +74,6 @@
 {{movesLvl|60|Stone_Edge}}
 {{movesLvl|70|Safeguard}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Body_Press}}
@@ -156,6 +154,8 @@
 {{moves|Telekinesis}}
 {{moves|Terrain_Pulse}}
 {{moves|Wonder_Room}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=702|prev=Dedenne|dexnext=704|next=Goomy}}

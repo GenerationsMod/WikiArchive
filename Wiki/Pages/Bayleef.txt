@@ -78,8 +78,6 @@
 {{movesLvl|50|Aromatherapy}}
 {{movesLvl|54|Solar_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Bullet_Seed}}
@@ -165,6 +163,8 @@
 {{moves|Tackle}}
 {{moves|Toxic}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=152|prev=Chikorita|dexnext=154|next=Meganium}}

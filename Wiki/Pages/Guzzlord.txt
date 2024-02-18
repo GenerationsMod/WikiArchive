@@ -75,8 +75,6 @@
 {{movesLvl|67|Wring_Out}}
 {{movesLvl|70|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Amnesia}}
 {{movesTm|Body_Press}}
@@ -160,6 +158,8 @@
 {{moves|Stomping_Tantrum}}
 {{moves|Thrash}}
 {{moves|Wring_Out}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=798|prev=Kartana|dexnext=800|next=Necrozma}}

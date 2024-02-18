@@ -76,8 +76,6 @@
 {{movesLvl|1|Wish}}
 {{movesLvl|1|Yawn}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -202,6 +200,8 @@
 {{moves|Twister}}
 {{moves|Water_Pulse}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=467|prev=Magmortar|dexnext=469|next=Yanmega}}

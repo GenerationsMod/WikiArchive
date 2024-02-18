@@ -5,7 +5,7 @@
 |ndex=024
 |type1=Poison
 |type2=
-|ability1=Intimidate|ability2=Shedskin
+|ability1=Shedskin|ability2=Intimidate
 |abilityH=Unnerve
 |genderm=50.0
 |abilityS=
@@ -128,8 +128,6 @@
 {{movesLvl|56|Coil}}
 {{movesLvl|63|Gunk_Shot}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Attract}}
 {{movesTm|Brutal_Swing}}
@@ -234,6 +232,8 @@
 {{moves|Throat_Chop}}
 {{moves|Toxic}}
 {{moves|Wrap}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=023|prev=Ekans|dexnext=025|next=Pikachu}}

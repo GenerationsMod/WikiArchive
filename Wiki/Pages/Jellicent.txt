@@ -74,8 +74,6 @@
 {{movesLvl|48|Destiny_Bond}}
 {{movesLvl|54|Water_Spout}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -145,6 +143,8 @@
 {{moves|Spite}}
 {{moves|Trick}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=592|prev=Frillish|dexnext=594|next=Alomomola}}

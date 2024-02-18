@@ -5,7 +5,7 @@
 |ndex=713
 |type1=Ice
 |type2=
-|ability1=Icebody|ability2=Owntempo
+|ability1=Owntempo|ability2=Icebody
 |abilityH=Sturdy
 |genderm=50.0
 |abilityS=
@@ -103,8 +103,6 @@
 {{movesLvl|51|Icicle_Crash}}
 {{movesLvl|51|Skull_Bash}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
@@ -175,6 +173,8 @@
 {{moves|Stomping_Tantrum}}
 {{moves|Superpower}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=712|prev=Bergmite|dexnext=714|next=Noibat}}

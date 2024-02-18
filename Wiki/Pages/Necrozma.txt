@@ -71,8 +71,6 @@
 {{movesLvl|80|Autotomize}}
 {{movesLvl|88|Prismatic_Laser}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Ally_Switch}}
@@ -171,6 +169,8 @@
 {{moves|Substitute}}
 {{moves|Telekinesis}}
 {{moves|Wring_Out}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=799|prev=Guzzlord|dexnext=801|next=Magearna}}

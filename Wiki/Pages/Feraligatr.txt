@@ -81,8 +81,6 @@
 {{movesLvl|71|Superpower}}
 {{movesLvl|76|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -209,6 +207,8 @@
 {{moves|Water_Pledge}}
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=159|prev=Croconaw|dexnext=161|next=Sentret}}

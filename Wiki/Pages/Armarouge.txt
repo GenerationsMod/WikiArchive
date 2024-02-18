@@ -85,8 +85,6 @@
 {{movesLvl|56|Expanding_Force}}
 {{movesLvl|62|Armor_Cannon}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Aura_Sphere}}
@@ -132,6 +130,8 @@
 {{movesTm|Will-O-Wisp}}
 |}
 {{MovesAlign}}{{MovesTop|Fire}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=935|prev=Garganacl|dexnext=937|next=Charcadet}}

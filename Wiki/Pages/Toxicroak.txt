@@ -5,7 +5,7 @@
 |ndex=454
 |type1=Poison
 |type2=Fighting
-|ability1=Dryskin|ability2=Anticipation
+|ability1=Anticipation|ability2=Dryskin
 |abilityH=Poisontouch
 |genderm=50.0
 |abilityS=
@@ -85,8 +85,6 @@
 {{movesLvl|54|Sludge_Bomb}}
 {{movesLvl|58|Belch}}
 {{movesLvl|62|Flatter}}
-|}
-{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
@@ -206,6 +204,8 @@
 {{moves|Throat_Chop}}
 {{moves|Thunder_Punch}}
 {{moves|Vacuum_Wave}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=453|prev=Croagunk|dexnext=455|next=Carnivine}}

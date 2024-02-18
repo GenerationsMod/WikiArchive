@@ -90,15 +90,6 @@
 {{movesLvl|55|Toxic}}
 {{movesLvl|60|Memento}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-{{movesB|Bestow}}
-{{movesB|Endure}}
-{{movesB|Mirror_Coat}}
-{{movesB|Spite}}
-{{movesB|Swagger}}
-{{movesB|Tickle}}
-{{movesB|Venom_Drench}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -130,6 +121,15 @@
 {{moves|Pain_Split}}
 {{moves|Recycle}}
 {{moves|Spite}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
+{{movesB|Bestow}}
+{{movesB|Endure}}
+{{movesB|Mirror_Coat}}
+{{movesB|Spite}}
+{{movesB|Swagger}}
+{{movesB|Tickle}}
+{{movesB|Venom_Drench}}
 |}
 |}
 {{NextPrev|dexprev=770|prev=Palossand|dexnext=772|next=Type: Null}}

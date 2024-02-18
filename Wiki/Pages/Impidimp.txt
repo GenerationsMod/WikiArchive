@@ -66,9 +66,6 @@
 {{movesLvl|40|Play_Rough}}
 {{movesLvl|44|Foul_Play}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-{{movesB|Parting_Shot}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -113,6 +110,9 @@
 {{MovesAlign}}{{MovesTop|Dark}}
 {{moves|Burning_Jealousy}}
 {{moves|Lash_Out}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
+{{movesB|Parting_Shot}}
 |}
 |}
 {{NextPrev|dexprev=858|prev=Hatterene|dexnext=860|next=Morgrem}}

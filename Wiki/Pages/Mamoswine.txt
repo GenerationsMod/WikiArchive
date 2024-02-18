@@ -97,8 +97,6 @@
 {{movesLvl|65|Scary_Face}}
 {{movesLvl|65|Thrash}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -181,6 +179,8 @@
 {{moves|Stomping_Tantrum}}
 {{moves|Superpower}}
 {{moves|Take_Down}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=472|prev=Gliscor|dexnext=474|next=Porygon-Z}}

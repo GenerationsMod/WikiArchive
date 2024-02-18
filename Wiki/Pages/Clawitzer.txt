@@ -71,8 +71,6 @@
 {{movesLvl|56|Muddy_Water}}
 {{movesLvl|63|Crabhammer}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Aura_Sphere}}
@@ -145,6 +143,8 @@
 {{moves|Snore}}
 {{moves|Terrain_Pulse}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=692|prev=Clauncher|dexnext=694|next=Helioptile}}

@@ -68,12 +68,6 @@
 {{movesLvl|40|Agility}}
 {{movesLvl|44|Wild_Charge}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-{{movesB|Fake_Out}}
-{{movesB|Mach_Punch}}
-{{movesB|Sweet_Kiss}}
-{{movesB|Wish}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
 {{movesTm|Baton_Pass}}
@@ -109,6 +103,12 @@
 {{movesTm|Wild_Charge}}
 |}
 {{MovesAlign}}{{MovesTop|Electric}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
+{{movesB|Fake_Out}}
+{{movesB|Mach_Punch}}
+{{movesB|Sweet_Kiss}}
+{{movesB|Wish}}
 |}
 |}
 {{NextPrev|dexprev=920|prev=Lokix|dexnext=922|next=Pawmo}}

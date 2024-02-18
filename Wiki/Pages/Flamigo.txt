@@ -5,7 +5,7 @@
 |ndex=973
 |type1=Flying
 |type2=Fighting
-|ability1=Scrappy|ability2=Tangledfeet
+|ability1=Tangledfeet|ability2=Scrappy
 |abilityH=Costar
 |genderm=50.0
 |abilityS=
@@ -71,11 +71,6 @@
 {{movesLvl|48|Throat_Chop}}
 {{movesLvl|54|Brave_Bird}}
 |}
-{{MovesAlign}}{{MovesBTop|Flying}}
-{{movesB|Double_Team}}
-{{movesB|Quick_Guard}}
-{{movesB|Sky_Attack}}
-|}
 {{MovesAlign}}{{MovesTmTop|Flying}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -112,6 +107,11 @@
 {{movesTm|Water_Pulse}}
 |}
 {{MovesAlign}}{{MovesTop|Flying}}
+|}
+{{MovesAlign}}{{MovesBTop|Flying}}
+{{movesB|Double_Team}}
+{{movesB|Quick_Guard}}
+{{movesB|Sky_Attack}}
 |}
 |}
 {{NextPrev|dexprev=972|prev=Orthworm|dexnext=974|next=Glimmora}}

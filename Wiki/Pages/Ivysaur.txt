@@ -71,8 +71,6 @@
 {{movesLvl|45|Double-Edge}}
 {{movesLvl|50|Solar_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -177,6 +175,8 @@
 {{moves|Toxic}}
 {{moves|Vine_Whip}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=001|prev=Bulbasaur|dexnext=003|next=Venusaur}}

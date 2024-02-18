@@ -72,8 +72,6 @@
 {{movesLvl|65|Double-Edge}}
 {{movesLvl|70|Skull_Bash}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Acrobatics}}
 {{movesTm|Air_Slash}}
@@ -145,6 +143,8 @@
 {{moves|Stomping_Tantrum}}
 {{moves|Superpower}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=796|prev=Xurkitree|dexnext=798|next=Kartana}}

@@ -77,13 +77,6 @@
 {{movesLvl|32|Energy_Ball}}
 {{movesLvl|36|Play_Rough}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-{{movesB|Ally_Switch}}
-{{movesB|Copycat}}
-{{movesB|Leech_Seed}}
-{{movesB|Petal_Blizzard}}
-{{movesB|Sucker_Punch}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -119,6 +112,13 @@
 {{movesTm|U-turn}}
 |}
 {{MovesAlign}}{{MovesTop|Grass}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
+{{movesB|Ally_Switch}}
+{{movesB|Copycat}}
+{{movesB|Leech_Seed}}
+{{movesB|Petal_Blizzard}}
+{{movesB|Sucker_Punch}}
 |}
 |}
 {{NextPrev|dexprev=905|prev=Enamorus|dexnext=907|next=Floragato}}

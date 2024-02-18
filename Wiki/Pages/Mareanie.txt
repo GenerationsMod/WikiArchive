@@ -69,13 +69,6 @@
 {{movesLvl|45|Poison_Jab}}
 {{movesLvl|50|Toxic}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-{{movesB|Haze}}
-{{movesB|Infestation}}
-{{movesB|Spit_Up}}
-{{movesB|Stockpile}}
-{{movesB|Swallow}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Attract}}
@@ -143,6 +136,13 @@
 {{moves|Swallow}}
 {{moves|Toxic}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
+{{movesB|Haze}}
+{{movesB|Infestation}}
+{{movesB|Spit_Up}}
+{{movesB|Stockpile}}
+{{movesB|Swallow}}
 |}
 |}
 {{NextPrev|dexprev=746|prev=Wishiwashi|dexnext=748|next=Toxapex}}

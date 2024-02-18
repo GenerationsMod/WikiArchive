@@ -5,7 +5,7 @@
 |ndex=542
 |type1=Bug
 |type2=Grass
-|ability1=Chlorophyll|ability2=Swarm
+|ability1=Swarm|ability2=Chlorophyll
 |abilityH=Overcoat
 |genderm=50.0
 |abilityS=
@@ -70,8 +70,6 @@
 {{movesLvl|46|Swords_Dance}}
 {{movesLvl|50|Leaf_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -131,6 +129,8 @@
 {{moves|Synthesis}}
 {{moves|Throat_Chop}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=541|prev=Swadloon|dexnext=543|next=Venipede}}

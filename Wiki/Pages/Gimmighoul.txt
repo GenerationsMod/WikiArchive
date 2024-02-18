@@ -55,8 +55,6 @@
 {{movesLvl|1|Astonish}}
 {{movesLvl|1|Tackle}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Confuse_Ray}}
 {{movesTm|Endure}}
@@ -78,6 +76,8 @@
 {{MovesAlign}}{{MovesTop|Ghost}}
 {{moves|Astonish}}
 {{moves|Tackle}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=998|prev=Baxcalibur|dexnext=1000|next=Gholdengo}}

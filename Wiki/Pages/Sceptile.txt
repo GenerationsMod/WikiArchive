@@ -80,8 +80,6 @@
 {{movesLvl|56|Endeavor}}
 {{movesLvl|63|Leaf_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -204,6 +202,8 @@
 {{moves|Throat_Chop}}
 {{moves|Thunder_Punch}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=253|prev=Grovyle|dexnext=255|next=Torchic}}

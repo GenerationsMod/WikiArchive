@@ -68,10 +68,6 @@
 {{movesLvl|55|Acupressure}}
 {{movesLvl|60|Discharge}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-{{movesB|Memento}}
-{{movesB|Sucker_Punch}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -118,6 +114,10 @@
 |}
 {{MovesAlign}}{{MovesTop|Electric}}
 {{moves|Rising_Voltage}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
+{{movesB|Memento}}
+{{movesB|Sucker_Punch}}
 |}
 |}
 {{NextPrev|dexprev=870|prev=Falinks|dexnext=872|next=Snom}}

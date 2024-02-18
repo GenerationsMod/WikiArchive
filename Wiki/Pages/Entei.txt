@@ -76,8 +76,6 @@
 {{movesLvl|72|Fire_Blast}}
 {{movesLvl|78|Eruption}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Agility}}
 {{movesTm|Body_Slam}}
@@ -196,6 +194,8 @@
 {{moves|Swagger}}
 {{moves|Swift}}
 {{moves|Toxic}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=243|prev=Raikou|dexnext=245|next=Suicune}}

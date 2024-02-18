@@ -5,7 +5,7 @@
 |ndex=955
 |type1=Psychic
 |type2=
-|ability1=Frisk|ability2=Anticipation
+|ability1=Anticipation|ability2=Frisk
 |abilityH=Speedboost
 |genderm=50.0
 |abilityS=
@@ -64,11 +64,6 @@
 {{movesLvl|29|Agility}}
 {{movesLvl|34|Uproar}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-{{movesB|Ally_Switch}}
-{{movesB|Hypnosis}}
-{{movesB|Roost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Agility}}
 {{movesTm|Baton_Pass}}
@@ -107,6 +102,11 @@
 {{movesTm|Zen_Headbutt}}
 |}
 {{MovesAlign}}{{MovesTop|Psychic}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
+{{movesB|Ally_Switch}}
+{{movesB|Hypnosis}}
+{{movesB|Roost}}
 |}
 |}
 {{NextPrev|dexprev=954|prev=Klawf|dexnext=956|next=Scovillain}}

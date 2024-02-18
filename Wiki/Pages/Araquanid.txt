@@ -73,8 +73,6 @@
 {{movesLvl|56|Leech_Life}}
 {{movesLvl|62|Mirror_Coat}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -130,6 +128,8 @@
 {{moves|Snore}}
 {{moves|Water_Pulse}}
 {{moves|Wonder_Room}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=751|prev=Dewpider|dexnext=753|next=Fomantis}}

@@ -73,8 +73,6 @@
 {{movesLvl|58|Thunder}}
 {{movesLvl|64|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -204,6 +202,8 @@
 {{moves|Thunder_Wave}}
 {{moves|Toxic}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=124|prev=Jynx|dexnext=126|next=Magmar}}

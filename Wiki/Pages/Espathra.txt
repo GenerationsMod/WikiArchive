@@ -70,8 +70,6 @@
 {{movesLvl|49|Psychic}}
 {{movesLvl|54|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -123,6 +121,8 @@
 {{movesTm|Zen_Headbutt}}
 |}
 {{MovesAlign}}{{MovesTop|Psychic}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=955|prev=Capsakid|dexnext=957|next=Rellor}}

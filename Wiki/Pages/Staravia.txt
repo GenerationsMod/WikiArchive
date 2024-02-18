@@ -70,8 +70,6 @@
 {{movesLvl|43|Brave_Bird}}
 {{movesLvl|48|Final_Gambit}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -133,6 +131,8 @@
 {{moves|Twister}}
 {{moves|Uproar}}
 {{moves|Wing_Attack}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=396|prev=Starly|dexnext=398|next=Staraptor}}

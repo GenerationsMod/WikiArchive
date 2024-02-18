@@ -73,8 +73,6 @@
 {{movesLvl|60|Nasty_Plot}}
 {{movesLvl|66|Outrage}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -147,6 +145,8 @@
 {{moves|Superpower}}
 {{moves|Uproar}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=633|prev=Deino|dexnext=635|next=Hydreigon}}

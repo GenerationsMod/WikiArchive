@@ -78,8 +78,6 @@
 {{movesLvl|57|Light_Screen}}
 {{movesLvl|62|Thunder}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -201,6 +199,8 @@
 {{moves|Thunder_Wave}}
 {{moves|Toxic}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=180|prev=Flaaffy|dexnext=182|next=Bellossom}}

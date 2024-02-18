@@ -98,8 +98,6 @@
 {{movesLvl|56|Belly_Drum}}
 {{movesLvl|66|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -220,6 +218,8 @@
 {{moves|Water_Gun}}
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=060|prev=Poliwag|dexnext=062|next=Poliwrath}}

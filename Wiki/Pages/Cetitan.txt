@@ -5,7 +5,7 @@
 |ndex=975
 |type1=Ice
 |type2=
-|ability1=Slushrush|ability2=Thickfat
+|ability1=Thickfat|ability2=Slushrush
 |abilityH=Sheerforce
 |genderm=50.0
 |abilityS=
@@ -78,8 +78,6 @@
 {{movesLvl|49|Double-Edge}}
 {{movesLvl|53|Blizzard}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Amnesia}}
 {{movesTm|Avalanche}}
@@ -116,6 +114,8 @@
 {{movesTm|Water_Pulse}}
 |}
 {{MovesAlign}}{{MovesTop|Ice}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=974|prev=Glimmora|dexnext=976|next=Houndstone}}

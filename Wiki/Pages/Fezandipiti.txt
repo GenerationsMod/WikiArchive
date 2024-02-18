@@ -68,8 +68,6 @@
 {{movesLvl|64|Roost}}
 {{movesLvl|72|Moonblast}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Acrobatics}}
@@ -125,6 +123,8 @@
 {{moves|Flatter}}
 {{moves|Roost}}
 {{moves|Swagger}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=1015|prev=Munkidori|dexnext=1017|next=Ogerpon}}

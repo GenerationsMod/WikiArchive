@@ -89,8 +89,6 @@
 {{movesLvl|66|Agility}}
 {{movesLvl|74|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -196,6 +194,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Trick}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=374|prev=Beldum|dexnext=376|next=Metagross}}

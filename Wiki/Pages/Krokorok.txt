@@ -5,7 +5,7 @@
 |ndex=552
 |type1=Ground
 |type2=Dark
-|ability1=Intimidate|ability2=Moxie
+|ability1=Moxie|ability2=Intimidate
 |abilityH=Angerpoint
 |genderm=50.0
 |abilityS=
@@ -72,8 +72,6 @@
 {{movesLvl|35|Foul_Play}}
 {{movesLvl|42|Earthquake}}
 {{movesLvl|47|Thrash}}
-|}
-{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Aerial_Ace}}
@@ -168,6 +166,8 @@
 {{moves|Spite}}
 {{moves|Stealth_Rock}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=551|prev=Sandile|dexnext=553|next=Krookodile}}

@@ -69,8 +69,6 @@
 {{movesLvl|58|High_Horsepower}}
 {{movesLvl|65|Superpower}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -126,6 +124,8 @@
 {{MovesAlign}}{{MovesTop|Steel}}
 {{moves|Steel_Beam}}
 {{moves|Steel_Roller}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=878|prev=Cufant|dexnext=880|next=Dracozolt}}

@@ -85,8 +85,6 @@
 {{movesLvl|88|Stone_Edge}}
 {{movesLvl|96|Magma_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -189,6 +187,8 @@
 {{moves|Steel_Roller}}
 {{moves|Stomping_Tantrum}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=484|prev=Palkia|dexnext=486|next=Regigigas}}

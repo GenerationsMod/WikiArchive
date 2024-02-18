@@ -66,8 +66,6 @@
 {{movesLvl|46|Play_Rough}}
 {{movesLvl|52|Foul_Play}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -115,6 +113,8 @@
 {{MovesAlign}}{{MovesTop|Dark}}
 {{moves|Burning_Jealousy}}
 {{moves|Lash_Out}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=859|prev=Impidimp|dexnext=861|next=Grimmsnarl}}

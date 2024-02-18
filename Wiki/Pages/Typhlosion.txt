@@ -82,8 +82,6 @@
 {{movesLvl|74|Burn_Up}}
 {{movesLvl|74|Overheat}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -216,6 +214,8 @@
 {{moves|Throat_Chop}}
 {{moves|Thunder_Punch}}
 {{moves|Toxic}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=156|prev=Quilava|dexnext=158|next=Totodile}}

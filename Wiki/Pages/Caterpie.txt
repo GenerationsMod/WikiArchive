@@ -86,8 +86,6 @@
 {{movesLvl|1|Tackle}}
 {{movesLvl|9|Bug_Bite}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Electroweb}}
 |}
@@ -97,6 +95,8 @@
 {{moves|Snore}}
 {{moves|String_Shot}}
 {{moves|Tackle}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=009|prev=Blastoise|dexnext=011|next=Metapod}}

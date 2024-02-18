@@ -86,8 +86,6 @@
 {{movesLvl|45|Misty_Terrain}}
 {{movesLvl|50|Entrainment}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Attract}}
 {{movesTm|Calm_Mind}}
@@ -129,6 +127,8 @@
 |}
 {{MovesAlign}}{{MovesTop|Fairy}}
 {{moves|Misty_Explosion}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=868|prev=Milcery|dexnext=870|next=Falinks}}

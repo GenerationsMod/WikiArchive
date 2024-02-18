@@ -5,7 +5,7 @@
 |ndex=405
 |type1=Electric
 |type2=
-|ability1=Rivalry|ability2=Intimidate
+|ability1=Intimidate|ability2=Rivalry
 |abilityH=Guts
 |genderm=50.0
 |abilityS=
@@ -79,8 +79,6 @@
 {{movesLvl|64|Discharge}}
 {{movesLvl|72|Swagger}}
 {{movesLvl|80|Wild_Charge}}
-|}
-{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
@@ -158,6 +156,8 @@
 {{moves|Superpower}}
 {{moves|Swift}}
 {{moves|Throat_Chop}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=404|prev=Luxio|dexnext=406|next=Budew}}

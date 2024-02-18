@@ -83,8 +83,6 @@
 {{movesLvl|52|Spin_Out}}
 {{movesLvl|58|Gunk_Shot}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Body_Slam}}
@@ -119,6 +117,8 @@
 {{movesTm|Zen_Headbutt}}
 |}
 {{MovesAlign}}{{MovesTop|Steel}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=965|prev=Wugtrio|dexnext=967|next=Finizen}}

@@ -71,8 +71,6 @@
 {{movesLvl|50|Pain_Split}}
 {{movesLvl|55|Power_Whip}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Bullet_Seed}}
 {{movesTm|Confuse_Ray}}
@@ -103,6 +101,8 @@
 {{movesTm|Trailblaze}}
 |}
 {{MovesAlign}}{{MovesTop|Grass}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=946|prev=Maschiff|dexnext=948|next=Shroodle}}

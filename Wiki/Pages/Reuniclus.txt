@@ -5,7 +5,7 @@
 |ndex=579
 |type1=Psychic
 |type2=
-|ability1=Overcoat|ability2=Magicguard
+|ability1=Magicguard|ability2=Overcoat
 |abilityH=Regenerator
 |genderm=50.0
 |abilityS=
@@ -74,8 +74,6 @@
 {{movesLvl|54|Heal_Block}}
 {{movesLvl|56|Future_Sight}}
 {{movesLvl|64|Wonder_Room}}
-|}
-{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
@@ -178,6 +176,8 @@
 {{moves|Trick}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=578|prev=Duosion|dexnext=580|next=Ducklett}}

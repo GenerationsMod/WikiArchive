@@ -5,7 +5,7 @@
 |ndex=526
 |type1=Rock
 |type2=
-|ability1=Sandstream|ability2=Sturdy
+|ability1=Sturdy|ability2=Sandstream
 |abilityH=Sandforce
 |genderm=50.0
 |abilityS=
@@ -79,8 +79,6 @@
 {{movesLvl|48|Stone_Edge}}
 {{movesLvl|54|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -144,6 +142,8 @@
 {{moves|Stomping_Tantrum}}
 {{moves|Superpower}}
 {{moves|Throat_Chop}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=525|prev=Boldore|dexnext=527|next=Woobat}}

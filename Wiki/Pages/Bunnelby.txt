@@ -76,11 +76,6 @@
 {{movesLvl|39|Super_Fang}}
 {{movesLvl|47|Facade}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-{{movesB|Defense_Curl}}
-{{movesB|Rollout}}
-{{movesB|Spikes}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -141,6 +136,11 @@
 {{moves|Recycle}}
 {{moves|Snore}}
 {{moves|Super_Fang}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
+{{movesB|Defense_Curl}}
+{{movesB|Rollout}}
+{{movesB|Spikes}}
 |}
 |}
 {{NextPrev|dexprev=658|prev=Greninja|dexnext=660|next=Diggersby}}

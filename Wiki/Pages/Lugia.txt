@@ -73,8 +73,6 @@
 {{movesLvl|85|Natural_Gift}}
 {{movesLvl|90|Sky_Attack}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -245,6 +243,8 @@
 {{moves|Wonder_Room}}
 {{moves|Zap_Cannon}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=248|prev=Tyranitar|dexnext=250|next=Ho-Oh}}

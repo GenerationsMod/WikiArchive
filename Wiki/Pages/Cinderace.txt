@@ -72,8 +72,6 @@
 {{movesLvl|54|Double-Edge}}
 {{movesLvl|62|Court_Change}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -138,6 +136,8 @@
 {{moves|Coaching}}
 {{moves|Fire_Pledge}}
 {{moves|Scorching_Sands}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=814|prev=Raboot|dexnext=816|next=Sobble}}

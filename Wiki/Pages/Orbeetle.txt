@@ -69,8 +69,6 @@
 {{movesLvl|44|Calm_Mind}}
 {{movesLvl|48|Psychic_Terrain}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
@@ -119,6 +117,8 @@
 |}
 {{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Expanding_Force}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=825|prev=Dottler|dexnext=827|next=Nickit}}

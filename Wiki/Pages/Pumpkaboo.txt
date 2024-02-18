@@ -77,12 +77,6 @@
 {{movesLvl|40|Trick}}
 {{movesLvl|44|Pain_Split}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-{{movesB|Bestow}}
-{{movesB|Curse}}
-{{movesB|Destiny_Bond}}
-{{movesB|Disable}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -155,6 +149,12 @@
 {{moves|Telekinesis}}
 {{moves|Trick}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
+{{movesB|Bestow}}
+{{movesB|Curse}}
+{{movesB|Destiny_Bond}}
+{{movesB|Disable}}
 |}
 |}
 {{NextPrev|dexprev=709|prev=Trevenant|dexnext=711|next=Gourgeist}}

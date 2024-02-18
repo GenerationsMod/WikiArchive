@@ -71,8 +71,6 @@
 {{movesLvl|80|Outrage}}
 {{movesLvl|85|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Body_Slam}}
 {{movesTm|Calm_Mind}}
@@ -150,6 +148,8 @@
 {{moves|Terrain_Pulse}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=715|prev=Noivern|dexnext=717|next=Yveltal}}

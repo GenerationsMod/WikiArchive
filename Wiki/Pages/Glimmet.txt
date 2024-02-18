@@ -79,11 +79,6 @@
 {{movesLvl|41|Acid_Armor}}
 {{movesLvl|46|Sludge_Wave}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-{{movesB|Explosion}}
-{{movesB|Memento}}
-{{movesB|Toxic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Confuse_Ray}}
@@ -115,6 +110,11 @@
 {{movesTm|Venoshock}}
 |}
 {{MovesAlign}}{{MovesTop|Rock}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
+{{movesB|Explosion}}
+{{movesB|Memento}}
+{{movesB|Toxic}}
 |}
 |}
 {{NextPrev|dexprev=968|prev=Palafin|dexnext=970|next=Revavroom}}

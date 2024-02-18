@@ -92,8 +92,6 @@
 {{movesLvl|39|Sandstorm}}
 {{movesLvl|42|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Bulldoze}}
@@ -195,6 +193,8 @@
 {{moves|Trick}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=342|prev=Crawdaunt|dexnext=344|next=Claydol}}

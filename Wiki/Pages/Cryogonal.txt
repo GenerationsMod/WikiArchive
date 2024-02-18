@@ -84,11 +84,6 @@
 {{movesLvl|56|Solar_Beam}}
 {{movesLvl|60|Sheer_Cold}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-{{movesB|Aurora_Veil}}
-{{movesB|Explosion}}
-{{movesB|Frost_Breath}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
@@ -150,6 +145,11 @@
 {{moves|Snore}}
 {{moves|Triple_Axel}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
+{{movesB|Aurora_Veil}}
+{{movesB|Explosion}}
+{{movesB|Frost_Breath}}
 |}
 |}
 {{NextPrev|dexprev=614|prev=Beartic|dexnext=616|next=Shelmet}}

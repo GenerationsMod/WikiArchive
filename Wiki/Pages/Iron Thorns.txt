@@ -70,8 +70,6 @@
 {{movesLvl|84|Stone_Edge}}
 {{movesLvl|91|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Blizzard}}
 {{movesTm|Body_Press}}
@@ -140,6 +138,8 @@
 {{moves|Charge}}
 {{moves|Rock_Slide}}
 {{moves|Sandstorm}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=994|prev=Iron Moth|dexnext=996|next=Frigibax}}

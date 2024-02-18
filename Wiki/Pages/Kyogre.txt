@@ -68,8 +68,6 @@
 {{movesLvl|81|Double-Edge}}
 {{movesLvl|90|Water_Spout}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Avalanche}}
 {{movesTm|Blizzard}}
@@ -169,6 +167,8 @@
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
 {{moves|Water_Spout}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=381|prev=Latios|dexnext=383|next=Groudon}}

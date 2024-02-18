@@ -5,7 +5,7 @@
 |ndex=862
 |type1=Dark
 |type2=Normal
-|ability1=Guts|ability2=Reckless
+|ability1=Reckless|ability2=Guts
 |abilityH=Defiant
 |genderm=50.0
 |abilityS=
@@ -72,8 +72,6 @@
 {{movesLvl|42|Counter}}
 {{movesLvl|49|Taunt}}
 {{movesLvl|56|Double-Edge}}
-|}
-{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Assurance}}
@@ -143,6 +141,8 @@
 |}
 {{MovesAlign}}{{MovesTop|Dark}}
 {{moves|Lash_Out}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=861|prev=Grimmsnarl|dexnext=863|next=Perrserker}}

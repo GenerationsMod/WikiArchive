@@ -86,8 +86,6 @@
 {{movesLvl|57|Energy_Ball}}
 {{movesLvl|64|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -180,6 +178,8 @@
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=270|prev=Lotad|dexnext=272|next=Ludicolo}}

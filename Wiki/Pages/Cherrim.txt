@@ -79,8 +79,6 @@
 {{movesLvl|55|Solar_Beam}}
 {{movesLvl|62|Petal_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Bullet_Seed}}
@@ -135,6 +133,8 @@
 {{moves|Snore}}
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=420|prev=Cherubi|dexnext=422|next=Shellos}}

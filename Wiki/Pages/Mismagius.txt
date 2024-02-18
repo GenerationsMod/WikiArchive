@@ -99,8 +99,6 @@
 {{movesLvl|1|Psywave}}
 {{movesLvl|1|Spite}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -200,6 +198,8 @@
 {{moves|Trick}}
 {{moves|Uproar}}
 {{moves|Wonder_Room}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=428|prev=Lopunny|dexnext=430|next=Honchkrow}}

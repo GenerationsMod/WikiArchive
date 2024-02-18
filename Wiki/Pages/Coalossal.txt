@@ -68,8 +68,6 @@
 {{movesLvl|63|Burn_Up}}
 {{movesLvl|63|Stone_Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -125,6 +123,8 @@
 {{MovesAlign}}{{MovesTop|Rock}}
 {{moves|Meteor_Beam}}
 {{moves|Scorching_Sands}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=838|prev=Carkol|dexnext=840|next=Applin}}

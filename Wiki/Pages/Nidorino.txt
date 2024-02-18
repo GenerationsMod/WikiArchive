@@ -69,8 +69,6 @@
 {{movesLvl|64|Poison_Jab}}
 {{movesLvl|71|Earth_Power}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -183,6 +181,8 @@
 {{moves|Toxic}}
 {{moves|Water_Gun}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=032|prev=Nidoran (M)|dexnext=034|next=Nidoking}}

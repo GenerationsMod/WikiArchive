@@ -74,8 +74,6 @@
 {{movesLvl|57|Agility}}
 {{movesLvl|64|Zap_Cannon}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -136,6 +134,8 @@
 {{moves|Signal_Beam}}
 {{moves|Skitter_Smack}}
 {{moves|Snore}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=737|prev=Charjabug|dexnext=739|next=Crabrawler}}

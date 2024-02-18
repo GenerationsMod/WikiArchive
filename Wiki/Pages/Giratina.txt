@@ -84,8 +84,6 @@
 {{movesLvl|77|Shadow_Force}}
 {{movesLvl|84|Destiny_Bond}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Aura_Sphere}}
@@ -203,6 +201,8 @@
 {{moves|Tailwind}}
 {{moves|Telekinesis}}
 {{moves|Twister}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=486|prev=Regigigas|dexnext=488|next=Cresselia}}

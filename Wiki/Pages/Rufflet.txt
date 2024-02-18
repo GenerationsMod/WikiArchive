@@ -71,10 +71,6 @@
 {{movesLvl|66|Thrash}}
 {{movesLvl|72|Brave_Bird}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-{{movesB|Rock_Smash}}
-{{movesB|Roost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -140,6 +136,10 @@
 {{moves|Snore}}
 {{moves|Superpower}}
 {{moves|Tailwind}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
+{{movesB|Rock_Smash}}
+{{movesB|Roost}}
 |}
 |}
 {{NextPrev|dexprev=626|prev=Bouffalant|dexnext=628|next=Braviary}}

@@ -65,8 +65,6 @@
 {{movesLvl|70|Dragon_Pulse}}
 {{movesLvl|77|Dragon_Rush}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Body_Slam}}
 {{movesTm|Brine}}
@@ -117,6 +115,8 @@
 {{moves|Protect}}
 {{moves|Tackle}}
 {{moves|Water_Gun}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=881|prev=Arctozolt|dexnext=883|next=Arctovish}}

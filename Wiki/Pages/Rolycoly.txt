@@ -65,11 +65,6 @@
 {{movesLvl|35|Heat_Crash}}
 {{movesLvl|40|Rock_Blast}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-{{movesB|Block}}
-{{movesB|Explosion}}
-{{movesB|Mud-Slap}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -105,6 +100,11 @@
 |}
 {{MovesAlign}}{{MovesTop|Rock}}
 {{moves|Meteor_Beam}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
+{{movesB|Block}}
+{{movesB|Explosion}}
+{{movesB|Mud-Slap}}
 |}
 |}
 {{NextPrev|dexprev=836|prev=Boltund|dexnext=838|next=Carkol}}

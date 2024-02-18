@@ -70,8 +70,6 @@
 {{movesLvl|61|Shore_Up}}
 {{movesLvl|68|Sandstorm}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -147,6 +145,8 @@
 {{moves|Stealth_Rock}}
 {{moves|Terrain_Pulse}}
 {{moves|Trick}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=769|prev=Sandygast|dexnext=771|next=Pyukumuku}}

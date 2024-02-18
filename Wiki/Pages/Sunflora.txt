@@ -5,7 +5,7 @@
 |ndex=192
 |type1=Grass
 |type2=
-|ability1=Chlorophyll|ability2=Solarpower
+|ability1=Solarpower|ability2=Chlorophyll
 |abilityH=Earlybird
 |genderm=50.0
 |abilityS=
@@ -73,8 +73,6 @@
 {{movesLvl|39|Sunny_Day}}
 {{movesLvl|43|Leaf_Storm}}
 {{movesLvl|50|Petal_Blizzard}}
-|}
-{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
@@ -162,6 +160,8 @@
 {{moves|Toxic}}
 {{moves|Uproar}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=191|prev=Sunkern|dexnext=193|next=Yanma}}

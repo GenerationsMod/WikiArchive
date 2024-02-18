@@ -54,13 +54,13 @@
 {{movesLvl|1|Splash}}
 {{movesLvl|1|Teleport}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 |}
 {{MovesAlign}}{{MovesTop|Psychic}}
 {{moves|Splash}}
 {{moves|Teleport}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=788|prev=Tapu Fini|dexnext=790|next=Cosmoem}}

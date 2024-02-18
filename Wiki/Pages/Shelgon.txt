@@ -72,8 +72,6 @@
 {{movesLvl|60|Outrage}}
 {{movesLvl|67|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -154,6 +152,8 @@
 {{moves|Swagger}}
 {{moves|Twister}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=371|prev=Bagon|dexnext=373|next=Salamence}}

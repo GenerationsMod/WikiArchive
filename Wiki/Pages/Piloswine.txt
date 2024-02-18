@@ -77,8 +77,6 @@
 {{movesLvl|58|Blizzard}}
 {{movesLvl|65|Thrash}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -174,6 +172,8 @@
 {{moves|Swagger}}
 {{moves|Take_Down}}
 {{moves|Toxic}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=220|prev=Swinub|dexnext=222|next=Corsola}}

@@ -82,8 +82,6 @@
 {{movesLvl|65|Blizzard}}
 {{movesLvl|70|Sheer_Cold}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -211,6 +209,8 @@
 {{moves|Water_Gun}}
 {{moves|Water_Pulse}}
 {{moves|Whirlwind}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=143|prev=Snorlax|dexnext=145|next=Zapdos}}

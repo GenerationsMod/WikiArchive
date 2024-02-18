@@ -72,8 +72,6 @@
 {{movesLvl|36|Roost}}
 {{movesLvl|41|Drill_Peck}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -165,6 +163,8 @@
 {{moves|Uproar}}
 {{moves|U-turn}}
 {{moves|Whirlwind}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=021|prev=Spearow|dexnext=023|next=Ekans}}

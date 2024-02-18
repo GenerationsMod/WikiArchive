@@ -70,8 +70,6 @@
 {{movesLvl|72|Hyper_Beam}}
 {{movesLvl|78|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -187,6 +185,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Thunder_Wave}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=376|prev=Metagross|dexnext=378|next=Regice}}

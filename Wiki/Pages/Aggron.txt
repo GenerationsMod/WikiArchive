@@ -73,8 +73,6 @@
 {{movesLvl|80|Double-Edge}}
 {{movesLvl|88|Metal_Burst}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -226,6 +224,8 @@
 {{moves|Thunder_Wave}}
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=305|prev=Lairon|dexnext=307|next=Meditite}}

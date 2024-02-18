@@ -68,8 +68,6 @@
 {{movesLvl|91|Overheat}}
 {{movesLvl|98|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -124,6 +122,8 @@
 {{moves|Hyper_Beam}}
 {{moves|Power_Gem}}
 {{moves|Tera_Blast}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=1007|prev=Koraidon|dexnext=1009|next=Walking Wake}}

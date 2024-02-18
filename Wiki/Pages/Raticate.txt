@@ -123,8 +123,6 @@
 {{movesLvl|39|Double-Edge}}
 {{movesLvl|44|Endeavor}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -242,6 +240,8 @@
 {{moves|U-turn}}
 {{moves|Water_Gun}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=019|prev=Rattata|dexnext=021|next=Spearow}}

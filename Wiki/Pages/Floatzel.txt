@@ -103,8 +103,6 @@
 {{movesLvl|62|Aqua_Tail}}
 {{movesLvl|62|Wave_Crash}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -192,6 +190,8 @@
 {{moves|Snore}}
 {{moves|Swift}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=418|prev=Buizel|dexnext=420|next=Cherubi}}

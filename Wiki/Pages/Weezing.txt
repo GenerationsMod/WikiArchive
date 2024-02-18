@@ -98,8 +98,6 @@
 {{movesLvl|56|Memento}}
 {{movesLvl|62|Destiny_Bond}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Assurance}}
 {{movesTm|Attract}}
@@ -203,6 +201,8 @@
 {{moves|Uproar}}
 {{moves|Will-O-Wisp}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=109|prev=Koffing|dexnext=111|next=Rhyhorn}}

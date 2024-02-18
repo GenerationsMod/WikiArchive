@@ -68,8 +68,6 @@
 {{movesLvl|48|Super_Fang}}
 {{movesLvl|55|Belch}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Amnesia}}
 {{movesTm|Assurance}}
@@ -117,6 +115,8 @@
 {{movesTm|Wild_Charge}}
 |}
 {{MovesAlign}}{{MovesTop|Normal}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=819|prev=Skwovet|dexnext=821|next=Rookidee}}

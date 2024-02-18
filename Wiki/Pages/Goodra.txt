@@ -84,8 +84,6 @@
 {{movesLvl|58|Muddy_Water}}
 {{movesLvl|67|Power_Whip}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Assurance}}
@@ -172,6 +170,8 @@
 {{moves|Superpower}}
 {{moves|Thunder_Punch}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=705|prev=Sliggoo|dexnext=707|next=Klefki}}

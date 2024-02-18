@@ -67,8 +67,6 @@
 {{movesLvl|72|Hyper_Beam}}
 {{movesLvl|78|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -110,6 +108,8 @@
 {{moves|Thrash}}
 {{moves|Thunder_Cage}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=893|prev=Zarude|dexnext=895|next=Regidrago}}

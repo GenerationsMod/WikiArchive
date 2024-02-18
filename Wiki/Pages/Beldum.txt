@@ -75,8 +75,6 @@
 {{movesLvl|1|Tackle}}
 {{movesLvl|1|Take_Down}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Iron_Defense}}
 {{movesTm|Iron_Head}}
@@ -90,6 +88,8 @@
 {{moves|Steel_Beam}}
 {{moves|Take_Down}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=373|prev=Salamence|dexnext=375|next=Metang}}

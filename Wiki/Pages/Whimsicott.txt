@@ -5,7 +5,7 @@
 |ndex=547
 |type1=Grass
 |type2=Fairy
-|ability1=Prankster|ability2=Infiltrator
+|ability1=Infiltrator|ability2=Prankster
 |abilityH=Chlorophyll
 |genderm=50.0
 |abilityS=
@@ -76,8 +76,6 @@
 {{movesLvl|1|Sunny_Day}}
 {{movesLvl|1|Tailwind}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Beat_Up}}
@@ -143,6 +141,8 @@
 {{moves|Swagger}}
 {{moves|Tailwind}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=546|prev=Cottonee|dexnext=548|next=Petilil}}

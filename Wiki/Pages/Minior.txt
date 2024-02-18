@@ -67,8 +67,6 @@
 {{movesLvl|45|Shell_Smash}}
 {{movesLvl|50|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
@@ -117,6 +115,8 @@
 {{moves|Stealth_Rock}}
 {{moves|Telekinesis}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=773|prev=Silvally|dexnext=775|next=Komala}}

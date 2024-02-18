@@ -105,8 +105,6 @@
 {{movesLvl|84|Moonblast}}
 {{movesLvl|91|Perish_Song}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Calm_Mind}}
 {{movesTm|Charge_Beam}}
@@ -153,6 +151,8 @@
 {{moves|Mystical_Fire}}
 {{moves|Shadow_Ball}}
 {{moves|Wish}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=986|prev=Brute Bonnet|dexnext=988|next=Slither Wing}}

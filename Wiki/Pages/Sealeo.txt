@@ -5,7 +5,7 @@
 |ndex=364
 |type1=Ice
 |type2=Water
-|ability1=Icebody|ability2=Thickfat
+|ability1=Thickfat|ability2=Icebody
 |abilityH=Oblivious
 |genderm=50.0
 |abilityS=
@@ -70,8 +70,6 @@
 {{movesLvl|52|Blizzard}}
 {{movesLvl|58|Hail}}
 {{movesLvl|64|Sheer_Cold}}
-|}
-{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Attract}}
@@ -140,6 +138,8 @@
 {{moves|Super_Fang}}
 {{moves|Swagger}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=363|prev=Spheal|dexnext=365|next=Walrein}}

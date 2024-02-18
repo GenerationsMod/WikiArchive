@@ -72,8 +72,6 @@
 {{movesLvl|54|Endeavor}}
 {{movesLvl|62|Boomburst}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Acrobatics}}
 {{movesTm|Assurance}}
@@ -142,6 +140,8 @@
 {{moves|Frenzy_Plant}}
 {{moves|Grass_Pledge}}
 {{moves|Grassy_Glide}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=811|prev=Thwackey|dexnext=813|next=Scorbunny}}

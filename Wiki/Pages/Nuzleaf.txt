@@ -77,8 +77,6 @@
 {{movesLvl|50|Sucker_Punch}}
 {{movesLvl|57|Leaf_Blade}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Amnesia}}
 {{movesTm|Assurance}}
@@ -177,6 +175,8 @@
 {{moves|Swords_Dance}}
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=273|prev=Seedot|dexnext=275|next=Shiftry}}

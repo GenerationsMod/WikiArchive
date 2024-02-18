@@ -5,7 +5,7 @@
 |ndex=465
 |type1=Grass
 |type2=
-|ability1=Chlorophyll|ability2=Leafguard
+|ability1=Leafguard|ability2=Chlorophyll
 |abilityH=Regenerator
 |genderm=50.0
 |abilityS=
@@ -107,8 +107,6 @@
 {{movesLvl|56|Grassy_Terrain}}
 {{movesLvl|57|Block}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Amnesia}}
@@ -191,6 +189,8 @@
 {{moves|Sunny_Day}}
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=464|prev=Rhyperior|dexnext=466|next=Electivire}}

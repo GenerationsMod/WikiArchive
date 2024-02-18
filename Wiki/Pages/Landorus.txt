@@ -75,8 +75,6 @@
 {{movesLvl|75|Fissure}}
 {{movesLvl|80|Sandsear_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -170,6 +168,8 @@
 {{moves|Superpower}}
 {{moves|Swords_Dance}}
 {{moves|U-turn}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=644|prev=Zekrom|dexnext=646|next=Kyurem}}

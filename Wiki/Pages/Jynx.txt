@@ -84,8 +84,6 @@
 {{movesLvl|52|Perish_Song}}
 {{movesLvl|58|Blizzard}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -251,6 +249,8 @@
 {{moves|Water_Pulse}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=123|prev=Scyther|dexnext=125|next=Electabuzz}}

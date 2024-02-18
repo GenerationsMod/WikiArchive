@@ -84,8 +84,6 @@
 {{movesLvl|52|Drill_Peck}}
 {{movesLvl|59|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -169,6 +167,8 @@
 {{moves|Throat_Chop}}
 {{moves|Water_Pledge}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=394|prev=Prinplup|dexnext=396|next=Starly}}

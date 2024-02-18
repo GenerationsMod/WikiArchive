@@ -87,8 +87,6 @@
 {{movesLvl|54|Inferno}}
 {{movesLvl|62|Flare_Blitz}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -277,6 +275,8 @@
 {{moves|Twister}}
 {{moves|Will-O-Wisp}}
 {{moves|Wing_Attack}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=005|prev=Charmeleon|dexnext=007|next=Squirtle}}

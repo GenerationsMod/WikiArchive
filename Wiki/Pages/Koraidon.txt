@@ -68,8 +68,6 @@
 {{movesLvl|91|Flare_Blitz}}
 {{movesLvl|98|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -135,6 +133,8 @@
 {{moves|Flamethrower}}
 {{moves|Giga_Impact}}
 {{moves|Tera_Blast}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=1006|prev=Iron Valiant|dexnext=1008|next=Miraidon}}

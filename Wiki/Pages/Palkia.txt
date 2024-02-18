@@ -83,8 +83,6 @@
 {{movesLvl|80|Spacial_Rend}}
 {{movesLvl|88|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Aura_Sphere}}
@@ -204,6 +202,8 @@
 {{moves|Swift}}
 {{moves|Twister}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=483|prev=Dialga|dexnext=485|next=Heatran}}

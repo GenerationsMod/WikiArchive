@@ -5,7 +5,7 @@
 |ndex=424
 |type1=Normal
 |type2=
-|ability1=Pickup|ability2=Technician
+|ability1=Technician|ability2=Pickup
 |abilityH=Skilllink
 |genderm=50.0
 |abilityS=
@@ -67,8 +67,6 @@
 {{movesLvl|36|Fling}}
 {{movesLvl|39|Nasty_Plot}}
 {{movesLvl|43|Last_Resort}}
-|}
-{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Acrobatics}}
@@ -151,6 +149,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=423|prev=Gastrodon|dexnext=425|next=Drifloon}}

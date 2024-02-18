@@ -93,8 +93,6 @@
 {{movesLvl|58|Swords_Dance}}
 {{movesLvl|63|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -180,6 +178,8 @@
 {{moves|Superpower}}
 {{moves|Water_Pledge}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=502|prev=Dewott|dexnext=504|next=Patrat}}

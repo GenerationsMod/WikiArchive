@@ -80,8 +80,6 @@
 {{movesLvl|47|Crunch}}
 {{movesLvl|53|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Agility}}
 {{movesTm|Baton_Pass}}
@@ -119,6 +117,8 @@
 {{movesTm|Trailblaze}}
 |}
 {{MovesAlign}}{{MovesTop|Fairy}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=926|prev=Maushold|dexnext=928|next=Dachsbun}}

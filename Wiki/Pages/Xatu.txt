@@ -83,8 +83,6 @@
 {{movesLvl|55|Future_Sight}}
 {{movesLvl|57|Me_First}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -210,6 +208,8 @@
 {{moves|Trick}}
 {{moves|Twister}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=177|prev=Natu|dexnext=179|next=Mareep}}

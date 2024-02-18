@@ -70,8 +70,6 @@
 {{movesLvl|84|Zap_Cannon}}
 {{movesLvl|91|Magnetic_Flux}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -116,6 +114,8 @@
 {{moves|Metal_Sound}}
 {{moves|Screech}}
 {{moves|Tri_Attack}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=988|prev=Slither Wing|dexnext=990|next=Iron Treads}}

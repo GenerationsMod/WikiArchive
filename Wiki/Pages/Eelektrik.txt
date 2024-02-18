@@ -68,8 +68,6 @@
 {{movesLvl|69|Zap_Cannon}}
 {{movesLvl|74|Thrash}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Acrobatics}}
@@ -126,6 +124,8 @@
 {{moves|Snore}}
 {{moves|Super_Fang}}
 {{moves|Throat_Chop}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=602|prev=Tynamo|dexnext=604|next=Eelektross}}

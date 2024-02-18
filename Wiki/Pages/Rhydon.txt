@@ -5,7 +5,7 @@
 |ndex=112
 |type1=Ground
 |type2=Rock
-|ability1=Rockhead|ability2=Lightningrod
+|ability1=Lightningrod|ability2=Rockhead
 |abilityH=Reckless
 |genderm=50.0
 |abilityS=
@@ -71,8 +71,6 @@
 {{movesLvl|54|Stone_Edge}}
 {{movesLvl|61|Megahorn}}
 {{movesLvl|68|Horn_Drill}}
-|}
-{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Attract}}
@@ -263,6 +261,8 @@
 {{moves|Uproar}}
 {{moves|Water_Gun}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=111|prev=Rhyhorn|dexnext=113|next=Chansey}}

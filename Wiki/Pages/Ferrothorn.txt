@@ -73,8 +73,6 @@
 {{movesLvl|53|Payback}}
 {{movesLvl|56|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Assurance}}
@@ -151,6 +149,8 @@
 {{moves|Steel_Beam}}
 {{moves|Steel_Roller}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=597|prev=Ferroseed|dexnext=599|next=Klink}}

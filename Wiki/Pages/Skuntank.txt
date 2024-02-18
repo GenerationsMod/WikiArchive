@@ -5,7 +5,7 @@
 |ndex=435
 |type1=Poison
 |type2=Dark
-|ability1=Aftermath|ability2=Stench
+|ability1=Stench|ability2=Aftermath
 |abilityH=Keeneye
 |genderm=50.0
 |abilityS=
@@ -98,8 +98,6 @@
 {{movesLvl|56|Belch}}
 {{movesLvl|61|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Assurance}}
@@ -189,6 +187,8 @@
 {{moves|Sucker_Punch}}
 {{moves|Swift}}
 {{moves|Throat_Chop}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=434|prev=Stunky|dexnext=436|next=Bronzor}}

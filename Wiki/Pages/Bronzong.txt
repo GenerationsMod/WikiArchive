@@ -5,7 +5,7 @@
 |ndex=437
 |type1=Steel
 |type2=Psychic
-|ability1=Levitate|ability2=Heatproof
+|ability1=Heatproof|ability2=Levitate
 |abilityH=Heavymetal
 |genderm=Genderless
 |abilityS=
@@ -97,8 +97,6 @@
 {{movesLvl|58|Heavy_Slam}}
 {{movesLvl|61|Payback}}
 {{movesLvl|67|Heal_Block}}
-|}
-{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Ally_Switch}}
@@ -204,6 +202,8 @@
 {{moves|Trick}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=436|prev=Bronzor|dexnext=438|next=Bonsly}}

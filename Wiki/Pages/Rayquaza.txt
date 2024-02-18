@@ -69,8 +69,6 @@
 {{movesLvl|81|Outrage}}
 {{movesLvl|90|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -211,6 +209,8 @@
 {{moves|Uproar}}
 {{moves|V-create}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=383|prev=Groudon|dexnext=385|next=Jirachi}}

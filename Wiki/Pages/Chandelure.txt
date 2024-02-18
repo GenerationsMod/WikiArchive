@@ -72,8 +72,6 @@
 {{movesLvl|1|Smog}}
 {{movesLvl|1|Will-O-Wisp}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -143,6 +141,8 @@
 {{moves|Spite}}
 {{moves|Telekinesis}}
 {{moves|Trick}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=608|prev=Lampent|dexnext=610|next=Axew}}

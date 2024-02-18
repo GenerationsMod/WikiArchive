@@ -5,7 +5,7 @@
 |ndex=945
 |type1=Poison
 |type2=Normal
-|ability1=Unburden|ability2=Poisontouch
+|ability1=Poisontouch|ability2=Unburden
 |abilityH=Prankster
 |genderm=50.0
 |abilityS=
@@ -68,8 +68,6 @@
 {{movesLvl|45|Knock_Off}}
 {{movesLvl|51|Gunk_Shot}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Acrobatics}}
@@ -112,6 +110,8 @@
 {{movesTm|X-Scissor}}
 |}
 {{MovesAlign}}{{MovesTop|Poison}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=944|prev=Dudunsparce|dexnext=946|next=Maschiff}}

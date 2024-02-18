@@ -5,7 +5,7 @@
 |ndex=085
 |type1=Normal
 |type2=Flying
-|ability1=Earlybird|ability2=Runaway
+|ability1=Runaway|ability2=Earlybird
 |abilityH=Tangledfeet
 |genderm=50.0
 |abilityS=
@@ -72,8 +72,6 @@
 {{movesLvl|47|Drill_Peck}}
 {{movesLvl|52|Endeavor}}
 {{movesLvl|56|Thrash}}
-|}
-{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
@@ -165,6 +163,8 @@
 {{moves|Tri_Attack}}
 {{moves|Uproar}}
 {{moves|Whirlwind}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=084|prev=Doduo|dexnext=086|next=Seel}}

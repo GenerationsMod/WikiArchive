@@ -5,7 +5,7 @@
 |ndex=049
 |type1=Bug
 |type2=Poison
-|ability1=Shielddust|ability2=Tintedlens
+|ability1=Tintedlens|ability2=Shielddust
 |abilityH=Wonderskin
 |genderm=50.0
 |abilityS=
@@ -72,8 +72,6 @@
 {{movesLvl|41|Zen_Headbutt}}
 {{movesLvl|47|Poison_Fang}}
 {{movesLvl|55|Psychic}}
-|}
-{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acid_Spray}}
@@ -199,6 +197,8 @@
 {{moves|U-turn}}
 {{moves|Whirlwind}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=048|prev=Venonat|dexnext=050|next=Diglett}}

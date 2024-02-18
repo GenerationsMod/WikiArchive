@@ -68,8 +68,6 @@
 {{movesLvl|1|Harden}}
 {{movesLvl|1|Protect}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Iron_Defense}}
 {{movesTm|Pounce}}
@@ -81,6 +79,8 @@
 {{moves|Bug_Bite}}
 {{moves|Electroweb}}
 {{moves|Iron_Defense}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=664|prev=Scatterbug|dexnext=666|next=Vivillon}}

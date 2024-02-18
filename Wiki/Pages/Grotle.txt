@@ -68,8 +68,6 @@
 {{movesLvl|47|Giga_Drain}}
 {{movesLvl|52|Leaf_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Bullet_Seed}}
@@ -123,6 +121,8 @@
 {{moves|Superpower}}
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=387|prev=Turtwig|dexnext=389|next=Torterra}}

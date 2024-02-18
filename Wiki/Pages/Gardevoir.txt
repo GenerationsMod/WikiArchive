@@ -5,7 +5,7 @@
 |ndex=282
 |type1=Psychic
 |type2=Fairy
-|ability1=Synchronize|ability2=Trace
+|ability1=Trace|ability2=Synchronize
 |abilityH=Telepathy
 |genderm=50.0
 |abilityS=
@@ -106,8 +106,6 @@
 {{movesLvl|49|Moonblast}}
 {{movesLvl|56|Dream_Eater}}
 {{movesLvl|63|Future_Sight}}
-|}
-{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
@@ -246,6 +244,8 @@
 {{moves|Triple_Axel}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=281|prev=Kirlia|dexnext=283|next=Surskit}}

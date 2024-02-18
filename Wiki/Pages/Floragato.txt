@@ -78,8 +78,6 @@
 {{movesLvl|42|Play_Rough}}
 {{movesLvl|46|Leaf_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -120,6 +118,8 @@
 {{movesTm|U-turn}}
 |}
 {{MovesAlign}}{{MovesTop|Grass}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=906|prev=Sprigatito|dexnext=908|next=Meowscarada}}

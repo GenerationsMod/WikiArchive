@@ -74,8 +74,6 @@
 {{movesLvl|85|Hyperspace_Fury}}
 {{movesLvl|85|Hyperspace_Hole}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Brick_Break}}
 {{movesTm|Calm_Mind}}
@@ -178,6 +176,8 @@
 {{moves|Uproar}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=719|prev=Diancie|dexnext=721|next=Volcanion}}

@@ -70,8 +70,6 @@
 {{movesLvl|70|Earthquake}}
 {{movesLvl|75|Fissure}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -112,6 +110,8 @@
 {{moves|Ruination}}
 {{moves|Stomping_Tantrum}}
 {{moves|Throat_Chop}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=1002|prev=Chien-Pao|dexnext=1004|next=Chi-Yu}}

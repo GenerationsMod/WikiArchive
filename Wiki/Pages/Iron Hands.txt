@@ -70,8 +70,6 @@
 {{movesLvl|84|Belly_Drum}}
 {{movesLvl|91|Focus_Punch}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -119,6 +117,8 @@
 {{moves|Force_Palm}}
 {{moves|Seismic_Toss}}
 {{moves|Slam}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=991|prev=Iron Bundle|dexnext=993|next=Iron Jugulis}}

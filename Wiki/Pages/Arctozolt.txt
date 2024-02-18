@@ -65,8 +65,6 @@
 {{movesLvl|70|Icicle_Crash}}
 {{movesLvl|77|Blizzard}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Avalanche}}
 {{movesTm|Blizzard}}
@@ -116,6 +114,8 @@
 {{moves|Powder_Snow}}
 {{moves|Rising_Voltage}}
 {{moves|Thunder_Shock}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=880|prev=Dracozolt|dexnext=882|next=Dracovish}}

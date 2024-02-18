@@ -69,12 +69,6 @@
 {{movesLvl|51|Double-Edge}}
 {{movesLvl|57|Dragon_Rush}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-{{movesB|Aqua_Tail}}
-{{movesB|Iron_Tail}}
-{{movesB|Knock_Off}}
-{{movesB|Power_Whip}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -114,6 +108,12 @@
 {{movesTm|Wild_Charge}}
 |}
 {{MovesAlign}}{{MovesTop|Dragon}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
+{{movesB|Aqua_Tail}}
+{{movesB|Iron_Tail}}
+{{movesB|Knock_Off}}
+{{movesB|Power_Whip}}
 |}
 |}
 {{NextPrev|dexprev=966|prev=Bombirdier|dexnext=968|next=Palafin}}

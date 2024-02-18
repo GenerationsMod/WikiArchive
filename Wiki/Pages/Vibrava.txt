@@ -81,8 +81,6 @@
 {{movesLvl|56|Dragon_Rush}}
 {{movesLvl|62|Boomburst}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Air_Slash}}
 {{movesTm|Attract}}
@@ -172,6 +170,8 @@
 {{moves|Throat_Chop}}
 {{moves|Twister}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=328|prev=Trapinch|dexnext=330|next=Flygon}}

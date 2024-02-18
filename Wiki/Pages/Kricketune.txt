@@ -77,8 +77,6 @@
 {{movesLvl|46|Bug_Buzz}}
 {{movesLvl|50|Perish_Song}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -143,6 +141,8 @@
 {{moves|String_Shot}}
 {{moves|Throat_Chop}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=401|prev=Kricketot|dexnext=403|next=Shinx}}

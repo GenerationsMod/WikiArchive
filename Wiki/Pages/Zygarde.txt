@@ -73,8 +73,6 @@
 {{movesLvl|88|Extreme_Speed}}
 {{movesLvl|88|Outrage}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Body_Slam}}
 {{movesTm|Breaking_Swipe}}
@@ -161,6 +159,8 @@
 {{moves|Thousand_Arrows}}
 {{moves|Thousand_Waves}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=717|prev=Yveltal|dexnext=719|next=Diancie}}

@@ -80,8 +80,6 @@
 {{movesLvl|60|Aromatherapy}}
 {{movesLvl|66|Solar_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Bulldoze}}
@@ -178,6 +176,8 @@
 {{moves|Tackle}}
 {{moves|Toxic}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=153|prev=Bayleef|dexnext=155|next=Cyndaquil}}

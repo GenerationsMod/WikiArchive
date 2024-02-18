@@ -68,8 +68,6 @@
 {{movesLvl|48|Liquidation}}
 {{movesLvl|56|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
@@ -114,6 +112,8 @@
 {{MovesAlign}}{{MovesTop|Water}}
 {{moves|Flip_Turn}}
 {{moves|Scale_Shot}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=846|prev=Arrokuda|dexnext=848|next=Toxel}}

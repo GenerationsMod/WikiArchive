@@ -73,8 +73,6 @@
 {{movesLvl|70|Thrash}}
 {{movesLvl|77|Bleakwind_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Flying}}
-|}
 {{MovesAlign}}{{MovesTmTop|Flying}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -175,6 +173,8 @@
 {{moves|Superpower}}
 {{moves|Tailwind}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Flying}}
 |}
 |}
 {{NextPrev|dexprev=640|prev=Virizion|dexnext=642|next=Thundurus}}

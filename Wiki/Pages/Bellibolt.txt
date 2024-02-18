@@ -68,8 +68,6 @@
 {{movesLvl|45|Sucker_Punch}}
 {{movesLvl|50|Zap_Cannon}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Charge_Beam}}
@@ -101,6 +99,8 @@
 {{movesTm|Wild_Charge}}
 |}
 {{MovesAlign}}{{MovesTop|Electric}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=938|prev=Armarouge|dexnext=940|next=Tadbulb}}

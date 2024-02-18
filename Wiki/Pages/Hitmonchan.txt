@@ -77,8 +77,6 @@
 {{movesLvl|41|Sky_Uppercut}}
 {{movesLvl|44|Focus_Punch}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -203,6 +201,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Toxic}}
 {{moves|Vacuum_Wave}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=106|prev=Hitmonlee|dexnext=108|next=Lickitung}}

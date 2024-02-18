@@ -5,7 +5,7 @@
 |ndex=606
 |type1=Psychic
 |type2=
-|ability1=Synchronize|ability2=Telepathy
+|ability1=Telepathy|ability2=Synchronize
 |abilityH=Analytic
 |genderm=50.0
 |abilityS=
@@ -93,8 +93,6 @@
 {{movesLvl|60|Wonder_Room}}
 {{movesLvl|68|Psychic}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
@@ -180,6 +178,8 @@
 {{moves|Uproar}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=605|prev=Elgyem|dexnext=607|next=Litwick}}

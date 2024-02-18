@@ -87,8 +87,6 @@
 {{movesLvl|40|Swords_Dance}}
 {{movesLvl|44|Liquidation}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Assurance}}
@@ -172,6 +170,8 @@
 {{moves|Spite}}
 {{moves|Throat_Chop}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=767|prev=Wimpod|dexnext=769|next=Sandygast}}

@@ -5,7 +5,7 @@
 |ndex=612
 |type1=Dragon
 |type2=
-|ability1=Rivalry|ability2=Moldbreaker
+|ability1=Moldbreaker|ability2=Rivalry
 |abilityH=Unnerve
 |genderm=50.0
 |abilityS=
@@ -74,8 +74,6 @@
 {{movesLvl|46|Outrage}}
 {{movesLvl|53|Guillotine}}
 {{movesLvl|60|Giga_Impact}}
-|}
-{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
@@ -170,6 +168,8 @@
 {{moves|Stomping_Tantrum}}
 {{moves|Superpower}}
 {{moves|X-Scissor}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=611|prev=Fraxure|dexnext=613|next=Cubchoo}}

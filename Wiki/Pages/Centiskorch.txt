@@ -86,8 +86,6 @@
 {{movesLvl|60|Lunge}}
 {{movesLvl|67|Burn_Up}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Attract}}
 {{movesTm|Brutal_Swing}}
@@ -125,6 +123,8 @@
 {{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Scorching_Sands}}
 {{moves|Skitter_Smack}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=850|prev=Sizzlipede|dexnext=852|next=Clobbopus}}

@@ -73,8 +73,6 @@
 {{movesLvl|72|Thunder}}
 {{movesLvl|78|Zap_Cannon}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Agility}}
 {{movesTm|Aura_Sphere}}
@@ -195,6 +193,8 @@
 {{moves|Volt_Switch}}
 {{moves|Weather_Ball}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=242|prev=Blissey|dexnext=244|next=Entei}}

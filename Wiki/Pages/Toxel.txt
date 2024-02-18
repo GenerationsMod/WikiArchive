@@ -5,7 +5,7 @@
 |ndex=848
 |type1=Electric
 |type2=Poison
-|ability1=Rattled|ability2=Static
+|ability1=Static|ability2=Rattled
 |abilityH=Klutz
 |genderm=50.0
 |abilityS=
@@ -59,11 +59,6 @@
 {{movesLvl|1|Nuzzle}}
 {{movesLvl|1|Tearful_Look}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-{{movesB|Endeavor}}
-{{movesB|Metal_Sound}}
-{{movesB|Power-Up_Punch}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Attract}}
 {{movesTm|Charm}}
@@ -83,6 +78,11 @@
 {{moves|Flail}}
 {{moves|Growl}}
 {{moves|Nuzzle}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
+{{movesB|Endeavor}}
+{{movesB|Metal_Sound}}
+{{movesB|Power-Up_Punch}}
 |}
 |}
 {{NextPrev|dexprev=847|prev=Barraskewda|dexnext=849|next=Toxtricity}}

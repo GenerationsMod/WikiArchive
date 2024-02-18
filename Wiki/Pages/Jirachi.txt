@@ -71,8 +71,6 @@
 {{movesLvl|91|Last_Resort}}
 {{movesLvl|98|Doom_Desire}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Ally_Switch}}
@@ -214,6 +212,8 @@
 {{moves|Water_Pulse}}
 {{moves|Wish}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=384|prev=Rayquaza|dexnext=386|next=Deoxys}}

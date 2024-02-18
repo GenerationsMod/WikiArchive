@@ -73,13 +73,6 @@
 {{movesLvl|44|Leech_Life}}
 {{movesLvl|48|Mirror_Coat}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-{{movesB|Aurora_Beam}}
-{{movesB|Power_Split}}
-{{movesB|Spit_Up}}
-{{movesB|Sticky_Web}}
-{{movesB|Stockpile}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -130,6 +123,13 @@
 {{moves|Snore}}
 {{moves|Water_Pulse}}
 {{moves|Wonder_Room}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
+{{movesB|Aurora_Beam}}
+{{movesB|Power_Split}}
+{{movesB|Spit_Up}}
+{{movesB|Sticky_Web}}
+{{movesB|Stockpile}}
 |}
 |}
 {{NextPrev|dexprev=750|prev=Mudsdale|dexnext=752|next=Araquanid}}

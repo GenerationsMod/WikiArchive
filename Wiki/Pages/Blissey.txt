@@ -90,8 +90,6 @@
 {{movesLvl|48|Last_Resort}}
 {{movesLvl|52|Healing_Wish}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -271,6 +269,8 @@
 {{moves|Water_Pulse}}
 {{moves|Zap_Cannon}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=241|prev=Miltank|dexnext=243|next=Raikou}}

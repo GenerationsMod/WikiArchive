@@ -68,8 +68,6 @@
 {{movesLvl|90|Leaf_Storm}}
 {{movesLvl|100|Perish_Song}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Ally_Switch}}
@@ -222,6 +220,8 @@
 {{moves|Wonder_Room}}
 {{moves|Worry_Seed}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=250|prev=Ho-Oh|dexnext=252|next=Treecko}}

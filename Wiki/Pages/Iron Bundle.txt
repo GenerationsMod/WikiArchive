@@ -67,8 +67,6 @@
 {{movesLvl|84|Aurora_Veil}}
 {{movesLvl|91|Blizzard}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -110,6 +108,8 @@
 {{moves|Flip_Turn}}
 {{moves|Freeze-Dry}}
 {{moves|Helping_Hand}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=990|prev=Iron Treads|dexnext=992|next=Iron Hands}}

@@ -73,8 +73,6 @@
 {{movesLvl|84|Roost}}
 {{movesLvl|91|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -132,6 +130,8 @@
 {{moves|Flamethrower}}
 {{moves|Night_Slash}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=1004|prev=Chi-Yu|dexnext=1006|next=Iron Valiant}}

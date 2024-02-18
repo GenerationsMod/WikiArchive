@@ -5,7 +5,7 @@
 |ndex=457
 |type1=Water
 |type2=
-|ability1=Swiftswim|ability2=Stormdrain
+|ability1=Stormdrain|ability2=Swiftswim
 |abilityH=Waterveil
 |genderm=50.0
 |abilityS=
@@ -72,8 +72,6 @@
 {{movesLvl|59|Silver_Wind}}
 {{movesLvl|59|Tailwind}}
 {{movesLvl|66|Soak}}
-|}
-{{MovesAlign}}{{MovesBTop|Water}}
 |}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
@@ -148,6 +146,8 @@
 {{moves|Tailwind}}
 {{moves|Twister}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=456|prev=Finneon|dexnext=458|next=Mantyke}}

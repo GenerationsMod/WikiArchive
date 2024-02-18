@@ -76,8 +76,6 @@
 {{movesLvl|58|Flare_Blitz}}
 {{movesLvl|60|Outrage}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Assurance}}
@@ -180,6 +178,8 @@
 {{moves|Throat_Chop}}
 {{moves|Thunder_Punch}}
 {{moves|U-turn}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=726|prev=Torracat|dexnext=728|next=Popplio}}

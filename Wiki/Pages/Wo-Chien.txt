@@ -71,8 +71,6 @@
 {{movesLvl|70|Knock_Off}}
 {{movesLvl|75|Leaf_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -116,6 +114,8 @@
 {{moves|Giga_Drain}}
 {{moves|Power_Whip}}
 {{moves|Ruination}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=1000|prev=Gholdengo|dexnext=1002|next=Chien-Pao}}

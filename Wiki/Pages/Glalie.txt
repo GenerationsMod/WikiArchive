@@ -5,7 +5,7 @@
 |ndex=362
 |type1=Ice
 |type2=
-|ability1=Icebody|ability2=Innerfocus
+|ability1=Innerfocus|ability2=Icebody
 |abilityH=Moody
 |genderm=50.0
 |abilityS=
@@ -74,8 +74,6 @@
 {{movesLvl|54|Weather_Ball}}
 {{movesLvl|61|Crunch}}
 {{movesLvl|68|Blizzard}}
-|}
-{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Attract}}
@@ -163,6 +161,8 @@
 {{moves|Super_Fang}}
 {{moves|Swagger}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=361|prev=Snorunt|dexnext=363|next=Spheal}}

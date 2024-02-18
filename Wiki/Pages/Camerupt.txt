@@ -90,8 +90,6 @@
 {{movesLvl|39|Yawn}}
 {{movesLvl|46|Earthquake}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -183,6 +181,8 @@
 {{moves|Swagger}}
 {{moves|Take_Down}}
 {{moves|Yawn}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=322|prev=Numel|dexnext=324|next=Torkoal}}

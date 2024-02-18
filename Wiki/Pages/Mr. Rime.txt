@@ -83,8 +83,6 @@
 {{movesLvl|48|Psychic}}
 {{movesLvl|52|Teeter_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -159,6 +157,8 @@
 {{MovesAlign}}{{MovesTop|Ice}}
 {{moves|Expanding_Force}}
 {{moves|Triple_Axel}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=865|prev=Sirfetch'd|dexnext=867|next=Runerigus}}

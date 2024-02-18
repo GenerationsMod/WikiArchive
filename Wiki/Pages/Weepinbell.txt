@@ -70,8 +70,6 @@
 {{movesLvl|54|Slam}}
 {{movesLvl|58|Wring_Out}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Bullet_Seed}}
@@ -160,6 +158,8 @@
 {{moves|Vine_Whip}}
 {{moves|Worry_Seed}}
 {{moves|Wrap}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=069|prev=Bellsprout|dexnext=071|next=Victreebel}}

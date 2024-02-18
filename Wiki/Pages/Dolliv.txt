@@ -69,8 +69,6 @@
 {{movesLvl|37|Leech_Seed}}
 {{movesLvl|42|Terrain_Pulse}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Bullet_Seed}}
 {{movesTm|Charm}}
@@ -96,6 +94,8 @@
 {{movesTm|Trailblaze}}
 |}
 {{MovesAlign}}{{MovesTop|Grass}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=928|prev=Dachsbun|dexnext=930|next=Dolliv}}

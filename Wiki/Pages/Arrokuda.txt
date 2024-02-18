@@ -67,12 +67,6 @@
 {{movesLvl|42|Liquidation}}
 {{movesLvl|48|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-{{movesB|Acupressure}}
-{{movesB|Night_Slash}}
-{{movesB|Slash}}
-{{movesB|Thrash}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
@@ -111,6 +105,12 @@
 |}
 {{MovesAlign}}{{MovesTop|Water}}
 {{moves|Scale_Shot}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
+{{movesB|Acupressure}}
+{{movesB|Night_Slash}}
+{{movesB|Slash}}
+{{movesB|Thrash}}
 |}
 |}
 {{NextPrev|dexprev=845|prev=Cramorant|dexnext=847|next=Barraskewda}}

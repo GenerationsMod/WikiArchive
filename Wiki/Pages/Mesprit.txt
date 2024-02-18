@@ -81,8 +81,6 @@
 {{movesLvl|77|Healing_Wish}}
 {{movesLvl|84|Mystical_Power}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Acrobatics}}
 {{movesTm|Ally_Switch}}
@@ -201,6 +199,8 @@
 {{moves|Water_Pulse}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=480|prev=Uxie|dexnext=482|next=Azelf}}

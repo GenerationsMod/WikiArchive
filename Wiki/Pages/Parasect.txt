@@ -77,8 +77,6 @@
 {{movesLvl|59|Rage_Powder}}
 {{movesLvl|66|X-Scissor}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -187,6 +185,8 @@
 {{moves|Toxic}}
 {{moves|Worry_Seed}}
 {{moves|X-Scissor}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=046|prev=Paras|dexnext=048|next=Venonat}}

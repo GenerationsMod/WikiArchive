@@ -70,8 +70,6 @@
 {{movesLvl|43|Liquidation}}
 {{movesLvl|48|Feather_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -101,6 +99,8 @@
 {{movesTm|Water_Pulse}}
 |}
 {{MovesAlign}}{{MovesTop|Water}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=912|prev=Quaxly|dexnext=914|next=Quaquaval}}

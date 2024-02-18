@@ -66,8 +66,6 @@
 {{movesLvl|77|Close_Combat}}
 {{movesLvl|88|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Agility}}
 {{movesTm|Body_Press}}
@@ -137,6 +135,8 @@
 {{moves|Slash}}
 {{moves|Steel_Beam}}
 {{moves|Wide_Guard}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=888|prev=Zacian|dexnext=890|next=Eternatus}}

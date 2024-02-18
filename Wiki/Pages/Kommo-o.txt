@@ -77,8 +77,6 @@
 {{movesLvl|68|Clangorous_Soul}}
 {{movesLvl|76|Boomburst}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -179,6 +177,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=783|prev=Hakamo-o|dexnext=785|next=Tapu Koko}}

@@ -78,8 +78,6 @@
 {{movesLvl|84|Perish_Song}}
 {{movesLvl|91|Boomburst}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Amnesia}}
 {{movesTm|Baton_Pass}}
@@ -150,6 +148,8 @@
 {{moves|Hyper_Voice}}
 {{moves|Play_Rough}}
 {{moves|Rest}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=984|prev=Great Tusk|dexnext=986|next=Brute Bonnet}}

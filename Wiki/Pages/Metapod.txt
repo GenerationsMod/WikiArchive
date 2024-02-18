@@ -82,8 +82,6 @@
 {{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Harden}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Electroweb}}
 {{movesTm|Iron_Defense}}
@@ -94,6 +92,8 @@
 {{moves|Harden}}
 {{moves|Iron_Defense}}
 {{moves|String_Shot}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=010|prev=Caterpie|dexnext=012|next=Butterfree}}

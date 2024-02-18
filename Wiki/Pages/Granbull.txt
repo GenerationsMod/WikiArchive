@@ -5,7 +5,7 @@
 |ndex=210
 |type1=Fairy
 |type2=
-|ability1=Intimidate|ability2=Quickfeet
+|ability1=Quickfeet|ability2=Intimidate
 |abilityH=Rattled
 |genderm=25.0
 |abilityS=
@@ -88,8 +88,6 @@
 {{movesLvl|43|Take_Down}}
 {{movesLvl|51|Payback}}
 {{movesLvl|59|Crunch}}
-|}
-{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Attract}}
@@ -219,6 +217,8 @@
 {{moves|Toxic}}
 {{moves|Water_Pulse}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=209|prev=Snubbull|dexnext=211|next=Qwilfish}}

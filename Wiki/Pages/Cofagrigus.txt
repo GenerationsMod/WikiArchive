@@ -80,8 +80,6 @@
 {{movesLvl|56|Power_Split}}
 {{movesLvl|62|Destiny_Bond}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -163,6 +161,8 @@
 {{moves|Will-O-Wisp}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=562|prev=Yamask|dexnext=564|next=Tirtouga}}

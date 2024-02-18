@@ -67,13 +67,6 @@
 {{movesLvl|41|Wood_Hammer}}
 {{movesLvl|46|Thrash}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-{{movesB|Charm}}
-{{movesB|Play_Rough}}
-{{movesB|Sing}}
-{{movesB|Superpower}}
-{{movesB|Wish}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
@@ -136,6 +129,13 @@
 {{moves|Stomping_Tantrum}}
 {{moves|Superpower}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
+{{movesB|Charm}}
+{{movesB|Play_Rough}}
+{{movesB|Sing}}
+{{movesB|Superpower}}
+{{movesB|Wish}}
 |}
 |}
 {{NextPrev|dexprev=774|prev=Minior|dexnext=776|next=Turtonator}}

@@ -75,8 +75,6 @@
 {{movesLvl|70|Thrash}}
 {{movesLvl|75|Wildbolt_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -186,6 +184,8 @@
 {{moves|Uproar}}
 {{moves|Weather_Ball}}
 {{moves|Wild_Charge}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=641|prev=Tornadus|dexnext=643|next=Reshiram}}

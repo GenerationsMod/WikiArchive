@@ -61,8 +61,6 @@
 {{movesLvl|1|Leer}}
 {{movesLvl|1|Lick}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
@@ -133,6 +131,8 @@
 {{moves|Throat_Chop}}
 {{moves|Uproar}}
 {{moves|Work_Up}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=513|prev=Pansear|dexnext=515|next=Panpour}}

@@ -5,7 +5,7 @@
 |ndex=462
 |type1=Electric
 |type2=Steel
-|ability1=Magnetpull|ability2=Sturdy
+|ability1=Sturdy|ability2=Magnetpull
 |abilityH=Analytic
 |genderm=Genderless
 |abilityS=
@@ -123,8 +123,6 @@
 {{movesLvl|64|Zap_Cannon}}
 {{movesLvl|66|Zap_Cannon}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Body_Press}}
@@ -201,6 +199,8 @@
 {{moves|Steel_Beam}}
 {{moves|Steel_Roller}}
 {{moves|Swift}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=461|prev=Weavile|dexnext=463|next=Lickilicky}}

@@ -70,8 +70,6 @@
 {{movesLvl|84|Leech_Life}}
 {{movesLvl|91|Thrash}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -117,6 +115,8 @@
 {{moves|Lunge}}
 {{moves|Morning_Sun}}
 {{moves|Superpower}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=987|prev=Flutter Mane|dexnext=989|next=Sandy Shocks}}

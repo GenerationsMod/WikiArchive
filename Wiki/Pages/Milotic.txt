@@ -5,7 +5,7 @@
 |ndex=350
 |type1=Water
 |type2=
-|ability1=Marvelscale|ability2=Competitive
+|ability1=Competitive|ability2=Marvelscale
 |abilityH=Cutecharm
 |genderm=50.0
 |abilityS=
@@ -75,8 +75,6 @@
 {{movesLvl|44|Rain_Dance}}
 {{movesLvl|48|Coil}}
 {{movesLvl|52|Hydro_Pump}}
-|}
-{{MovesAlign}}{{MovesBTop|Water}}
 |}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
@@ -167,6 +165,8 @@
 {{moves|Triple_Axel}}
 {{moves|Twister}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=349|prev=Feebas|dexnext=351|next=Castform}}

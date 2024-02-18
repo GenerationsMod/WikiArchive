@@ -81,8 +81,6 @@
 {{movesLvl|49|Slack_Off}}
 {{movesLvl|56|Flare_Blitz}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -160,6 +158,8 @@
 {{moves|Swift}}
 {{moves|Thunder_Punch}}
 {{moves|Vacuum_Wave}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=390|prev=Chimchar|dexnext=392|next=Infernape}}

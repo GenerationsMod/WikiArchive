@@ -73,8 +73,6 @@
 {{movesLvl|53|Memento}}
 {{movesLvl|54|Recover}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -160,6 +158,8 @@
 {{moves|Stomping_Tantrum}}
 {{moves|String_Shot}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=422|prev=Shellos|dexnext=424|next=Ambipom}}

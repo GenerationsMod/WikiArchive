@@ -78,13 +78,6 @@
 {{movesLvl|49|Double-Edge}}
 {{movesLvl|53|Blizzard}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-{{movesB|Belly_Drum}}
-{{movesB|Entrainment}}
-{{movesB|Icicle_Crash}}
-{{movesB|Superpower}}
-{{movesB|Yawn}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Amnesia}}
 {{movesTm|Avalanche}}
@@ -119,6 +112,13 @@
 {{movesTm|Water_Pulse}}
 |}
 {{MovesAlign}}{{MovesTop|Ice}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
+{{movesB|Belly_Drum}}
+{{movesB|Entrainment}}
+{{movesB|Icicle_Crash}}
+{{movesB|Superpower}}
+{{movesB|Yawn}}
 |}
 |}
 {{NextPrev|dexprev=973|prev=Glimmet|dexnext=975|next=Greavard}}

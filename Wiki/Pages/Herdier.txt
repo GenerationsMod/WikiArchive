@@ -79,8 +79,6 @@
 {{movesLvl|60|Last_Resort}}
 {{movesLvl|66|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -139,6 +137,8 @@
 {{moves|Sleep_Talk}}
 {{moves|Snore}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=506|prev=Lillipup|dexnext=508|next=Stoutland}}

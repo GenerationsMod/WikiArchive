@@ -5,7 +5,7 @@
 |ndex=057
 |type1=Fighting
 |type2=
-|ability1=Angerpoint|ability2=Vitalspirit
+|ability1=Vitalspirit|ability2=Angerpoint
 |abilityH=Defiant
 |genderm=50.0
 |abilityS=
@@ -74,8 +74,6 @@
 {{movesLvl|48|Stomping_Tantrum}}
 {{movesLvl|53|Outrage}}
 {{movesLvl|57|Final_Gambit}}
-|}
-{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Acrobatics}}
@@ -234,6 +232,8 @@
 {{moves|Uproar}}
 {{moves|U-turn}}
 {{moves|Vacuum_Wave}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=056|prev=Mankey|dexnext=058|next=Growlithe}}

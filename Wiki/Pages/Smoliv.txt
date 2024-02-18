@@ -69,12 +69,6 @@
 {{movesLvl|34|Leech_Seed}}
 {{movesLvl|38|Terrain_Pulse}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-{{movesB|Memento}}
-{{movesB|Strength_Sap}}
-{{movesB|Synthesis}}
-{{movesB|Weather_Ball}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Bullet_Seed}}
 {{movesTm|Charm}}
@@ -100,6 +94,12 @@
 {{movesTm|Trailblaze}}
 |}
 {{MovesAlign}}{{MovesTop|Grass}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
+{{movesB|Memento}}
+{{movesB|Strength_Sap}}
+{{movesB|Synthesis}}
+{{movesB|Weather_Ball}}
 |}
 |}
 {{NextPrev|dexprev=927|prev=Fidough|dexnext=929|next=Smoliv}}

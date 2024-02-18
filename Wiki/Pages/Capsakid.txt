@@ -5,7 +5,7 @@
 |ndex=951
 |type1=Grass
 |type2=
-|ability1=Chlorophyll|ability2=Insomnia
+|ability1=Insomnia|ability2=Chlorophyll
 |abilityH=Klutz
 |genderm=50.0
 |abilityS=
@@ -66,13 +66,6 @@
 {{movesLvl|44|Seed_Bomb}}
 {{movesLvl|48|Solar_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-{{movesB|Ingrain}}
-{{movesB|Leech_Seed}}
-{{movesB|Rage_Powder}}
-{{movesB|Rollout}}
-{{movesB|Worry_Seed}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Bullet_Seed}}
 {{movesTm|Crunch}}
@@ -101,6 +94,13 @@
 {{movesTm|Zen_Headbutt}}
 |}
 {{MovesAlign}}{{MovesTop|Grass}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
+{{movesB|Ingrain}}
+{{movesB|Leech_Seed}}
+{{movesB|Rage_Powder}}
+{{movesB|Rollout}}
+{{movesB|Worry_Seed}}
 |}
 |}
 {{NextPrev|dexprev=950|prev=Bramblin|dexnext=952|next=Toedscool}}

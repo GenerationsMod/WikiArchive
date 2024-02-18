@@ -59,8 +59,6 @@
 {{movesLvl|32|Acid_Armor}}
 {{movesLvl|40|Flash_Cannon}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Endure}}
 {{movesTm|Facade}}
@@ -92,6 +90,8 @@
 {{moves|Thunder_Shock}}
 {{moves|Thunder_Wave}}
 {{moves|Toxic}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=807|prev=Zeraora|dexnext=809|next=Melmetal}}

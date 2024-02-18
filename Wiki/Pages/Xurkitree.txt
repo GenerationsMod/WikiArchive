@@ -72,8 +72,6 @@
 {{movesLvl|67|Ion_Deluge}}
 {{movesLvl|70|Zap_Cannon}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Brutal_Swing}}
 {{movesTm|Calm_Mind}}
@@ -134,6 +132,8 @@
 {{moves|Signal_Beam}}
 {{moves|Snore}}
 {{moves|Thunder_Punch}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=795|prev=Pheromosa|dexnext=797|next=Celesteela}}

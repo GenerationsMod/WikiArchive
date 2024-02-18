@@ -70,8 +70,6 @@
 {{movesLvl|52|Mega_Kick}}
 {{movesLvl|63|Hammer_Arm}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Amnesia}}
@@ -204,6 +202,8 @@
 {{moves|Swagger}}
 {{moves|Thunder_Punch}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=288|prev=Vigoroth|dexnext=290|next=Nincada}}

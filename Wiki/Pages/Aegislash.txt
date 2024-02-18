@@ -81,8 +81,6 @@
 {{movesLvl|1|Swords_Dance}}
 {{movesLvl|1|Tackle}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -143,6 +141,8 @@
 {{moves|Spite}}
 {{moves|Steel_Beam}}
 {{moves|Wide_Guard}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=680|prev=Doublade|dexnext=682|next=Spritzee}}

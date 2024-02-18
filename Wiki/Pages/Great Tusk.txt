@@ -69,8 +69,6 @@
 {{movesLvl|84|Head_Smash}}
 {{movesLvl|91|Headlong_Rush}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -122,6 +120,8 @@
 {{moves|Knock_Off}}
 {{moves|Rapid_Spin}}
 {{moves|Stomping_Tantrum}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=983|prev=Tatsugiri|dexnext=985|next=Scream Tail}}

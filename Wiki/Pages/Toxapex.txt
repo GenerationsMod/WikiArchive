@@ -70,8 +70,6 @@
 {{movesLvl|49|Poison_Jab}}
 {{movesLvl|56|Toxic}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Attract}}
@@ -145,6 +143,8 @@
 {{moves|Snore}}
 {{moves|Spite}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=747|prev=Mareanie|dexnext=749|next=Mudbray}}

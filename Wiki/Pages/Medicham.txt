@@ -82,8 +82,6 @@
 {{movesLvl|53|Axe_Kick}}
 {{movesLvl|53|Counter}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -202,6 +200,8 @@
 {{moves|Trick}}
 {{moves|Vacuum_Wave}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=307|prev=Meditite|dexnext=309|next=Electrike}}

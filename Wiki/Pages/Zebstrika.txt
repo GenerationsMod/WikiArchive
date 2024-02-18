@@ -5,7 +5,7 @@
 |ndex=523
 |type1=Electric
 |type2=
-|ability1=Motordrive|ability2=Lightningrod
+|ability1=Lightningrod|ability2=Motordrive
 |abilityH=Sapsipper
 |genderm=50.0
 |abilityS=
@@ -68,8 +68,6 @@
 {{movesLvl|47|Wild_Charge}}
 {{movesLvl|53|Thrash}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Attract}}
 {{movesTm|Charge_Beam}}
@@ -112,6 +110,8 @@
 {{moves|Sleep_Talk}}
 {{moves|Snatch}}
 {{moves|Snore}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=522|prev=Blitzle|dexnext=524|next=Roggenrola}}

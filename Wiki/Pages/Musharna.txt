@@ -5,7 +5,7 @@
 |ndex=518
 |type1=Psychic
 |type2=
-|ability1=Synchronize|ability2=Forewarn
+|ability1=Forewarn|ability2=Synchronize
 |abilityH=Telepathy
 |genderm=50.0
 |abilityS=
@@ -69,8 +69,6 @@
 {{movesLvl|1|Wonder_Room}}
 {{movesLvl|1|Yawn}}
 {{movesLvl|1|Zen_Headbutt}}
-|}
-{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
@@ -152,6 +150,8 @@
 {{moves|Wonder_Room}}
 {{moves|Worry_Seed}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=517|prev=Munna|dexnext=519|next=Pidove}}

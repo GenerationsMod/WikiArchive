@@ -75,8 +75,6 @@
 {{movesLvl|50|Bug_Buzz}}
 {{movesLvl|50|Quiver_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -138,6 +136,8 @@
 {{moves|Swift}}
 {{moves|Tailwind}}
 {{moves|Twister}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=413|prev=Wormadam|dexnext=415|next=Combee}}

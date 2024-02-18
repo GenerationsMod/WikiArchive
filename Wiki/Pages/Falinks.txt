@@ -79,8 +79,6 @@
 {{movesLvl|55|Megahorn}}
 {{movesLvl|60|Counter}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
@@ -128,6 +126,8 @@
 |}
 {{MovesAlign}}{{MovesTop|Fighting}}
 {{moves|Coaching}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=869|prev=Alcremie|dexnext=871|next=Pincurchin}}

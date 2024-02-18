@@ -67,8 +67,6 @@
 {{movesLvl|63|Leaf_Blade}}
 {{movesLvl|70|Close_Combat}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -153,6 +151,8 @@
 {{moves|Work_Up}}
 {{moves|Worry_Seed}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=639|prev=Terrakion|dexnext=641|next=Tornadus}}

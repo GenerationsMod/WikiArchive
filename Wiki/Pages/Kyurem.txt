@@ -69,8 +69,6 @@
 {{movesLvl|80|Glaciate}}
 {{movesLvl|88|Sheer_Cold}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Blizzard}}
 {{movesTm|Body_Press}}
@@ -160,6 +158,8 @@
 {{moves|Sleep_Talk}}
 {{moves|Snore}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=645|prev=Landorus|dexnext=647|next=Keldeo}}

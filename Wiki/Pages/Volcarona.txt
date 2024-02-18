@@ -82,8 +82,6 @@
 {{movesLvl|70|Fire_Blast}}
 {{movesLvl|78|Rage_Powder}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -167,6 +165,8 @@
 {{moves|String_Shot}}
 {{moves|Tailwind}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=636|prev=Larvesta|dexnext=638|next=Cobalion}}

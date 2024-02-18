@@ -73,8 +73,6 @@
 {{movesLvl|13|Bug_Bite}}
 {{movesLvl|29|Bug_Buzz}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Bug_Buzz}}
 {{movesTm|Sleep_Talk}}
@@ -94,6 +92,8 @@
 {{moves|String_Shot}}
 {{moves|Swift}}
 {{moves|Tailwind}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=414|prev=Mothim|dexnext=416|next=Vespiquen}}

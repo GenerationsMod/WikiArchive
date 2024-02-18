@@ -5,7 +5,7 @@
 |ndex=942
 |type1=Dark
 |type2=
-|ability1=Intimidate|ability2=Runaway
+|ability1=Runaway|ability2=Intimidate
 |abilityH=Stakeout
 |genderm=50.0
 |abilityS=
@@ -97,12 +97,6 @@
 {{movesLvl|43|Jaw_Lock}}
 {{movesLvl|49|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-{{movesB|Destiny_Bond}}
-{{movesB|Endeavor}}
-{{movesB|Play_Rough}}
-{{movesB|Retaliate}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Body_Slam}}
 {{movesTm|Charm}}
@@ -134,6 +128,12 @@
 {{movesTm|Trailblaze}}
 |}
 {{MovesAlign}}{{MovesTop|Dark}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
+{{movesB|Destiny_Bond}}
+{{movesB|Endeavor}}
+{{movesB|Play_Rough}}
+{{movesB|Retaliate}}
 |}
 |}
 {{NextPrev|dexprev=941|prev=Bellibolt|dexnext=943|next=Kilowattrel}}

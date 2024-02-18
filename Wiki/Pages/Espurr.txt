@@ -63,13 +63,6 @@
 {{movesLvl|30|Reflect}}
 {{movesLvl|33|Psyshock}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-{{movesB|Assist}}
-{{movesB|Barrier}}
-{{movesB|Tickle}}
-{{movesB|Trick}}
-{{movesB|Yawn}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -145,6 +138,13 @@
 {{moves|Trick}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
+{{movesB|Assist}}
+{{movesB|Barrier}}
+{{movesB|Tickle}}
+{{movesB|Trick}}
+{{movesB|Yawn}}
 |}
 |}
 {{NextPrev|dexprev=676|prev=Furfrou|dexnext=678|next=Meowstic}}

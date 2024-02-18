@@ -74,8 +74,6 @@
 {{movesLvl|70|Skull_Bash}}
 {{movesLvl|75|Grassy_Terrain}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Brick_Break}}
 {{movesTm|Brutal_Swing}}
@@ -157,6 +155,8 @@
 {{moves|Wood_Hammer}}
 {{moves|Worry_Seed}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=786|prev=Tapu Lele|dexnext=788|next=Tapu Fini}}

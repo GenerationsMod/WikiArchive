@@ -101,8 +101,6 @@
 {{movesLvl|56|Dynamic_Punch}}
 {{movesLvl|61|Focus_Punch}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Brick_Break}}
@@ -187,6 +185,8 @@
 {{moves|Superpower}}
 {{moves|Telekinesis}}
 {{moves|Thunder_Punch}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=621|prev=Druddigon|dexnext=623|next=Golurk}}

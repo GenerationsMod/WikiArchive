@@ -69,8 +69,6 @@
 {{movesLvl|50|Grudge}}
 {{movesLvl|55|Mirror_Coat}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -131,6 +129,8 @@
 {{moves|Burning_Jealousy}}
 {{moves|Meteor_Beam}}
 {{moves|Poltergeist}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=863|prev=Perrserker|dexnext=865|next=Sirfetch'd}}

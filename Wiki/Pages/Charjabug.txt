@@ -68,8 +68,6 @@
 {{movesLvl|57|Iron_Defense}}
 {{movesLvl|64|Discharge}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
@@ -115,6 +113,8 @@
 {{moves|Shock_Wave}}
 {{moves|Skitter_Smack}}
 {{moves|Snore}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=736|prev=Grubbin|dexnext=738|next=Vikavolt}}

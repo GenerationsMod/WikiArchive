@@ -71,13 +71,6 @@
 {{movesLvl|53|Knock_Off}}
 {{movesLvl|60|Parting_Shot}}
 |}
-{{MovesAlign}}{{MovesBTop|Flying}}
-{{movesB|Feather_Dance}}
-{{movesB|Power_Trip}}
-{{movesB|Roost}}
-{{movesB|Sky_Attack}}
-{{movesB|Sucker_Punch}}
-|}
 {{MovesAlign}}{{MovesTmTop|Flying}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -123,6 +116,13 @@
 {{moves|Rock_Throw}}
 {{moves|Torment}}
 {{moves|Wing_Attack}}
+|}
+{{MovesAlign}}{{MovesBTop|Flying}}
+{{movesB|Feather_Dance}}
+{{movesB|Power_Trip}}
+{{movesB|Roost}}
+{{movesB|Sky_Attack}}
+{{movesB|Sucker_Punch}}
 |}
 |}
 {{NextPrev|dexprev=961|prev=Tinkatink|dexnext=963|next=Tinkaton}}

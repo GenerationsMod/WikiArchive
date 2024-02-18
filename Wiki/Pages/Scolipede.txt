@@ -5,7 +5,7 @@
 |ndex=545
 |type1=Bug
 |type2=Poison
-|ability1=Poisonpoint|ability2=Swarm
+|ability1=Swarm|ability2=Poisonpoint
 |abilityH=Speedboost
 |genderm=50.0
 |abilityS=
@@ -100,8 +100,6 @@
 {{movesLvl|66|Double-Edge}}
 {{movesLvl|74|Megahorn}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Agility}}
 {{movesTm|Assurance}}
@@ -176,6 +174,8 @@
 {{moves|Superpower}}
 {{moves|Throat_Chop}}
 {{moves|Toxic_Spikes}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=544|prev=Whirlipede|dexnext=546|next=Cottonee}}

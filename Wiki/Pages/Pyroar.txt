@@ -5,7 +5,7 @@
 |ndex=668
 |type1=Fire
 |type2=Normal
-|ability1=Rivalry|ability2=Unnerve
+|ability1=Unnerve|ability2=Rivalry
 |abilityH=Moxie
 |genderm=12.5
 |abilityS=
@@ -70,8 +70,6 @@
 {{movesLvl|48|Hyper_Voice}}
 {{movesLvl|51|Incinerate}}
 {{movesLvl|57|Overheat}}
-|}
-{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
@@ -143,6 +141,8 @@
 {{moves|Iron_Tail}}
 {{moves|Snatch}}
 {{moves|Snore}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=667|prev=Litleo|dexnext=669|next=Flabebe}}

@@ -87,13 +87,6 @@
 {{movesLvl|44|Dream_Eater}}
 {{movesLvl|46|Spotlight}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-{{movesB|Amnesia}}
-{{movesB|Growth}}
-{{movesB|Leech_Seed}}
-{{movesB|Poison_Powder}}
-{{movesB|Stun_Spore}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -142,6 +135,13 @@
 {{moves|Synthesis}}
 {{moves|Wonder_Room}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
+{{movesB|Amnesia}}
+{{movesB|Growth}}
+{{movesB|Leech_Seed}}
+{{movesB|Poison_Powder}}
+{{movesB|Stun_Spore}}
 |}
 |}
 {{NextPrev|dexprev=754|prev=Lurantis|dexnext=756|next=Shiinotic}}

@@ -73,8 +73,6 @@
 {{movesLvl|70|Power_Swap}}
 {{movesLvl|75|Electric_Terrain}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -158,6 +156,8 @@
 {{moves|Thunderbolt}}
 {{moves|Thunder_Punch}}
 {{moves|Volt_Switch}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=784|prev=Kommo-o|dexnext=786|next=Tapu Lele}}

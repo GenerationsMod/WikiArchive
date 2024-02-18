@@ -66,8 +66,6 @@
 {{movesLvl|66|Double-Edge}}
 {{movesLvl|72|Swords_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Assurance}}
 {{movesTm|Avalanche}}
@@ -119,6 +117,8 @@
 {{moves|Lash_Out}}
 {{moves|Swords_Dance}}
 {{moves|Taunt}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=895|prev=Regidrago|dexnext=897|next=Spectrier}}

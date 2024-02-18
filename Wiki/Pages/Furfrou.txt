@@ -68,13 +68,6 @@
 {{movesLvl|42|Sucker_Punch}}
 {{movesLvl|48|Cotton_Guard}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-{{movesB|Captivate}}
-{{movesB|Mimic}}
-{{movesB|Refresh}}
-{{movesB|Role_Play}}
-{{movesB|Work_Up}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
 {{movesTm|Charge_Beam}}
@@ -120,6 +113,13 @@
 {{moves|Snore}}
 {{moves|Uproar}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
+{{movesB|Captivate}}
+{{movesB|Mimic}}
+{{movesB|Refresh}}
+{{movesB|Role_Play}}
+{{movesB|Work_Up}}
 |}
 |}
 {{NextPrev|dexprev=675|prev=Pangoro|dexnext=677|next=Espurr}}

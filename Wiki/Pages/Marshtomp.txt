@@ -88,8 +88,6 @@
 {{movesLvl|50|Endeavor}}
 {{movesLvl|55|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -185,6 +183,8 @@
 {{moves|Uproar}}
 {{moves|Water_Pledge}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=258|prev=Mudkip|dexnext=260|next=Swampert}}

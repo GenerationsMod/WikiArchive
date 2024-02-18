@@ -73,8 +73,6 @@
 {{movesLvl|56|Magic_Room}}
 {{movesLvl|59|Fire_Blast}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -163,6 +161,8 @@
 {{moves|Trick}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=653|prev=Fennekin|dexnext=655|next=Delphox}}

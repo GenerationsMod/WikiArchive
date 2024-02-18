@@ -59,11 +59,6 @@
 {{movesLvl|1|Powder_Snow}}
 {{movesLvl|1|Struggle_Bug}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-{{movesB|Bug_Bite}}
-{{movesB|Fairy_Wind}}
-{{movesB|Mirror_Coat}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Attract}}
 {{movesTm|Bug_Buzz}}
@@ -83,6 +78,11 @@
 |}
 {{MovesAlign}}{{MovesTop|Ice}}
 {{moves|Skitter_Smack}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
+{{movesB|Bug_Bite}}
+{{movesB|Fairy_Wind}}
+{{movesB|Mirror_Coat}}
 |}
 |}
 {{NextPrev|dexprev=871|prev=Pincurchin|dexnext=873|next=Frosmoth}}

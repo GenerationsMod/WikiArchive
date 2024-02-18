@@ -72,13 +72,6 @@
 {{movesLvl|45|Petal_Dance}}
 {{movesLvl|48|Solar_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-{{movesB|Camouflage}}
-{{movesB|Captivate}}
-{{movesB|Copycat}}
-{{movesB|Endeavor}}
-{{movesB|Tearful_Look}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -139,6 +132,13 @@
 {{moves|Snore}}
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
+{{movesB|Camouflage}}
+{{movesB|Captivate}}
+{{movesB|Copycat}}
+{{movesB|Endeavor}}
+{{movesB|Tearful_Look}}
 |}
 |}
 {{NextPrev|dexprev=668|prev=Pyroar|dexnext=670|next=Floette}}

@@ -70,8 +70,6 @@
 {{movesLvl|42|Swagger}}
 {{movesLvl|50|Brave_Bird}}
 |}
-{{MovesAlign}}{{MovesBTop|Flying}}
-|}
 {{MovesAlign}}{{MovesTmTop|Flying}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -127,6 +125,8 @@
 {{MovesAlign}}{{MovesTop|Flying}}
 {{moves|Dual_Wingbeat}}
 {{moves|Steel_Beam}}
+|}
+{{MovesAlign}}{{MovesBTop|Flying}}
 |}
 |}
 {{NextPrev|dexprev=822|prev=Corvisquire|dexnext=824|next=Blipbug}}

@@ -80,8 +80,6 @@
 {{movesLvl|5|Razor_Shell}}
 {{movesLvl|13|Spike_Cannon}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
@@ -205,6 +203,8 @@
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
 {{moves|Withdraw}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=090|prev=Shellder|dexnext=092|next=Gastly}}

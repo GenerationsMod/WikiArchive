@@ -76,8 +76,6 @@
 {{movesLvl|40|Reversal}}
 {{movesLvl|44|High_Jump_Kick}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Attract}}
 {{movesTm|Aura_Sphere}}
@@ -205,6 +203,8 @@
 {{moves|Thief}}
 {{moves|Toxic}}
 {{moves|Vacuum_Wave}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=105|prev=Marowak|dexnext=107|next=Hitmonchan}}

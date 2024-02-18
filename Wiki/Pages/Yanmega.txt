@@ -5,7 +5,7 @@
 |ndex=469
 |type1=Bug
 |type2=Flying
-|ability1=Speedboost|ability2=Tintedlens
+|ability1=Tintedlens|ability2=Speedboost
 |abilityH=Frisk
 |genderm=50.0
 |abilityS=
@@ -96,8 +96,6 @@
 {{movesLvl|54|Bug_Buzz}}
 {{movesLvl|57|Bug_Buzz}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -155,6 +153,8 @@
 {{moves|Swift}}
 {{moves|Tailwind}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=468|prev=Togekiss|dexnext=470|next=Leafeon}}

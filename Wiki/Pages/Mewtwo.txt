@@ -77,8 +77,6 @@
 {{movesLvl|88|Future_Sight}}
 {{movesLvl|93|Me_First}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -322,6 +320,8 @@
 {{moves|Wonder_Room}}
 {{moves|Zap_Cannon}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=149|prev=Dragonite|dexnext=151|next=Mew}}

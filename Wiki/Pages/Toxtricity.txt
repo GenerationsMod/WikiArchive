@@ -5,7 +5,7 @@
 |ndex=849
 |type1=Electric
 |type2=Poison
-|ability1=Punkrock|ability2=Plus
+|ability1=Plus|ability2=Punkrock
 |abilityH=Technician
 |genderm=50.0
 |abilityS=
@@ -77,8 +77,6 @@
 {{movesLvl|48|Boomburst}}
 {{movesLvl|52|Shift_Gear}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Attract}}
@@ -143,6 +141,8 @@
 {{moves|Overdrive}}
 {{moves|Rising_Voltage}}
 {{moves|Sludge_Wave}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=848|prev=Toxel|dexnext=850|next=Sizzlipede}}

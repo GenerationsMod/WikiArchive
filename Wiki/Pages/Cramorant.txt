@@ -69,13 +69,6 @@
 {{movesLvl|49|Thrash}}
 {{movesLvl|56|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Flying}}
-{{movesB|Aerial_Ace}}
-{{movesB|Aqua_Ring}}
-{{movesB|Defog}}
-{{movesB|Feather_Dance}}
-{{movesB|Roost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Flying}}
 {{movesTm|Agility}}
 {{movesTm|Air_Slash}}
@@ -115,6 +108,13 @@
 |}
 {{MovesAlign}}{{MovesTop|Flying}}
 {{moves|Dual_Wingbeat}}
+|}
+{{MovesAlign}}{{MovesBTop|Flying}}
+{{movesB|Aerial_Ace}}
+{{movesB|Aqua_Ring}}
+{{movesB|Defog}}
+{{movesB|Feather_Dance}}
+{{movesB|Roost}}
 |}
 |}
 {{NextPrev|dexprev=844|prev=Sandaconda|dexnext=846|next=Arrokuda}}

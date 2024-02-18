@@ -70,8 +70,6 @@
 {{movesLvl|56|Gastro_Acid}}
 {{movesLvl|62|Leaf_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -134,6 +132,8 @@
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
 {{moves|Wring_Out}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=496|prev=Servine|dexnext=498|next=Tepig}}

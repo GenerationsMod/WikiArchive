@@ -73,8 +73,6 @@
 {{movesLvl|50|Outrage}}
 {{movesLvl|56|Close_Combat}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -146,6 +144,8 @@
 {{moves|Scale_Shot}}
 {{moves|Snore}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=782|prev=Jangmo-o|dexnext=784|next=Kommo-o}}

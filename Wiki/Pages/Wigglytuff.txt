@@ -5,7 +5,7 @@
 |ndex=040
 |type1=Normal
 |type2=Fairy
-|ability1=Competitive|ability2=Cutecharm
+|ability1=Cutecharm|ability2=Competitive
 |abilityH=Frisk
 |genderm=25.0
 |abilityS=
@@ -84,8 +84,6 @@
 {{movesLvl|1|Swallow}}
 {{movesLvl|1|Sweet_Kiss}}
 {{movesLvl|5|Play_Rough}}
-|}
-{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Ally_Switch}}
@@ -294,6 +292,8 @@
 {{moves|Water_Gun}}
 {{moves|Water_Pulse}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=039|prev=Jigglypuff|dexnext=041|next=Zubat}}

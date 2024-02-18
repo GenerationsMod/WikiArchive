@@ -67,8 +67,6 @@
 {{movesLvl|64|Future_Sight}}
 {{movesLvl|72|Parting_Shot}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Baton_Pass}}
@@ -122,6 +120,8 @@
 {{moves|Nasty_Plot}}
 {{moves|Psychic}}
 {{moves|Sludge_Wave}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=1014|prev=Okidogi|dexnext=1016|next=Fezandipiti}}

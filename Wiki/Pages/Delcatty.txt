@@ -5,7 +5,7 @@
 |ndex=301
 |type1=Normal
 |type2=
-|ability1=Normalize|ability2=Cutecharm
+|ability1=Cutecharm|ability2=Normalize
 |abilityH=Wonderskin
 |genderm=25.0
 |abilityS=
@@ -58,8 +58,6 @@
 {{movesLvl|1|Fake_Out}}
 {{movesLvl|1|Growl}}
 {{movesLvl|1|Sing}}
-|}
-{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
@@ -144,6 +142,8 @@
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=300|prev=Skitty|dexnext=302|next=Sableye}}

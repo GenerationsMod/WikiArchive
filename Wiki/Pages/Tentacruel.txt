@@ -5,7 +5,7 @@
 |ndex=073
 |type1=Water
 |type2=Poison
-|ability1=Clearbody|ability2=Liquidooze
+|ability1=Liquidooze|ability2=Clearbody
 |abilityH=Raindish
 |genderm=50.0
 |abilityS=
@@ -84,8 +84,6 @@
 {{movesLvl|46|Surf}}
 {{movesLvl|52|Sludge_Wave}}
 {{movesLvl|58|Hydro_Pump}}
-|}
-{{MovesAlign}}{{MovesBTop|Water}}
 |}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
@@ -200,6 +198,8 @@
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
 {{moves|Wrap}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=072|prev=Tentacool|dexnext=074|next=Geodude}}

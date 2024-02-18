@@ -81,8 +81,6 @@
 {{movesLvl|77|Memento}}
 {{movesLvl|84|Mystical_Power}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Acrobatics}}
 {{movesTm|Ally_Switch}}
@@ -205,6 +203,8 @@
 {{moves|Wonder_Room}}
 {{moves|Yawn}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=479|prev=Rotom|dexnext=481|next=Mesprit}}

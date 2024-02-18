@@ -72,8 +72,6 @@
 {{movesLvl|47|Sandstorm}}
 {{movesLvl|52|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Assurance}}
@@ -187,6 +185,8 @@
 {{moves|Thrash}}
 {{moves|Toxic}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=246|prev=Larvitar|dexnext=248|next=Tyranitar}}

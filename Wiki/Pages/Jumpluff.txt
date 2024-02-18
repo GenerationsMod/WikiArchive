@@ -5,7 +5,7 @@
 |ndex=189
 |type1=Grass
 |type2=Flying
-|ability1=Chlorophyll|ability2=Leafguard
+|ability1=Leafguard|ability2=Chlorophyll
 |abilityH=Infiltrator
 |genderm=50.0
 |abilityS=
@@ -73,8 +73,6 @@
 {{movesLvl|49|Bounce}}
 {{movesLvl|54|Worry_Seed}}
 {{movesLvl|55|Memento}}
-|}
-{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Acrobatics}}
@@ -173,6 +171,8 @@
 {{moves|Tail_Whip}}
 {{moves|Toxic}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=188|prev=Skiploom|dexnext=190|next=Aipom}}

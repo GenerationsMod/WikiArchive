@@ -5,7 +5,7 @@
 |ndex=925
 |type1=Normal
 |type2=
-|ability1=Cheekpouch|ability2=Friendguard
+|ability1=Friendguard|ability2=Cheekpouch
 |abilityH=Technician
 |genderm=Genderless
 |abilityS=
@@ -97,8 +97,6 @@
 {{movesLvl|46|Copycat}}
 {{movesLvl|53|Population_Bomb}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -140,6 +138,8 @@
 {{movesTm|Water_Pulse}}
 |}
 {{MovesAlign}}{{MovesTop|Normal}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=924|prev=Clodsire|dexnext=926|next=Maushold}}

@@ -61,8 +61,6 @@
 {{movesLvl|1|Lick}}
 {{movesLvl|1|Scald}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Attract}}
@@ -131,6 +129,8 @@
 {{moves|Uproar}}
 {{moves|Water_Pledge}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=515|prev=Panpour|dexnext=517|next=Munna}}

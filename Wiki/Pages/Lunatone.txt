@@ -74,8 +74,6 @@
 {{movesLvl|45|Magic_Room}}
 {{movesLvl|50|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Acrobatics}}
 {{movesTm|Ally_Switch}}
@@ -200,6 +198,8 @@
 {{moves|Tackle}}
 {{moves|Telekinesis}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=336|prev=Seviper|dexnext=338|next=Solrock}}

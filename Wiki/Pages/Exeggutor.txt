@@ -86,8 +86,6 @@
 {{movesLvl|1|Worry_Seed}}
 {{movesLvl|27|Egg_Bomb}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Bulldoze}}
@@ -212,6 +210,8 @@
 {{moves|Toxic}}
 {{moves|Worry_Seed}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=102|prev=Exeggcute|dexnext=104|next=Cubone}}

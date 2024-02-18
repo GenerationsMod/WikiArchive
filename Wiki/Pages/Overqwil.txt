@@ -72,8 +72,6 @@
 {{movesLvl|52|Acupressure}}
 {{movesLvl|56|Destiny_Bond}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Agility}}
 {{movesTm|Blizzard}}
@@ -113,6 +111,8 @@
 {{movesTm|Waterfall}}
 |}
 {{MovesAlign}}{{MovesTop|Dark}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=903|prev=Sneasler|dexnext=905|next=Enamorus}}

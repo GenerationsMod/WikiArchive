@@ -5,7 +5,7 @@
 |ndex=436
 |type1=Steel
 |type2=Psychic
-|ability1=Levitate|ability2=Heatproof
+|ability1=Heatproof|ability2=Levitate
 |abilityH=Heavymetal
 |genderm=Genderless
 |abilityS=
@@ -91,10 +91,6 @@
 {{movesLvl|49|Heavy_Slam}}
 {{movesLvl|49|Payback}}
 {{movesLvl|52|Heal_Block}}
-|}
-{{MovesAlign}}{{MovesBTop|Steel}}
-{{movesB|Gravity}}
-{{movesB|Recycle}}
 |}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Ally_Switch}}
@@ -188,6 +184,10 @@
 {{moves|Telekinesis}}
 {{moves|Trick}}
 {{moves|Wonder_Room}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
+{{movesB|Gravity}}
+{{movesB|Recycle}}
 |}
 |}
 {{NextPrev|dexprev=435|prev=Skuntank|dexnext=437|next=Bronzong}}

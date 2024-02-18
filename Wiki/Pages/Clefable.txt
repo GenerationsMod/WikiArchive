@@ -106,8 +106,6 @@
 {{movesLvl|1|Stored_Power}}
 {{movesLvl|1|Sweet_Kiss}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Amnesia}}
@@ -310,6 +308,8 @@
 {{moves|Wonder_Room}}
 {{moves|Zap_Cannon}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=035|prev=Clefairy|dexnext=037|next=Vulpix}}

@@ -78,8 +78,6 @@
 {{movesLvl|54|Facade}}
 {{movesLvl|58|Hammer_Arm}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -173,6 +171,8 @@
 {{moves|Superpower}}
 {{moves|Thunder_Punch}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=659|prev=Bunnelby|dexnext=661|next=Fletchling}}

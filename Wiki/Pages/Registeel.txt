@@ -72,8 +72,6 @@
 {{movesLvl|72|Hyper_Beam}}
 {{movesLvl|78|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Amnesia}}
@@ -188,6 +186,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Thunder_Wave}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=378|prev=Regice|dexnext=380|next=Latias}}

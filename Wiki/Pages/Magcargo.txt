@@ -108,8 +108,6 @@
 {{movesLvl|47|Recover}}
 {{movesLvl|54|Flamethrower}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Attract}}
 {{movesTm|Bulldoze}}
@@ -201,6 +199,8 @@
 {{moves|Sunny_Day}}
 {{moves|Swagger}}
 {{moves|Toxic}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=218|prev=Slugma|dexnext=220|next=Swinub}}

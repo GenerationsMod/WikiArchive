@@ -78,8 +78,6 @@
 {{movesLvl|50|Synchronoise}}
 {{movesLvl|57|Hyper_Voice}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -175,6 +173,8 @@
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=293|prev=Whismur|dexnext=295|next=Exploud}}

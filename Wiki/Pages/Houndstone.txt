@@ -73,8 +73,6 @@
 {{movesLvl|51|Charm}}
 {{movesLvl|58|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Body_Press}}
 {{movesTm|Bulldoze}}
@@ -115,6 +113,8 @@
 {{movesTm|Will-O-Wisp}}
 |}
 {{MovesAlign}}{{MovesTop|Ghost}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=971|prev=Cyclizar|dexnext=973|next=Glimmet}}

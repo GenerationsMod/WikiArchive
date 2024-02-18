@@ -55,8 +55,6 @@
 {{MovesAlign}}{{MovesLvlTop|Bug}}
 {{movesLvl|1|Harden}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 |}
 {{MovesAlign}}{{MovesTop|Bug}}
@@ -64,6 +62,8 @@
 {{moves|Electroweb}}
 {{moves|Iron_Defense}}
 {{moves|String_Shot}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=267|prev=Beautifly|dexnext=269|next=Dustox}}

@@ -70,13 +70,6 @@
 {{movesLvl|45|Dynamic_Punch}}
 {{movesLvl|49|Close_Combat}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-{{movesB|Amnesia}}
-{{movesB|Endeavor}}
-{{movesB|Focus_Punch}}
-{{movesB|Superpower}}
-{{movesB|Wide_Guard}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Amnesia}}
 {{movesTm|Attract}}
@@ -144,6 +137,13 @@
 {{moves|Superpower}}
 {{moves|Thunder_Punch}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
+{{movesB|Amnesia}}
+{{movesB|Endeavor}}
+{{movesB|Focus_Punch}}
+{{movesB|Superpower}}
+{{movesB|Wide_Guard}}
 |}
 |}
 {{NextPrev|dexprev=738|prev=Vikavolt|dexnext=740|next=Crabominable}}

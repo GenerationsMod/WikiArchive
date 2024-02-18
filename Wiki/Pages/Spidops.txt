@@ -71,8 +71,6 @@
 {{movesLvl|45|Throat_Chop}}
 {{movesLvl|49|Skitter_Smack}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Body_Slam}}
@@ -112,6 +110,8 @@
 {{movesTm|X-Scissor}}
 |}
 {{MovesAlign}}{{MovesTop|Bug}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=917|prev=Tarountula|dexnext=919|next=Nymble}}

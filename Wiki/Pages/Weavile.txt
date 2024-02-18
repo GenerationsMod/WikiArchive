@@ -100,8 +100,6 @@
 {{movesLvl|60|Night_Slash}}
 {{movesLvl|66|Dark_Pulse}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -220,6 +218,8 @@
 {{moves|Throat_Chop}}
 {{moves|Triple_Axel}}
 {{moves|X-Scissor}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=460|prev=Abomasnow|dexnext=462|next=Magnezone}}

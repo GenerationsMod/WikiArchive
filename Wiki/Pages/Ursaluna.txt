@@ -5,7 +5,7 @@
 |ndex=901
 |type1=Ground
 |type2=Normal
-|ability1=Bulletproof|ability2=Guts
+|ability1=Guts|ability2=Bulletproof
 |abilityH=Unnerve
 |genderm=50.0
 |abilityS=
@@ -82,8 +82,6 @@
 {{movesLvl|56|Thrash}}
 {{movesLvl|64|Hammer_Arm}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Avalanche}}
@@ -138,6 +136,8 @@
 {{movesTm|Trailblaze}}
 |}
 {{MovesAlign}}{{MovesTop|Ground}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=900|prev=Kleavor|dexnext=902|next=Basculegion}}

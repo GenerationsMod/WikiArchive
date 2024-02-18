@@ -102,8 +102,6 @@
 {{movesLvl|58|Earthquake}}
 {{movesLvl|64|Dynamic_Punch}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Body_Press}}
@@ -209,6 +207,8 @@
 {{moves|Telekinesis}}
 {{moves|Thunder_Punch}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=622|prev=Golett|dexnext=624|next=Pawniard}}

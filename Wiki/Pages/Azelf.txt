@@ -80,8 +80,6 @@
 {{movesLvl|77|Explosion}}
 {{movesLvl|84|Mystical_Power}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Acrobatics}}
 {{movesTm|Ally_Switch}}
@@ -207,6 +205,8 @@
 {{moves|Water_Pulse}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=481|prev=Mesprit|dexnext=483|next=Dialga}}

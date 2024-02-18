@@ -96,8 +96,6 @@
 {{movesLvl|63|Healing_Wish}}
 {{movesLvl|66|High_Jump_Kick}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -201,6 +199,8 @@
 {{moves|Triple_Axel}}
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=427|prev=Buneary|dexnext=429|next=Mismagius}}

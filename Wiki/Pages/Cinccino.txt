@@ -5,7 +5,7 @@
 |ndex=573
 |type1=Normal
 |type2=
-|ability1=Technician|ability2=Cutecharm
+|ability1=Cutecharm|ability2=Technician
 |abilityH=Skilllink
 |genderm=25.0
 |abilityS=
@@ -69,8 +69,6 @@
 {{movesLvl|1|Swift}}
 {{movesLvl|1|Tail_Slap}}
 {{movesLvl|1|Tickle}}
-|}
-{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
@@ -142,6 +140,8 @@
 {{moves|Snore}}
 {{moves|Triple_Axel}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=572|prev=Minccino|dexnext=574|next=Gothita}}

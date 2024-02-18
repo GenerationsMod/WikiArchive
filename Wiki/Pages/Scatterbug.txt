@@ -68,11 +68,6 @@
 {{movesLvl|6|Stun_Spore}}
 {{movesLvl|15|Bug_Bite}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-{{movesB|Poison_Powder}}
-{{movesB|Rage_Powder}}
-{{movesB|Stun_Spore}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Pounce}}
 {{movesTm|Struggle_Bug}}
@@ -80,6 +75,11 @@
 |}
 {{MovesAlign}}{{MovesTop|Bug}}
 {{moves|Bug_Bite}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
+{{movesB|Poison_Powder}}
+{{movesB|Rage_Powder}}
+{{movesB|Stun_Spore}}
 |}
 |}
 {{NextPrev|dexprev=663|prev=Talonflame|dexnext=665|next=Spewpa}}

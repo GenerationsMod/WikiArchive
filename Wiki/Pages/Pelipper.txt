@@ -5,7 +5,7 @@
 |ndex=279
 |type1=Water
 |type2=Flying
-|ability1=Keeneye|ability2=Drizzle
+|ability1=Drizzle|ability2=Keeneye
 |abilityH=Raindish
 |genderm=50.0
 |abilityS=
@@ -76,8 +76,6 @@
 {{movesLvl|48|Roost}}
 {{movesLvl|55|Hurricane}}
 {{movesLvl|62|Hydro_Pump}}
-|}
-{{MovesAlign}}{{MovesBTop|Water}}
 |}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
@@ -172,6 +170,8 @@
 {{moves|Twister}}
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=278|prev=Wingull|dexnext=280|next=Ralts}}

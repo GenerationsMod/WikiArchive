@@ -5,7 +5,7 @@
 |ndex=589
 |type1=Bug
 |type2=Steel
-|ability1=Shellarmor|ability2=Swarm
+|ability1=Swarm|ability2=Shellarmor
 |abilityH=Overcoat
 |genderm=50.0
 |abilityS=
@@ -78,8 +78,6 @@
 {{movesLvl|48|Giga_Impact}}
 {{movesLvl|52|Metal_Burst}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -142,6 +140,8 @@
 {{moves|Sleep_Talk}}
 {{moves|Snore}}
 {{moves|Steel_Beam}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=588|prev=Karrablast|dexnext=590|next=Foongus}}

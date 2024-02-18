@@ -80,8 +80,6 @@
 {{movesLvl|56|Hyper_Beam}}
 {{movesLvl|64|Electric_Terrain}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Assurance}}
@@ -137,6 +135,8 @@
 {{moves|Steel_Roller}}
 {{moves|Telekinesis}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=600|prev=Klang|dexnext=602|next=Tynamo}}

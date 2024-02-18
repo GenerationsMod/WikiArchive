@@ -5,7 +5,7 @@
 |ndex=565
 |type1=Water
 |type2=Rock
-|ability1=Solidrock|ability2=Sturdy
+|ability1=Sturdy|ability2=Solidrock
 |abilityH=Swiftswim
 |genderm=87.5
 |abilityS=
@@ -71,8 +71,6 @@
 {{movesLvl|41|Rain_Dance}}
 {{movesLvl|46|Hydro_Pump}}
 {{movesLvl|51|Shell_Smash}}
-|}
-{{MovesAlign}}{{MovesBTop|Water}}
 |}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Attract}}
@@ -152,6 +150,8 @@
 {{moves|Superpower}}
 {{moves|Water_Pulse}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=564|prev=Tirtouga|dexnext=566|next=Archen}}

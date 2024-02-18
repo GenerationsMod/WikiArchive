@@ -80,8 +80,6 @@
 {{movesLvl|50|Double_Team}}
 {{movesLvl|56|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -158,6 +156,8 @@
 {{moves|Spite}}
 {{moves|Water_Pledge}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=656|prev=Froakie|dexnext=658|next=Greninja}}

@@ -85,12 +85,6 @@
 {{movesLvl|50|Lunge}}
 {{movesLvl|55|Burn_Up}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-{{movesB|Defense_Curl}}
-{{movesB|Knock_Off}}
-{{movesB|Rollout}}
-{{movesB|Struggle_Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Attract}}
 {{movesTm|Brutal_Swing}}
@@ -116,6 +110,12 @@
 {{MovesAlign}}{{MovesTop|Fire}}
 {{moves|Scorching_Sands}}
 {{moves|Skitter_Smack}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
+{{movesB|Defense_Curl}}
+{{movesB|Knock_Off}}
+{{movesB|Rollout}}
+{{movesB|Struggle_Bug}}
 |}
 |}
 {{NextPrev|dexprev=849|prev=Toxtricity|dexnext=851|next=Centiskorch}}

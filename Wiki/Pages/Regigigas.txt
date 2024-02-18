@@ -86,8 +86,6 @@
 {{movesLvl|90|Heavy_Slam}}
 {{movesLvl|100|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Avalanche}}
@@ -190,6 +188,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Wide_Guard}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=485|prev=Heatran|dexnext=487|next=Giratina}}

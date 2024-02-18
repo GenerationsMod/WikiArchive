@@ -67,8 +67,6 @@
 {{movesLvl|54|Memento}}
 {{movesLvl|60|Leaf_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Calm_Mind}}
 {{movesTm|Endure}}
@@ -99,6 +97,8 @@
 {{movesTm|Uproar}}
 |}
 {{MovesAlign}}{{MovesTop|Grass}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=1011|prev=Dipplin|dexnext=1013|next=Sinistcha}}

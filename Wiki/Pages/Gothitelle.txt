@@ -73,8 +73,6 @@
 {{movesLvl|56|Future_Sight}}
 {{movesLvl|64|Magic_Room}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -172,6 +170,8 @@
 {{moves|Trick}}
 {{moves|Uproar}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=575|prev=Gothorita|dexnext=577|next=Solosis}}

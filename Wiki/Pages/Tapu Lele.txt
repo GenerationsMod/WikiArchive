@@ -72,8 +72,6 @@
 {{movesLvl|70|Skill_Swap}}
 {{movesLvl|75|Psychic_Terrain}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Calm_Mind}}
@@ -147,6 +145,8 @@
 {{moves|Snore}}
 {{moves|Telekinesis}}
 {{moves|Wonder_Room}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=785|prev=Tapu Koko|dexnext=787|next=Tapu Bulu}}

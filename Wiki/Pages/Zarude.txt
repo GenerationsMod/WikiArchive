@@ -69,8 +69,6 @@
 {{movesLvl|84|Power_Whip}}
 {{movesLvl|90|Jungle_Healing}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -143,6 +141,8 @@
 {{moves|Power_Whip}}
 {{moves|Snarl}}
 {{moves|Swagger}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=892|prev=Urshifu|dexnext=894|next=Regieleki}}

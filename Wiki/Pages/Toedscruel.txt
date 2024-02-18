@@ -72,8 +72,6 @@
 {{movesLvl|54|Earth_Power}}
 {{movesLvl|58|Power_Whip}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Bullet_Seed}}
@@ -115,6 +113,8 @@
 {{movesTm|Venoshock}}
 |}
 {{MovesAlign}}{{MovesTop|Ground}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=948|prev=Shroodle|dexnext=950|next=Bramblin}}

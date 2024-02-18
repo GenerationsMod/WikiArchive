@@ -67,13 +67,6 @@
 {{movesLvl|33|Feather_Dance}}
 {{movesLvl|37|Hyper_Voice}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-{{movesB|Boomburst}}
-{{movesB|Brave_Bird}}
-{{movesB|Mirror_Move}}
-{{movesB|Tailwind}}
-{{movesB|Uproar}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -112,6 +105,13 @@
 {{moves|Snore}}
 {{moves|Tailwind}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
+{{movesB|Boomburst}}
+{{movesB|Brave_Bird}}
+{{movesB|Mirror_Move}}
+{{movesB|Tailwind}}
+{{movesB|Uproar}}
 |}
 |}
 {{NextPrev|dexprev=730|prev=Primarina|dexnext=732|next=Trumbeak}}

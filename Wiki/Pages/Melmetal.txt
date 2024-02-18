@@ -66,8 +66,6 @@
 {{movesLvl|88|Double_Iron_Bash}}
 {{movesLvl|96|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -138,6 +136,8 @@
 {{moves|Thunder_Shock}}
 {{moves|Thunder_Wave}}
 {{moves|Toxic}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=808|prev=Meltan|dexnext=810|next=Grookey}}

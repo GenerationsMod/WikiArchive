@@ -5,7 +5,7 @@
 |ndex=961
 |type1=Water
 |type2=
-|ability1=Rattled|ability2=Gooey
+|ability1=Gooey|ability2=Rattled
 |abilityH=Sandveil
 |genderm=50.0
 |abilityS=
@@ -65,8 +65,6 @@
 {{movesLvl|48|Throat_Chop}}
 {{movesLvl|54|Liquidation}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Blizzard}}
@@ -99,6 +97,8 @@
 {{movesTm|Water_Pulse}}
 |}
 {{MovesAlign}}{{MovesTop|Water}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=960|prev=Espathra|dexnext=962|next=Tinkatuff}}

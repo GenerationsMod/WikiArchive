@@ -87,8 +87,6 @@
 {{movesLvl|56|Psycho_Cut}}
 {{movesLvl|62|Flare_Blitz}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Brick_Break}}
 {{movesTm|Bulk_Up}}
@@ -131,6 +129,8 @@
 {{movesTm|X-Scissor}}
 |}
 {{MovesAlign}}{{MovesTop|Fire}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=936|prev=Annihilape|dexnext=938|next=Armarouge}}

@@ -65,8 +65,6 @@
 {{movesLvl|70|Icicle_Crash}}
 {{movesLvl|77|Blizzard}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Avalanche}}
 {{movesTm|Blizzard}}
@@ -109,6 +107,8 @@
 {{moves|Powder_Snow}}
 {{moves|Protect}}
 {{moves|Water_Gun}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=882|prev=Dracovish|dexnext=884|next=Duraludon}}

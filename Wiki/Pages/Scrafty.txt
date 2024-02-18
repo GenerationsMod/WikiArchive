@@ -72,8 +72,6 @@
 {{movesLvl|54|Focus_Punch}}
 {{movesLvl|60|Head_Smash}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Amnesia}}
 {{movesTm|Assurance}}
@@ -176,6 +174,8 @@
 {{moves|Throat_Chop}}
 {{moves|Thunder_Punch}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=559|prev=Scraggy|dexnext=561|next=Sigilyph}}

@@ -68,8 +68,6 @@
 {{movesLvl|78|Close_Combat}}
 {{movesLvl|85|Perish_Song}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Acrobatics}}
 {{movesTm|Baton_Pass}}
@@ -189,6 +187,8 @@
 {{moves|Uproar}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=647|prev=Keldeo|dexnext=649|next=Genesect}}

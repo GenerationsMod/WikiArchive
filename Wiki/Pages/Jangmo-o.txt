@@ -70,12 +70,6 @@
 {{movesLvl|40|Dragon_Dance}}
 {{movesLvl|44|Outrage}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-{{movesB|Counter}}
-{{movesB|Dragon_Breath}}
-{{movesB|Focus_Punch}}
-{{movesB|Reversal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -140,6 +134,12 @@
 {{moves|Scale_Shot}}
 {{moves|Snore}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
+{{movesB|Counter}}
+{{movesB|Dragon_Breath}}
+{{movesB|Focus_Punch}}
+{{movesB|Reversal}}
 |}
 |}
 {{NextPrev|dexprev=781|prev=Dhelmise|dexnext=783|next=Hakamo-o}}

@@ -70,8 +70,6 @@
 {{movesLvl|84|Bug_Buzz}}
 {{movesLvl|91|Overheat}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Acrobatics}}
@@ -119,6 +117,8 @@
 {{moves|Lunge}}
 {{moves|Screech}}
 {{moves|Sludge_Wave}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=993|prev=Iron Jugulis|dexnext=995|next=Iron Thorns}}

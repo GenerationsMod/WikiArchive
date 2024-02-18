@@ -5,7 +5,7 @@
 |ndex=887
 |type1=Dragon
 |type2=Ghost
-|ability1=Clearbody|ability2=Infiltrator
+|ability1=Infiltrator|ability2=Clearbody
 |abilityH=Cursedbody
 |genderm=50.0
 |abilityS=
@@ -71,8 +71,6 @@
 {{movesLvl|70|Double-Edge}}
 {{movesLvl|78|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Acrobatics}}
 {{movesTm|Agility}}
@@ -132,6 +130,8 @@
 |}
 {{MovesAlign}}{{MovesTop|Dragon}}
 {{moves|Draco_Meteor}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=886|prev=Drakloak|dexnext=888|next=Zacian}}

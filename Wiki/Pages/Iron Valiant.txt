@@ -71,8 +71,6 @@
 {{movesLvl|84|Wide_Guard}}
 {{movesLvl|91|Spirit_Break}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -139,6 +137,8 @@
 {{moves|Leaf_Blade}}
 {{moves|Night_Slash}}
 {{moves|Psycho_Cut}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=1005|prev=Roaring Moon|dexnext=1007|next=Koraidon}}

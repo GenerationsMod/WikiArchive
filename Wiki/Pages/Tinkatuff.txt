@@ -5,7 +5,7 @@
 |ndex=958
 |type1=Fairy
 |type2=Steel
-|ability1=Owntempo|ability2=Moldbreaker
+|ability1=Moldbreaker|ability2=Owntempo
 |abilityH=Pickpocket
 |genderm=0
 |abilityS=
@@ -70,8 +70,6 @@
 {{movesLvl|47|Skitter_Smack}}
 {{movesLvl|52|Knock_Off}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Brick_Break}}
 {{movesTm|Draining_Kiss}}
@@ -105,6 +103,8 @@
 {{movesTm|Thunder_Wave}}
 |}
 {{MovesAlign}}{{MovesTop|Fairy}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=957|prev=Rellor|dexnext=959|next=Flittle}}

@@ -72,12 +72,6 @@
 {{movesLvl|45|Leaf_Blade}}
 {{movesLvl|50|Milk_Drink}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-{{movesB|Defense_Curl}}
-{{movesB|Grassy_Terrain}}
-{{movesB|Milk_Drink}}
-{{movesB|Rollout}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -139,6 +133,12 @@
 {{moves|Synthesis}}
 {{moves|Worry_Seed}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
+{{movesB|Defense_Curl}}
+{{movesB|Grassy_Terrain}}
+{{movesB|Milk_Drink}}
+{{movesB|Rollout}}
 |}
 |}
 {{NextPrev|dexprev=671|prev=Florges|dexnext=673|next=Gogoat}}

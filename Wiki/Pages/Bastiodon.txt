@@ -70,8 +70,6 @@
 {{movesLvl|52|Iron_Head}}
 {{movesLvl|58|Heavy_Slam}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
@@ -139,6 +137,8 @@
 {{moves|Snore}}
 {{moves|Stealth_Rock}}
 {{moves|Stomping_Tantrum}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=410|prev=Shieldon|dexnext=412|next=Burmy}}

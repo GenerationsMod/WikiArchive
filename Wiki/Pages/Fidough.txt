@@ -80,13 +80,6 @@
 {{movesLvl|40|Crunch}}
 {{movesLvl|45|Last_Resort}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-{{movesB|Copycat}}
-{{movesB|Howl}}
-{{movesB|Sweet_Scent}}
-{{movesB|Wish}}
-{{movesB|Yawn}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Agility}}
 {{movesTm|Baton_Pass}}
@@ -119,6 +112,13 @@
 {{movesTm|Trailblaze}}
 |}
 {{MovesAlign}}{{MovesTop|Fairy}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
+{{movesB|Copycat}}
+{{movesB|Howl}}
+{{movesB|Sweet_Scent}}
+{{movesB|Wish}}
+{{movesB|Yawn}}
 |}
 |}
 {{NextPrev|dexprev=925|prev=Tandemaus|dexnext=927|next=Fidough}}

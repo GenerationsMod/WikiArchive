@@ -86,12 +86,6 @@
 {{movesLvl|40|Earthquake}}
 {{movesLvl|45|Stone_Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-{{movesB|Ancient_Power}}
-{{movesB|Curse}}
-{{movesB|Fissure}}
-{{movesB|Power_Gem}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Body_Slam}}
 {{movesTm|Bulldoze}}
@@ -123,6 +117,12 @@
 {{movesTm|Zen_Headbutt}}
 |}
 {{MovesAlign}}{{MovesTop|Rock}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
+{{movesB|Ancient_Power}}
+{{movesB|Curse}}
+{{movesB|Fissure}}
+{{movesB|Power_Gem}}
 |}
 |}
 {{NextPrev|dexprev=931|prev=Arboliva|dexnext=933|next=Nacli}}

@@ -70,8 +70,6 @@
 {{movesLvl|70|Razor_Wind}}
 {{movesLvl|85|Heal_Block}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -132,6 +130,8 @@
 {{moves|Terrain_Pulse}}
 {{moves|Tri_Attack}}
 {{moves|X-Scissor}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=771|prev=Pyukumuku|dexnext=773|next=Silvally}}

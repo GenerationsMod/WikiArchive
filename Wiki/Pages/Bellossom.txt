@@ -94,8 +94,6 @@
 {{movesLvl|49|Petal_Blizzard}}
 {{movesLvl|55|Solar_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -183,6 +181,8 @@
 {{moves|Toxic}}
 {{moves|Uproar}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=181|prev=Ampharos|dexnext=183|next=Marill}}

@@ -63,8 +63,6 @@
 {{movesLvl|61|Dive}}
 {{movesLvl|69|Rain_Dance}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Blizzard}}
 {{movesTm|Brine}}
@@ -122,6 +120,8 @@
 {{moves|Swift}}
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=488|prev=Cresselia|dexnext=490|next=Manaphy}}

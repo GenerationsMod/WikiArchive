@@ -10,7 +10,7 @@ def extract_spawn_data(pokemon_name, spawn_folder):
             return spawn_data.get("spawns", [])
     else:
         return []
-#TO DO: Form stats, Bumblezone individual biome support instead of tags, better name handling of spawn jsons so don't have to rename the jsons, spawning is only grabbing the last result
+#TO DO: Form stats, Bumblezone individual biome support instead of tags, better name handling of spawn jsons so don't have to rename the jsons
 #For me: php maintenance/importTextFiles.php --overwrite --use-timestamp ImportPages/*.txt
 def format_item_name(item):
     # Grab the text after the colon (ie cobblemon:, then replace underscores with spaces
@@ -266,21 +266,6 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
                 txt_file.write(f"{{{{movesLvl|{level}|{move_name}}}}}\n")
         txt_file.write("|}\n")
 
-        # Write Breeding Moves section
-        txt_file.write(f"{{{{MovesAlign}}}}{{{{MovesBTop|{pokemon_data.get('primaryType', '').capitalize()}}}}}\n")
-        for move in moves:
-            if move.startswith("egg:"):
-                move_name = move.split(":")[1]  # Strip the "egg:" prefix
-                move_name = move_name.title()
-                # Search for the move name in en_us.json and replace it if found with the proper spaced and capitalized version
-                move_name_key = f"cobblemon.move.{move_name.lower()}"
-                move_name_entry = dex_data.get(move_name_key)
-                if move_name_entry:
-                    move_name = move_name_entry
-                move_name = move_name.replace(" ", "_")  # Replace spaces with underscores
-                txt_file.write(f"{{{{movesB|{move_name}}}}}\n")
-        txt_file.write("|}\n")
-
         # Write TM Moves section
         txt_file.write(f"{{{{MovesAlign}}}}{{{{MovesTmTop|{pokemon_data.get('primaryType', '').capitalize()}}}}}\n")
         for move in moves:
@@ -309,6 +294,21 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
                     move_name = move_name_entry
                 move_name = move_name.replace(" ", "_")  # Replace spaces with underscores
                 txt_file.write(f"{{{{moves|{move_name}}}}}\n")
+        txt_file.write("|}\n")
+
+        # Write Breeding Moves section
+        txt_file.write(f"{{{{MovesAlign}}}}{{{{MovesBTop|{pokemon_data.get('primaryType', '').capitalize()}}}}}\n")
+        for move in moves:
+            if move.startswith("egg:"):
+                move_name = move.split(":")[1]  # Strip the "egg:" prefix
+                move_name = move_name.title()
+                # Search for the move name in en_us.json and replace it if found with the proper spaced and capitalized version
+                move_name_key = f"cobblemon.move.{move_name.lower()}"
+                move_name_entry = dex_data.get(move_name_key)
+                if move_name_entry:
+                    move_name = move_name_entry
+                move_name = move_name.replace(" ", "_")  # Replace spaces with underscores
+                txt_file.write(f"{{{{movesB|{move_name}}}}}\n")
         txt_file.write("|}\n|}\n")
 
         # Write NextPrev section again

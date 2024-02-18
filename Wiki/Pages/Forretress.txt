@@ -87,8 +87,6 @@
 {{movesLvl|46|Gyro_Ball}}
 {{movesLvl|50|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Attract}}
 {{movesTm|Body_Press}}
@@ -209,6 +207,8 @@
 {{moves|Take_Down}}
 {{moves|Telekinesis}}
 {{moves|Toxic}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=204|prev=Pineco|dexnext=206|next=Dunsparce}}

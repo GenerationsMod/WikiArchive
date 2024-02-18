@@ -70,8 +70,6 @@
 {{movesLvl|58|Endeavor}}
 {{movesLvl|64|Guillotine}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -171,6 +169,8 @@
 {{moves|Swords_Dance}}
 {{moves|Taunt}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=341|prev=Corphish|dexnext=343|next=Baltoy}}

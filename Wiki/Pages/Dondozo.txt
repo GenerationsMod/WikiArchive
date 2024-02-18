@@ -71,12 +71,6 @@
 {{movesLvl|60|Double-Edge}}
 {{movesLvl|65|Wave_Crash}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-{{movesB|Curse}}
-{{movesB|Fissure}}
-{{movesB|Thrash}}
-{{movesB|Yawn}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Avalanche}}
 {{movesTm|Body_Press}}
@@ -110,6 +104,12 @@
 {{movesTm|Zen_Headbutt}}
 |}
 {{MovesAlign}}{{MovesTop|Water}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
+{{movesB|Curse}}
+{{movesB|Fissure}}
+{{movesB|Thrash}}
+{{movesB|Yawn}}
 |}
 |}
 {{NextPrev|dexprev=976|prev=Houndstone|dexnext=978|next=Cetoddle}}

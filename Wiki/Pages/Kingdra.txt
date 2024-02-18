@@ -5,7 +5,7 @@
 |ndex=230
 |type1=Water
 |type2=Dragon
-|ability1=Swiftswim|ability2=Sniper
+|ability1=Sniper|ability2=Swiftswim
 |abilityH=Damp
 |genderm=50.0
 |abilityS=
@@ -70,8 +70,6 @@
 {{movesLvl|51|Hydro_Pump}}
 {{movesLvl|58|Dragon_Dance}}
 {{movesLvl|65|Rain_Dance}}
-|}
-{{MovesAlign}}{{MovesBTop|Water}}
 |}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
@@ -171,6 +169,8 @@
 {{moves|Water_Gun}}
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=229|prev=Houndoom|dexnext=231|next=Phanpy}}

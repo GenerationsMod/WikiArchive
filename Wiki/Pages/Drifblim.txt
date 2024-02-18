@@ -99,8 +99,6 @@
 {{movesLvl|56|Explosion}}
 {{movesLvl|60|Explosion}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -199,6 +197,8 @@
 {{moves|Tailwind}}
 {{moves|Telekinesis}}
 {{moves|Trick}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=425|prev=Drifloon|dexnext=427|next=Buneary}}

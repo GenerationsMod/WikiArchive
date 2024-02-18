@@ -54,12 +54,12 @@
 {{movesLvl|1|Cosmic_Power}}
 {{movesLvl|1|Teleport}}
 |}
-{{MovesAlign}}{{MovesBTop|Psychic}}
-|}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Cosmic_Power}}
 |}
 {{MovesAlign}}{{MovesTop|Psychic}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=789|prev=Cosmog|dexnext=791|next=Solgaleo}}

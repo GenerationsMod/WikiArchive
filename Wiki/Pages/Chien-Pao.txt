@@ -71,8 +71,6 @@
 {{movesLvl|70|Throat_Chop}}
 {{movesLvl|75|Sheer_Cold}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -109,6 +107,8 @@
 {{moves|Ruination}}
 {{moves|Sacred_Sword}}
 {{moves|Sucker_Punch}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=1001|prev=Wo-Chien|dexnext=1003|next=Ting-Lu}}

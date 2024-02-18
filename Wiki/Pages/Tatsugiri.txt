@@ -78,11 +78,6 @@
 {{movesLvl|47|Mirror_Coat}}
 {{movesLvl|52|Dragon_Pulse}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-{{movesB|Baton_Pass}}
-{{movesB|Counter}}
-{{movesB|Rapid_Spin}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Baton_Pass}}
 {{movesTm|Chilling_Water}}
@@ -114,6 +109,11 @@
 {{moves|Icy_Wind}}
 {{moves|Muddy_Water}}
 {{moves|Taunt}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
+{{movesB|Baton_Pass}}
+{{movesB|Counter}}
+{{movesB|Rapid_Spin}}
 |}
 |}
 {{NextPrev|dexprev=977|prev=Flamigo|dexnext=979|next=Cetitan}}

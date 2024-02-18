@@ -84,8 +84,6 @@
 {{movesLvl|56|Sandstorm}}
 {{movesLvl|61|Earthquake}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -215,6 +213,8 @@
 {{moves|Thief}}
 {{moves|Toxic}}
 {{moves|X-Scissor}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=027|prev=Sandshrew|dexnext=029|next=Nidoran (F)}}

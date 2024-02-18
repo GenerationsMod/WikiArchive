@@ -74,8 +74,6 @@
 {{movesLvl|54|Crabhammer}}
 {{movesLvl|60|Guillotine}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Ally_Switch}}
@@ -200,6 +198,8 @@
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
 {{moves|X-Scissor}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=098|prev=Krabby|dexnext=100|next=Voltorb}}

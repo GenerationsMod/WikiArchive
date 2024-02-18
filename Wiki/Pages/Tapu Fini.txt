@@ -74,8 +74,6 @@
 {{movesLvl|70|Soak}}
 {{movesLvl|75|Misty_Terrain}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Blizzard}}
 {{movesTm|Brine}}
@@ -152,6 +150,8 @@
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
 {{moves|Wonder_Room}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=787|prev=Tapu Bulu|dexnext=789|next=Cosmog}}

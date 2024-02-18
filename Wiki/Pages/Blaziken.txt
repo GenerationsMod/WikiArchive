@@ -81,8 +81,6 @@
 {{movesLvl|57|Sky_Uppercut}}
 {{movesLvl|63|Flare_Blitz}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -211,6 +209,8 @@
 {{moves|Swords_Dance}}
 {{moves|Thunder_Punch}}
 {{moves|Vacuum_Wave}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=256|prev=Combusken|dexnext=258|next=Mudkip}}

@@ -73,8 +73,6 @@
 {{movesLvl|65|Superpower}}
 {{movesLvl|70|Focus_Punch}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Body_Slam}}
 {{movesTm|Bounce}}
@@ -150,6 +148,8 @@
 {{moves|Superpower}}
 {{moves|Taunt}}
 {{moves|Thunder_Punch}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=793|prev=Nihilego|dexnext=795|next=Pheromosa}}

@@ -5,7 +5,7 @@
 |ndex=558
 |type1=Bug
 |type2=Rock
-|ability1=Shellarmor|ability2=Sturdy
+|ability1=Sturdy|ability2=Shellarmor
 |abilityH=Weakarmor
 |genderm=50.0
 |abilityS=
@@ -67,8 +67,6 @@
 {{movesLvl|44|Rock_Polish}}
 {{movesLvl|50|Shell_Smash}}
 {{movesLvl|56|Rock_Wrecker}}
-|}
-{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
@@ -135,6 +133,8 @@
 {{moves|Snore}}
 {{moves|Stealth_Rock}}
 {{moves|Stomping_Tantrum}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=557|prev=Dwebble|dexnext=559|next=Scraggy}}

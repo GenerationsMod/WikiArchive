@@ -85,13 +85,6 @@
 {{movesLvl|32|Uproar}}
 {{movesLvl|35|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-{{movesB|Endeavor}}
-{{movesB|Spit_Up}}
-{{movesB|Stockpile}}
-{{movesB|Stuff_Cheeks}}
-{{movesB|Swallow}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Body_Slam}}
 {{movesTm|Bulldoze}}
@@ -121,6 +114,13 @@
 {{movesTm|Zen_Headbutt}}
 |}
 {{MovesAlign}}{{MovesTop|Normal}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
+{{movesB|Endeavor}}
+{{movesB|Spit_Up}}
+{{movesB|Stockpile}}
+{{movesB|Stuff_Cheeks}}
+{{movesB|Swallow}}
 |}
 |}
 {{NextPrev|dexprev=914|prev=Quaquaval|dexnext=916|next=Oinkologne}}

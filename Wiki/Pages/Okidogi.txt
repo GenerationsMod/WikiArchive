@@ -66,8 +66,6 @@
 {{movesLvl|64|Superpower}}
 {{movesLvl|72|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Poison}}
-|}
 {{MovesAlign}}{{MovesTmTop|Poison}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -127,6 +125,8 @@
 {{moves|Crunch}}
 {{moves|Poison_Jab}}
 {{moves|Superpower}}
+|}
+{{MovesAlign}}{{MovesBTop|Poison}}
 |}
 |}
 {{NextPrev|dexprev=1013|prev=Sinistcha|dexnext=1015|next=Munkidori}}

@@ -70,8 +70,6 @@
 {{movesLvl|52|Grudge}}
 {{movesLvl|53|Phantom_Force}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Attract}}
 {{movesTm|Calm_Mind}}
@@ -182,6 +180,8 @@
 {{moves|Throat_Chop}}
 {{moves|Thunder_Wave}}
 {{moves|Trick}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=353|prev=Shuppet|dexnext=355|next=Duskull}}

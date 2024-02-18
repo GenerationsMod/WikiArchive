@@ -5,7 +5,7 @@
 |ndex=082
 |type1=Electric
 |type2=Steel
-|ability1=Magnetpull|ability2=Sturdy
+|ability1=Sturdy|ability2=Magnetpull
 |abilityH=Analytic
 |genderm=Genderless
 |abilityS=
@@ -84,8 +84,6 @@
 {{movesLvl|52|Light_Screen}}
 {{movesLvl|58|Lock-On}}
 {{movesLvl|64|Zap_Cannon}}
-|}
-{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Charge_Beam}}
@@ -193,6 +191,8 @@
 {{moves|Toxic}}
 {{moves|Tri_Attack}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=081|prev=Magnemite|dexnext=083|next=Farfetchâ€™d}}

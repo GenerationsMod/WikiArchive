@@ -67,8 +67,6 @@
 {{movesLvl|50|Crunch}}
 {{movesLvl|55|Icicle_Crash}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Avalanche}}
@@ -101,6 +99,8 @@
 {{movesTm|Tera_Blast}}
 |}
 {{MovesAlign}}{{MovesTop|Dragon}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=996|prev=Frigibax|dexnext=998|next=Baxcalibur}}

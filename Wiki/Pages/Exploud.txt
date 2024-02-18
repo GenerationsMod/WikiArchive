@@ -84,8 +84,6 @@
 {{movesLvl|72|Boomburst}}
 {{movesLvl|81|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
@@ -201,6 +199,8 @@
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=294|prev=Loudred|dexnext=296|next=Makuhita}}

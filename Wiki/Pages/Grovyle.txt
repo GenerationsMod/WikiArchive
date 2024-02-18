@@ -78,8 +78,6 @@
 {{movesLvl|50|Endeavor}}
 {{movesLvl|55|Leaf_Storm}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -176,6 +174,8 @@
 {{moves|Synthesis}}
 {{moves|Thunder_Punch}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=252|prev=Treecko|dexnext=254|next=Sceptile}}

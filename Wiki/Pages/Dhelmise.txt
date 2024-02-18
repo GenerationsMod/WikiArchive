@@ -72,8 +72,6 @@
 {{movesLvl|60|Phantom_Force}}
 {{movesLvl|64|Power_Whip}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Ally_Switch}}
@@ -149,6 +147,8 @@
 {{moves|Steel_Roller}}
 {{moves|Synthesis}}
 {{moves|Telekinesis}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=780|prev=Drampa|dexnext=782|next=Jangmo-o}}

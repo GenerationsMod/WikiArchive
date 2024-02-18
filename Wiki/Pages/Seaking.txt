@@ -71,8 +71,6 @@
 {{movesLvl|51|Megahorn}}
 {{movesLvl|58|Horn_Drill}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -178,6 +176,8 @@
 {{moves|Waterfall}}
 {{moves|Water_Gun}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=118|prev=Goldeen|dexnext=120|next=Staryu}}

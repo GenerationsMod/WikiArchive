@@ -68,12 +68,6 @@
 {{movesLvl|44|Crunch}}
 {{movesLvl|48|Icicle_Crash}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-{{movesB|Aqua_Tail}}
-{{movesB|Dragon_Rush}}
-{{movesB|Freeze-Dry}}
-{{movesB|Icicle_Spear}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Avalanche}}
 {{movesTm|Blizzard}}
@@ -102,6 +96,12 @@
 {{movesTm|Tera_Blast}}
 |}
 {{MovesAlign}}{{MovesTop|Dragon}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
+{{movesB|Aqua_Tail}}
+{{movesB|Dragon_Rush}}
+{{movesB|Freeze-Dry}}
+{{movesB|Icicle_Spear}}
 |}
 |}
 {{NextPrev|dexprev=995|prev=Iron Thorns|dexnext=997|next=Arctibax}}

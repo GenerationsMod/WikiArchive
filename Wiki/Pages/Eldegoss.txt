@@ -5,7 +5,7 @@
 |ndex=830
 |type1=Grass
 |type2=
-|ability1=Regenerator|ability2=Cottondown
+|ability1=Cottondown|ability2=Regenerator
 |abilityH=Effectspore
 |genderm=50.0
 |abilityS=
@@ -66,8 +66,6 @@
 {{movesLvl|46|Leaf_Storm}}
 {{movesLvl|52|Cotton_Guard}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Bullet_Seed}}
@@ -99,6 +97,8 @@
 |}
 {{MovesAlign}}{{MovesTop|Grass}}
 {{moves|Grassy_Glide}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=829|prev=Gossifleur|dexnext=831|next=Wooloo}}

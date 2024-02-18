@@ -83,8 +83,6 @@
 {{movesLvl|72|Thrash}}
 {{movesLvl|80|Brave_Bird}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -162,6 +160,8 @@
 {{moves|Tailwind}}
 {{moves|Wing_Attack}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=627|prev=Rufflet|dexnext=629|next=Vullaby}}

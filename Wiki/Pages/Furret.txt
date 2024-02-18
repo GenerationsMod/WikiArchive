@@ -70,8 +70,6 @@
 {{movesLvl|50|Me_First}}
 {{movesLvl|56|Hyper_Voice}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
 {{movesTm|Blizzard}}
@@ -183,6 +181,8 @@
 {{moves|Trick}}
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=161|prev=Sentret|dexnext=163|next=Hoothoot}}

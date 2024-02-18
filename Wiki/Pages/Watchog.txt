@@ -73,8 +73,6 @@
 {{movesLvl|46|Baton_Pass}}
 {{movesLvl|50|Slam}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Attract}}
 {{movesTm|Confide}}
@@ -140,6 +138,8 @@
 {{moves|Super_Fang}}
 {{moves|Thunder_Punch}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
 |}
 |}
 {{NextPrev|dexprev=504|prev=Patrat|dexnext=506|next=Lillipup}}

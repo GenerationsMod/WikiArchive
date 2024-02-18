@@ -67,8 +67,6 @@
 {{movesLvl|77|Close_Combat}}
 {{movesLvl|88|Giga_Impact}}
 |}
-{{MovesAlign}}{{MovesBTop|Fairy}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fairy}}
 {{movesTm|Agility}}
 {{movesTm|Air_Slash}}
@@ -132,6 +130,8 @@
 {{moves|Sacred_Sword}}
 {{moves|Steel_Beam}}
 {{moves|Swords_Dance}}
+|}
+{{MovesAlign}}{{MovesBTop|Fairy}}
 |}
 |}
 {{NextPrev|dexprev=887|prev=Dragapult|dexnext=889|next=Zamazenta}}

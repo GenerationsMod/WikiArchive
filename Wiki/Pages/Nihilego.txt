@@ -73,8 +73,6 @@
 {{movesLvl|65|Wonder_Room}}
 {{movesLvl|70|Head_Smash}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Body_Slam}}
@@ -151,6 +149,8 @@
 {{moves|Wonder_Room}}
 {{moves|Worry_Seed}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=792|prev=Lunala|dexnext=794|next=Buzzwole}}

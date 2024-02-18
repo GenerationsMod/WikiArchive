@@ -89,8 +89,6 @@
 {{movesLvl|48|Destiny_Bond}}
 {{movesLvl|52|Forestâ€™s_Curse}}
 |}
-{{MovesAlign}}{{MovesBTop|Ghost}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -173,6 +171,8 @@
 {{moves|Telekinesis}}
 {{moves|Trick}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Ghost}}
 |}
 |}
 {{NextPrev|dexprev=708|prev=Phantump|dexnext=710|next=Pumpkaboo}}

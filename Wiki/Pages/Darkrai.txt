@@ -68,8 +68,6 @@
 {{movesLvl|84|Dream_Eater}}
 {{movesLvl|93|Dark_Pulse}}
 |}
-{{MovesAlign}}{{MovesBTop|Dark}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dark}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Blizzard}}
@@ -167,6 +165,8 @@
 {{moves|Throat_Chop}}
 {{moves|Trick}}
 {{moves|Wonder_Room}}
+|}
+{{MovesAlign}}{{MovesBTop|Dark}}
 |}
 |}
 {{NextPrev|dexprev=490|prev=Manaphy|dexnext=492|next=Shaymin}}

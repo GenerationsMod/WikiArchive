@@ -91,8 +91,6 @@
 {{movesLvl|67|Outrage}}
 {{movesLvl|74|Hyper_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Dragon}}
-|}
 {{MovesAlign}}{{MovesTmTop|Dragon}}
 {{movesTm|Agility}}
 {{movesTm|Attract}}
@@ -215,6 +213,8 @@
 {{moves|Water_Pulse}}
 {{moves|Wrap}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Dragon}}
 |}
 |}
 {{NextPrev|dexprev=147|prev=Dratini|dexnext=149|next=Dragonite}}

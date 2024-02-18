@@ -109,8 +109,6 @@
 {{movesLvl|55|Last_Resort}}
 {{movesLvl|71|Fire_Blast}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Attract}}
 {{movesTm|Baton_Pass}}
@@ -239,6 +237,8 @@
 {{moves|Will-O-Wisp}}
 {{moves|Yawn}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=135|prev=Jolteon|dexnext=137|next=Porygon}}

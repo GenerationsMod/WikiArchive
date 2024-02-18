@@ -90,8 +90,6 @@
 {{movesLvl|49|Petal_Blizzard}}
 {{movesLvl|69|Solar_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Attract}}
 {{movesTm|Body_Slam}}
@@ -188,6 +186,8 @@
 {{moves|Take_Down}}
 {{moves|Toxic}}
 {{moves|Worry_Seed}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=044|prev=Gloom|dexnext=046|next=Paras}}

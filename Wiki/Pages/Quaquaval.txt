@@ -75,8 +75,6 @@
 {{movesLvl|58|Close_Combat}}
 {{movesLvl|64|Wave_Crash}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -123,6 +121,8 @@
 {{movesTm|Water_Pulse}}
 |}
 {{MovesAlign}}{{MovesTop|Water}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=913|prev=Quaxwell|dexnext=915|next=Lechonk}}

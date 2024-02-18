@@ -69,13 +69,6 @@
 {{movesLvl|44|Synchronoise}}
 {{movesLvl|44|Wave_Crash}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-{{movesB|Ice_Fang}}
-{{movesB|Poison_Fang}}
-{{movesB|Rage}}
-{{movesB|Super_Fang}}
-{{movesB|Water_Pulse}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -148,6 +141,13 @@
 {{moves|Uproar}}
 {{moves|Water_Pulse}}
 {{moves|Wonder_Room}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
+{{movesB|Ice_Fang}}
+{{movesB|Poison_Fang}}
+{{movesB|Rage}}
+{{movesB|Super_Fang}}
+{{movesB|Water_Pulse}}
 |}
 |}
 {{NextPrev|dexprev=778|prev=Mimikyu|dexnext=780|next=Drampa}}

@@ -84,8 +84,6 @@
 {{movesLvl|48|Earthquake}}
 {{movesLvl|54|Fissure}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Agility}}
@@ -201,6 +199,8 @@
 {{moves|Toxic}}
 {{moves|Tri_Attack}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=050|prev=Diglett|dexnext=052|next=Meowth}}

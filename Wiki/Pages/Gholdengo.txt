@@ -65,8 +65,6 @@
 {{movesLvl|63|Nasty_Plot}}
 {{movesLvl|70|Memento}}
 |}
-{{MovesAlign}}{{MovesBTop|Steel}}
-|}
 {{MovesAlign}}{{MovesTmTop|Steel}}
 {{movesTm|Charge_Beam}}
 {{movesTm|Confuse_Ray}}
@@ -107,6 +105,8 @@
 {{movesTm|Trick}}
 |}
 {{MovesAlign}}{{MovesTop|Steel}}
+|}
+{{MovesAlign}}{{MovesBTop|Steel}}
 |}
 |}
 {{NextPrev|dexprev=999|prev=Gimmighoul|dexnext=1001|next=Wo-Chien}}

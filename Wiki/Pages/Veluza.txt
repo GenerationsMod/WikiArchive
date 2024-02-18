@@ -69,10 +69,6 @@
 {{movesLvl|50|Crunch}}
 {{movesLvl|55|Final_Gambit}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-{{movesB|Recover}}
-{{movesB|Thrash}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Agility}}
 {{movesTm|Blizzard}}
@@ -106,6 +102,10 @@
 {{movesTm|Zen_Headbutt}}
 |}
 {{MovesAlign}}{{MovesTop|Water}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
+{{movesB|Recover}}
+{{movesB|Thrash}}
 |}
 |}
 {{NextPrev|dexprev=975|prev=Greavard|dexnext=977|next=Flamigo}}

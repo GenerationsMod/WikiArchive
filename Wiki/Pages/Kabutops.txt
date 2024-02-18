@@ -84,8 +84,6 @@
 {{movesLvl|63|Wring_Out}}
 {{movesLvl|70|Stone_Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -235,6 +233,8 @@
 {{moves|Water_Pulse}}
 {{moves|Whirlpool}}
 {{moves|X-Scissor}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=140|prev=Kabuto|dexnext=142|next=Aerodactyl}}

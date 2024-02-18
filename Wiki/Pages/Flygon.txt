@@ -84,8 +84,6 @@
 {{movesLvl|60|Dragon_Rush}}
 {{movesLvl|68|Boomburst}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Slash}}
@@ -206,6 +204,8 @@
 {{moves|Twister}}
 {{moves|Uproar}}
 {{moves|U-turn}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=329|prev=Vibrava|dexnext=331|next=Cacnea}}

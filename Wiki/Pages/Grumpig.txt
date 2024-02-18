@@ -5,7 +5,7 @@
 |ndex=326
 |type1=Psychic
 |type2=
-|ability1=Owntempo|ability2=Thickfat
+|ability1=Thickfat|ability2=Owntempo
 |abilityH=Gluttony
 |genderm=50.0
 |abilityS=
@@ -71,8 +71,6 @@
 {{movesLvl|46|Payback}}
 {{movesLvl|52|Psychic}}
 {{movesLvl|60|Bounce}}
-|}
-{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 {{MovesAlign}}{{MovesTmTop|Psychic}}
 {{movesTm|Amnesia}}
@@ -208,6 +206,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Trick}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Psychic}}
 |}
 |}
 {{NextPrev|dexprev=325|prev=Spoink|dexnext=327|next=Spinda}}

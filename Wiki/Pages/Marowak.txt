@@ -98,8 +98,6 @@
 {{movesLvl|54|Thrash}}
 {{movesLvl|60|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Ground}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -251,6 +249,8 @@
 {{moves|Toxic}}
 {{moves|Uproar}}
 {{moves|Water_Gun}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=104|prev=Cubone|dexnext=106|next=Hitmonlee}}

@@ -70,8 +70,6 @@
 {{movesLvl|65|Stealth_Rock}}
 {{movesLvl|70|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Body_Press}}
@@ -149,6 +147,8 @@
 {{moves|Wide_Guard}}
 {{moves|Wonder_Room}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=804|prev=Naganadel|dexnext=806|next=Blacephalon}}

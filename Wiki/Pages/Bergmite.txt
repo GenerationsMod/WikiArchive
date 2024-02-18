@@ -5,7 +5,7 @@
 |ndex=712
 |type1=Ice
 |type2=
-|ability1=Icebody|ability2=Owntempo
+|ability1=Owntempo|ability2=Icebody
 |abilityH=Sturdy
 |genderm=50.0
 |abilityS=
@@ -90,13 +90,6 @@
 {{movesLvl|39|Blizzard}}
 {{movesLvl|42|Double-Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-{{movesB|Aurora_Veil}}
-{{movesB|Barrier}}
-{{movesB|Mirror_Coat}}
-{{movesB|Mist}}
-{{movesB|Recover}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Attract}}
 {{movesTm|Avalanche}}
@@ -151,6 +144,13 @@
 {{moves|Iron_Defense}}
 {{moves|Snore}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
+{{movesB|Aurora_Veil}}
+{{movesB|Barrier}}
+{{movesB|Mirror_Coat}}
+{{movesB|Mist}}
+{{movesB|Recover}}
 |}
 |}
 {{NextPrev|dexprev=711|prev=Gourgeist|dexnext=713|next=Avalugg}}

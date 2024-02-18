@@ -84,8 +84,6 @@
 {{movesLvl|50|Hydro_Pump}}
 {{movesLvl|51|Hydro_Pump}}
 |}
-{{MovesAlign}}{{MovesBTop|Water}}
-|}
 {{MovesAlign}}{{MovesTmTop|Water}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Attract}}
@@ -147,6 +145,8 @@
 {{moves|Stealth_Rock}}
 {{moves|Water_Pledge}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Water}}
 |}
 |}
 {{NextPrev|dexprev=393|prev=Piplup|dexnext=395|next=Empoleon}}

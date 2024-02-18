@@ -87,8 +87,6 @@
 {{movesLvl|74|Fly}}
 {{movesLvl|83|Brave_Bird}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -150,6 +148,8 @@
 {{moves|Snatch}}
 {{moves|Snore}}
 {{moves|Tailwind}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=662|prev=Fletchinder|dexnext=664|next=Scatterbug}}

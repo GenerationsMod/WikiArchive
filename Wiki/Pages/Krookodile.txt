@@ -5,7 +5,7 @@
 |ndex=553
 |type1=Ground
 |type2=Dark
-|ability1=Intimidate|ability2=Moxie
+|ability1=Moxie|ability2=Intimidate
 |abilityH=Angerpoint
 |genderm=50.0
 |abilityS=
@@ -73,8 +73,6 @@
 {{movesLvl|44|Earthquake}}
 {{movesLvl|51|Thrash}}
 {{movesLvl|58|Outrage}}
-|}
-{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 {{MovesAlign}}{{MovesTmTop|Ground}}
 {{movesTm|Aerial_Ace}}
@@ -192,6 +190,8 @@
 {{moves|Superpower}}
 {{moves|Throat_Chop}}
 {{moves|Uproar}}
+|}
+{{MovesAlign}}{{MovesBTop|Ground}}
 |}
 |}
 {{NextPrev|dexprev=552|prev=Krokorok|dexnext=554|next=Darumaka}}

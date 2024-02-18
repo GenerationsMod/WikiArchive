@@ -72,8 +72,6 @@
 {{movesLvl|84|Techno_Blast}}
 {{movesLvl|91|Self-Destruct}}
 |}
-{{MovesAlign}}{{MovesBTop|Bug}}
-|}
 {{MovesAlign}}{{MovesTmTop|Bug}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Ally_Switch}}
@@ -165,6 +163,8 @@
 {{moves|Telekinesis}}
 {{moves|X-Scissor}}
 {{moves|Zen_Headbutt}}
+|}
+{{MovesAlign}}{{MovesBTop|Bug}}
 |}
 |}
 {{NextPrev|dexprev=648|prev=Meloetta|dexnext=650|next=Chespin}}

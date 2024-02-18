@@ -71,8 +71,6 @@
 {{movesLvl|48|Cross_Chop}}
 {{movesLvl|54|Stone_Edge}}
 |}
-{{MovesAlign}}{{MovesBTop|Rock}}
-|}
 {{MovesAlign}}{{MovesTmTop|Rock}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Assurance}}
@@ -169,6 +167,8 @@
 {{moves|Stealth_Rock}}
 {{moves|Superpower}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Rock}}
 |}
 |}
 {{NextPrev|dexprev=688|prev=Binacle|dexnext=690|next=Skrelp}}

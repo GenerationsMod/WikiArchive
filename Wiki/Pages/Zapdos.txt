@@ -80,8 +80,6 @@
 {{movesLvl|65|Magnetic_Flux}}
 {{movesLvl|70|Zap_Cannon}}
 |}
-{{MovesAlign}}{{MovesBTop|Electric}}
-|}
 {{MovesAlign}}{{MovesTmTop|Electric}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -210,6 +208,8 @@
 {{moves|U-turn}}
 {{moves|Whirlwind}}
 {{moves|Zap_Cannon}}
+|}
+{{MovesAlign}}{{MovesBTop|Electric}}
 |}
 |}
 {{NextPrev|dexprev=144|prev=Articuno|dexnext=146|next=Moltres}}

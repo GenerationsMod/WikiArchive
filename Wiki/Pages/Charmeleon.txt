@@ -81,8 +81,6 @@
 {{movesLvl|48|Inferno}}
 {{movesLvl|54|Flare_Blitz}}
 |}
-{{MovesAlign}}{{MovesBTop|Fire}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fire}}
 {{movesTm|Acrobatics}}
 {{movesTm|Aerial_Ace}}
@@ -218,6 +216,8 @@
 {{moves|Thunder_Punch}}
 {{moves|Toxic}}
 {{moves|Will-O-Wisp}}
+|}
+{{MovesAlign}}{{MovesBTop|Fire}}
 |}
 |}
 {{NextPrev|dexprev=004|prev=Charmander|dexnext=006|next=Charizard}}

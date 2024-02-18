@@ -98,12 +98,6 @@
 {{movesLvl|47|Roost}}
 {{movesLvl|52|Reversal}}
 |}
-{{MovesAlign}}{{MovesBTop|Normal}}
-{{movesB|Double-Edge}}
-{{movesB|Final_Gambit}}
-{{movesB|Flatter}}
-{{movesB|Parting_Shot}}
-|}
 {{MovesAlign}}{{MovesTmTop|Normal}}
 {{movesTm|Aerial_Ace}}
 {{movesTm|Air_Cutter}}
@@ -136,6 +130,12 @@
 {{movesTm|U-turn}}
 |}
 {{MovesAlign}}{{MovesTop|Normal}}
+|}
+{{MovesAlign}}{{MovesBTop|Normal}}
+{{movesB|Double-Edge}}
+{{movesB|Final_Gambit}}
+{{movesB|Flatter}}
+{{movesB|Parting_Shot}}
 |}
 |}
 {{NextPrev|dexprev=930|prev=Dolliv|dexnext=932|next=Squawkabilly}}

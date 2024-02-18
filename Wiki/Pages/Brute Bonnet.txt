@@ -68,8 +68,6 @@
 {{movesLvl|77|Rage_Powder}}
 {{movesLvl|91|Solar_Beam}}
 |}
-{{MovesAlign}}{{MovesBTop|Grass}}
-|}
 {{MovesAlign}}{{MovesTmTop|Grass}}
 {{movesTm|Body_Press}}
 {{movesTm|Body_Slam}}
@@ -113,6 +111,8 @@
 {{moves|Giga_Drain}}
 {{moves|Payback}}
 {{moves|Thrash}}
+|}
+{{MovesAlign}}{{MovesBTop|Grass}}
 |}
 |}
 {{NextPrev|dexprev=985|prev=Scream Tail|dexnext=987|next=Flutter Mane}}

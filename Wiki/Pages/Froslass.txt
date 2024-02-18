@@ -99,8 +99,6 @@
 {{movesLvl|61|Shadow_Ball}}
 {{movesLvl|68|Blizzard}}
 |}
-{{MovesAlign}}{{MovesBTop|Ice}}
-|}
 {{MovesAlign}}{{MovesTmTop|Ice}}
 {{movesTm|Ally_Switch}}
 {{movesTm|Attract}}
@@ -199,6 +197,8 @@
 {{moves|Trick}}
 {{moves|Triple_Axel}}
 {{moves|Water_Pulse}}
+|}
+{{MovesAlign}}{{MovesBTop|Ice}}
 |}
 |}
 {{NextPrev|dexprev=477|prev=Dusknoir|dexnext=479|next=Rotom}}

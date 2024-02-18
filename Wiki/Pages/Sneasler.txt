@@ -69,8 +69,6 @@
 {{movesLvl|54|Screech}}
 {{movesLvl|60|Close_Combat}}
 |}
-{{MovesAlign}}{{MovesBTop|Fighting}}
-|}
 {{MovesAlign}}{{MovesTmTop|Fighting}}
 {{movesTm|Acid_Spray}}
 {{movesTm|Acrobatics}}
@@ -122,6 +120,8 @@
 {{movesTm|X-Scissor}}
 |}
 {{MovesAlign}}{{MovesTop|Fighting}}
+|}
+{{MovesAlign}}{{MovesBTop|Fighting}}
 |}
 |}
 {{NextPrev|dexprev=902|prev=Basculegion|dexnext=904|next=Overqwil}}
