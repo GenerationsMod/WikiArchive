@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Ironfist
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=45
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=A tall, hardy PokÃ©mon with a dazzling appearance. It shrouds itself in flame and battles as if engaged in danceâ€”truly a sight to behold.
+|dexentry=A tall, hardy Pokemon with a dazzling appearance. It shrouds itself in flame and battles as if engaged in danceâ€”truly a sight to behold.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Infernape_(Pok%C3%A9mon) Infernape] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

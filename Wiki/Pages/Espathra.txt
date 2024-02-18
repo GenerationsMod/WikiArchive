@@ -5,8 +5,9 @@
 |ndex=956
 |type1=Psychic
 |type2=
-|ability1=Frisk|ability2=Opportunist
+|ability1=Opportunist|ability2=Frisk
 |abilityH=Speedboost
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60

@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Vitalspirit
+|genderm=75.0
 |abilityS=
 |genderm=75.0
 |catchrate=45
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Legend has it that this PokÃ©mon was born from the crater of a volcano. When wounded, it bathes in lava to heal its body, much as one would soak in a hot spring.
+|dexentry=Legend has it that this Pokemon was born from the crater of a volcano. When wounded, it bathes in lava to heal its body, much as one would soak in a hot spring.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Magmar_(Pok%C3%A9mon) Magmar] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

@@ -5,8 +5,9 @@
 |ndex=575
 |type1=Psychic
 |type2=
-|ability1=Frisk|ability2=Competitive
+|ability1=Competitive|ability2=Frisk
 |abilityH=Shadowtag
+|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=100
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=On nights when the stars shine, this PokÃ©monâ€™s psychic power is at its strongest. Itâ€™s unknown just what link Gothorita has to the greater universe.
+|dexentry=On nights when the stars shine, this Pokemonâ€™s psychic power is at its strongest. Itâ€™s unknown just what link Gothorita has to the greater universe.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Gothorita_(Pok%C3%A9mon) Gothorita] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

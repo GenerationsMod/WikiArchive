@@ -5,8 +5,9 @@
 |ndex=278
 |type1=Water
 |type2=Flying
-|ability1=Keeneye|ability2=Hydration
+|ability1=Hydration|ability2=Keeneye
 |abilityH=Raindish
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

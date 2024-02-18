@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Cursedbody
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=60
@@ -26,7 +27,7 @@
 |form=Antique
 |alt1=
 |alt1dex=
-|dexentry=Leaving leftover black tea unattended is asking for this PokÃ©mon to come along and pour itself into it, turning the tea into a new Polteageist.
+|dexentry=Leaving leftover black tea unattended is asking for this Pokemon to come along and pour itself into it, turning the tea into a new Polteageist.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Polteageist_(Pok%C3%A9mon) Polteageist] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

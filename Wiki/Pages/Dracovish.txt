@@ -5,8 +5,9 @@
 |ndex=882
 |type1=Water
 |type2=Dragon
-|ability1=Waterabsorb|ability2=Strongjaw
+|ability1=Strongjaw|ability2=Waterabsorb
 |abilityH=Sandrush
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Its mighty legs are capable of running at speeds exceeding 40 mph, but this PokÃ©mon canâ€™t breathe unless itâ€™s underwater.
+|dexentry=Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokemon canâ€™t breathe unless itâ€™s underwater.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Dracovish_(Pok%C3%A9mon) Dracovish] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

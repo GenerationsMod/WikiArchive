@@ -5,8 +5,9 @@
 |ndex=191
 |type1=Grass
 |type2=
-|ability1=Chlorophyll|ability2=Solarpower
+|ability1=Solarpower|ability2=Chlorophyll
 |abilityH=Earlybird
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=235

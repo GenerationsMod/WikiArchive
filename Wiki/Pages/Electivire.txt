@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Vitalspirit
+|genderm=75.0
 |abilityS=
 |genderm=75.0
 |catchrate=30

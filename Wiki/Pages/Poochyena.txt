@@ -5,8 +5,9 @@
 |ndex=261
 |type1=Dark
 |type2=
-|ability1=Runaway|ability2=Quickfeet
+|ability1=Quickfeet|ability2=Runaway
 |abilityH=Rattled
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Poochyena is an omnivoreâ€”it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This PokÃ©mon tries to intimidate its foes by making the hair on its tail bristle out.
+|dexentry=Poochyena is an omnivoreâ€”it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This Pokemon tries to intimidate its foes by making the hair on its tail bristle out.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Poochyena_(Pok%C3%A9mon) Poochyena] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

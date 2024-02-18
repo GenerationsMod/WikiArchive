@@ -5,8 +5,9 @@
 |ndex=974
 |type1=Ice
 |type2=
-|ability1=Snowcloak|ability2=Thickfat
+|ability1=Thickfat|ability2=Snowcloak
 |abilityH=Sheerforce
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=150

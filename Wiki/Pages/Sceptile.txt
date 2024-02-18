@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Unburden
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=45
@@ -26,7 +27,7 @@
 |form=Mega
 |alt1=
 |alt1dex=
-|dexentry=Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This PokÃ©mon raises the trees in a forest with loving care.
+|dexentry=Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokemon raises the trees in a forest with loving care.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Sceptile_(Pok%C3%A9mon) Sceptile] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

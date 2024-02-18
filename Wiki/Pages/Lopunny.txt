@@ -5,8 +5,9 @@
 |ndex=428
 |type1=Normal
 |type2=
-|ability1=Cutecharm|ability2=Klutz
+|ability1=Klutz|ability2=Cutecharm
 |abilityH=Limber
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60
@@ -24,7 +25,7 @@
 |form=Mega
 |alt1=
 |alt1dex=
-|dexentry=Its fur is warm and yet remarkably light. This PokÃ©mon kicks as though it were a master of karate, driving back its opponents with ease.
+|dexentry=Its fur is warm and yet remarkably light. This Pokemon kicks as though it were a master of karate, driving back its opponents with ease.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Lopunny_(Pok%C3%A9mon) Lopunny] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

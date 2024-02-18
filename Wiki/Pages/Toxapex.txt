@@ -5,8 +5,9 @@
 |ndex=748
 |type1=Poison
 |type2=Water
-|ability1=Limber|ability2=Merciless
+|ability1=Merciless|ability2=Limber
 |abilityH=Regenerator
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Within the poison sac in its body is a poison so toxic that PokÃ©mon as large as Wailord will still be suffering three days after it first takes effect.
+|dexentry=Within the poison sac in its body is a poison so toxic that Pokemon as large as Wailord will still be suffering three days after it first takes effect.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Toxapex_(Pok%C3%A9mon) Toxapex] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

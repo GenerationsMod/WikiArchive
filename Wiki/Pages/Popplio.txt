@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Liquidvoice
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=45
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these PokÃ©mon to develop their skills.
+|dexentry=If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokemon to develop their skills.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Popplio_(Pok%C3%A9mon) Popplio] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

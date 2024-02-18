@@ -5,8 +5,9 @@
 |ndex=213
 |type1=Bug
 |type2=Rock
-|ability1=Gluttony|ability2=Sturdy
+|ability1=Sturdy|ability2=Gluttony
 |abilityH=Contrary
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

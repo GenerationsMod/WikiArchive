@@ -5,8 +5,9 @@
 |ndex=298
 |type1=Normal
 |type2=Fairy
-|ability1=Hugepower|ability2=Thickfat
+|ability1=Thickfat|ability2=Hugepower
 |abilityH=Sapsipper
+|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=150

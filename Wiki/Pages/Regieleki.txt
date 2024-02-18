@@ -7,6 +7,7 @@
 |type2=
 |ability1=Transistor
 |abilityH=
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=3

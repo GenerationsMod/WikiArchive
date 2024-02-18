@@ -5,8 +5,9 @@
 |ndex=098
 |type1=Water
 |type2=
-|ability1=Shellarmor|ability2=Hypercutter
+|ability1=Hypercutter|ability2=Shellarmor
 |abilityH=Sheerforce
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=225

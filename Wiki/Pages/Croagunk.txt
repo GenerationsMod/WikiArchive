@@ -7,6 +7,7 @@
 |type2=Fighting
 |ability1=Anticipation|ability2=Dryskin
 |abilityH=Poisontouch
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=140

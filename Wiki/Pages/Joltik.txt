@@ -7,6 +7,7 @@
 |type2=Electric
 |ability1=Compoundeyes|ability2=Unnerve
 |abilityH=Swarm
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Joltik latch on to other PokÃ©mon and suck out static electricity. Theyâ€™re often found sticking to Yamperâ€™s hindquarters.
+|dexentry=Joltik latch on to other Pokemon and suck out static electricity. Theyâ€™re often found sticking to Yamperâ€™s hindquarters.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Joltik_(Pok%C3%A9mon) Joltik] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

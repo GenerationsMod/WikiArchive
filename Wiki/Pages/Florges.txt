@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Symbiosis
+|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=45

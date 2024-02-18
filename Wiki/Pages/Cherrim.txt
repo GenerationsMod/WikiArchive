@@ -7,6 +7,7 @@
 |type2=
 |ability1=Flowergift
 |abilityH=
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75
@@ -24,7 +25,7 @@
 |form=Sunshine
 |alt1=
 |alt1dex=
-|dexentry=Motionless, save for the occasional quiver. A rich array of PokÃ©mon can be found gathered around it, drawn by the scent exuded from Cherrim's folded petals.
+|dexentry=Motionless, save for the occasional quiver. A rich array of Pokemon can be found gathered around it, drawn by the scent exuded from Cherrim's folded petals.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Cherrim_(Pok%C3%A9mon) Cherrim] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

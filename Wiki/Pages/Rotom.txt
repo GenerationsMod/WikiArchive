@@ -7,6 +7,7 @@
 |type2=Ghost
 |ability1=Levitate
 |abilityH=
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=Heat, Wash, Frost, Fan, Mow
 |alt1=
 |alt1dex=
-|dexentry=This bizarre PokÃ©mon appears to be a will-o'-the-wisp powered by electricity. Be wary, as Rotom is both smart and mischievous.
+|dexentry=This bizarre Pokemon appears to be a will-o'-the-wisp powered by electricity. Be wary, as Rotom is both smart and mischievous.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Rotom_(Pok%C3%A9mon) Rotom] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

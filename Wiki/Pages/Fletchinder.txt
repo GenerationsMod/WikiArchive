@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Galewings
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Fletchinder are exceedingly territorial and aggressive. These PokÃ©mon fight among themselves over feeding grounds.
+|dexentry=Fletchinder are exceedingly territorial and aggressive. These Pokemon fight among themselves over feeding grounds.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Fletchinder_(Pok%C3%A9mon) Fletchinder] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

@@ -5,8 +5,9 @@
 |ndex=340
 |type1=Water
 |type2=Ground
-|ability1=Anticipation|ability2=Oblivious
+|ability1=Oblivious|ability2=Anticipation
 |abilityH=Hydration
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

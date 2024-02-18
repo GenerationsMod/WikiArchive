@@ -7,6 +7,7 @@
 |type2=
 |ability1=Sturdy|ability2=Purifyingsalt
 |abilityH=Clearbody
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=This PokÃ©mon dry cures its prey by spraying salt over them. The curing process steals away the water in the preyâ€™s body. 
+|dexentry=This Pokemon dry cures its prey by spraying salt over them. The curing process steals away the water in the preyâ€™s body. 
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Naclstack_(Pok%C3%A9mon) Naclstack] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

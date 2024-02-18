@@ -10,7 +10,7 @@ def extract_spawn_data(pokemon_name, spawn_folder):
             return spawn_data.get("spawns", [])
     else:
         return []
-#TO DO: Form stats, Bumblezone individual biome support instead of tags, better name handling of spawn jsons so don't have to rename the jsons
+#TO DO: Form stats, Bumblezone individual biome support instead of tags, better name handling of spawn jsons so don't have to rename the jsons, spawning is only grabbing the last result
 #For me: php maintenance/importTextFiles.php --overwrite --use-timestamp ImportPages/*.txt
 def format_item_name(item):
     # Grab the text after the colon (ie cobblemon:, then replace underscores with spaces
@@ -102,6 +102,11 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
 
         # Adjust the gender ratio since cobblemon uses 1.0 as 100%
         male_ratio = pokemon_data.get('maleRatio', 0) * 100  # Multiply by 100 to adjust
+        if male_ratio == -100:
+            gender_ratio = "Genderless"
+        else:
+            gender_ratio = str(male_ratio)
+        txt_file.write(f"|genderm={gender_ratio}\n")
         # This is probably for Rockruff since it has 4 abilities
         txt_file.write(f"|abilityS=\n")
         txt_file.write(f"|genderm={male_ratio}\n")

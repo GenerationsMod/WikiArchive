@@ -7,6 +7,7 @@
 |type2=Ghost
 |ability1=Technician
 |abilityH=
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=3
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=This PokÃ©mon can conceal itself in any shadow, so it went undiscovered for a long time.
+|dexentry=This Pokemon can conceal itself in any shadow, so it went undiscovered for a long time.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Marshadow_(Pok%C3%A9mon) Marshadow] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

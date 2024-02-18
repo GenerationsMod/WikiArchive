@@ -5,8 +5,9 @@
 |ndex=764
 |type1=Fairy
 |type2=
-|ability1=Flowerveil|ability2=Triage
+|ability1=Triage|ability2=Flowerveil
 |abilityH=Naturalcure
+|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=60
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=These PokÃ©mon smell very nice. All Comfey wear different flowers, so each of these PokÃ©mon has its own individual scent.
+|dexentry=These Pokemon smell very nice. All Comfey wear different flowers, so each of these Pokemon has its own individual scent.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Comfey_(Pok%C3%A9mon) Comfey] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

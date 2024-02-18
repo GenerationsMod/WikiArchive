@@ -5,8 +5,9 @@
 |ndex=543
 |type1=Bug
 |type2=Poison
-|ability1=Poisonpoint|ability2=Swarm
+|ability1=Swarm|ability2=Poisonpoint
 |abilityH=Speedboost
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Its fangs are highly venomous. If this PokÃ©mon finds prey it thinks it can eat, it leaps for them without any thought of how things might turn out.
+|dexentry=Its fangs are highly venomous. If this Pokemon finds prey it thinks it can eat, it leaps for them without any thought of how things might turn out.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Venipede_(Pok%C3%A9mon) Venipede] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

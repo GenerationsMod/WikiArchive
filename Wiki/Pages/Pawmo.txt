@@ -5,8 +5,9 @@
 |ndex=922
 |type1=Electric
 |type2=Fighting
-|ability1=Voltabsorb|ability2=Naturalcure
+|ability1=Naturalcure|ability2=Voltabsorb
 |abilityH=Ironfist
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=80

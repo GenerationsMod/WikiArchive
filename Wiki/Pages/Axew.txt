@@ -5,8 +5,9 @@
 |ndex=610
 |type1=Dragon
 |type2=
-|ability1=Moldbreaker|ability2=Rivalry
+|ability1=Rivalry|ability2=Moldbreaker
 |abilityH=Unnerve
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

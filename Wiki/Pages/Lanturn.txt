@@ -7,6 +7,7 @@
 |type2=Electric
 |ability1=Voltabsorb|ability2=Illuminate
 |abilityH=Waterabsorb
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=This PokÃ©mon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.
+|dexentry=This Pokemon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Lanturn_(Pok%C3%A9mon) Lanturn] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

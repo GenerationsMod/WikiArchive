@@ -5,8 +5,9 @@
 |ndex=324
 |type1=Fire
 |type2=
-|ability1=Whitesmoke|ability2=Drought
+|ability1=Drought|ability2=Whitesmoke
 |abilityH=Shellarmor
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=90

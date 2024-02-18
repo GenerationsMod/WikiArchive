@@ -5,8 +5,9 @@
 |ndex=121
 |type1=Water
 |type2=Psychic
-|ability1=Illuminate|ability2=Naturalcure
+|ability1=Naturalcure|ability2=Illuminate
 |abilityH=Analytic
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=60
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Starmie swims by spinning its body at high speed. As this PokÃ©mon cruises through the ocean, it absorbs tiny plankton.
+|dexentry=Starmie swims by spinning its body at high speed. As this Pokemon cruises through the ocean, it absorbs tiny plankton.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Starmie_(Pok%C3%A9mon) Starmie] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

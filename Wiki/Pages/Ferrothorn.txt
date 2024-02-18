@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Anticipation
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=90
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Its spikes are harder than steel. This PokÃ©mon crawls across rock walls by stabbing the spikes on its feelers into the stone.
+|dexentry=Its spikes are harder than steel. This Pokemon crawls across rock walls by stabbing the spikes on its feelers into the stone.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Ferrothorn_(Pok%C3%A9mon) Ferrothorn] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

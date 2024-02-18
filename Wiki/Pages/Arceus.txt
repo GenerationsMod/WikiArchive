@@ -7,6 +7,7 @@
 |type2=
 |ability1=Multitype
 |abilityH=
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=3
@@ -24,7 +25,7 @@
 |form=Bug, Dark, Dragon, Electric, Fairy, Fighting, Fire, Flying, Ghost, Grass, Ground, Ice, Poison, Psychic, Rock, Steel, Water
 |alt1=
 |alt1dex=
-|dexentry=It is the heavenly fount from which pours the light that shines across Hisui. Its luminance guides and protects all PokÃ©mon. Hisuian mythology states that Arceus is the creator of all things.
+|dexentry=It is the heavenly fount from which pours the light that shines across Hisui. Its luminance guides and protects all Pokemon. Hisuian mythology states that Arceus is the creator of all things.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Arceus_(Pok%C3%A9mon) Arceus] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

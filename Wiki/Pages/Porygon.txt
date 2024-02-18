@@ -5,8 +5,9 @@
 |ndex=137
 |type1=Normal
 |type2=
-|ability1=Download|ability2=Trace
+|ability1=Trace|ability2=Download
 |abilityH=Analytic
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=45

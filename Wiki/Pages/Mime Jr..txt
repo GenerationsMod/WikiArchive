@@ -7,6 +7,7 @@
 |type2=Fairy
 |ability1=Soundproof|ability2=Filter
 |abilityH=Technician
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=145

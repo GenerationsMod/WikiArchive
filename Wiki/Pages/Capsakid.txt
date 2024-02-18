@@ -7,6 +7,7 @@
 |type2=
 |ability1=Insomnia|ability2=Chlorophyll
 |abilityH=Klutz
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=The more sunlight this PokÃ©mon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become. 
+|dexentry=The more sunlight this Pokemon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become. 
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Capsakid_(Pok%C3%A9mon) Capsakid] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

@@ -7,6 +7,7 @@
 |type2=
 |ability1=Guts|ability2=Noguard
 |abilityH=Steadfast
+|genderm=75.0
 |abilityS=
 |genderm=75.0
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=Gmax
 |alt1=
 |alt1dex=
-|dexentry=In close combat, its four arms afford it offensive and defensive supremacy. In but a blink, this valiant PokÃ©mon can overwhelm its foes with more than 1,000 blows from its fists.
+|dexentry=In close combat, its four arms afford it offensive and defensive supremacy. In but a blink, this valiant Pokemon can overwhelm its foes with more than 1,000 blows from its fists.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Machamp_(Pok%C3%A9mon) Machamp] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

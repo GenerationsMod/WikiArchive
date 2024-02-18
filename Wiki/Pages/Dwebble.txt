@@ -5,8 +5,9 @@
 |ndex=557
 |type1=Bug
 |type2=Rock
-|ability1=Shellarmor|ability2=Sturdy
+|ability1=Sturdy|ability2=Shellarmor
 |abilityH=Weakarmor
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

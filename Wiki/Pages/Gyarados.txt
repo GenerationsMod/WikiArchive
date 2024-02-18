@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Moxie
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45
@@ -26,7 +27,7 @@
 |form=Mega
 |alt1=
 |alt1dex=
-|dexentry=I suspect this PokÃ©mon to be the true identity of a dragon written of in ancient texts, which claimed that it razed an entire village with white-hot beams from its maw.
+|dexentry=I suspect this Pokemon to be the true identity of a dragon written of in ancient texts, which claimed that it razed an entire village with white-hot beams from its maw.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Gyarados_(Pok%C3%A9mon) Gyarados] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

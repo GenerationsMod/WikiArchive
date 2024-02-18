@@ -7,6 +7,7 @@
 |type2=
 |ability1=Lingeringaroma|ability2=Gluttony
 |abilityH=Thickfat
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=100

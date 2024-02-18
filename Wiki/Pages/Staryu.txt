@@ -5,8 +5,9 @@
 |ndex=120
 |type1=Water
 |type2=
-|ability1=Illuminate|ability2=Naturalcure
+|ability1=Naturalcure|ability2=Illuminate
 |abilityH=Analytic
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=225
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Fish PokÃ©mon nibble at it, but Staryu isnâ€™t bothered. Its body regenerates quickly, even if part of it is completely torn off.
+|dexentry=Fish Pokemon nibble at it, but Staryu isnâ€™t bothered. Its body regenerates quickly, even if part of it is completely torn off.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Staryu_(Pok%C3%A9mon) Staryu] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

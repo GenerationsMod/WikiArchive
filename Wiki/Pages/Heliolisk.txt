@@ -5,8 +5,9 @@
 |ndex=695
 |type1=Electric
 |type2=Normal
-|ability1=Dryskin|ability2=Sandveil
+|ability1=Sandveil|ability2=Dryskin
 |abilityH=Solarpower
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Speedboost
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=45
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Combusken battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This PokÃ©monâ€™s cry is very loud and distracting.
+|dexentry=Combusken battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This Pokemonâ€™s cry is very loud and distracting.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Combusken_(Pok%C3%A9mon) Combusken] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

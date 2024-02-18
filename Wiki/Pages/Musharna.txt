@@ -5,8 +5,9 @@
 |ndex=518
 |type1=Psychic
 |type2=
-|ability1=Forewarn|ability2=Synchronize
+|ability1=Synchronize|ability2=Forewarn
 |abilityH=Telepathy
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

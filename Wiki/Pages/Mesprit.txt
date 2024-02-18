@@ -7,6 +7,7 @@
 |type2=
 |ability1=Levitate
 |abilityH=
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=3
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Known as the Being of Emotion. In legend, this PokÃ©mon was feared, as any who showed disrespect would have their emotions thrown into disarray.
+|dexentry=Known as the Being of Emotion. In legend, this Pokemon was feared, as any who showed disrespect would have their emotions thrown into disarray.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Mesprit_(Pok%C3%A9mon) Mesprit] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

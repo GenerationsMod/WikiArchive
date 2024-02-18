@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Leafguard
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=45
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=The fragrance of Meganiumâ€™s flower soothes and calms emotions. In battle, this PokÃ©mon gives off more of its becalming scent to blunt the foeâ€™s fighting spirit.
+|dexentry=The fragrance of Meganiumâ€™s flower soothes and calms emotions. In battle, this Pokemon gives off more of its becalming scent to blunt the foeâ€™s fighting spirit.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Meganium_(Pok%C3%A9mon) Meganium] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

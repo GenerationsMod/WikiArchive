@@ -5,8 +5,9 @@
 |ndex=215
 |type1=Dark
 |type2=Ice
-|ability1=Keeneye|ability2=Innerfocus
+|ability1=Innerfocus|ability2=Keeneye
 |abilityH=Pickpocket
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60

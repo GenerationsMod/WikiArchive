@@ -5,8 +5,9 @@
 |ndex=023
 |type1=Poison
 |type2=
-|ability1=Intimidate|ability2=Shedskin
+|ability1=Shedskin|ability2=Intimidate
 |abilityH=Unnerve
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255

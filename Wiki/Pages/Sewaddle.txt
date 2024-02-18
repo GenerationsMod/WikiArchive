@@ -7,6 +7,7 @@
 |type2=Grass
 |ability1=Swarm|ability2=Chlorophyll
 |abilityH=Overcoat
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Since this PokÃ©mon makes its own clothes out of leaves, it is a popular mascot for fashion designers.
+|dexentry=Since this Pokemon makes its own clothes out of leaves, it is a popular mascot for fashion designers.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Sewaddle_(Pok%C3%A9mon) Sewaddle] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

@@ -7,6 +7,7 @@
 |type2=Psychic
 |ability1=Cudchew|ability2=Armortail
 |abilityH=Sapsipper
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Now that the brain waves from the head and tail are synced up, the psychic power of this PokÃ©mon is 10 times stronger than Girafarigâ€™s. 
+|dexentry=Now that the brain waves from the head and tail are synced up, the psychic power of this Pokemon is 10 times stronger than Girafarigâ€™s. 
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Farigiraf_(Pok%C3%A9mon) Farigiraf] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Regenerator
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=3

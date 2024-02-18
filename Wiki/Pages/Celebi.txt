@@ -7,6 +7,7 @@
 |type2=Grass
 |ability1=Naturalcure
 |abilityH=
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=This PokÃ©mon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.
+|dexentry=This Pokemon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Celebi_(Pok%C3%A9mon) Celebi] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

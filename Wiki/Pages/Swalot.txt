@@ -7,6 +7,7 @@
 |type2=
 |ability1=Stickyhold|ability2=Liquidooze
 |abilityH=Gluttony
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this PokÃ©monâ€™s mouth.
+|dexentry=Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pokemonâ€™s mouth.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Swalot_(Pok%C3%A9mon) Swalot] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

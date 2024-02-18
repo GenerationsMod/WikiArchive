@@ -7,6 +7,7 @@
 |type2=
 |ability1=Steamengine|ability2=Heatproof
 |abilityH=Flashfire
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255

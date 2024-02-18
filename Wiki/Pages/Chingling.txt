@@ -7,6 +7,7 @@
 |type2=
 |ability1=Levitate
 |abilityH=
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=This PokÃ©mon gave me an excruciating headache when it seemingly cried out without making a sound. Perhaps there are some sounds that the human ear is simply incapable of hearing.
+|dexentry=This Pokemon gave me an excruciating headache when it seemingly cried out without making a sound. Perhaps there are some sounds that the human ear is simply incapable of hearing.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Chingling_(Pok%C3%A9mon) Chingling] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

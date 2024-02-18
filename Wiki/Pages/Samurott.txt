@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Shellarmor
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=45
@@ -26,7 +27,7 @@
 |form=Hisui
 |alt1=
 |alt1dex=
-|dexentry=Hard of heart and deft of blade, this rare form of Samurott is a product of the PokÃ©mon's evolution in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves.
+|dexentry=Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokemon's evolution in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Samurott_(Pok%C3%A9mon) Samurott] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

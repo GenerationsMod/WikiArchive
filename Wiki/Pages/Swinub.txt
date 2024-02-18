@@ -5,8 +5,9 @@
 |ndex=220
 |type1=Ice
 |type2=Ground
-|ability1=Snowcloak|ability2=Oblivious
+|ability1=Oblivious|ability2=Snowcloak
 |abilityH=Thickfat
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=225

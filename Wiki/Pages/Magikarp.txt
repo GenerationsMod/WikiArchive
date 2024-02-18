@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Rattled
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=A feeble, pitiful imbecile of a PokÃ©mon that is nonetheless very hardy. Unperturbed by turbid water, it can be found living in all sorts of places.
+|dexentry=A feeble, pitiful imbecile of a Pokemon that is nonetheless very hardy. Unperturbed by turbid water, it can be found living in all sorts of places.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Magikarp_(Pok%C3%A9mon) Magikarp] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

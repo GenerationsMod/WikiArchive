@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Vitalspirit
+|genderm=75.0
 |abilityS=
 |genderm=75.0
 |catchrate=45
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Feeds on electrical energy. During sudden showers beneath looming thunderclouds, one can observe Electabuzz scaling tall trees, where the PokÃ©mon will then wait for lightning to strike.
+|dexentry=Feeds on electrical energy. During sudden showers beneath looming thunderclouds, one can observe Electabuzz scaling tall trees, where the Pokemon will then wait for lightning to strike.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Electabuzz_(Pok%C3%A9mon) Electabuzz] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

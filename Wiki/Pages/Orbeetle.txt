@@ -5,8 +5,9 @@
 |ndex=826
 |type1=Bug
 |type2=Psychic
-|ability1=Frisk|ability2=Swarm
+|ability1=Swarm|ability2=Frisk
 |abilityH=Telepathy
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

@@ -5,8 +5,9 @@
 |ndex=541
 |type1=Bug
 |type2=Grass
-|ability1=Leafguard|ability2=Chlorophyll
+|ability1=Chlorophyll|ability2=Leafguard
 |abilityH=Overcoat
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120

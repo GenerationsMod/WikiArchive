@@ -7,6 +7,7 @@
 |type2=Grass
 |ability1=Tabletsofruin
 |abilityH=
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=6

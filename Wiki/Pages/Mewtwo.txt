@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Unnerve
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=3

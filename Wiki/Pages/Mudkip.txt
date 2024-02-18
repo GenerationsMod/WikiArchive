@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Damp
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=45
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this PokÃ©mon will unleash its amazing powerâ€”it can crush rocks bigger than itself.
+|dexentry=In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokemon will unleash its amazing powerâ€”it can crush rocks bigger than itself.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Mudkip_(Pok%C3%A9mon) Mudkip] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

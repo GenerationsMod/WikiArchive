@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Cursedbody
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=120
@@ -26,7 +27,7 @@
 |form=Antique
 |alt1=
 |alt1dex=
-|dexentry=The teacup in which this PokÃ©mon makes its home is a famous piece of antique tableware. Many forgeries are in circulation.
+|dexentry=The teacup in which this Pokemon makes its home is a famous piece of antique tableware. Many forgeries are in circulation.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Sinistea_(Pok%C3%A9mon) Sinistea] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

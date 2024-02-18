@@ -5,8 +5,9 @@
 |ndex=584
 |type1=Ice
 |type2=
-|ability1=Snowwarning|ability2=Icebody
+|ability1=Icebody|ability2=Snowwarning
 |abilityH=Weakarmor
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=People believe this PokÃ©mon formed when two Vanillish stuck together. Its body temperature is roughly 21 degrees Fahrenheit.
+|dexentry=People believe this Pokemon formed when two Vanillish stuck together. Its body temperature is roughly 21 degrees Fahrenheit.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Vanilluxe_(Pok%C3%A9mon) Vanilluxe] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

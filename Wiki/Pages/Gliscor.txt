@@ -7,6 +7,7 @@
 |type2=Flying
 |ability1=Sandveil|ability2=Hypercutter
 |abilityH=Poisonheal
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=30

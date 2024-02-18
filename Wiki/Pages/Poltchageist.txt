@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Heatproof
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=120
@@ -26,7 +27,7 @@
 |form=Artisan
 |alt1=
 |alt1dex=
-|dexentry=Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a PokÃ©mon.
+|dexentry=Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pokemon.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Poltchageist_(Pok%C3%A9mon) Poltchageist] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

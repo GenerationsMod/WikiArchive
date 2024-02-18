@@ -5,8 +5,9 @@
 |ndex=357
 |type1=Grass
 |type2=Flying
-|ability1=Chlorophyll|ability2=Solarpower
+|ability1=Solarpower|ability2=Chlorophyll
 |abilityH=Harvest
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=200

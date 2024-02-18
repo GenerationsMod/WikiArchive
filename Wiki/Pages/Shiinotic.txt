@@ -5,8 +5,9 @@
 |ndex=756
 |type1=Grass
 |type2=Fairy
-|ability1=Illuminate|ability2=Effectspore
+|ability1=Effectspore|ability2=Illuminate
 |abilityH=Raindish
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

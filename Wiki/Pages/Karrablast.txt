@@ -5,8 +5,9 @@
 |ndex=588
 |type1=Bug
 |type2=
-|ability1=Swarm|ability2=Shedskin
+|ability1=Shedskin|ability2=Swarm
 |abilityH=Noguard
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=200

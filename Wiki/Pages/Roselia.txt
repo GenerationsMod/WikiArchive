@@ -5,8 +5,9 @@
 |ndex=315
 |type1=Grass
 |type2=Poison
-|ability1=Poisonpoint|ability2=Naturalcure
+|ability1=Naturalcure|ability2=Poisonpoint
 |abilityH=Leafguard
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=150

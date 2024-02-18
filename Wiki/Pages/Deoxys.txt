@@ -7,6 +7,7 @@
 |type2=
 |ability1=Pressure
 |abilityH=
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=3
@@ -24,7 +25,7 @@
 |form=Attack, Defense, Speed
 |alt1=
 |alt1dex=
-|dexentry=Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This PokÃ©mon shoots lasers from the crystalline organ on its chest.
+|dexentry=Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokemon shoots lasers from the crystalline organ on its chest.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Deoxys_(Pok%C3%A9mon) Deoxys] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

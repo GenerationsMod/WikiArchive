@@ -7,6 +7,7 @@
 |type2=
 |ability1=Hydration|ability2=Sapsipper
 |abilityH=Gooey
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

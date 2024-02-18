@@ -5,8 +5,9 @@
 |ndex=363
 |type1=Ice
 |type2=Water
-|ability1=Icebody|ability2=Thickfat
+|ability1=Thickfat|ability2=Icebody
 |abilityH=Oblivious
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255

@@ -5,8 +5,9 @@
 |ndex=350
 |type1=Water
 |type2=
-|ability1=Marvelscale|ability2=Competitive
+|ability1=Competitive|ability2=Marvelscale
 |abilityH=Cutecharm
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60

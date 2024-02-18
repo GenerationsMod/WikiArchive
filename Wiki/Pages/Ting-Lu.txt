@@ -7,6 +7,7 @@
 |type2=Ground
 |ability1=Vesselofruin
 |abilityH=
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=6

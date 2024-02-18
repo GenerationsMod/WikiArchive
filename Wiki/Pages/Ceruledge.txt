@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Weakarmor
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=25

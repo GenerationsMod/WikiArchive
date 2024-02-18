@@ -7,6 +7,7 @@
 |type2=Flying
 |ability1=Pressure|ability2=Rockhead
 |abilityH=Unnerve
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=Mega
 |alt1=
 |alt1dex=
-|dexentry=Aerodactylâ€™s sawlike fangs can shred skin to tattersâ€”even the skin of Steel-type PokÃ©mon.
+|dexentry=Aerodactylâ€™s sawlike fangs can shred skin to tattersâ€”even the skin of Steel-type Pokemon.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Aerodactyl_(Pok%C3%A9mon) Aerodactyl] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

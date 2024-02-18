@@ -5,8 +5,9 @@
 |ndex=314
 |type1=Bug
 |type2=
-|ability1=Tintedlens|ability2=Oblivious
+|ability1=Oblivious|ability2=Tintedlens
 |abilityH=Prankster
+|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=150
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This PokÃ©mon is said to earn greater respect from its peers by composing more complex designs in the sky.
+|dexentry=Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pokemon is said to earn greater respect from its peers by composing more complex designs in the sky.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Illumise_(Pok%C3%A9mon) Illumise] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

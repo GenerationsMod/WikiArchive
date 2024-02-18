@@ -7,6 +7,7 @@
 |type2=Psychic
 |ability1=Screencleaner|ability2=Tangledfeet
 |abilityH=Icebody
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

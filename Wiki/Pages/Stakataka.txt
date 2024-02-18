@@ -7,6 +7,7 @@
 |type2=Steel
 |ability1=Beastboost
 |abilityH=
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=30

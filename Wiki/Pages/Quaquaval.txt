@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Moxie
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=45
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=A single kick from a Quaquaval can send a truck rolling. This PokÃ©mon uses its powerful legs to perform striking dances from far-off lands. 
+|dexentry=A single kick from a Quaquaval can send a truck rolling. This Pokemon uses its powerful legs to perform striking dances from far-off lands. 
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Quaquaval_(Pok%C3%A9mon) Quaquaval] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

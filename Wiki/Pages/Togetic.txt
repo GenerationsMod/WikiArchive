@@ -7,6 +7,7 @@
 |type2=Flying
 |ability1=Hustle|ability2=Serenegrace
 |abilityH=Superluck
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=75
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=No records exist of Togetic being seen in the wilds. Rumors abound that it evolves under the loving care of a trusted human companion, upon whom the PokÃ©mon then bestows great joy.
+|dexentry=No records exist of Togetic being seen in the wilds. Rumors abound that it evolves under the loving care of a trusted human companion, upon whom the Pokemon then bestows great joy.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Togetic_(Pok%C3%A9mon) Togetic] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

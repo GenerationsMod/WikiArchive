@@ -5,8 +5,9 @@
 |ndex=690
 |type1=Poison
 |type2=Water
-|ability1=Poisonpoint|ability2=Poisontouch
+|ability1=Poisontouch|ability2=Poisonpoint
 |abilityH=Adaptability
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=225

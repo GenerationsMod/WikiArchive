@@ -5,8 +5,9 @@
 |ndex=883
 |type1=Water
 |type2=Ice
-|ability1=Waterabsorb|ability2=Icebody
+|ability1=Icebody|ability2=Waterabsorb
 |abilityH=Slushrush
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=The skin on its face is impervious to attack, but breathing difficulties made this PokÃ©mon go extinct anyway.
+|dexentry=The skin on its face is impervious to attack, but breathing difficulties made this Pokemon go extinct anyway.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Arctovish_(Pok%C3%A9mon) Arctovish] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

@@ -5,8 +5,9 @@
 |ndex=106
 |type1=Fighting
 |type2=
-|ability1=Limber|ability2=Reckless
+|ability1=Reckless|ability2=Limber
 |abilityH=Unburden
+|genderm=100
 |abilityS=
 |genderm=100
 |catchrate=45

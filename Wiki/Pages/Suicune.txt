@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Innerfocus
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=3
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This PokÃ©mon has the power to purify dirty water.
+|dexentry=Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokemon has the power to purify dirty water.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Suicune_(Pok%C3%A9mon) Suicune] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

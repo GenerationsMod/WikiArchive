@@ -5,8 +5,9 @@
 |ndex=626
 |type1=Normal
 |type2=
-|ability1=Sapsipper|ability2=Reckless
+|ability1=Reckless|ability2=Sapsipper
 |abilityH=Soundproof
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=These PokÃ©mon live in herds of about 20 individuals. Bouffalant that betray the herd will lose the hair on their heads for some reason.
+|dexentry=These Pokemon live in herds of about 20 individuals. Bouffalant that betray the herd will lose the hair on their heads for some reason.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Bouffalant_(Pok%C3%A9mon) Bouffalant] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

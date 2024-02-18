@@ -5,8 +5,9 @@
 |ndex=880
 |type1=Electric
 |type2=Dragon
-|ability1=Voltabsorb|ability2=Hustle
+|ability1=Hustle|ability2=Voltabsorb
 |abilityH=Sandrush
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=45

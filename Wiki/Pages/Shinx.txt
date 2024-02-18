@@ -5,8 +5,9 @@
 |ndex=403
 |type1=Electric
 |type2=
-|ability1=Intimidate|ability2=Rivalry
+|ability1=Rivalry|ability2=Intimidate
 |abilityH=Guts
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=235
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Shakes its body to generate electricity. Its stature belies its aggressionâ€”one must be patient to tame this PokÃ©mon.
+|dexentry=Shakes its body to generate electricity. Its stature belies its aggressionâ€”one must be patient to tame this Pokemon.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Shinx_(Pok%C3%A9mon) Shinx] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

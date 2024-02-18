@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Innerfocus
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=3
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Raikou embodies the speed of lightning. The roars of this PokÃ©mon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.
+|dexentry=Raikou embodies the speed of lightning. The roars of this Pokemon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Raikou_(Pok%C3%A9mon) Raikou] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

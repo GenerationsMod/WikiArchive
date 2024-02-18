@@ -5,8 +5,9 @@
 |ndex=508
 |type1=Normal
 |type2=
-|ability1=Sandrush|ability2=Intimidate
+|ability1=Intimidate|ability2=Sandrush
 |abilityH=Scrappy
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

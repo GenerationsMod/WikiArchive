@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Infiltrator
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a PokÃ©mon. 
+|dexentry=A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokemon. 
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Bramblin_(Pok%C3%A9mon) Bramblin] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

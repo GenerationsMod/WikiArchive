@@ -7,6 +7,7 @@
 |type2=Fairy
 |ability1=Infiltrator|ability2=Prankster
 |abilityH=Chlorophyll
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

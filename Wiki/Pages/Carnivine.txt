@@ -7,6 +7,7 @@
 |type2=
 |ability1=Levitate
 |abilityH=
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=200
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Though this is a plant PokÃ©mon, it has a gluttonous and unruly temperament. Carnivine attacks its prey with its cavernous maw wide open.
+|dexentry=Though this is a plant Pokemon, it has a gluttonous and unruly temperament. Carnivine attacks its prey with its cavernous maw wide open.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Carnivine_(Pok%C3%A9mon) Carnivine] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

@@ -5,8 +5,9 @@
 |ndex=782
 |type1=Dragon
 |type2=
-|ability1=Bulletproof|ability2=Soundproof
+|ability1=Soundproof|ability2=Bulletproof
 |abilityH=Overcoat
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

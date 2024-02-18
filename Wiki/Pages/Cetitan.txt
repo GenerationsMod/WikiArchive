@@ -5,8 +5,9 @@
 |ndex=975
 |type1=Ice
 |type2=
-|ability1=Slushrush|ability2=Thickfat
+|ability1=Thickfat|ability2=Slushrush
 |abilityH=Sheerforce
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=50
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=This PokÃ©mon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin. 
+|dexentry=This Pokemon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin. 
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Cetitan_(Pok%C3%A9mon) Cetitan] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

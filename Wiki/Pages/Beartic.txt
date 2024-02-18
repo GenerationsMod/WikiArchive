@@ -5,8 +5,9 @@
 |ndex=614
 |type1=Ice
 |type2=
-|ability1=Snowcloak|ability2=Slushrush
+|ability1=Slushrush|ability2=Snowcloak
 |abilityH=Swiftswim
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60

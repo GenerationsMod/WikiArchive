@@ -5,8 +5,9 @@
 |ndex=341
 |type1=Water
 |type2=
-|ability1=Shellarmor|ability2=Hypercutter
+|ability1=Hypercutter|ability2=Shellarmor
 |abilityH=Adaptability
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=205
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=It was originally a PokÃ©mon from afar that escaped to the wild. It can adapt to the dirtiest river.
+|dexentry=It was originally a Pokemon from afar that escaped to the wild. It can adapt to the dirtiest river.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Corphish_(Pok%C3%A9mon) Corphish] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

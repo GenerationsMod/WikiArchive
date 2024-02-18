@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Technician
+|genderm=100
 |abilityS=
 |genderm=100
 |catchrate=3

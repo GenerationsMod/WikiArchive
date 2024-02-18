@@ -5,8 +5,9 @@
 |ndex=199
 |type1=Water
 |type2=Psychic
-|ability1=Owntempo|ability2=Oblivious
+|ability1=Oblivious|ability2=Owntempo
 |abilityH=Regenerator
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=70

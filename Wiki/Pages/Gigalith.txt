@@ -7,6 +7,7 @@
 |type2=
 |ability1=Sandstream|ability2=Sturdy
 |abilityH=Sandforce
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

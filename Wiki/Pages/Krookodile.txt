@@ -5,8 +5,9 @@
 |ndex=553
 |type1=Ground
 |type2=Dark
-|ability1=Intimidate|ability2=Moxie
+|ability1=Moxie|ability2=Intimidate
 |abilityH=Angerpoint
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

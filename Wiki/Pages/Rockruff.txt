@@ -5,8 +5,9 @@
 |ndex=744
 |type1=Rock
 |type2=
-|ability1=Keeneye|ability2=Vitalspirit
+|ability1=Vitalspirit|ability2=Keeneye
 |abilityH=Steadfast
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=This PokÃ©mon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks.
+|dexentry=This Pokemon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Rockruff_(Pok%C3%A9mon) Rockruff] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

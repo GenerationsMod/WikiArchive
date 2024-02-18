@@ -5,8 +5,9 @@
 |ndex=339
 |type1=Water
 |type2=Ground
-|ability1=Anticipation|ability2=Oblivious
+|ability1=Oblivious|ability2=Anticipation
 |abilityH=Hydration
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Makes its home in swamps with murky water. The poor visibility hides this PokÃ©mon from predators, and the slime on its body makes grasping it difficult.
+|dexentry=Makes its home in swamps with murky water. The poor visibility hides this Pokemon from predators, and the slime on its body makes grasping it difficult.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Barboach_(Pok%C3%A9mon) Barboach] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

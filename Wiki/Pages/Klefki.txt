@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Magician
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Klefki sucks in metal ions with the horn topping its head. It seems this PokÃ©mon loves keys so much that its head needed to look like one, too.
+|dexentry=Klefki sucks in metal ions with the horn topping its head. It seems this Pokemon loves keys so much that its head needed to look like one, too.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Klefki_(Pok%C3%A9mon) Klefki] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

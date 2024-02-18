@@ -5,8 +5,9 @@
 |ndex=297
 |type1=Fighting
 |type2=
-|ability1=Guts|ability2=Thickfat
+|ability1=Thickfat|ability2=Guts
 |abilityH=Sheerforce
+|genderm=75.0
 |abilityS=
 |genderm=75.0
 |catchrate=200

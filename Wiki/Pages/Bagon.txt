@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Sheerforce
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Bagon is a solitary PokÃ©mon that doesnâ€™t form groups with others of its kind. It also has a head hard enough to cleave a boulder in one strike.
+|dexentry=Bagon is a solitary Pokemon that doesnâ€™t form groups with others of its kind. It also has a head hard enough to cleave a boulder in one strike.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Bagon_(Pok%C3%A9mon) Bagon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

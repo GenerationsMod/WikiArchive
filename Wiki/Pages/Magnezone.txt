@@ -7,6 +7,7 @@
 |type2=Steel
 |ability1=Sturdy|ability2=Magnetpull
 |abilityH=Analytic
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=30
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=I theorize that a special magnetic field influenced this PokÃ©mon, changing its molecular structure and causing it to evolve. It emits strange radio waves toward space from its antenna.
+|dexentry=I theorize that a special magnetic field influenced this Pokemon, changing its molecular structure and causing it to evolve. It emits strange radio waves toward space from its antenna.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Magnezone_(Pok%C3%A9mon) Magnezone] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

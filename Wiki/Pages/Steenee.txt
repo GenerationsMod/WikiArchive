@@ -5,8 +5,9 @@
 |ndex=762
 |type1=Grass
 |type2=
-|ability1=Leafguard|ability2=Oblivious
+|ability1=Oblivious|ability2=Leafguard
 |abilityH=Sweetveil
+|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=120
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Any Corvisquire that pecks at this PokÃ©mon will be greeted with a smack from its sepals followed by a sharp kick.
+|dexentry=Any Corvisquire that pecks at this Pokemon will be greeted with a smack from its sepals followed by a sharp kick.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Steenee_(Pok%C3%A9mon) Steenee] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

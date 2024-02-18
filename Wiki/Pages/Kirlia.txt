@@ -7,6 +7,7 @@
 |type2=Fairy
 |ability1=Trace|ability2=Synchronize
 |abilityH=Telepathy
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120

@@ -5,8 +5,9 @@
 |ndex=475
 |type1=Psychic
 |type2=Fighting
-|ability1=Steadfast|ability2=Sharpness
+|ability1=Sharpness|ability2=Steadfast
 |abilityH=Justified
+|genderm=100
 |abilityS=
 |genderm=100
 |catchrate=45

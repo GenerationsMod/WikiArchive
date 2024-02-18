@@ -5,8 +5,9 @@
 |ndex=046
 |type1=Bug
 |type2=Grass
-|ability1=Dryskin|ability2=Effectspore
+|ability1=Effectspore|ability2=Dryskin
 |abilityH=Damp
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

@@ -7,6 +7,7 @@
 |type2=Poison
 |ability1=Pressure|ability2=Unburden
 |abilityH=Poisontouch
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=135

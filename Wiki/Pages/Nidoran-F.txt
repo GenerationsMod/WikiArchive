@@ -5,8 +5,9 @@
 |ndex=029
 |type1=Poison
 |type2=
-|ability1=Poisonpoint|ability2=Rivalry
+|ability1=Rivalry|ability2=Poisonpoint
 |abilityH=Hustle
+|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=235

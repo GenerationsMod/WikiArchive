@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Cloudnine
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45
@@ -26,7 +27,7 @@
 |form=Mega
 |alt1=
 |alt1dex=
-|dexentry=This PokÃ©mon has a kind disposition, but if itâ€™s provoked, it will threaten opponents with shrill cries before attacking them without mercy.
+|dexentry=This Pokemon has a kind disposition, but if itâ€™s provoked, it will threaten opponents with shrill cries before attacking them without mercy.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Altaria_(Pok%C3%A9mon) Altaria] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

@@ -7,6 +7,7 @@
 |type2=Ghost
 |ability1=Goodasgold
 |abilityH=
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Its body seems to be made up of 1,000 coins. This PokÃ©mon gets along well with others and is quick to make friends with anybody. 
+|dexentry=Its body seems to be made up of 1,000 coins. This Pokemon gets along well with others and is quick to make friends with anybody. 
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Gholdengo_(Pok%C3%A9mon) Gholdengo] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

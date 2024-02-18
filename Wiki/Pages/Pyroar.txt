@@ -7,6 +7,7 @@
 |type2=Normal
 |ability1=Rivalry|ability2=Unnerve
 |abilityH=Moxie
+|genderm=12.5
 |abilityS=
 |genderm=12.5
 |catchrate=65
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=The temperature of its breath is over 10,000 degrees Fahrenheit, but Pyroar doesnâ€™t use it on its prey. This PokÃ©mon prefers to eat raw meat.
+|dexentry=The temperature of its breath is over 10,000 degrees Fahrenheit, but Pyroar doesnâ€™t use it on its prey. This Pokemon prefers to eat raw meat.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Pyroar_(Pok%C3%A9mon) Pyroar] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

@@ -5,8 +5,9 @@
 |ndex=509
 |type1=Dark
 |type2=
-|ability1=Limber|ability2=Unburden
+|ability1=Unburden|ability2=Limber
 |abilityH=Prankster
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255

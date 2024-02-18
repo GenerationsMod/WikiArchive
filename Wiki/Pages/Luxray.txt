@@ -5,8 +5,9 @@
 |ndex=405
 |type1=Electric
 |type2=
-|ability1=Intimidate|ability2=Rivalry
+|ability1=Rivalry|ability2=Intimidate
 |abilityH=Guts
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=They form packs, each having one male as leader. Legends say that when Luxray's two eyes shimmer with gold, the PokÃ©mon can see through anything.
+|dexentry=They form packs, each having one male as leader. Legends say that when Luxray's two eyes shimmer with gold, the Pokemon can see through anything.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Luxray_(Pok%C3%A9mon) Luxray] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

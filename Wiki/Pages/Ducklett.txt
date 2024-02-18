@@ -5,8 +5,9 @@
 |ndex=580
 |type1=Water
 |type2=Flying
-|ability1=Keeneye|ability2=Bigpecks
+|ability1=Bigpecks|ability2=Keeneye
 |abilityH=Hydration
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

@@ -7,6 +7,7 @@
 |type2=Bug
 |ability1=Flashfire|ability2=Whitesmoke
 |abilityH=Flamebody
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

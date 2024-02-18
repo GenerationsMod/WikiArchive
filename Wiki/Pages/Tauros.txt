@@ -5,8 +5,9 @@
 |ndex=128
 |type1=Normal
 |type2=
-|ability1=Intimidate|ability2=Angerpoint
+|ability1=Angerpoint|ability2=Intimidate
 |abilityH=Sheerforce
+|genderm=100
 |abilityS=
 |genderm=100
 |catchrate=45

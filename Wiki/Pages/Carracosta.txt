@@ -5,8 +5,9 @@
 |ndex=565
 |type1=Water
 |type2=Rock
-|ability1=Sturdy|ability2=Solidrock
+|ability1=Solidrock|ability2=Sturdy
 |abilityH=Swiftswim
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=This PokÃ©mon emerges from the water in search of prey despite the fact that it moves more slowly on land.
+|dexentry=This Pokemon emerges from the water in search of prey despite the fact that it moves more slowly on land.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Carracosta_(Pok%C3%A9mon) Carracosta] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

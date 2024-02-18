@@ -5,8 +5,9 @@
 |ndex=678
 |type1=Psychic
 |type2=
-|ability1=Keeneye|ability2=Infiltrator
+|ability1=Infiltrator|ability2=Keeneye
 |abilityH=Prankster
+|genderm=100
 |abilityS=
 |genderm=100
 |catchrate=75

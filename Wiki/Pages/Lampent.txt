@@ -5,8 +5,9 @@
 |ndex=608
 |type1=Ghost
 |type2=Fire
-|ability1=Flamebody|ability2=Flashfire
+|ability1=Flashfire|ability2=Flamebody
 |abilityH=Infiltrator
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=90

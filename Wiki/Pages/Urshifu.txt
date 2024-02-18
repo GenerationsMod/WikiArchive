@@ -7,6 +7,7 @@
 |type2=Dark
 |ability1=Unseenfist
 |abilityH=
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=3
@@ -24,7 +25,7 @@
 |form=Rapid-Strike, Gmax, Rapid-Strike-Gmax
 |alt1=
 |alt1dex=
-|dexentry=Inhabiting the mountains of a distant region, this PokÃ©mon races across sheer cliffs, training its legs and refining its moves.
+|dexentry=Inhabiting the mountains of a distant region, this Pokemon races across sheer cliffs, training its legs and refining its moves.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Urshifu_(Pok%C3%A9mon) Urshifu] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

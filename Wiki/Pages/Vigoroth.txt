@@ -7,6 +7,7 @@
 |type2=
 |ability1=Vitalspirit
 |abilityH=
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Vigoroth is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this PokÃ©mon to run wild throughout the jungle before it can settle down.
+|dexentry=Vigoroth is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this Pokemon to run wild throughout the jungle before it can settle down.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Vigoroth_(Pok%C3%A9mon) Vigoroth] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

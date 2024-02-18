@@ -5,8 +5,9 @@
 |ndex=958
 |type1=Fairy
 |type2=Steel
-|ability1=Moldbreaker|ability2=Owntempo
+|ability1=Owntempo|ability2=Moldbreaker
 |abilityH=Pickpocket
+|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=90
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=This PokÃ©mon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer. 
+|dexentry=This Pokemon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer. 
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Tinkatuff_(Pok%C3%A9mon) Tinkatuff] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

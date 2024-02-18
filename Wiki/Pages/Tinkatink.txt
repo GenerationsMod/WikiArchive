@@ -5,8 +5,9 @@
 |ndex=957
 |type1=Fairy
 |type2=Steel
-|ability1=Moldbreaker|ability2=Owntempo
+|ability1=Owntempo|ability2=Moldbreaker
 |abilityH=Pickpocket
+|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=190
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=It swings its handmade hammer around to protect itself, but the hammer is often stolen by PokÃ©mon that eat metal. 
+|dexentry=It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokemon that eat metal. 
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Tinkatink_(Pok%C3%A9mon) Tinkatink] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

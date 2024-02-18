@@ -5,8 +5,9 @@
 |ndex=522
 |type1=Electric
 |type2=
-|ability1=Lightningrod|ability2=Motordrive
+|ability1=Motordrive|ability2=Lightningrod
 |abilityH=Sapsipper
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

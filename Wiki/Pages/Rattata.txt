@@ -5,8 +5,9 @@
 |ndex=019
 |type1=Normal
 |type2=
-|ability1=Runaway|ability2=Guts
+|ability1=Guts|ability2=Runaway
 |abilityH=Hustle
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255

@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Icescales
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Flamebody
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=90
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Burnt charcoal came to life and became a PokÃ©mon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents. 
+|dexentry=Burnt charcoal came to life and became a Pokemon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents. 
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Charcadet_(Pok%C3%A9mon) Charcadet] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

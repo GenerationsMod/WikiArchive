@@ -5,8 +5,9 @@
 |ndex=435
 |type1=Poison
 |type2=Dark
-|ability1=Stench|ability2=Aftermath
+|ability1=Aftermath|ability2=Stench
 |abilityH=Keeneye
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60

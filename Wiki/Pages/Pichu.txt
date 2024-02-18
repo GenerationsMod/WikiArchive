@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Lightningrod
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190
@@ -26,7 +27,7 @@
 |form=Spiky-eared
 |alt1=
 |alt1dex=
-|dexentry=Pichu stores electricity in the sacs on its cheeks but discharges it inadvertently when agitated or excited. Being yet immature, the PokÃ©mon's handling of electricity is rather inept.
+|dexentry=Pichu stores electricity in the sacs on its cheeks but discharges it inadvertently when agitated or excited. Being yet immature, the Pokemon's handling of electricity is rather inept.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Pichu_(Pok%C3%A9mon) Pichu] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

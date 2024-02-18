@@ -7,6 +7,7 @@
 |type2=Fairy
 |ability1=Infiltrator|ability2=Prankster
 |abilityH=Chlorophyll
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=As long as this PokÃ©mon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it.
+|dexentry=As long as this Pokemon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Whimsicott_(Pok%C3%A9mon) Whimsicott] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

@@ -7,6 +7,7 @@
 |type2=Steel
 |ability1=Defiant|ability2=Innerfocus
 |abilityH=Pressure
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

@@ -5,8 +5,9 @@
 |ndex=862
 |type1=Dark
 |type2=Normal
-|ability1=Guts|ability2=Reckless
+|ability1=Reckless|ability2=Guts
 |abilityH=Defiant
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

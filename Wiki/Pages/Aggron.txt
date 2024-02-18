@@ -7,6 +7,7 @@
 |type2=Rock
 |ability1=Sturdy|ability2=Rockhead
 |abilityH=Heavymetal
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=Mega
 |alt1=
 |alt1dex=
-|dexentry=Long ago, there was a king who wore a helmet meant to resemble the head of an Aggron. He was trying to channel the PokÃ©monâ€™s strength.
+|dexentry=Long ago, there was a king who wore a helmet meant to resemble the head of an Aggron. He was trying to channel the Pokemonâ€™s strength.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Aggron_(Pok%C3%A9mon) Aggron] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

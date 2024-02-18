@@ -7,6 +7,7 @@
 |type2=
 |ability1=Minus|ability2=Plus
 |abilityH=Clearbody
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=130

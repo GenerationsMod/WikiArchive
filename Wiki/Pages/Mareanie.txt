@@ -5,8 +5,9 @@
 |ndex=747
 |type1=Poison
 |type2=Water
-|ability1=Limber|ability2=Merciless
+|ability1=Merciless|ability2=Limber
 |abilityH=Regenerator
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

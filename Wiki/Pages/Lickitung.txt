@@ -5,8 +5,9 @@
 |ndex=108
 |type1=Normal
 |type2=
-|ability1=Owntempo|ability2=Oblivious
+|ability1=Oblivious|ability2=Owntempo
 |abilityH=Cloudnine
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Wields its long tongue deftly, as though it were an arm. The PokÃ©mon's viscous saliva, once it has been collected and boiled down, yields a strong and highly useful adhesive.
+|dexentry=Wields its long tongue deftly, as though it were an arm. The Pokemon's viscous saliva, once it has been collected and boiled down, yields a strong and highly useful adhesive.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Lickitung_(Pok%C3%A9mon) Lickitung] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

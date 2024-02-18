@@ -7,6 +7,7 @@
 |type2=Dark
 |ability1=Earlybird|ability2=Chlorophyll
 |abilityH=Pickpocket
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

@@ -5,8 +5,9 @@
 |ndex=452
 |type1=Poison
 |type2=Dark
-|ability1=Sniper|ability2=Battlearmor
+|ability1=Battlearmor|ability2=Sniper
 |abilityH=Keeneye
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

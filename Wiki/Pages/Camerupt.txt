@@ -7,6 +7,7 @@
 |type2=Ground
 |ability1=Solidrock|ability2=Magmaarmor
 |abilityH=Angerpoint
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=150
@@ -24,7 +25,7 @@
 |form=Mega
 |alt1=
 |alt1dex=
-|dexentry=The humps on Cameruptâ€™s back are formed by a transformation of its bones. They sometimes blast out molten magma. This PokÃ©mon apparently erupts often when it is enraged.
+|dexentry=The humps on Cameruptâ€™s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokemon apparently erupts often when it is enraged.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Camerupt_(Pok%C3%A9mon) Camerupt] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

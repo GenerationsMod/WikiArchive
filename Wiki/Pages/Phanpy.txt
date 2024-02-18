@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Sandveil
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These PokÃ©mon can be seen drying their soaking-wet bodies at the edge of water.
+|dexentry=Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pokemon can be seen drying their soaking-wet bodies at the edge of water.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Phanpy_(Pok%C3%A9mon) Phanpy] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

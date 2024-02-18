@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Damp
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=45
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Marshtomp is much faster at traveling through mud than it is at swimming. This PokÃ©monâ€™s hindquarters exhibit obvious development, giving it the ability to walk on just its hind legs.
+|dexentry=Marshtomp is much faster at traveling through mud than it is at swimming. This Pokemonâ€™s hindquarters exhibit obvious development, giving it the ability to walk on just its hind legs.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Marshtomp_(Pok%C3%A9mon) Marshtomp] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

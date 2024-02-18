@@ -7,6 +7,7 @@
 |type2=
 |ability1=Unaware
 |abilityH=
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=45

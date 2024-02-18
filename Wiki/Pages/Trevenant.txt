@@ -5,8 +5,9 @@
 |ndex=709
 |type1=Ghost
 |type2=Grass
-|ability1=Frisk|ability2=Naturalcure
+|ability1=Naturalcure|ability2=Frisk
 |abilityH=Harvest
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Small roots that extend from the tips of this PokÃ©monâ€™s feet can tie into the trees of the forest and give Trevenant control over them.
+|dexentry=Small roots that extend from the tips of this Pokemonâ€™s feet can tie into the trees of the forest and give Trevenant control over them.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Trevenant_(Pok%C3%A9mon) Trevenant] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

@@ -5,8 +5,9 @@
 |ndex=119
 |type1=Water
 |type2=
-|ability1=Waterveil|ability2=Swiftswim
+|ability1=Swiftswim|ability2=Waterveil
 |abilityH=Lightningrod
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60

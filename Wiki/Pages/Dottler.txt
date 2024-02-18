@@ -7,6 +7,7 @@
 |type2=Psychic
 |ability1=Compoundeyes|ability2=Swarm
 |abilityH=Telepathy
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120

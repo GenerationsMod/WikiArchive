@@ -5,8 +5,9 @@
 |ndex=876
 |type1=Psychic
 |type2=Normal
-|ability1=Innerfocus|ability2=Synchronize
+|ability1=Synchronize|ability2=Innerfocus
 |abilityH=Psychicsurge
+|genderm=100
 |abilityS=
 |genderm=100
 |catchrate=30

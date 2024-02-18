@@ -5,8 +5,9 @@
 |ndex=241
 |type1=Normal
 |type2=
-|ability1=Scrappy|ability2=Thickfat
+|ability1=Thickfat|ability2=Scrappy
 |abilityH=Sapsipper
+|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=This PokÃ©mon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.
+|dexentry=This Pokemon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Miltank_(Pok%C3%A9mon) Miltank] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

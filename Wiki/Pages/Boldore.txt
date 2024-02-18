@@ -5,8 +5,9 @@
 |ndex=525
 |type1=Rock
 |type2=
-|ability1=Weakarmor|ability2=Sturdy
+|ability1=Sturdy|ability2=Weakarmor
 |abilityH=Sandforce
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120

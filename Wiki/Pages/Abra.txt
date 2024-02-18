@@ -5,8 +5,9 @@
 |ndex=063
 |type1=Psychic
 |type2=
-|ability1=Innerfocus|ability2=Synchronize
+|ability1=Synchronize|ability2=Innerfocus
 |abilityH=Magicguard
+|genderm=75.0
 |abilityS=
 |genderm=75.0
 |catchrate=200
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Spends 18 hours of the day sleeping. Even while asleep, Abra can control its psychic powersâ€”should danger approach, the PokÃ©mon will simply teleport away.
+|dexentry=Spends 18 hours of the day sleeping. Even while asleep, Abra can control its psychic powersâ€”should danger approach, the Pokemon will simply teleport away.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Abra_(Pok%C3%A9mon) Abra] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Blaze
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=75

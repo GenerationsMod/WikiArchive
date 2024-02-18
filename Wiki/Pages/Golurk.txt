@@ -5,8 +5,9 @@
 |ndex=623
 |type1=Ground
 |type2=Ghost
-|ability1=Ironfist|ability2=Klutz
+|ability1=Klutz|ability2=Ironfist
 |abilityH=Noguard
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=90

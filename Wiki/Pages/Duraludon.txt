@@ -5,8 +5,9 @@
 |ndex=884
 |type1=Steel
 |type2=Dragon
-|ability1=Lightmetal|ability2=Heavymetal
+|ability1=Heavymetal|ability2=Lightmetal
 |abilityH=Stalwart
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=Gmax
 |alt1=
 |alt1dex=
-|dexentry=The special metal that composes its body is very light, so this PokÃ©mon has considerable agility. It lives in caves because it dislikes the rain.
+|dexentry=The special metal that composes its body is very light, so this Pokemon has considerable agility. It lives in caves because it dislikes the rain.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Duraludon_(Pok%C3%A9mon) Duraludon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

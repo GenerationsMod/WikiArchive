@@ -5,8 +5,9 @@
 |ndex=961
 |type1=Water
 |type2=
-|ability1=Gooey|ability2=Rattled
+|ability1=Rattled|ability2=Gooey
 |abilityH=Sandveil
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=50

@@ -7,6 +7,7 @@
 |type2=Flying
 |ability1=Hustle|ability2=Serenegrace
 |abilityH=Superluck
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=30
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Scant few have ever sighted this PokÃ©mon. After studying what literature remains, I am certain Togekiss will reveal itself when peace reigns in the land.
+|dexentry=Scant few have ever sighted this Pokemon. After studying what literature remains, I am certain Togekiss will reveal itself when peace reigns in the land.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Togekiss_(Pok%C3%A9mon) Togekiss] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

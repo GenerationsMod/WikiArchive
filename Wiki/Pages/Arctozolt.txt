@@ -7,6 +7,7 @@
 |type2=Ice
 |ability1=Voltabsorb|ability2=Static
 |abilityH=Slushrush
+|genderm=Genderless
 |abilityS=
 |genderm=-100
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=This PokÃ©mon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly.
+|dexentry=This Pokemon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Arctozolt_(Pok%C3%A9mon) Arctozolt] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

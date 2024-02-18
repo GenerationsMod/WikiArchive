@@ -5,8 +5,9 @@
 |ndex=962
 |type1=Flying
 |type2=Dark
-|ability1=Keeneye|ability2=Bigpecks
+|ability1=Bigpecks|ability2=Keeneye
 |abilityH=Rockypayload
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=25
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=It gathers things up in an apron made from shed feathers added to the PokÃ©monâ€™s chest feathers, then drops those things from high places for fun. 
+|dexentry=It gathers things up in an apron made from shed feathers added to the Pokemonâ€™s chest feathers, then drops those things from high places for fun. 
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Bombirdier_(Pok%C3%A9mon) Bombirdier] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

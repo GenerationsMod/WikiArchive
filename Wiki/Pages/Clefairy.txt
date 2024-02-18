@@ -7,6 +7,7 @@
 |type2=
 |ability1=Cutecharm|ability2=Magicguard
 |abilityH=Friendguard
+|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=150

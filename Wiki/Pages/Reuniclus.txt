@@ -5,8 +5,9 @@
 |ndex=579
 |type1=Psychic
 |type2=
-|ability1=Magicguard|ability2=Overcoat
+|ability1=Overcoat|ability2=Magicguard
 |abilityH=Regenerator
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=50

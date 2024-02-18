@@ -5,8 +5,9 @@
 |ndex=446
 |type1=Normal
 |type2=
-|ability1=Pickup|ability2=Thickfat
+|ability1=Thickfat|ability2=Pickup
 |abilityH=Gluttony
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=50

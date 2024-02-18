@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Overcoat
+|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=45
@@ -26,7 +27,7 @@
 |form=Sandy, Trash
 |alt1=
 |alt1dex=
-|dexentry=When Burmy evolved, its cloak became a part of this PokÃ©monâ€™s body. The cloak is never shed.
+|dexentry=When Burmy evolved, its cloak became a part of this Pokemonâ€™s body. The cloak is never shed.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Wormadam_(Pok%C3%A9mon) Wormadam] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

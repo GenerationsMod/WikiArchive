@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Hydration
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=It sucks bodily fluids out of its prey. The leftover meat sinks to the seafloor, where it becomes food for other PokÃ©mon.
+|dexentry=It sucks bodily fluids out of its prey. The leftover meat sinks to the seafloor, where it becomes food for other Pokemon.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Gorebyss_(Pok%C3%A9mon) Gorebyss] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

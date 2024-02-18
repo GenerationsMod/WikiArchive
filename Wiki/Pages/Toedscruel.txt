@@ -7,6 +7,7 @@
 |type2=Grass
 |ability1=Myceliummight
 |abilityH=
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=90
@@ -24,7 +25,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=These PokÃ©mon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach. 
+|dexentry=These Pokemon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach. 
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Toedscruel_(Pok%C3%A9mon) Toedscruel] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Klutz
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=This PokÃ©mon is smooth and moist to the touch. Yeast in Fidoughâ€™s breath induces fermentation in the PokÃ©monâ€™s vicinity. 
+|dexentry=This Pokemon is smooth and moist to the touch. Yeast in Fidoughâ€™s breath induces fermentation in the Pokemonâ€™s vicinity. 
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Fidough_(Pok%C3%A9mon) Fidough] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

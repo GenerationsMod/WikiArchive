@@ -5,8 +5,9 @@
 |ndex=091
 |type1=Water
 |type2=Ice
-|ability1=Shellarmor|ability2=Skilllink
+|ability1=Skilllink|ability2=Shellarmor
 |abilityH=Overcoat
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60

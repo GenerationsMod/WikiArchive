@@ -5,8 +5,9 @@
 |ndex=849
 |type1=Electric
 |type2=Poison
-|ability1=Plus|ability2=Punkrock
+|ability1=Punkrock|ability2=Plus
 |abilityH=Technician
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45
@@ -24,7 +25,7 @@
 |form=Low-Key, Gmax, Low-Key-Gmax
 |alt1=
 |alt1dex=
-|dexentry=This short-tempered and aggressive PokÃ©mon chugs stagnant water to absorb any toxins it might contain.
+|dexentry=This short-tempered and aggressive Pokemon chugs stagnant water to absorb any toxins it might contain.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Toxtricity_(Pok%C3%A9mon) Toxtricity] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

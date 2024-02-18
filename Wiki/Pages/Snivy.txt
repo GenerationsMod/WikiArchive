@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Contrary
+|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=45

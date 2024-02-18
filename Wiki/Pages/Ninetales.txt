@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Drought
+|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=75

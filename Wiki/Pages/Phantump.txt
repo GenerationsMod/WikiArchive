@@ -5,8 +5,9 @@
 |ndex=708
 |type1=Ghost
 |type2=Grass
-|ability1=Frisk|ability2=Naturalcure
+|ability1=Naturalcure|ability2=Frisk
 |abilityH=Harvest
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120

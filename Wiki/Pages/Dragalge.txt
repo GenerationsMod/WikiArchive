@@ -5,8 +5,9 @@
 |ndex=691
 |type1=Poison
 |type2=Dragon
-|ability1=Poisonpoint|ability2=Poisontouch
+|ability1=Poisontouch|ability2=Poisonpoint
 |abilityH=Adaptability
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=55

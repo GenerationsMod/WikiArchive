@@ -9,6 +9,7 @@
 
 |ability2=
 |abilityH=Stakeout
+|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255
@@ -26,7 +27,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this PokÃ©monâ€™s natural enemy. 
+|dexentry=The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokemonâ€™s natural enemy. 
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Tarountula_(Pok%C3%A9mon) Tarountula] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 

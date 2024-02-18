@@ -5,8 +5,9 @@
 |ndex=031
 |type1=Poison
 |type2=Ground
-|ability1=Poisonpoint|ability2=Rivalry
+|ability1=Rivalry|ability2=Poisonpoint
 |abilityH=Sheerforce
+|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=45
