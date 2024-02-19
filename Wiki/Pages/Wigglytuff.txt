@@ -5,7 +5,7 @@
 |ndex=040
 |type1=Normal
 |type2=Fairy
-|ability1=Cutecharm|ability2=Competitive
+|ability1=Competitive|ability2=Cutecharm
 |abilityH=Frisk
 |abilityS=
 |genderm=25.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Itâ€™s proud of its fur, which is fine and delicate. In particular, the curl on its forehead has a texture thatâ€™s perfectly heavenly.
+|dexentry=Its proud of its fur, which is fine and delicate. In particular, the curl on its forehead has a texture thats perfectly heavenly.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Wigglytuff_(Pok%C3%A9mon) Wigglytuff] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=22-44
 }}
 {{SpawnInfo|type1=Normal|biome=[[Plains]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=22-44
 }}
 {{Statbox|type1=Normal|

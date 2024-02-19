@@ -8,7 +8,7 @@
 |ability1=Aurabreak
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=5.0
 |weight-kg=305.0
@@ -37,7 +37,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Dragon|
@@ -62,7 +62,7 @@
 {{movesLvl|24|Safeguard}}
 {{movesLvl|32|Crunch}}
 {{movesLvl|40|Dragon_Pulse}}
-{{movesLvl|48|Landâ€™s_Wrath}}
+{{movesLvl|48|Lands_Wrath}}
 {{movesLvl|56|Glare}}
 {{movesLvl|59|Camouflage}}
 {{movesLvl|64|Sandstorm}}
@@ -142,7 +142,7 @@
 {{moves|Haze}}
 {{moves|Hyper_Voice}}
 {{moves|Iron_Tail}}
-{{moves|Landâ€™s_Wrath}}
+{{moves|Lands_Wrath}}
 {{moves|Outrage}}
 {{moves|Pain_Split}}
 {{moves|Safeguard}}

@@ -26,7 +26,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Though it lives on land, itâ€™s also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.
+|dexentry=Though it lives on land, its also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Armaldo_(Pok%C3%A9mon) Armaldo] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=40-55
 }}
 {{Statbox|type1=Rock|

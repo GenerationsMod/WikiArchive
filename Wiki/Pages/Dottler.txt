@@ -5,7 +5,7 @@
 |ndex=825
 |type1=Bug
 |type2=Psychic
-|ability1=Compoundeyes|ability2=Swarm
+|ability1=Swarm|ability2=Compoundeyes
 |abilityH=Telepathy
 |abilityS=
 |genderm=50.0
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=10-38
 }}
 {{Statbox|type1=Bug|

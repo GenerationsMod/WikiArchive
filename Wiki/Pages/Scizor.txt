@@ -5,7 +5,7 @@
 |ndex=212
 |type1=Bug
 |type2=Steel
-|ability1=Technician|ability2=Swarm
+|ability1=Swarm|ability2=Technician
 |abilityH=Lightmetal
 |abilityS=
 |genderm=50.0
@@ -36,9 +36,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=day
+|time=Day
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=45-50
 }}
 {{Statbox|type1=Bug|

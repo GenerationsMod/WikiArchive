@@ -5,7 +5,7 @@
 |ndex=117
 |type1=Water
 |type2=
-|ability1=Sniper|ability2=Poisonpoint
+|ability1=Poisonpoint|ability2=Sniper
 |abilityH=Damp
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Seadraâ€™s mouth is slender, but its suction power is strong. In an instant, Seadra can suck in food thatâ€™s larger than the opening of its mouth.
+|dexentry=Seadras mouth is slender, but its suction power is strong. In an instant, Seadra can suck in food thats larger than the opening of its mouth.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Seadra_(Pok%C3%A9mon) Seadra] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=32-44
 }}
 {{Statbox|type1=Water|

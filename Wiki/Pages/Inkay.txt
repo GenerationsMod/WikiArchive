@@ -5,7 +5,7 @@
 |ndex=686
 |type1=Dark
 |type2=Psychic
-|ability1=Suctioncups|ability2=Contrary
+|ability1=Contrary|ability2=Suctioncups
 |abilityH=Infiltrator
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=8-38
 }}
 {{Statbox|type1=Dark|

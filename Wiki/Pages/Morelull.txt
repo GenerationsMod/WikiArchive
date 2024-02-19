@@ -5,7 +5,7 @@
 |ndex=755
 |type1=Grass
 |type2=Fairy
-|ability1=Effectspore|ability2=Illuminate
+|ability1=Illuminate|ability2=Effectspore
 |abilityH=Raindish
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=4-29
 }}
 {{SpawnInfo|type1=Grass|biome=[[Lush]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=4-29
 }}
 {{SpawnInfo|type1=Grass|biome=[[Nether Fungus]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=4-29
 }}
 {{Statbox|type1=Grass|

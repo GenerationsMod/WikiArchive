@@ -10,7 +10,7 @@
 |ability2=
 |abilityH=Multiscale
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=5.2
 |weight-kg=216.0
@@ -26,7 +26,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Lugiaâ€™s wings pack devastating power-a light fluttering of its wings can blow apart regular houses. As a result, this Pokemon chooses to live out of sight deep under the sea.
+|dexentry=Lugias wings pack devastating power-a light fluttering of its wings can blow apart regular houses. As a result, this Pokemon chooses to live out of sight deep under the sea.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Lugia_(Pok%C3%A9mon) Lugia] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Psychic|

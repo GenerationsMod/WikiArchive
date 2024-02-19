@@ -5,7 +5,7 @@
 |ndex=263
 |type1=Normal
 |type2=
-|ability1=Pickup|ability2=Gluttony
+|ability1=Gluttony|ability2=Pickup
 |abilityH=Quickfeet
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=Galar
 |alt1=
 |alt1dex=
-|dexentry=Zigzagoon that adapted to regions outside Galar acquired this appearance. If youâ€™ve lost something, this Pokemon can likely find it.
+|dexentry=Zigzagoon that adapted to regions outside Galar acquired this appearance. If youve lost something, this Pokemon can likely find it.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Zigzagoon_(Pok%C3%A9mon) Zigzagoon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-24
 }}
 {{SpawnInfo|type1=Normal|biome=[[Taiga]]|
@@ -47,7 +47,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-24
 }}
 {{Statbox|type1=Normal|

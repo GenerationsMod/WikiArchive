@@ -5,7 +5,7 @@
 |ndex=960
 |type1=Water
 |type2=
-|ability1=Rattled|ability2=Gooey
+|ability1=Gooey|ability2=Rattled
 |abilityH=Sandveil
 |abilityS=
 |genderm=50.0
@@ -37,7 +37,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=4-32
 }}
 {{Statbox|type1=Water|

@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=39-50
 }}
 {{Statbox|type1=Electric|

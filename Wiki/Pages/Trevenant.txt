@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Small roots that extend from the tips of this Pokemonâ€™s feet can tie into the trees of the forest and give Trevenant control over them.
+|dexentry=Small roots that extend from the tips of this Pokemons feet can tie into the trees of the forest and give Trevenant control over them.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Trevenant_(Pok%C3%A9mon) Trevenant] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -37,18 +37,18 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=26-47
 }}
 {{SpawnInfo|type1=Ghost|biome=[[Spooky]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=26-47
 }}
 {{SpawnInfo|type1=Ghost|biome=[[Nether Forest]], [[Nether Warped]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=26-47
 }}
 {{Statbox|type1=Ghost|
@@ -86,7 +86,7 @@
 {{movesLvl|40|Ingrain}}
 {{movesLvl|44|Wood_Hammer}}
 {{movesLvl|48|Destiny_Bond}}
-{{movesLvl|52|Forestâ€™s_Curse}}
+{{movesLvl|52|Forests_Curse}}
 |}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}

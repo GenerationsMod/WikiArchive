@@ -8,7 +8,7 @@
 |ability1=Beastboost
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=45
 |height-m=1.2
 |weight-kg=55.5
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Rock|

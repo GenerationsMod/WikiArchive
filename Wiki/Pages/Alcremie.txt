@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=22-50
 }}
 {{SpawnInfo|type1=Fairy|biome=[[Overworld]]|
@@ -50,7 +50,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=22-50
 }}
 {{SpawnInfo|type1=Fairy|biome=[[Overworld]]|
@@ -59,7 +59,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=22-50
 }}
 {{Statbox|type1=Fairy|

@@ -8,7 +8,7 @@
 |ability1=Protosynthesis
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=30
 |height-m=3.2
 |weight-kg=92.0
@@ -37,7 +37,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=60-66
 }}
 {{Statbox|type1=Bug|

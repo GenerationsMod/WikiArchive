@@ -8,7 +8,7 @@
 |ability1=Magnetpull
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=0.2
 |weight-kg=8.0
@@ -35,9 +35,9 @@
 |antibiome=
 |location=Underground
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Steel|

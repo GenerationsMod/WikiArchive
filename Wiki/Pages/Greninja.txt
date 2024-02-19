@@ -26,7 +26,7 @@
 |form=Ash
 |alt1=
 |alt1dex=
-|dexentry=It appears and vanishes with a ninjaâ€™s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.
+|dexentry=It appears and vanishes with a ninjas grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Greninja_(Pok%C3%A9mon) Greninja] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=36-53
 }}
 {{SpawnInfo|type1=Water|biome=|
@@ -50,7 +50,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=36-53
 }}
 {{Statbox|type1=Water|

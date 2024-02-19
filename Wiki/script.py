@@ -103,7 +103,7 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
         # Adjust the gender ratio since cobblemon uses 1.0 as 100%
         male_ratio = pokemon_data.get('maleRatio', 0) * 100  # Multiply by 100 to adjust
         if male_ratio == -100:
-            gender_ratio = "Genderless"
+            gender_ratio = ""
         else:
             gender_ratio = str(male_ratio)
         # txt_file.write(f"|genderm={gender_ratio}\n")
@@ -128,8 +128,21 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
             weight_decimal = weight
         txt_file.write(f"|weight-kg={weight_decimal}\n")
         egg_groups = pokemon_data.get('eggGroups', [])
-        txt_file.write(f"|eggGroup1={egg_groups[0].capitalize() if egg_groups else 'Undiscovered'}\n")
-        txt_file.write(f"|eggGroup2={egg_groups[1].capitalize() if len(egg_groups) > 1 else ''}\n")
+        
+        # Fix Human-Like
+        egg_groups = [group.replace('human_like', 'Human-Like') for group in egg_groups]
+        
+        if egg_groups:
+            egg_group1 = egg_groups[0].title()
+            egg_group2 = egg_groups[1].title() if len(egg_groups) > 1 else ''
+        else:
+            egg_group1 = 'Undiscovered'
+            egg_group2 = ''
+        
+        txt_file.write(f"|eggGroup1={egg_group1}\n")
+        txt_file.write(f"|eggGroup2={egg_group2}\n")
+
+
         txt_file.write(f"|steps={pokemon_data.get('eggCycles', 'Unknown')}\n")
         ev_yield = pokemon_data.get("evYield", {})
         txt_file.write(f"|evHp={ev_yield.get('hp', 'Unknown')}\n")
@@ -216,7 +229,7 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
         
                 # Write Time section (assuming timeRange is present)
                 time_range = conditions.get("timeRange", "Any")
-                txt_file.write(f"|time={time_range}\n")
+                txt_file.write(f"|time={time_range.capitalize()}\n")
         
                 # Write AntiTime section
                 anti_time_range = anticonditions.get("timeRange", "Any")
@@ -224,7 +237,7 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
         
                 # Write Rarity section
                 bucket = spawn_entry.get("bucket", "Unknown")
-                txt_file.write(f"|rarity={bucket}\n")
+                txt_file.write(f"|rarity={bucket.capitalize()}\n")
         
                 # Write Level Range section
                 level_range = spawn_entry.get("level", "Unknown")

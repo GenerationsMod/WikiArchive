@@ -5,7 +5,7 @@
 |ndex=127
 |type1=Bug
 |type2=
-|ability1=Moldbreaker|ability2=Hypercutter
+|ability1=Hypercutter|ability2=Moldbreaker
 |abilityH=Moxie
 |abilityS=
 |genderm=50.0
@@ -36,9 +36,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=25-50
 }}
 {{Statbox|type1=Bug|

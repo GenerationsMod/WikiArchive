@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=6-30
 }}
 {{SpawnInfo|type1=Ground|biome=[[Cold]]|
@@ -50,7 +50,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=4-25
 }}
 {{Statbox|type1=Ground|

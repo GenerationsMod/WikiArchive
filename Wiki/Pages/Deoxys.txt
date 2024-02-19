@@ -8,7 +8,7 @@
 |ability1=Pressure
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=1.7
 |weight-kg=60.8
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=50-60
 }}
 {{Statbox|type1=Psychic|

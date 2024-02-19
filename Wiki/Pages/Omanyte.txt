@@ -5,7 +5,7 @@
 |ndex=138
 |type1=Rock
 |type2=Water
-|ability1=Shellarmor|ability2=Swiftswim
+|ability1=Swiftswim|ability2=Shellarmor
 |abilityH=Weakarmor
 |abilityS=
 |genderm=87.5
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=This Pokemon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like itâ€™s just drifting along.
+|dexentry=This Pokemon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like its just drifting along.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Omanyte_(Pok%C3%A9mon) Omanyte] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=11-36
 }}
 {{SpawnInfo|type1=Rock|biome=[[Lush]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=11-36
 }}
 {{Statbox|type1=Rock|

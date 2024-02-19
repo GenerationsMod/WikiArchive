@@ -5,7 +5,7 @@
 |ndex=631
 |type1=Fire
 |type2=
-|ability1=Gluttony|ability2=Flashfire
+|ability1=Flashfire|ability2=Gluttony
 |abilityH=Whitesmoke
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=23-48
 }}
 {{SpawnInfo|type1=Fire|biome=[[Nether Mountain]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=23-48
 }}
 {{Statbox|type1=Fire|

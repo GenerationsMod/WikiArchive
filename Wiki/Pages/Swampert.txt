@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=36-53
 }}
 {{SpawnInfo|type1=Water|biome=[[Swamp]]|
@@ -50,7 +50,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=36-53
 }}
 {{Statbox|type1=Water|

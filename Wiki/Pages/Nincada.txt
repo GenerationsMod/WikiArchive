@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=2-27
 }}
 {{Statbox|type1=Bug|

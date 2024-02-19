@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=5-32
 }}
 {{Statbox|type1=Water|

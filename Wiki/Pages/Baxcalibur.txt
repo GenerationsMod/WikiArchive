@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=55-60
 }}
 {{Statbox|type1=Dragon|

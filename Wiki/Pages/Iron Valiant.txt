@@ -8,7 +8,7 @@
 |ability1=Quarkdrive
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=10
 |height-m=1.4
 |weight-kg=35.0
@@ -37,7 +37,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=30-55
 }}
 {{Statbox|type1=Fairy|

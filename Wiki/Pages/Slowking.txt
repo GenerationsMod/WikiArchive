@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=37-49
 }}
 {{SpawnInfo|type1=Water|biome=[[Beach]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=37-49
 }}
 {{Statbox|type1=Water|

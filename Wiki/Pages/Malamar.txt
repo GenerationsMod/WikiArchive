@@ -5,7 +5,7 @@
 |ndex=687
 |type1=Dark
 |type2=Psychic
-|ability1=Suctioncups|ability2=Contrary
+|ability1=Contrary|ability2=Suctioncups
 |abilityH=Infiltrator
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Itâ€™s said that Malamarâ€™s hypnotic powers played a role in certain history-changing events.
+|dexentry=Its said that Malamars hypnotic powers played a role in certain history-changing events.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Malamar_(Pok%C3%A9mon) Malamar] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=30-60
 }}
 {{Statbox|type1=Dark|

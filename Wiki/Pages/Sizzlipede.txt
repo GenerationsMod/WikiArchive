@@ -5,7 +5,7 @@
 |ndex=850
 |type1=Fire
 |type2=Bug
-|ability1=Whitesmoke|ability2=Flashfire
+|ability1=Flashfire|ability2=Whitesmoke
 |abilityH=Flamebody
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=It wraps prey up with its heated body, cooking them in its coils. Once theyâ€™re well-done, it will voraciously nibble them down to the last morsel.
+|dexentry=It wraps prey up with its heated body, cooking them in its coils. Once theyre well-done, it will voraciously nibble them down to the last morsel.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Sizzlipede_(Pok%C3%A9mon) Sizzlipede] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=6-31
 }}
 {{SpawnInfo|type1=Fire|biome=[[Nether Basalt]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=6-31
 }}
 {{SpawnInfo|type1=Fire|biome=[[Nether Wasteland]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=6-31
 }}
 {{Statbox|type1=Fire|

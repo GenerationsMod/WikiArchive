@@ -15,7 +15,7 @@
 |height-m=0.6
 |weight-kg=4.0
 |eggGroup1=Water_1
-|eggGroup2=Human_like
+|eggGroup2=Human-Like
 |steps=25
 |evHp=0
 |evAtk=1
@@ -26,7 +26,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Its tentacles tear off easily, but it isnâ€™t alarmed when that happens-it knows theyâ€™ll grow back. Itâ€™s about as smart as a three-year-old.
+|dexentry=Its tentacles tear off easily, but it isnt alarmed when that happens-it knows theyll grow back. Its about as smart as a three-year-old.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Clobbopus_(Pok%C3%A9mon) Clobbopus] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=9-44
 }}
 {{Statbox|type1=Fighting|

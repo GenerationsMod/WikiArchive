@@ -39,9 +39,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=day
+|time=Day
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=10-44
 }}
 {{Statbox|type1=Bug|

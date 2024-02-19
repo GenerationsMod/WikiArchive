@@ -5,7 +5,7 @@
 |ndex=273
 |type1=Grass
 |type2=
-|ability1=Chlorophyll|ability2=Earlybird
+|ability1=Earlybird|ability2=Chlorophyll
 |abilityH=Pickpocket
 |abilityS=
 |genderm=50.0
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-22
 }}
 {{Statbox|type1=Grass|

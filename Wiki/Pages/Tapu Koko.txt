@@ -10,7 +10,7 @@
 |ability2=
 |abilityH=Telepathy
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=1.8
 |weight-kg=20.5
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Electric|
@@ -65,7 +65,7 @@
 {{movesLvl|40|Screech}}
 {{movesLvl|45|Discharge}}
 {{movesLvl|50|Mean_Look}}
-{{movesLvl|55|Natureâ€™s_Madness}}
+{{movesLvl|55|Natures_Madness}}
 {{movesLvl|58|Electro_Ball}}
 {{movesLvl|60|Wild_Charge}}
 {{movesLvl|65|Brave_Bird}}
@@ -145,7 +145,7 @@
 {{moves|Hyper_Voice}}
 {{moves|Iron_Defense}}
 {{moves|Iron_Head}}
-{{moves|Natureâ€™s_Madness}}
+{{moves|Natures_Madness}}
 {{moves|Quick_Attack}}
 {{moves|Shock_Wave}}
 {{moves|Sky_Attack}}

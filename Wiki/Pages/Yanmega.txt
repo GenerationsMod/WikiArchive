@@ -36,9 +36,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=day
+|time=Day
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=33-52
 }}
 {{SpawnInfo|type1=Bug|biome=[[Lush]]|
@@ -47,7 +47,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=33-52
 }}
 {{SpawnInfo|type1=Bug|biome=[[The Bumblezone]]|
@@ -56,7 +56,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=33-52
 }}
 {{Statbox|type1=Bug|

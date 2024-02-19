@@ -8,7 +8,7 @@
 |ability1=Turboblaze
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=3.2
 |weight-kg=330.0
@@ -37,7 +37,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Dragon|

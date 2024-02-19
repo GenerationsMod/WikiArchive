@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=14-39
 }}
 {{SpawnInfo|type1=Rock|biome=[[Nether Basalt]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=14-39
 }}
 {{Statbox|type1=Rock|

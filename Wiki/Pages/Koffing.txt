@@ -5,7 +5,7 @@
 |ndex=109
 |type1=Poison
 |type2=
-|ability1=Levitate|ability2=Neutralizinggas
+|ability1=Neutralizinggas|ability2=Levitate
 |abilityH=Stench
 |abilityS=
 |genderm=50.0
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=9-34
 }}
 {{SpawnInfo|type1=Poison|biome=[[Overworld]]|
@@ -47,7 +47,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=9-34
 }}
 {{SpawnInfo|type1=Poison|biome=[[Nether Toxic]]|
@@ -56,7 +56,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=9-34
 }}
 {{Statbox|type1=Poison|

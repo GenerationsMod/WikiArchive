@@ -5,7 +5,7 @@
 |ndex=822
 |type1=Flying
 |type2=
-|ability1=Unnerve|ability2=Keeneye
+|ability1=Keeneye|ability2=Unnerve
 |abilityH=Bigpecks
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=The lessons of many harsh battles have taught it how to accurately judge an opponentâ€™s strength.
+|dexentry=The lessons of many harsh battles have taught it how to accurately judge an opponents strength.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Corvisquire_(Pok%C3%A9mon) Corvisquire] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,9 +39,9 @@
 |antibiome=[[Arid]]
 |location=Land
 |antilocation=Underground
-|time=day
+|time=Day
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=18-37
 }}
 {{Statbox|type1=Flying|

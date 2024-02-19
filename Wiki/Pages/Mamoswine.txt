@@ -5,7 +5,7 @@
 |ndex=473
 |type1=Ice
 |type2=Ground
-|ability1=Oblivious|ability2=Snowcloak
+|ability1=Snowcloak|ability2=Oblivious
 |abilityH=Thickfat
 |abilityS=
 |genderm=50.0
@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=40-53
 }}
 {{Statbox|type1=Ice|

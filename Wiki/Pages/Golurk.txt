@@ -8,7 +8,7 @@
 |ability1=Klutz|ability2=Ironfist
 |abilityH=Noguard
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=90
 |height-m=2.8
 |weight-kg=330.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Thereâ€™s a theory that inside Golurk is a perpetual motion machine that produces limitless energy, but this belief hasnâ€™t been proven.
+|dexentry=Theres a theory that inside Golurk is a perpetual motion machine that produces limitless energy, but this belief hasnt been proven.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Golurk_(Pok%C3%A9mon) Golurk] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=43-48
 }}
 {{SpawnInfo|type1=Ground|biome=[[Overworld]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=43-48
 }}
 {{SpawnInfo|type1=Ground|biome=[[Overworld]]|
@@ -58,7 +58,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=43-48
 }}
 {{SpawnInfo|type1=Ground|biome=[[The Bumblezone:Howling Constructs]]|
@@ -67,7 +67,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=43-48
 }}
 {{Statbox|type1=Ground|

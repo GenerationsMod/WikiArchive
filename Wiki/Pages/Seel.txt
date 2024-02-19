@@ -5,7 +5,7 @@
 |ndex=086
 |type1=Water
 |type2=
-|ability1=Thickfat|ability2=Hydration
+|ability1=Hydration|ability2=Thickfat
 |abilityH=Icebody
 |abilityS=
 |genderm=50.0
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=8-33
 }}
 {{SpawnInfo|type1=Water|biome=[[Frozen Ocean]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=8-33
 }}
 {{Statbox|type1=Water|

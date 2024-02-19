@@ -43,7 +43,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=3-36
 }}
 {{Statbox|type1=Normal|

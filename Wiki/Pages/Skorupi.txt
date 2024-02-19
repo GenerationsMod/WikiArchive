@@ -5,7 +5,7 @@
 |ndex=451
 |type1=Poison
 |type2=Bug
-|ability1=Sniper|ability2=Battlearmor
+|ability1=Battlearmor|ability2=Sniper
 |abilityH=Keeneye
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=5-42
 }}
 {{Statbox|type1=Poison|

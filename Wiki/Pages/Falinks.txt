@@ -10,7 +10,7 @@
 |ability2=
 |abilityH=Defiant
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=45
 |height-m=3.0
 |weight-kg=62.0
@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=22-47
 }}
 {{SpawnInfo|type1=Fighting|biome=[[Nether]]|
@@ -50,7 +50,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=22-47
 }}
 {{Statbox|type1=Fighting|

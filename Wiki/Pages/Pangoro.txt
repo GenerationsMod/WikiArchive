@@ -5,7 +5,7 @@
 |ndex=675
 |type1=Fighting
 |type2=Dark
-|ability1=Moldbreaker|ability2=Ironfist
+|ability1=Ironfist|ability2=Moldbreaker
 |abilityH=Scrappy
 |abilityS=
 |genderm=50.0
@@ -13,7 +13,7 @@
 |height-m=2.1
 |weight-kg=136.0
 |eggGroup1=Field
-|eggGroup2=Human_like
+|eggGroup2=Human-Like
 |steps=25
 |evHp=0
 |evAtk=2
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=32-60
 }}
 {{Statbox|type1=Fighting|

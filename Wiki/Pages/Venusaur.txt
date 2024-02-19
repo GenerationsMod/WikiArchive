@@ -42,7 +42,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=32-52
 }}
 {{Statbox|type1=Grass|

@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Its thick claws are its greatest weapons. Theyâ€™re mighty enough to crack Rhyperiorâ€™s carapace.
+|dexentry=Its thick claws are its greatest weapons. Theyre mighty enough to crack Rhyperiors carapace.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Crustle_(Pok%C3%A9mon) Crustle] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=34-49
 }}
 {{Statbox|type1=Bug|

@@ -8,7 +8,7 @@
 |ability1=Grimneigh
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=2.0
 |weight-kg=44.5
@@ -35,9 +35,9 @@
 |antibiome=
 |location=Underground
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=50-60
 }}
 {{Statbox|type1=Ghost|

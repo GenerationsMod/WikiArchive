@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=The sun powers this Pokemonâ€™s electricity generation. Interruption of that process stresses Helioptile to the point of weakness.
+|dexentry=The sun powers this Pokemons electricity generation. Interruption of that process stresses Helioptile to the point of weakness.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Helioptile_(Pok%C3%A9mon) Helioptile] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -37,7 +37,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=6-30
 }}
 {{Statbox|type1=Electric|

@@ -5,7 +5,7 @@
 |ndex=546
 |type1=Grass
 |type2=Fairy
-|ability1=Prankster|ability2=Infiltrator
+|ability1=Infiltrator|ability2=Prankster
 |abilityH=Chlorophyll
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth thatâ€™s highly prized by many luxury brands.
+|dexentry=Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth thats highly prized by many luxury brands.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Cottonee_(Pok%C3%A9mon) Cottonee] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=3-28
 }}
 {{Statbox|type1=Grass|

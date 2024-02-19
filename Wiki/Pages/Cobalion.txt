@@ -8,7 +8,7 @@
 |ability1=Justified
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=2.1
 |weight-kg=250.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=From the moment itâ€™s born, this Pokemon radiates the air of a leader. Its presence will calm even vicious foes.
+|dexentry=From the moment its born, this Pokemon radiates the air of a leader. Its presence will calm even vicious foes.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Cobalion_(Pok%C3%A9mon) Cobalion] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Steel|

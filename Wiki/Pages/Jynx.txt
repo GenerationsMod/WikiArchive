@@ -5,14 +5,14 @@
 |ndex=124
 |type1=Ice
 |type2=Psychic
-|ability1=Oblivious|ability2=Forewarn
+|ability1=Forewarn|ability2=Oblivious
 |abilityH=Dryskin
 |abilityS=
 |genderm=0
 |catchrate=45
 |height-m=1.4
 |weight-kg=40.6
-|eggGroup1=Human_like
+|eggGroup1=Human-Like
 |eggGroup2=
 |steps=25
 |evHp=0
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=30-46
 }}
 {{SpawnInfo|type1=Ice|biome=[[Freezing]]|
@@ -47,7 +47,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=30-46
 }}
 {{Statbox|type1=Ice|

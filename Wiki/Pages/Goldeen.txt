@@ -5,7 +5,7 @@
 |ndex=118
 |type1=Water
 |type2=
-|ability1=Waterveil|ability2=Swiftswim
+|ability1=Swiftswim|ability2=Waterveil
 |abilityH=Lightningrod
 |abilityS=
 |genderm=50.0
@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=10-32
 }}
 {{Statbox|type1=Water|

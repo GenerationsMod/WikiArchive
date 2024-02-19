@@ -40,9 +40,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=22-45
 }}
 {{SpawnInfo|type1=Bug|biome=[[The Bumblezone]]|
@@ -51,7 +51,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=22-45
 }}
 {{Statbox|type1=Bug|

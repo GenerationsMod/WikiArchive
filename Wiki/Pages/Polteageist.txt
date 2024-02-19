@@ -10,7 +10,7 @@
 |ability2=
 |abilityH=Cursedbody
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=60
 |height-m=0.2
 |weight-kg=0.4
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=24-60
 }}
 {{Statbox|type1=Ghost|

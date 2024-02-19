@@ -42,7 +42,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=29-54
 }}
 {{SpawnInfo|type1=Water|biome=[[Ocean]]|
@@ -51,7 +51,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=29-54
 }}
 {{Statbox|type1=Water|

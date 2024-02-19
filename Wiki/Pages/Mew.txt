@@ -8,7 +8,7 @@
 |ability1=Synchronize
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=45
 |height-m=0.4
 |weight-kg=4.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=When viewed through a microscope, this Pokemonâ€™s short, fine, delicate hair can be seen.
+|dexentry=When viewed through a microscope, this Pokemons short, fine, delicate hair can be seen.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Mew_(Pok%C3%A9mon) Mew] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Psychic|

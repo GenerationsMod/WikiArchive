@@ -8,7 +8,7 @@
 |ability1=Airlock
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=45
 |height-m=7.0
 |weight-kg=206.5
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Dragon|

@@ -5,7 +5,7 @@
 |ndex=518
 |type1=Psychic
 |type2=
-|ability1=Synchronize|ability2=Forewarn
+|ability1=Forewarn|ability2=Synchronize
 |abilityH=Telepathy
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=It drowses and dreams all the time. Itâ€™s best to leave it be if itâ€™s just woken up, as itâ€™s a terrible grump when freshly roused from sleep.
+|dexentry=It drowses and dreams all the time. Its best to leave it be if its just woken up, as its a terrible grump when freshly roused from sleep.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Musharna_(Pok%C3%A9mon) Musharna] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -36,9 +36,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=12-39
 }}
 {{Statbox|type1=Psychic|

@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=There are many depictions of Cofagrigus decorating ancient tombs. Theyâ€™re symbols of the wealth that kings of bygone eras had.
+|dexentry=There are many depictions of Cofagrigus decorating ancient tombs. Theyre symbols of the wealth that kings of bygone eras had.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Cofagrigus_(Pok%C3%A9mon) Cofagrigus] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=34-48
 }}
 {{SpawnInfo|type1=Ghost|biome=[[Overworld]]|
@@ -47,7 +47,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=34-48
 }}
 {{Statbox|type1=Ghost|

@@ -10,7 +10,7 @@
 |ability2=
 |abilityH=Static
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=1.6
 |weight-kg=52.6
@@ -26,7 +26,7 @@
 |form=Galar
 |alt1=
 |alt1dex=
-|dexentry=Zapdos is a legendary bird Pokemon. Itâ€™s said that when Zapdos rubs its feathers together, lightning will fall immediately after.
+|dexentry=Zapdos is a legendary bird Pokemon. Its said that when Zapdos rubs its feathers together, lightning will fall immediately after.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Zapdos_(Pok%C3%A9mon) Zapdos] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{SpawnInfo|type1=Electric|biome=[[Arid]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Electric|

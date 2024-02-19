@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=13-38
 }}
 {{SpawnInfo|type1=Normal|biome=[[Forest]]|
@@ -50,7 +50,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=13-38
 }}
 {{Statbox|type1=Normal|

@@ -37,9 +37,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=32-44
 }}
 {{Statbox|type1=Psychic|

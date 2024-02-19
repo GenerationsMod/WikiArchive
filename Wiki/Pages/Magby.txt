@@ -42,7 +42,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=11-36
 }}
 {{SpawnInfo|type1=Fire|biome=[[Volcanic]]|
@@ -51,7 +51,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=11-36
 }}
 {{SpawnInfo|type1=Fire|biome=[[Nether Basalt]], [[Nether Wasteland]]|
@@ -60,7 +60,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=11-36
 }}
 {{Statbox|type1=Fire|

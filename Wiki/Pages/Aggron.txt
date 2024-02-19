@@ -24,7 +24,7 @@
 |form=Mega
 |alt1=
 |alt1dex=
-|dexentry=Long ago, there was a king who wore a helmet meant to resemble the head of an Aggron. He was trying to channel the Pokemonâ€™s strength.
+|dexentry=Long ago, there was a king who wore a helmet meant to resemble the head of an Aggron. He was trying to channel the Pokemons strength.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Aggron_(Pok%C3%A9mon) Aggron] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=42-55
 }}
 {{Statbox|type1=Steel|

@@ -5,7 +5,7 @@
 |ndex=264
 |type1=Normal
 |type2=
-|ability1=Pickup|ability2=Gluttony
+|ability1=Gluttony|ability2=Pickup
 |abilityH=Quickfeet
 |abilityS=
 |genderm=50.0
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=20-42
 }}
 {{SpawnInfo|type1=Normal|biome=[[Taiga]]|
@@ -47,7 +47,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=20-42
 }}
 {{Statbox|type1=Normal|

@@ -5,7 +5,7 @@
 |ndex=764
 |type1=Fairy
 |type2=
-|ability1=Triage|ability2=Flowerveil
+|ability1=Flowerveil|ability2=Triage
 |abilityH=Naturalcure
 |abilityS=
 |genderm=25.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=24-49
 }}
 {{SpawnInfo|type1=Fairy|biome=[[Overworld]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=24-49
 }}
 {{SpawnInfo|type1=Fairy|biome=[[The Bumblezone:Floral Meadow]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=24-49
 }}
 {{Statbox|type1=Fairy|

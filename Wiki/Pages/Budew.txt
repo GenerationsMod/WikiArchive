@@ -5,7 +5,7 @@
 |ndex=406
 |type1=Grass
 |type2=Poison
-|ability1=Naturalcure|ability2=Poisonpoint
+|ability1=Poisonpoint|ability2=Naturalcure
 |abilityH=Leafguard
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=1-16
 }}
 {{Statbox|type1=Grass|

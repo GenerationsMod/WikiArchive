@@ -5,7 +5,7 @@
 |ndex=619
 |type1=Fighting
 |type2=
-|ability1=Regenerator|ability2=Innerfocus
+|ability1=Innerfocus|ability2=Regenerator
 |abilityH=Reckless
 |abilityS=
 |genderm=50.0
@@ -13,7 +13,7 @@
 |height-m=0.9
 |weight-kg=20.0
 |eggGroup1=Field
-|eggGroup2=Human_like
+|eggGroup2=Human-Like
 |steps=25
 |evHp=0
 |evAtk=1
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Though small, Mienfooâ€™s temperament is fierce. Any creature that approaches Mienfoo carelessly will be greeted with a flurry of graceful attacks.
+|dexentry=Though small, Mienfoos temperament is fierce. Any creature that approaches Mienfoo carelessly will be greeted with a flurry of graceful attacks.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Mienfoo_(Pok%C3%A9mon) Mienfoo] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=6-60
 }}
 {{Statbox|type1=Fighting|

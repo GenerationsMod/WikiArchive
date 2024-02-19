@@ -8,7 +8,7 @@
 |ability1=Prismarmor
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=255
 |height-m=2.4
 |weight-kg=230.0
@@ -37,7 +37,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Psychic|

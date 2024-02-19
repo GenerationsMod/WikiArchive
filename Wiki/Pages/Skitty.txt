@@ -5,7 +5,7 @@
 |ndex=300
 |type1=Normal
 |type2=
-|ability1=Cutecharm|ability2=Normalize
+|ability1=Normalize|ability2=Cutecharm
 |abilityH=Wonderskin
 |abilityS=
 |genderm=25.0
@@ -38,9 +38,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=12-29
 }}
 {{Statbox|type1=Normal|

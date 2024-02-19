@@ -26,7 +26,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=The fragrance of Meganiumâ€™s flower soothes and calms emotions. In battle, this Pokemon gives off more of its becalming scent to blunt the foeâ€™s fighting spirit.
+|dexentry=The fragrance of Meganiums flower soothes and calms emotions. In battle, this Pokemon gives off more of its becalming scent to blunt the foes fighting spirit.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Meganium_(Pok%C3%A9mon) Meganium] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=32-53
 }}
 {{SpawnInfo|type1=Grass|biome=[[The Bumblezone:Floral Meadow]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=32-53
 }}
 {{Statbox|type1=Grass|

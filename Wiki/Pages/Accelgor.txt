@@ -5,7 +5,7 @@
 |ndex=617
 |type1=Bug
 |type2=
-|ability1=Stickyhold|ability2=Hydration
+|ability1=Hydration|ability2=Stickyhold
 |abilityH=Unburden
 |abilityS=
 |genderm=50.0
@@ -37,7 +37,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=6-22
 }}
 {{Statbox|type1=Bug|

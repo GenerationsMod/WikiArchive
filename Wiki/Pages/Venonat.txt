@@ -5,7 +5,7 @@
 |ndex=048
 |type1=Bug
 |type2=Poison
-|ability1=Compoundeyes|ability2=Tintedlens
+|ability1=Tintedlens|ability2=Compoundeyes
 |abilityH=Runaway
 |abilityS=
 |genderm=50.0
@@ -37,9 +37,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=13-30
 }}
 {{Statbox|type1=Bug|

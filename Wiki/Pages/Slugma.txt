@@ -5,7 +5,7 @@
 |ndex=218
 |type1=Fire
 |type2=
-|ability1=Magmaarmor|ability2=Flamebody
+|ability1=Flamebody|ability2=Magmaarmor
 |abilityH=Weakarmor
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Slugma does not have any blood in its body. Instead, intensely hot magma circulates throughout this Pokemonâ€™s body, carrying essential nutrients and oxygen to its organs.
+|dexentry=Slugma does not have any blood in its body. Instead, intensely hot magma circulates throughout this Pokemons body, carrying essential nutrients and oxygen to its organs.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Slugma_(Pok%C3%A9mon) Slugma] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-25
 }}
 {{SpawnInfo|type1=Fire|biome=[[Nether]], [[Volcanic]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-25
 }}
 {{SpawnInfo|type1=Fire|biome=[[Overworld]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-25
 }}
 {{SpawnInfo|type1=Fire|biome=[[Volcanic]]|
@@ -66,7 +66,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-25
 }}
 {{Statbox|type1=Fire|

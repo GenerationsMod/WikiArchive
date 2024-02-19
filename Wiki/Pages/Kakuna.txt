@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=7-21
 }}
 {{SpawnInfo|type1=Bug|biome=[[The Bumblezone]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=7-21
 }}
 {{Statbox|type1=Bug|

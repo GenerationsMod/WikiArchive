@@ -12,7 +12,7 @@
 |catchrate=45
 |height-m=0.5
 |weight-kg=11.0
-|eggGroup1=Human_like
+|eggGroup1=Human-Like
 |eggGroup2=
 |steps=25
 |evHp=0
@@ -42,7 +42,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=13-38
 }}
 {{SpawnInfo|type1=Dark|biome=[[The Bumblezone:Crystal Canyon]]|
@@ -51,7 +51,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=13-38
 }}
 {{Statbox|type1=Dark|

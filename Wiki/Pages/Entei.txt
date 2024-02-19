@@ -10,7 +10,7 @@
 |ability2=
 |abilityH=Innerfocus
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=2.1
 |weight-kg=198.0
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Fire|

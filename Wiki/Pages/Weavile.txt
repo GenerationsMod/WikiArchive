@@ -40,9 +40,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=38-51
 }}
 {{Statbox|type1=Dark|

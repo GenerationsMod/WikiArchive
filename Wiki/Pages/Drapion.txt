@@ -5,7 +5,7 @@
 |ndex=452
 |type1=Poison
 |type2=Dark
-|ability1=Sniper|ability2=Battlearmor
+|ability1=Battlearmor|ability2=Sniper
 |abilityH=Keeneye
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=40-60
 }}
 {{Statbox|type1=Poison|

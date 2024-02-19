@@ -5,7 +5,7 @@
 |ndex=607
 |type1=Ghost
 |type2=Fire
-|ability1=Flamebody|ability2=Flashfire
+|ability1=Flashfire|ability2=Flamebody
 |abilityH=Infiltrator
 |abilityS=
 |genderm=50.0
@@ -38,9 +38,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=12-42
 }}
 {{Statbox|type1=Ghost|

@@ -5,7 +5,7 @@
 |ndex=427
 |type1=Normal
 |type2=
-|ability1=Runaway|ability2=Klutz
+|ability1=Klutz|ability2=Runaway
 |abilityH=Limber
 |abilityS=
 |genderm=50.0
@@ -13,7 +13,7 @@
 |height-m=0.4
 |weight-kg=5.5
 |eggGroup1=Field
-|eggGroup2=Human_like
+|eggGroup2=Human-Like
 |steps=20
 |evHp=0
 |evAtk=0
@@ -42,7 +42,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=10-35
 }}
 {{Statbox|type1=Normal|

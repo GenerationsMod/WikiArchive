@@ -10,7 +10,7 @@
 |ability2=
 |abilityH=Telepathy
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=1.9
 |weight-kg=45.5
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Grass|
@@ -67,7 +67,7 @@
 {{movesLvl|40|Horn_Leech}}
 {{movesLvl|45|Zen_Headbutt}}
 {{movesLvl|50|Mean_Look}}
-{{movesLvl|55|Natureâ€™s_Madness}}
+{{movesLvl|55|Natures_Madness}}
 {{movesLvl|60|Wood_Hammer}}
 {{movesLvl|65|Megahorn}}
 {{movesLvl|70|Skull_Bash}}
@@ -143,7 +143,7 @@
 {{moves|Giga_Drain}}
 {{moves|Iron_Defense}}
 {{moves|Megahorn}}
-{{moves|Natureâ€™s_Madness}}
+{{moves|Natures_Madness}}
 {{moves|Scary_Face}}
 {{moves|Seed_Bomb}}
 {{moves|Skull_Bash}}

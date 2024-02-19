@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=28-44
 }}
 {{SpawnInfo|type1=Normal|biome=[[Overworld]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=28-44
 }}
 {{SpawnInfo|type1=Normal|biome=[[Arid]]|
@@ -58,7 +58,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=28-44
 }}
 {{SpawnInfo|type1=Normal|biome=[[Arid]]|
@@ -67,7 +67,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=28-44
 }}
 {{SpawnInfo|type1=Normal|biome=[[Overworld]]|
@@ -76,7 +76,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=28-44
 }}
 {{SpawnInfo|type1=Normal|biome=[[Arid]], [[Freezing]]|
@@ -85,7 +85,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=28-44
 }}
 {{SpawnInfo|type1=Normal|biome=[[Overworld]]|
@@ -94,7 +94,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=28-44
 }}
 {{Statbox|type1=Normal|

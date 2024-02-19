@@ -5,7 +5,7 @@
 |ndex=974
 |type1=Ice
 |type2=
-|ability1=Thickfat|ability2=Snowcloak
+|ability1=Snowcloak|ability2=Thickfat
 |abilityH=Sheerforce
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=8-33
 }}
 {{SpawnInfo|type1=Ice|biome=[[Glacial]], [[Tundra]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=8-33
 }}
 {{Statbox|type1=Ice|

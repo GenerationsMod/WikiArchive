@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Never touch its shadowlike body, or youâ€™ll be shown the horrific memories behind the picture carved into it.
+|dexentry=Never touch its shadowlike body, or youll be shown the horrific memories behind the picture carved into it.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Runerigus_(Pok%C3%A9mon) Runerigus] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -36,9 +36,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=34-60
 }}
 {{Statbox|type1=Ground|

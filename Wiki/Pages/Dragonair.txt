@@ -43,7 +43,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=30-42
 }}
 {{SpawnInfo|type1=Dragon|biome=[[Overworld]]|
@@ -52,7 +52,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=30-42
 }}
 {{SpawnInfo|type1=Dragon|biome=[[Ocean]]|
@@ -61,7 +61,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=30-42
 }}
 {{Statbox|type1=Dragon|

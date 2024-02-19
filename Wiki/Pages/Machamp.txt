@@ -12,7 +12,7 @@
 |catchrate=45
 |height-m=1.6
 |weight-kg=130.0
-|eggGroup1=Human_like
+|eggGroup1=Human-Like
 |eggGroup2=
 |steps=20
 |evHp=0
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=36-51
 }}
 {{Statbox|type1=Fighting|

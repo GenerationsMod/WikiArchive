@@ -10,7 +10,7 @@
 |ability2=
 |abilityH=Telepathy
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=1.3
 |weight-kg=21.2
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Water|
@@ -67,7 +67,7 @@
 {{movesLvl|40|Surf}}
 {{movesLvl|45|Muddy_Water}}
 {{movesLvl|50|Mean_Look}}
-{{movesLvl|55|Natureâ€™s_Madness}}
+{{movesLvl|55|Natures_Madness}}
 {{movesLvl|60|Moonblast}}
 {{movesLvl|65|Hydro_Pump}}
 {{movesLvl|70|Soak}}
@@ -142,7 +142,7 @@
 {{moves|Magic_Room}}
 {{moves|Moonblast}}
 {{moves|Muddy_Water}}
-{{moves|Natureâ€™s_Madness}}
+{{moves|Natures_Madness}}
 {{moves|Snore}}
 {{moves|Telekinesis}}
 {{moves|Trick}}

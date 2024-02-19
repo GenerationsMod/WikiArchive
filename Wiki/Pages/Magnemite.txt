@@ -5,10 +5,10 @@
 |ndex=081
 |type1=Electric
 |type2=Steel
-|ability1=Magnetpull|ability2=Sturdy
+|ability1=Sturdy|ability2=Magnetpull
 |abilityH=Analytic
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=190
 |height-m=0.3
 |weight-kg=6.0
@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=8-33
 }}
 {{SpawnInfo|type1=Electric|biome=[[Overworld]]|
@@ -50,7 +50,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=8-33
 }}
 {{Statbox|type1=Electric|

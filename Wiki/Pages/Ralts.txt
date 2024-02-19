@@ -5,14 +5,14 @@
 |ndex=280
 |type1=Psychic
 |type2=Fairy
-|ability1=Synchronize|ability2=Trace
+|ability1=Trace|ability2=Synchronize
 |abilityH=Telepathy
 |abilityS=
 |genderm=50.0
 |catchrate=235
 |height-m=0.4
 |weight-kg=6.6
-|eggGroup1=Human_like
+|eggGroup1=Human-Like
 |eggGroup2=Amorphous
 |steps=20
 |evHp=0
@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=1-20
 }}
 {{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
@@ -50,7 +50,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=1-20
 }}
 {{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
@@ -59,7 +59,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=1-20
 }}
 {{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
@@ -68,7 +68,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-20
 }}
 {{Statbox|type1=Psychic|

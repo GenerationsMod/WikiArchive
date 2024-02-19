@@ -5,7 +5,7 @@
 |ndex=884
 |type1=Steel
 |type2=Dragon
-|ability1=Heavymetal|ability2=Lightmetal
+|ability1=Lightmetal|ability2=Heavymetal
 |abilityH=Stalwart
 |abilityS=
 |genderm=50.0
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=30-60
 }}
 {{Statbox|type1=Steel|

@@ -5,7 +5,7 @@
 |ndex=049
 |type1=Bug
 |type2=Poison
-|ability1=Shielddust|ability2=Tintedlens
+|ability1=Tintedlens|ability2=Shielddust
 |abilityH=Wonderskin
 |abilityS=
 |genderm=50.0
@@ -38,9 +38,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=31-45
 }}
 {{Statbox|type1=Bug|

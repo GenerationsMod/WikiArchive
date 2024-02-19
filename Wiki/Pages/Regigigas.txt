@@ -8,7 +8,7 @@
 |ability1=Slowstart
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=3.7
 |weight-kg=420.0
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=50-60
 }}
 {{Statbox|type1=Normal|

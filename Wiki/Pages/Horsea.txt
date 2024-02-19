@@ -5,7 +5,7 @@
 |ndex=116
 |type1=Water
 |type2=
-|ability1=Sniper|ability2=Swiftswim
+|ability1=Swiftswim|ability2=Sniper
 |abilityH=Damp
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=5-30
 }}
 {{Statbox|type1=Water|

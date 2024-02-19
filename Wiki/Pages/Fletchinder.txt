@@ -41,9 +41,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=day
+|time=Day
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=17-38
 }}
 {{SpawnInfo|type1=Fire|biome=[[Nether Forest]], [[Nether Fungus]]|
@@ -52,7 +52,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=17-38
 }}
 {{Statbox|type1=Fire|

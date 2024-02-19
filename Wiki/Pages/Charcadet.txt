@@ -14,7 +14,7 @@
 |catchrate=90
 |height-m=0.6
 |weight-kg=10.5
-|eggGroup1=Human_like
+|eggGroup1=Human-Like
 |eggGroup2=
 |steps=35
 |evHp=0
@@ -42,7 +42,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-26
 }}
 {{SpawnInfo|type1=Fire|biome=[[Overworld]]|
@@ -51,7 +51,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=1-26
 }}
 {{Statbox|type1=Fire|

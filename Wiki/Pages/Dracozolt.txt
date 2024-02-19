@@ -8,7 +8,7 @@
 |ability1=Voltabsorb|ability2=Hustle
 |abilityH=Sandrush
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=45
 |height-m=1.8
 |weight-kg=190.0
@@ -37,7 +37,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=20-60
 }}
 {{Statbox|type1=Electric|

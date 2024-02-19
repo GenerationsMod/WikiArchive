@@ -5,7 +5,7 @@
 |ndex=932
 |type1=Rock
 |type2=
-|ability1=Sturdy|ability2=Purifyingsalt
+|ability1=Purifyingsalt|ability2=Sturdy
 |abilityH=Clearbody
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=3-28
 }}
 {{SpawnInfo|type1=Rock|biome=[[Salt]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=3-28
 }}
 {{SpawnInfo|type1=Rock|biome=[[Nether Quartz]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=3-28
 }}
 {{Statbox|type1=Rock|

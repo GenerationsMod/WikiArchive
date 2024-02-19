@@ -26,7 +26,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Bayleefâ€™s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.
+|dexentry=Bayleefs neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Bayleef_(Pok%C3%A9mon) Bayleef] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=16-41
 }}
 {{SpawnInfo|type1=Grass|biome=[[The Bumblezone:Floral Meadow]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=16-41
 }}
 {{Statbox|type1=Grass|

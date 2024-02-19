@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=40-50
 }}
 {{SpawnInfo|type1=Steel|biome=[[Overworld]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=40-50
 }}
 {{Statbox|type1=Steel|
@@ -68,7 +68,7 @@
 {{movesLvl|1|Head_Smash}}
 {{movesLvl|1|Iron_Defense}}
 {{movesLvl|1|Iron_Head}}
-{{movesLvl|1|Kingâ€™s_Shield}}
+{{movesLvl|1|Kings_Shield}}
 {{movesLvl|1|Metal_Sound}}
 {{movesLvl|1|Night_Slash}}
 {{movesLvl|1|Power_Trick}}
@@ -131,7 +131,7 @@
 {{moves|Flash_Cannon}}
 {{moves|Iron_Defense}}
 {{moves|Iron_Head}}
-{{moves|Kingâ€™s_Shield}}
+{{moves|Kings_Shield}}
 {{moves|Laser_Focus}}
 {{moves|Magnet_Rise}}
 {{moves|Shadow_Ball}}

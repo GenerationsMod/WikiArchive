@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=With a voice like a human childâ€™s, it cries out to lure adults deep into the forest, getting them lost among the trees.
+|dexentry=With a voice like a human childs, it cries out to lure adults deep into the forest, getting them lost among the trees.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Phantump_(Pok%C3%A9mon) Phantump] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -37,18 +37,18 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=6-31
 }}
 {{SpawnInfo|type1=Ghost|biome=[[Spooky]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=6-31
 }}
 {{SpawnInfo|type1=Ghost|biome=[[Nether Forest]], [[Nether Warped]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=6-31
 }}
 {{Statbox|type1=Ghost|
@@ -85,7 +85,7 @@
 {{movesLvl|40|Ingrain}}
 {{movesLvl|44|Wood_Hammer}}
 {{movesLvl|48|Destiny_Bond}}
-{{movesLvl|52|Forestâ€™s_Curse}}
+{{movesLvl|52|Forests_Curse}}
 |}
 {{MovesAlign}}{{MovesTmTop|Ghost}}
 {{movesTm|Ally_Switch}}

@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=38-50
 }}
 {{SpawnInfo|type1=Poison|biome=[[Overworld]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=38-50
 }}
 {{SpawnInfo|type1=Poison|biome=[[Overworld]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=38-50
 }}
 {{SpawnInfo|type1=Poison|biome=[[Nether Toxic]]|
@@ -66,7 +66,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=38-50
 }}
 {{SpawnInfo|type1=Poison|biome=[[Swamp]]|
@@ -75,7 +75,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=8-33
 }}
 {{Statbox|type1=Poison|

@@ -5,7 +5,7 @@
 |ndex=226
 |type1=Water
 |type2=Flying
-|ability1=Waterabsorb|ability2=Swiftswim
+|ability1=Swiftswim|ability2=Waterabsorb
 |abilityH=Waterveil
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=25-44
 }}
 {{Statbox|type1=Water|

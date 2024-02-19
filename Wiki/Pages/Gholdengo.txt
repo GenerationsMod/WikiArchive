@@ -8,7 +8,7 @@
 |ability1=Goodasgold
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=45
 |height-m=1.2
 |weight-kg=30.0
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=20-40
 }}
 {{Statbox|type1=Steel|

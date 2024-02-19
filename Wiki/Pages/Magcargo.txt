@@ -5,7 +5,7 @@
 |ndex=219
 |type1=Fire
 |type2=Rock
-|ability1=Magmaarmor|ability2=Flamebody
+|ability1=Flamebody|ability2=Magmaarmor
 |abilityH=Weakarmor
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Magcargoâ€™s body temperature is approximately 18,000 degrees Fahrenheit. Water is vaporized on contact. If this Pokemon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.
+|dexentry=Magcargos body temperature is approximately 18,000 degrees Fahrenheit. Water is vaporized on contact. If this Pokemon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Magcargo_(Pok%C3%A9mon) Magcargo] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=38-43
 }}
 {{SpawnInfo|type1=Fire|biome=[[Nether]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=38-43
 }}
 {{SpawnInfo|type1=Fire|biome=[[Overworld]]|
@@ -58,7 +58,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=38-43
 }}
 {{SpawnInfo|type1=Fire|biome=[[Volcanic]]|
@@ -67,7 +67,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=38-43
 }}
 {{SpawnInfo|type1=Fire|biome=[[Volcanic]]|
@@ -76,7 +76,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=38-43
 }}
 {{Statbox|type1=Fire|

@@ -8,7 +8,7 @@
 |ability1=Waterabsorb|ability2=Icebody
 |abilityH=Slushrush
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=45
 |height-m=2.0
 |weight-kg=175.0
@@ -37,7 +37,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=20-60
 }}
 {{Statbox|type1=Water|

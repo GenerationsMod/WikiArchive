@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=25-39
 }}
 {{SpawnInfo|type1=Rock|biome=[[Overworld]]|
@@ -50,7 +50,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=25-39
 }}
 {{SpawnInfo|type1=Rock|biome=[[Mountain]]|
@@ -59,7 +59,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=25-39
 }}
 {{Statbox|type1=Rock|

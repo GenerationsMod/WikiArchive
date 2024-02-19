@@ -5,7 +5,7 @@
 |ndex=446
 |type1=Normal
 |type2=
-|ability1=Pickup|ability2=Thickfat
+|ability1=Thickfat|ability2=Pickup
 |abilityH=Gluttony
 |abilityS=
 |genderm=87.5
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=12-39
 }}
 {{Statbox|type1=Normal|

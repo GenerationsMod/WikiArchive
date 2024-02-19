@@ -5,7 +5,7 @@
 |ndex=664
 |type1=Bug
 |type2=
-|ability1=Shielddust|ability2=Compoundeyes
+|ability1=Compoundeyes|ability2=Shielddust
 |abilityH=Friendguard
 |abilityS=
 |genderm=50.0
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-20
 }}
 {{SpawnInfo|type1=Bug|biome=[[The Bumblezone:Floral Meadow]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-20
 }}
 {{Statbox|type1=Bug|

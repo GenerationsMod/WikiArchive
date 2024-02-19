@@ -5,7 +5,7 @@
 |ndex=777
 |type1=Electric
 |type2=Steel
-|ability1=Ironbarbs|ability2=Lightningrod
+|ability1=Lightningrod|ability2=Ironbarbs
 |abilityH=Sturdy
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=Totem
 |alt1=
 |alt1dex=
-|dexentry=When itâ€™s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.
+|dexentry=When its in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Togedemaru_(Pok%C3%A9mon) Togedemaru] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=10-60
 }}
 {{Statbox|type1=Electric|

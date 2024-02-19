@@ -42,7 +42,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=23-48
 }}
 {{SpawnInfo|type1=Dragon|biome=[[Swamp]]|
@@ -51,7 +51,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=23-48
 }}
 {{Statbox|type1=Dragon|

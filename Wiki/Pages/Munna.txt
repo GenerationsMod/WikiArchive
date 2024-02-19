@@ -5,7 +5,7 @@
 |ndex=517
 |type1=Psychic
 |type2=
-|ability1=Synchronize|ability2=Forewarn
+|ability1=Forewarn|ability2=Synchronize
 |abilityH=Telepathy
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=It eats dreams and releases mist. The mist is pink when itâ€™s eating a good dream, and black when itâ€™s eating a nightmare.
+|dexentry=It eats dreams and releases mist. The mist is pink when its eating a good dream, and black when its eating a nightmare.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Munna_(Pok%C3%A9mon) Munna] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -36,9 +36,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=12-39
 }}
 {{Statbox|type1=Psychic|

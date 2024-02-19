@@ -5,7 +5,7 @@
 |ndex=691
 |type1=Poison
 |type2=Dragon
-|ability1=Poisontouch|ability2=Poisonpoint
+|ability1=Poisonpoint|ability2=Poisontouch
 |abilityH=Adaptability
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Dragalge generates dragon energy by sticking the plume on its head out above the oceanâ€™s surface and bathing it in sunlight.
+|dexentry=Dragalge generates dragon energy by sticking the plume on its head out above the oceans surface and bathing it in sunlight.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Dragalge_(Pok%C3%A9mon) Dragalge] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=48-49
 }}
 {{Statbox|type1=Poison|

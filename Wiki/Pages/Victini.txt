@@ -8,7 +8,7 @@
 |ability1=Victorystar
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=0.4
 |weight-kg=4.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=When it shares the infinite energy it creates, that beingâ€™s entire body will be overflowing with power.
+|dexentry=When it shares the infinite energy it creates, that beings entire body will be overflowing with power.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Victini_(Pok%C3%A9mon) Victini] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -35,9 +35,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=day
+|time=Day
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Psychic|

@@ -5,7 +5,7 @@
 |ndex=207
 |type1=Ground
 |type2=Flying
-|ability1=Sandveil|ability2=Hypercutter
+|ability1=Hypercutter|ability2=Sandveil
 |abilityH=Immunity
 |abilityS=
 |genderm=50.0
@@ -38,9 +38,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=18-43
 }}
 {{SpawnInfo|type1=Ground|biome=[[Nether Mountain]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=18-43
 }}
 {{Statbox|type1=Ground|

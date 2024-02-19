@@ -5,14 +5,14 @@
 |ndex=538
 |type1=Fighting
 |type2=
-|ability1=Guts|ability2=Innerfocus
+|ability1=Innerfocus|ability2=Guts
 |abilityH=Moldbreaker
 |abilityS=
 |genderm=100
 |catchrate=45
 |height-m=1.3
 |weight-kg=55.5
-|eggGroup1=Human_like
+|eggGroup1=Human-Like
 |eggGroup2=
 |steps=20
 |evHp=2
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=They train in groups of five. Any member that canâ€™t keep up will discard its belt and leave the group.
+|dexentry=They train in groups of five. Any member that cant keep up will discard its belt and leave the group.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Throh_(Pok%C3%A9mon) Throh] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=25-60
 }}
 {{Statbox|type1=Fighting|

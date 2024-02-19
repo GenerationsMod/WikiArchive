@@ -12,7 +12,7 @@
 |catchrate=45
 |height-m=1.6
 |weight-kg=70.0
-|eggGroup1=Human_like
+|eggGroup1=Human-Like
 |eggGroup2=
 |steps=20
 |evHp=0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=52-60
 }}
 {{Statbox|type1=Dark|

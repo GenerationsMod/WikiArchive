@@ -5,7 +5,7 @@
 |ndex=504
 |type1=Normal
 |type2=
-|ability1=Runaway|ability2=Keeneye
+|ability1=Keeneye|ability2=Runaway
 |abilityH=Analytic
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Extremely cautious, one of them will always be on the lookout, but it wonâ€™t notice a foe coming from behind.
+|dexentry=Extremely cautious, one of them will always be on the lookout, but it wont notice a foe coming from behind.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Patrat_(Pok%C3%A9mon) Patrat] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-26
 }}
 {{Statbox|type1=Normal|

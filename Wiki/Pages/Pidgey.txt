@@ -38,9 +38,9 @@
 |antibiome=[[Spooky]]
 |location=Land
 |antilocation=Underground
-|time=day
+|time=Day
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-25
 }}
 {{Statbox|type1=Normal|

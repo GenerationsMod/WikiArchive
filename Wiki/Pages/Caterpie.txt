@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-20
 }}
 {{SpawnInfo|type1=Bug|biome=[[Plains]]|
@@ -50,7 +50,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-20
 }}
 {{SpawnInfo|type1=Bug|biome=[[Jungle]], [[Tropical Island]]|
@@ -59,7 +59,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-20
 }}
 {{SpawnInfo|type1=Bug|biome=[[The Bumblezone:Floral Meadow]]|
@@ -68,7 +68,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-20
 }}
 {{Statbox|type1=Bug|

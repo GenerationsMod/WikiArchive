@@ -8,7 +8,7 @@
 |ability1=Darkaura
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=45
 |height-m=5.8
 |weight-kg=203.0
@@ -35,9 +35,9 @@
 |antibiome=
 |location=Underground
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Dark|

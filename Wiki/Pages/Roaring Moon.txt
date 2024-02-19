@@ -8,7 +8,7 @@
 |ability1=Protosynthesis
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=10
 |height-m=2.0
 |weight-kg=380.0
@@ -37,7 +37,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=50-60
 }}
 {{Statbox|type1=Dragon|

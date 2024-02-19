@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=35-53
 }}
 {{SpawnInfo|type1=Rock|biome=[[Nether Quartz]]|
@@ -50,7 +50,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=35-53
 }}
 {{Statbox|type1=Rock|

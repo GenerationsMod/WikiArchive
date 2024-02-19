@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=It lives at the waterâ€™s edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.
+|dexentry=It lives at the waters edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Lombre_(Pok%C3%A9mon) Lombre] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=14-34
 }}
 {{SpawnInfo|type1=Water|biome=[[Swamp]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=14-34
 }}
 {{Statbox|type1=Water|

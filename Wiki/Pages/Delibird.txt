@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=It has a generous habit of sharing its food with people and Pokemon, so itâ€™s always scrounging around for more food.
+|dexentry=It has a generous habit of sharing its food with people and Pokemon, so its always scrounging around for more food.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Delibird_(Pok%C3%A9mon) Delibird] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=1-50
 }}
 {{Statbox|type1=Ice|

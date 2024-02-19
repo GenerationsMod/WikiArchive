@@ -10,7 +10,7 @@
 |ability2=
 |abilityH=Telepathy
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=4.5
 |weight-kg=750.0
@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Ghost|

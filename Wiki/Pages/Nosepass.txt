@@ -5,7 +5,7 @@
 |ndex=299
 |type1=Rock
 |type2=
-|ability1=Magnetpull|ability2=Sturdy
+|ability1=Sturdy|ability2=Magnetpull
 |abilityH=Sandforce
 |abilityS=
 |genderm=50.0
@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=16-37
 }}
 {{Statbox|type1=Rock|

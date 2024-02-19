@@ -8,7 +8,7 @@
 |ability1=Protosynthesis
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=50
 |height-m=1.2
 |weight-kg=8.0
@@ -37,7 +37,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=12-27
 }}
 {{SpawnInfo|type1=Fairy|biome=[[Plains]]|
@@ -46,7 +46,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=12-27
 }}
 {{Statbox|type1=Fairy|

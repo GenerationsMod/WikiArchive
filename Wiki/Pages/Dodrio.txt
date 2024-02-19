@@ -5,7 +5,7 @@
 |ndex=085
 |type1=Normal
 |type2=Flying
-|ability1=Runaway|ability2=Earlybird
+|ability1=Earlybird|ability2=Runaway
 |abilityH=Tangledfeet
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=One of Doduoâ€™s two heads splits to form a unique species. It runs close to 40 mph in prairies.
+|dexentry=One of Doduos two heads splits to form a unique species. It runs close to 40 mph in prairies.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Dodrio_(Pok%C3%A9mon) Dodrio] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=31-47
 }}
 {{Statbox|type1=Normal|

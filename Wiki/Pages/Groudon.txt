@@ -8,7 +8,7 @@
 |ability1=Drought
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=3.5
 |weight-kg=950.0
@@ -24,7 +24,7 @@
 |form=Primal
 |alt1=
 |alt1dex=
-|dexentry=Through Primal Reversion and with natureâ€™s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.
+|dexentry=Through Primal Reversion and with natures full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Groudon_(Pok%C3%A9mon) Groudon] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Ground|

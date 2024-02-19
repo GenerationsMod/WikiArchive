@@ -37,9 +37,9 @@
 |antibiome=[[Freezing]], [[Spooky]]
 |location=Land
 |antilocation=Underground
-|time=day
+|time=Day
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=45-50
 }}
 {{Statbox|type1=Bug|

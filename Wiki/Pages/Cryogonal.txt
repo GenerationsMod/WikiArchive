@@ -8,7 +8,7 @@
 |ability1=Levitate
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=25
 |height-m=1.1
 |weight-kg=148.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=27-52
 }}
 {{SpawnInfo|type1=Ice|biome=[[Nether Frozen]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=27-52
 }}
 {{Statbox|type1=Ice|

@@ -5,7 +5,7 @@
 |ndex=618
 |type1=Ground
 |type2=Electric
-|ability1=Limber|ability2=Static
+|ability1=Static|ability2=Limber
 |abilityH=Sandveil
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=6-60
 }}
 {{SpawnInfo|type1=Ground|biome=[[Swamp]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=6-60
 }}
 {{Statbox|type1=Ground|

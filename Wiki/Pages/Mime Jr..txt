@@ -5,7 +5,7 @@
 |ndex=439
 |type1=Psychic
 |type2=Fairy
-|ability1=Soundproof|ability2=Filter
+|ability1=Filter|ability2=Soundproof
 |abilityH=Technician
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=6-31
 }}
 {{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=6-31
 }}
 {{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=6-31
 }}
 {{Statbox|type1=Psychic|

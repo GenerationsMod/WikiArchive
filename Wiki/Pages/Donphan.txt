@@ -42,7 +42,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=25-50
 }}
 {{SpawnInfo|type1=Ground|biome=[[Savanna]]|
@@ -51,7 +51,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=25-50
 }}
 {{Statbox|type1=Ground|

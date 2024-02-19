@@ -40,9 +40,9 @@
 |antibiome=
 |location=Underground
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=5-20
 }}
 {{Statbox|type1=Ice|

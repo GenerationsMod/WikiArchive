@@ -5,10 +5,10 @@
 |ndex=925
 |type1=Normal
 |type2=
-|ability1=Cheekpouch|ability2=Friendguard
+|ability1=Friendguard|ability2=Cheekpouch
 |abilityH=Technician
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=75
 |height-m=0.3
 |weight-kg=2.3
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=25-47
 }}
 {{SpawnInfo|type1=Normal|biome=[[Overworld]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=25-47
 }}
 {{SpawnInfo|type1=Normal|biome=[[Overworld]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=25-47
 }}
 {{SpawnInfo|type1=Normal|biome=[[Overworld]]|
@@ -66,7 +66,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=25-47
 }}
 {{Statbox|type1=Normal|

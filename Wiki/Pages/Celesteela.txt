@@ -8,7 +8,7 @@
 |ability1=Beastboost
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=45
 |height-m=9.2
 |weight-kg=999.9
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Although itâ€™s alien to this world and a danger here, itâ€™s apparently a common organism in the world where it normally lives.
+|dexentry=Although its alien to this world and a danger here, its apparently a common organism in the world where it normally lives.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Celesteela_(Pok%C3%A9mon) Celesteela] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Steel|

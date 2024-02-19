@@ -5,7 +5,7 @@
 |ndex=848
 |type1=Electric
 |type2=Poison
-|ability1=Rattled|ability2=Static
+|ability1=Static|ability2=Rattled
 |abilityH=Klutz
 |abilityS=
 |genderm=50.0
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=5-32
 }}
 {{Statbox|type1=Electric|

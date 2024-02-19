@@ -5,7 +5,7 @@
 |ndex=214
 |type1=Bug
 |type2=Fighting
-|ability1=Guts|ability2=Swarm
+|ability1=Swarm|ability2=Guts
 |abilityH=Moxie
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=4-55
 }}
 {{Statbox|type1=Bug|

@@ -5,7 +5,7 @@
 |ndex=507
 |type1=Normal
 |type2=
-|ability1=Sandrush|ability2=Intimidate
+|ability1=Intimidate|ability2=Sandrush
 |abilityH=Scrappy
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=The black fur that covers this Pokemonâ€™s body is dense and springy. Even sharp fangs bounce right off.
+|dexentry=The black fur that covers this Pokemons body is dense and springy. Even sharp fangs bounce right off.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Herdier_(Pok%C3%A9mon) Herdier] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=16-37
 }}
 {{SpawnInfo|type1=Normal|biome=[[Overworld]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=16-37
 }}
 {{Statbox|type1=Normal|

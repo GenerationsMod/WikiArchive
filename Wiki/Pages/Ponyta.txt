@@ -5,7 +5,7 @@
 |ndex=077
 |type1=Fire
 |type2=
-|ability1=Runaway|ability2=Flashfire
+|ability1=Flashfire|ability2=Runaway
 |abilityH=Flamebody
 |abilityS=
 |genderm=50.0
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=16-41
 }}
 {{SpawnInfo|type1=Fire|biome=[[Nether Overgrowth]], [[Nether Wasteland]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=16-41
 }}
 {{SpawnInfo|type1=Fire|biome=[[Floral]], [[Magical]]|
@@ -58,7 +58,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=16-41
 }}
 {{Statbox|type1=Fire|

@@ -10,7 +10,7 @@
 |ability2=
 |abilityH=Sturdy
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=1.7
 |weight-kg=230.0
@@ -26,7 +26,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Cutting-edge technology was used to study the internals of this Pokemonâ€™s rock body, but nothing was found-not even a brain or a heart.
+|dexentry=Cutting-edge technology was used to study the internals of this Pokemons rock body, but nothing was found-not even a brain or a heart.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Regirock_(Pok%C3%A9mon) Regirock] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=50-60
 }}
 {{Statbox|type1=Rock|

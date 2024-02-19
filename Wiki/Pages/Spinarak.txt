@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Although the poison from its fangs isnâ€™t that strong, itâ€™s potent enough to weaken prey that gets caught in its web.
+|dexentry=Although the poison from its fangs isnt that strong, its potent enough to weaken prey that gets caught in its web.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Spinarak_(Pok%C3%A9mon) Spinarak] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,9 +39,9 @@
 |antibiome=[[Freezing]]
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-25
 }}
 {{SpawnInfo|type1=Bug|biome=[[Overworld]]|
@@ -50,7 +50,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-25
 }}
 {{SpawnInfo|type1=Bug|biome=[[Overworld]]|
@@ -59,7 +59,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-25
 }}
 {{SpawnInfo|type1=Bug|biome=[[Terralith:Cave/Infested Caves]]|
@@ -68,7 +68,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-25
 }}
 {{SpawnInfo|type1=Bug|biome=[[Overworld]]|
@@ -77,7 +77,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-25
 }}
 {{Statbox|type1=Bug|

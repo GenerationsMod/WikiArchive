@@ -15,7 +15,7 @@
 |height-m=0.6
 |weight-kg=9.0
 |eggGroup1=Field
-|eggGroup2=Human_like
+|eggGroup2=Human-Like
 |steps=20
 |evHp=0
 |evAtk=0
@@ -43,7 +43,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=16-42
 }}
 {{Statbox|type1=Fire|

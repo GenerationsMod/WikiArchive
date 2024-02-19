@@ -41,9 +41,9 @@
 |antibiome=[[Freezing]], [[Spooky]]
 |location=Land
 |antilocation=Underground
-|time=day
+|time=Day
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=21-47
 }}
 {{SpawnInfo|type1=Bug|biome=[[The Bumblezone]]|
@@ -52,7 +52,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=21-47
 }}
 {{Statbox|type1=Bug|

@@ -42,7 +42,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=22-47
 }}
 {{SpawnInfo|type1=Ice|biome=[[Frozen Ocean]]|
@@ -51,7 +51,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=22-47
 }}
 {{Statbox|type1=Ice|

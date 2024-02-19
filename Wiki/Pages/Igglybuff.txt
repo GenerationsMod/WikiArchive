@@ -5,7 +5,7 @@
 |ndex=174
 |type1=Normal
 |type2=Fairy
-|ability1=Cutecharm|ability2=Competitive
+|ability1=Competitive|ability2=Cutecharm
 |abilityH=Friendguard
 |abilityS=
 |genderm=25.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-21
 }}
 {{SpawnInfo|type1=Normal|biome=[[Plains]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-21
 }}
 {{Statbox|type1=Normal|

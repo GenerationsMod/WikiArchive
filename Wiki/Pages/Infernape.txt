@@ -15,7 +15,7 @@
 |height-m=1.2
 |weight-kg=55.0
 |eggGroup1=Field
-|eggGroup2=Human_like
+|eggGroup2=Human-Like
 |steps=20
 |evHp=0
 |evAtk=1
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=36-53
 }}
 {{SpawnInfo|type1=Fire|biome=[[Nether Forest]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=36-53
 }}
 {{Statbox|type1=Fire|

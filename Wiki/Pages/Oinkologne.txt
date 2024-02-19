@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=18-49
 }}
 {{SpawnInfo|type1=Normal|biome=[[Swamp]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=18-49
 }}
 {{SpawnInfo|type1=Normal|biome=[[Nether Crimson]], [[Nether Fungus]], [[Nether Overgrowth]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=18-49
 }}
 {{Statbox|type1=Normal|

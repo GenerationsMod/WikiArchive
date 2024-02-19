@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=22-45
 }}
 {{SpawnInfo|type1=Poison|biome=[[Arid]]|
@@ -47,7 +47,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=22-45
 }}
 {{SpawnInfo|type1=Poison|biome=[[Arid]]|
@@ -56,7 +56,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=22-45
 }}
 {{SpawnInfo|type1=Poison|biome=[[Arid]]|
@@ -65,7 +65,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=22-45
 }}
 {{SpawnInfo|type1=Poison|biome=[[Arid]]|
@@ -74,7 +74,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=22-45
 }}
 {{SpawnInfo|type1=Poison|biome=[[Arid]]|
@@ -83,7 +83,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=22-45
 }}
 {{SpawnInfo|type1=Poison|biome=[[Nether Desert]]|
@@ -92,7 +92,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=22-45
 }}
 {{Statbox|type1=Poison|

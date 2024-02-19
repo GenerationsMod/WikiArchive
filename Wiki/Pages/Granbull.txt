@@ -5,7 +5,7 @@
 |ndex=210
 |type1=Fairy
 |type2=
-|ability1=Intimidate|ability2=Quickfeet
+|ability1=Quickfeet|ability2=Intimidate
 |abilityH=Rattled
 |abilityS=
 |genderm=25.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Although itâ€™s popular with young people, Granbull is timid and sensitive, so itâ€™s totally incompetent as a watchdog.
+|dexentry=Although its popular with young people, Granbull is timid and sensitive, so its totally incompetent as a watchdog.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Granbull_(Pok%C3%A9mon) Granbull] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=23-45
 }}
 {{SpawnInfo|type1=Fairy|biome=[[Overworld]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=23-45
 }}
 {{SpawnInfo|type1=Fairy|biome=[[Overworld]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=23-45
 }}
 {{Statbox|type1=Fairy|

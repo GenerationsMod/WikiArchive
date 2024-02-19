@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Because it canâ€™t see, this Pokemon is constantly biting at everything it touches, trying to keep track of its surroundings.
+|dexentry=Because it cant see, this Pokemon is constantly biting at everything it touches, trying to keep track of its surroundings.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Deino_(Pok%C3%A9mon) Deino] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=12-30
 }}
 {{Statbox|type1=Dark|

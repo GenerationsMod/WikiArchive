@@ -5,7 +5,7 @@
 |ndex=704
 |type1=Dragon
 |type2=
-|ability1=Hydration|ability2=Sapsipper
+|ability1=Sapsipper|ability2=Hydration
 |abilityH=Gooey
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=15-30
 }}
 {{Statbox|type1=Dragon|

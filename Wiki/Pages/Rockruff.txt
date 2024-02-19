@@ -5,7 +5,7 @@
 |ndex=744
 |type1=Rock
 |type2=
-|ability1=Vitalspirit|ability2=Keeneye
+|ability1=Keeneye|ability2=Vitalspirit
 |abilityH=Steadfast
 |abilityS=
 |genderm=50.0
@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=5-25
 }}
 {{Statbox|type1=Rock|

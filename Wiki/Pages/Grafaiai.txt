@@ -5,7 +5,7 @@
 |ndex=945
 |type1=Poison
 |type2=Normal
-|ability1=Poisontouch|ability2=Unburden
+|ability1=Unburden|ability2=Poisontouch
 |abilityH=Prankster
 |abilityS=
 |genderm=50.0
@@ -36,9 +36,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=28-49
 }}
 {{Statbox|type1=Poison|

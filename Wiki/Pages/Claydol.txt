@@ -8,7 +8,7 @@
 |ability1=Levitate
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=90
 |height-m=1.5
 |weight-kg=108.0
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=36-50
 }}
 {{SpawnInfo|type1=Ground|biome=[[Overworld]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=36-50
 }}
 {{SpawnInfo|type1=Ground|biome=[[The Bumblezone:Howling Constructs]]|
@@ -58,7 +58,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=36-50
 }}
 {{Statbox|type1=Ground|

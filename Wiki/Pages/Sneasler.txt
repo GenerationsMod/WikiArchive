@@ -5,7 +5,7 @@
 |ndex=903
 |type1=Fighting
 |type2=Poison
-|ability1=Unburden|ability2=Pressure
+|ability1=Pressure|ability2=Unburden
 |abilityH=Poisontouch
 |abilityS=
 |genderm=50.0
@@ -38,9 +38,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=44-51
 }}
 {{Statbox|type1=Fighting|

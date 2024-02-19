@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Even though it is small, it canâ€™t be ignored because it will slug any handy target without warning.
+|dexentry=Even though it is small, it cant be ignored because it will slug any handy target without warning.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Tyrogue_(Pok%C3%A9mon) Tyrogue] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=1-21
 }}
 {{Statbox|type1=Fighting|

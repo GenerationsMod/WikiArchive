@@ -42,7 +42,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=5-30
 }}
 {{SpawnInfo|type1=Fire|biome=[[Nether Forest]]|
@@ -51,7 +51,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=5-30
 }}
 {{SpawnInfo|type1=Fire|biome=[[Snowy Forest]]|
@@ -60,7 +60,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=5-30
 }}
 {{SpawnInfo|type1=Fire|biome=[[Nether Frozen]]|
@@ -69,7 +69,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=5-30
 }}
 {{Statbox|type1=Fire|

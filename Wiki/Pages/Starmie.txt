@@ -8,7 +8,7 @@
 |ability1=Naturalcure|ability2=Illuminate
 |abilityH=Analytic
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=60
 |height-m=1.1
 |weight-kg=80.0
@@ -35,9 +35,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=29-52
 }}
 {{SpawnInfo|type1=Water|biome=[[Ocean]]|
@@ -46,7 +46,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=29-52
 }}
 {{Statbox|type1=Water|

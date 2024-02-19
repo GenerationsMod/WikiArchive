@@ -8,7 +8,7 @@
 |ability1=Rattled
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=45
 |height-m=0.3
 |weight-kg=5.0
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=20-40
 }}
 {{Statbox|type1=Ghost|

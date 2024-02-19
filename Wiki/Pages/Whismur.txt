@@ -26,7 +26,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=When Whismur cries, the sound of its own voice startles it, making the Pokemon cry even louder. It cries until itâ€™s exhausted, then it falls asleep.
+|dexentry=When Whismur cries, the sound of its own voice startles it, making the Pokemon cry even louder. It cries until its exhausted, then it falls asleep.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Whismur_(Pok%C3%A9mon) Whismur] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=1-24
 }}
 {{SpawnInfo|type1=Normal|biome=[[Overworld]]|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-24
 }}
 {{Statbox|type1=Normal|

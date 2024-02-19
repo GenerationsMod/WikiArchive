@@ -5,7 +5,7 @@
 |ndex=851
 |type1=Fire
 |type2=Bug
-|ability1=Whitesmoke|ability2=Flashfire
+|ability1=Flashfire|ability2=Whitesmoke
 |abilityH=Flamebody
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=28-53
 }}
 {{SpawnInfo|type1=Fire|biome=[[Nether Basalt]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=28-53
 }}
 {{SpawnInfo|type1=Fire|biome=[[Nether Wasteland]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=28-53
 }}
 {{Statbox|type1=Fire|

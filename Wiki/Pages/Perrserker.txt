@@ -5,7 +5,7 @@
 |ndex=863
 |type1=Steel
 |type2=
-|ability1=Toughclaws|ability2=Battlearmor
+|ability1=Battlearmor|ability2=Toughclaws
 |abilityH=Steelyspirit
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=28-44
 }}
 {{SpawnInfo|type1=Steel|biome=[[Freezing]], [[Taiga]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=28-44
 }}
 {{Statbox|type1=Steel|

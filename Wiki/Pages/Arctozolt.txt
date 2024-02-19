@@ -5,10 +5,10 @@
 |ndex=881
 |type1=Electric
 |type2=Ice
-|ability1=Voltabsorb|ability2=Static
+|ability1=Static|ability2=Voltabsorb
 |abilityH=Slushrush
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=45
 |height-m=2.3
 |weight-kg=150.0
@@ -37,7 +37,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=20-60
 }}
 {{Statbox|type1=Electric|

@@ -26,7 +26,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=The spores released from this Pokemonâ€™s hands are highly poisonous, but when thoroughly dried, the spores can be used as stomach medicine.
+|dexentry=The spores released from this Pokemons hands are highly poisonous, but when thoroughly dried, the spores can be used as stomach medicine.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Foongus_(Pok%C3%A9mon) Foongus] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=9-45
 }}
 {{Statbox|type1=Grass|

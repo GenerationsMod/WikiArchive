@@ -8,7 +8,7 @@
 |ability1=Heatproof|ability2=Levitate
 |abilityH=Heavymetal
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=255
 |height-m=0.5
 |weight-kg=60.5
@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=5-35
 }}
 {{Statbox|type1=Steel|

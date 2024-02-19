@@ -5,10 +5,10 @@
 |ndex=599
 |type1=Steel
 |type2=
-|ability1=Minus|ability2=Plus
+|ability1=Plus|ability2=Minus
 |abilityH=Clearbody
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=130
 |height-m=0.3
 |weight-kg=21.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Itâ€™s suspected that Klink were the inspiration behind ancient peopleâ€™s invention of the first gears.
+|dexentry=Its suspected that Klink were the inspiration behind ancient peoples invention of the first gears.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Klink_(Pok%C3%A9mon) Klink] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=5-30
 }}
 {{SpawnInfo|type1=Steel|biome=[[Overworld]]|
@@ -47,7 +47,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=5-30
 }}
 {{Statbox|type1=Steel|

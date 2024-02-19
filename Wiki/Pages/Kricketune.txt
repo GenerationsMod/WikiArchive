@@ -38,9 +38,9 @@
 |antibiome=[[Freezing]]
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=10-38
 }}
 {{Statbox|type1=Bug|

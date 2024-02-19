@@ -5,14 +5,14 @@
 |ndex=534
 |type1=Fighting
 |type2=
-|ability1=Guts|ability2=Sheerforce
+|ability1=Sheerforce|ability2=Guts
 |abilityH=Ironfist
 |abilityS=
 |genderm=75.0
 |catchrate=45
 |height-m=1.4
 |weight-kg=87.0
-|eggGroup1=Human_like
+|eggGroup1=Human-Like
 |eggGroup2=
 |steps=20
 |evHp=0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=36-51
 }}
 {{SpawnInfo|type1=Fighting|biome=[[Overworld]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=36-51
 }}
 {{Statbox|type1=Fighting|

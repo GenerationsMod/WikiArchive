@@ -5,7 +5,7 @@
 |ndex=841
 |type1=Grass
 |type2=Dragon
-|ability1=Gluttony|ability2=Ripen
+|ability1=Ripen|ability2=Gluttony
 |abilityH=Hustle
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=20-60
 }}
 {{Statbox|type1=Grass|

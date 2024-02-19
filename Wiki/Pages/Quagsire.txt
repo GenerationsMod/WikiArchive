@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=20-43
 }}
 {{SpawnInfo|type1=Water|biome=[[Lush]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=20-43
 }}
 {{SpawnInfo|type1=Water|biome=[[Overworld]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=20-43
 }}
 {{SpawnInfo|type1=Water|biome=[[Overworld]]|
@@ -66,7 +66,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=20-43
 }}
 {{SpawnInfo|type1=Water|biome=[[Swamp]]|
@@ -75,7 +75,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=20-43
 }}
 {{SpawnInfo|type1=Water|biome=[[Swamp]]|
@@ -84,7 +84,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=20-43
 }}
 {{Statbox|type1=Water|

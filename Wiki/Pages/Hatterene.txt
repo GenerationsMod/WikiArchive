@@ -5,7 +5,7 @@
 |ndex=858
 |type1=Psychic
 |type2=Fairy
-|ability1=Anticipation|ability2=Healer
+|ability1=Healer|ability2=Anticipation
 |abilityH=Magicbounce
 |abilityS=
 |genderm=0
@@ -24,7 +24,7 @@
 |form=Gmax
 |alt1=
 |alt1dex=
-|dexentry=If youâ€™re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokemon is also known as the Forest Witch.
+|dexentry=If youre too loud around it, you risk being torn apart by the claws on its tentacle. This Pokemon is also known as the Forest Witch.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Hatterene_(Pok%C3%A9mon) Hatterene] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=42-60
 }}
 {{Statbox|type1=Psychic|

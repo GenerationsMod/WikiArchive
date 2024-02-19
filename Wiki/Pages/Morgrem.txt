@@ -5,7 +5,7 @@
 |ndex=860
 |type1=Dark
 |type2=Fairy
-|ability1=Prankster|ability2=Frisk
+|ability1=Frisk|ability2=Prankster
 |abilityH=Pickpocket
 |abilityS=
 |genderm=100
@@ -13,7 +13,7 @@
 |height-m=0.8
 |weight-kg=12.5
 |eggGroup1=Fairy
-|eggGroup2=Human_like
+|eggGroup2=Human-Like
 |steps=20
 |evHp=0
 |evAtk=0
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=32-48
 }}
 {{Statbox|type1=Dark|

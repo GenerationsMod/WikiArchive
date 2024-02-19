@@ -5,10 +5,10 @@
 |ndex=101
 |type1=Electric
 |type2=
-|ability1=Soundproof|ability2=Static
+|ability1=Static|ability2=Soundproof
 |abilityH=Aftermath
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=60
 |height-m=1.2
 |weight-kg=66.6
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=30-49
 }}
 {{SpawnInfo|type1=Electric|biome=[[Overworld]]|
@@ -47,7 +47,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=30-49
 }}
 {{SpawnInfo|type1=Electric|biome=[[Overworld]]|
@@ -56,7 +56,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=30-49
 }}
 {{SpawnInfo|type1=Electric|biome=[[Overworld]]|
@@ -65,7 +65,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=30-49
 }}
 {{Statbox|type1=Electric|

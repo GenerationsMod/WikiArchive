@@ -8,7 +8,7 @@
 |ability1=Protosynthesis
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=30
 |height-m=1.4
 |weight-kg=4.0
@@ -37,7 +37,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=14-43
 }}
 {{SpawnInfo|type1=Ghost|biome=[[Spooky]], [[Swamp]]|
@@ -46,7 +46,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=14-43
 }}
 {{SpawnInfo|type1=Ghost|biome=[[Spooky]], [[Swamp]]|
@@ -55,16 +55,16 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=14-43
 }}
 {{SpawnInfo|type1=Ghost|biome=[[Swamp]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=14-43
 }}
 {{SpawnInfo|type1=Ghost|biome=[[Minecraft:Warped Forest]]|
@@ -73,7 +73,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=14-43
 }}
 {{Statbox|type1=Ghost|

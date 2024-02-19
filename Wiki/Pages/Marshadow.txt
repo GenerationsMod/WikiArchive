@@ -8,7 +8,7 @@
 |ability1=Technician
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=3
 |height-m=0.7
 |weight-kg=22.2
@@ -35,9 +35,9 @@
 |antibiome=
 |location=Underground
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Fighting|

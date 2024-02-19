@@ -26,7 +26,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Its life can span several hundred years. Itâ€™s said to devote its entire life to protecting gardens.
+|dexentry=Its life can span several hundred years. Its said to devote its entire life to protecting gardens.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Florges_(Pok%C3%A9mon) Florges] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=25-60
 }}
 {{Statbox|type1=Fairy|

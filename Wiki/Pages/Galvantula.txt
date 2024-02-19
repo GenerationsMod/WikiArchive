@@ -39,9 +39,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=36-47
 }}
 {{SpawnInfo|type1=Bug|biome=[[Overworld]]|
@@ -50,7 +50,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=36-47
 }}
 {{SpawnInfo|type1=Bug|biome=[[Terralith:Cave/Infested Caves]]|
@@ -59,7 +59,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=36-47
 }}
 {{Statbox|type1=Bug|

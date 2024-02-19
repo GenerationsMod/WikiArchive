@@ -8,7 +8,7 @@
 |ability1=Beadsofruin
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=6
 |height-m=0.4
 |weight-kg=4.9
@@ -37,7 +37,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Dark|

@@ -37,18 +37,18 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=day
+|time=Day
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=25-46
 }}
 {{SpawnInfo|type1=Bug|biome=[[Overworld]]|
 |antibiome=[[Floral]]
 |location=Land
 |antilocation=Underground
-|time=day
+|time=Day
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=25-46
 }}
 {{SpawnInfo|type1=Bug|biome=[[The Bumblezone:Floral Meadow]], [[The Bumblezone:Pollinated Fields]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=25-46
 }}
 {{Statbox|type1=Bug|

@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=21-46
 }}
 {{SpawnInfo|type1=Water|biome=|
@@ -49,7 +49,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=21-46
 }}
 {{SpawnInfo|type1=Water|biome=|
@@ -58,7 +58,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=21-46
 }}
 {{SpawnInfo|type1=Water|biome=|
@@ -67,7 +67,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=21-46
 }}
 {{SpawnInfo|type1=Water|biome=|
@@ -76,7 +76,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=21-46
 }}
 {{SpawnInfo|type1=Water|biome=|
@@ -85,7 +85,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=21-46
 }}
 {{SpawnInfo|type1=Water|biome=|
@@ -94,7 +94,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=21-46
 }}
 {{SpawnInfo|type1=Water|biome=|
@@ -103,7 +103,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=21-46
 }}
 {{SpawnInfo|type1=Water|biome=|
@@ -112,7 +112,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=21-46
 }}
 {{Statbox|type1=Water|

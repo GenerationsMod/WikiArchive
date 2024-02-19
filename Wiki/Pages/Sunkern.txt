@@ -5,7 +5,7 @@
 |ndex=191
 |type1=Grass
 |type2=
-|ability1=Solarpower|ability2=Chlorophyll
+|ability1=Chlorophyll|ability2=Solarpower
 |abilityH=Earlybird
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=4-24
 }}
 {{Statbox|type1=Grass|

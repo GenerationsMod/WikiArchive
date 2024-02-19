@@ -5,7 +5,7 @@
 |ndex=832
 |type1=Normal
 |type2=
-|ability1=Steadfast|ability2=Fluffy
+|ability1=Fluffy|ability2=Steadfast
 |abilityH=Bulletproof
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=24-49
 }}
 {{Statbox|type1=Normal|

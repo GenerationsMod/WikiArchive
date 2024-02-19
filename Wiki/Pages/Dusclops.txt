@@ -39,9 +39,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=37-46
 }}
 {{SpawnInfo|type1=Ghost|biome=[[Deep Dark]]|
@@ -50,7 +50,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=37-46
 }}
 {{SpawnInfo|type1=Ghost|biome=[[Nether Soul Sand]]|
@@ -59,7 +59,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=37-46
 }}
 {{Statbox|type1=Ghost|

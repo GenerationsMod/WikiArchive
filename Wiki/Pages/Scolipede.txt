@@ -37,18 +37,18 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=30-49
 }}
 {{SpawnInfo|type1=Bug|biome=[[Jungle]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=30-49
 }}
 {{SpawnInfo|type1=Bug|biome=[[Lush]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=30-49
 }}
 {{SpawnInfo|type1=Bug|biome=[[Nether Forest]], [[Nether Fungus]]|
@@ -66,7 +66,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=30-49
 }}
 {{Statbox|type1=Bug|

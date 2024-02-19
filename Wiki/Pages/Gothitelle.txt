@@ -12,7 +12,7 @@
 |catchrate=50
 |height-m=1.5
 |weight-kg=44.0
-|eggGroup1=Human_like
+|eggGroup1=Human-Like
 |eggGroup2=
 |steps=20
 |evHp=0
@@ -37,9 +37,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=41-60
 }}
 {{Statbox|type1=Psychic|

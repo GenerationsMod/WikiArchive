@@ -5,7 +5,7 @@
 |ndex=887
 |type1=Dragon
 |type2=Ghost
-|ability1=Clearbody|ability2=Infiltrator
+|ability1=Infiltrator|ability2=Clearbody
 |abilityH=Cursedbody
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Apparently the Dreepy inside Dragapultâ€™s horns eagerly look forward to being launched out at Mach speeds.
+|dexentry=Apparently the Dreepy inside Dragapults horns eagerly look forward to being launched out at Mach speeds.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Dragapult_(Pok%C3%A9mon) Dragapult] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=50-70
 }}
 {{Statbox|type1=Dragon|

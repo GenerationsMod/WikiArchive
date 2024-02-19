@@ -24,7 +24,7 @@
 |form=Galar
 |alt1=
 |alt1dex=
-|dexentry=When this Pokemonâ€™s tail is soaked in water, sweetness seeps from it. Slowpoke uses this trait to lure in and fish up other Pokemon.
+|dexentry=When this Pokemons tail is soaked in water, sweetness seeps from it. Slowpoke uses this trait to lure in and fish up other Pokemon.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Slowpoke_(Pok%C3%A9mon) Slowpoke] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=12-31
 }}
 {{SpawnInfo|type1=Water|biome=[[Beach]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=12-31
 }}
 {{Statbox|type1=Water|

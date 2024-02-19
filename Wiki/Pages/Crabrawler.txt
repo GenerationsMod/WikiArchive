@@ -5,7 +5,7 @@
 |ndex=739
 |type1=Fighting
 |type2=
-|ability1=Ironfist|ability2=Hypercutter
+|ability1=Hypercutter|ability2=Ironfist
 |abilityH=Angerpoint
 |abilityS=
 |genderm=50.0
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=9-34
 }}
 {{Statbox|type1=Fighting|

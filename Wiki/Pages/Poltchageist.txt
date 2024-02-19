@@ -10,7 +10,7 @@
 |ability2=
 |abilityH=Heatproof
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=120
 |height-m=0.1
 |weight-kg=1.1
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=rare
+|rarity=Rare
 |levelrange=24-60
 }}
 {{Statbox|type1=Grass|

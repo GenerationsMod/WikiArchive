@@ -13,7 +13,7 @@
 |height-m=0.6
 |weight-kg=17.7
 |eggGroup1=Bug
-|eggGroup2=Human_like
+|eggGroup2=Human-Like
 |steps=15
 |evHp=0
 |evAtk=0
@@ -37,18 +37,18 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=18-43
 }}
 {{SpawnInfo|type1=Bug|biome=|
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=18-43
 }}
 {{SpawnInfo|type1=Bug|biome=[[The Bumblezone:Floral Meadow]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=18-43
 }}
 {{SpawnInfo|type1=Bug|biome=[[The Bumblezone]]|
@@ -66,7 +66,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=18-43
 }}
 {{Statbox|type1=Bug|

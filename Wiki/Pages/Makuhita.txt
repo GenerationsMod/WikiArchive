@@ -5,14 +5,14 @@
 |ndex=296
 |type1=Fighting
 |type2=
-|ability1=Guts|ability2=Thickfat
+|ability1=Thickfat|ability2=Guts
 |abilityH=Sheerforce
 |abilityS=
 |genderm=75.0
 |catchrate=180
 |height-m=1.0
 |weight-kg=86.4
-|eggGroup1=Human_like
+|eggGroup1=Human-Like
 |eggGroup2=
 |steps=20
 |evHp=1
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Thereâ€™s a rumor of a traditional recipe for stew that Trainers can use to raise strong Makuhita.
+|dexentry=Theres a rumor of a traditional recipe for stew that Trainers can use to raise strong Makuhita.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Makuhita_(Pok%C3%A9mon) Makuhita] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -40,7 +40,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=5-30
 }}
 {{Statbox|type1=Fighting|

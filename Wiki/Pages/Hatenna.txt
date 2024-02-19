@@ -5,7 +5,7 @@
 |ndex=856
 |type1=Psychic
 |type2=
-|ability1=Anticipation|ability2=Healer
+|ability1=Healer|ability2=Anticipation
 |abilityH=Magicbounce
 |abilityS=
 |genderm=0
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=4-38
 }}
 {{Statbox|type1=Psychic|

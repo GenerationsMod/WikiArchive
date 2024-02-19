@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-21
 }}
 {{SpawnInfo|type1=Water|biome=[[Lush]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-21
 }}
 {{SpawnInfo|type1=Water|biome=[[Overworld]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=1-21
 }}
 {{SpawnInfo|type1=Water|biome=[[Overworld]]|
@@ -66,7 +66,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=1-21
 }}
 {{SpawnInfo|type1=Water|biome=[[Swamp]]|
@@ -75,7 +75,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-21
 }}
 {{SpawnInfo|type1=Water|biome=[[Swamp]]|
@@ -84,7 +84,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-21
 }}
 {{SpawnInfo|type1=Water|biome=[[Minecraft:Mangrove Swamp]]|
@@ -93,7 +93,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-21
 }}
 {{SpawnInfo|type1=Water|biome=[[Minecraft:Mangrove Swamp]]|
@@ -102,7 +102,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=1-21
 }}
 {{SpawnInfo|type1=Water|biome=[[Savanna]]|
@@ -111,7 +111,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=1-21
 }}
 {{SpawnInfo|type1=Water|biome=[[Savanna]]|
@@ -120,7 +120,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=1-21
 }}
 {{Statbox|type1=Water|

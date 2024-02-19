@@ -5,10 +5,10 @@
 |ndex=474
 |type1=Normal
 |type2=
-|ability1=Download|ability2=Adaptability
+|ability1=Adaptability|ability2=Download
 |abilityH=Analytic
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=30
 |height-m=0.9
 |weight-kg=34.0
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=47-54
 }}
 {{Statbox|type1=Normal|

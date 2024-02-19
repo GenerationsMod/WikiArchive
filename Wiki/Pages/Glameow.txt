@@ -5,7 +5,7 @@
 |ndex=431
 |type1=Normal
 |type2=
-|ability1=Owntempo|ability2=Limber
+|ability1=Limber|ability2=Owntempo
 |abilityH=Keeneye
 |abilityS=
 |genderm=25.0
@@ -36,9 +36,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=12-29
 }}
 {{Statbox|type1=Normal|

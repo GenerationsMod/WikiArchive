@@ -5,7 +5,7 @@
 |ndex=111
 |type1=Ground
 |type2=Rock
-|ability1=Rockhead|ability2=Lightningrod
+|ability1=Lightningrod|ability2=Rockhead
 |abilityH=Reckless
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=10-35
 }}
 {{Statbox|type1=Ground|

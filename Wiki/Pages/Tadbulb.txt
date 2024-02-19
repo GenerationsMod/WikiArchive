@@ -5,7 +5,7 @@
 |ndex=938
 |type1=Electric
 |type2=
-|ability1=Owntempo|ability2=Static
+|ability1=Static|ability2=Owntempo
 |abilityH=Damp
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=5-30
 }}
 {{Statbox|type1=Electric|

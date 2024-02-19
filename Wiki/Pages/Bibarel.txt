@@ -5,7 +5,7 @@
 |ndex=400
 |type1=Normal
 |type2=Water
-|ability1=Unaware|ability2=Simple
+|ability1=Simple|ability2=Unaware
 |abilityH=Moody
 |abilityS=
 |genderm=50.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=15-41
 }}
 {{SpawnInfo|type1=Normal|biome=|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=15-41
 }}
 {{Statbox|type1=Normal|

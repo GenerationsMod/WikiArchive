@@ -5,7 +5,7 @@
 |ndex=274
 |type1=Grass
 |type2=Dark
-|ability1=Chlorophyll|ability2=Earlybird
+|ability1=Earlybird|ability2=Chlorophyll
 |abilityH=Pickpocket
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=They live in holes bored in large trees. The sound of Nuzleafâ€™s grass flute fills listeners with dread.
+|dexentry=They live in holes bored in large trees. The sound of Nuzleafs grass flute fills listeners with dread.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Nuzleaf_(Pok%C3%A9mon) Nuzleaf] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=14-34
 }}
 {{Statbox|type1=Grass|

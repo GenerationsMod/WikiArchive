@@ -5,7 +5,7 @@
 |ndex=110
 |type1=Poison
 |type2=
-|ability1=Levitate|ability2=Neutralizinggas
+|ability1=Neutralizinggas|ability2=Levitate
 |abilityH=Stench
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=Galar
 |alt1=
 |alt1dex=
-|dexentry=It canâ€™t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.
+|dexentry=It cant suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Weezing_(Pok%C3%A9mon) Weezing] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -38,7 +38,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=35-49
 }}
 {{SpawnInfo|type1=Poison|biome=[[Overworld]]|
@@ -47,7 +47,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=35-49
 }}
 {{SpawnInfo|type1=Poison|biome=[[Nether Toxic]]|
@@ -56,7 +56,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=35-49
 }}
 {{SpawnInfo|type1=Poison|biome=[[Swamp]]|
@@ -65,7 +65,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=35-49
 }}
 {{Statbox|type1=Poison|

@@ -5,7 +5,7 @@
 |ndex=058
 |type1=Fire
 |type2=
-|ability1=Intimidate|ability2=Flashfire
+|ability1=Flashfire|ability2=Intimidate
 |abilityH=Justified
 |abilityS=
 |genderm=75.0
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=10-35
 }}
 {{SpawnInfo|type1=Fire|biome=[[Overworld]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=10-35
 }}
 {{SpawnInfo|type1=Fire|biome=[[Forest]], [[Grassland]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=12-35
 }}
 {{Statbox|type1=Fire|

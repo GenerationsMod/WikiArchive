@@ -39,9 +39,9 @@
 |antibiome=[[Spooky]], [[Freezing]]
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=41-54
 }}
 {{SpawnInfo|type1=Poison|biome=[[Overworld]]|
@@ -50,7 +50,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=41-54
 }}
 {{SpawnInfo|type1=Poison|biome=[[Overworld]]|
@@ -59,7 +59,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=41-54
 }}
 {{SpawnInfo|type1=Poison|biome=[[Spooky]]|
@@ -68,7 +68,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=41-54
 }}
 {{Statbox|type1=Poison|

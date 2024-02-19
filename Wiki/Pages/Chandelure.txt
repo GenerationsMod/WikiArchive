@@ -5,7 +5,7 @@
 |ndex=609
 |type1=Ghost
 |type2=Fire
-|ability1=Flamebody|ability2=Flashfire
+|ability1=Flashfire|ability2=Flamebody
 |abilityH=Infiltrator
 |abilityS=
 |genderm=50.0
@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence- or so itâ€™s said.
+|dexentry=In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence- or so its said.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Chandelure_(Pok%C3%A9mon) Chandelure] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -38,9 +38,9 @@
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=41-60
 }}
 {{Statbox|type1=Ghost|

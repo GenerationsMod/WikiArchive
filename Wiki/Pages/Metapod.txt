@@ -24,7 +24,7 @@
 |form=
 |alt1=
 |alt1dex=
-|dexentry=Even though it is encased in a sturdy shell, the body inside is tender. It canâ€™t withstand a harsh attack.
+|dexentry=Even though it is encased in a sturdy shell, the body inside is tender. It cant withstand a harsh attack.
 |notice=Please visit the Bulbapedia page for [https://bulbapedia.bulbagarden.net/wiki/Metapod_(Pok%C3%A9mon) Metapod] if you would like more advanced information on this Pokemon, such as their evolutions and forms. This page is primarily for spawn and drop rate information until we get around to making a more advanced page.
 }}
 
@@ -39,7 +39,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=7-21
 }}
 {{SpawnInfo|type1=Bug|biome=[[Plains]]|
@@ -48,7 +48,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=7-21
 }}
 {{SpawnInfo|type1=Bug|biome=[[Jungle]], [[Tropical Island]]|
@@ -57,7 +57,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=7-21
 }}
 {{SpawnInfo|type1=Bug|biome=[[The Bumblezone:Floral Meadow]]|
@@ -66,7 +66,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=7-21
 }}
 {{Statbox|type1=Bug|

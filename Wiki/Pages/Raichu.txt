@@ -41,7 +41,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=27-49
 }}
 {{SpawnInfo|type1=Electric|biome=[[Beach]], [[Tropical Island]]|
@@ -50,7 +50,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=27-49
 }}
 {{Statbox|type1=Electric|

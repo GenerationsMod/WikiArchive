@@ -8,7 +8,7 @@
 |ability1=Fairyaura
 |abilityH=
 |abilityS=
-|genderm=Genderless
+|genderm=
 |catchrate=45
 |height-m=3.0
 |weight-kg=215.0
@@ -35,9 +35,9 @@
 |antibiome=
 |location=Underground
 |antilocation=Underground
-|time=day
+|time=Day
 |antitime=Any
-|rarity=ultra-rare
+|rarity=Ultra-rare
 |levelrange=70-75
 }}
 {{Statbox|type1=Fairy|

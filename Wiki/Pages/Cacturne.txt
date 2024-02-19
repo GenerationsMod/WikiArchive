@@ -15,7 +15,7 @@
 |height-m=1.3
 |weight-kg=77.4
 |eggGroup1=Grass
-|eggGroup2=Human_like
+|eggGroup2=Human-Like
 |steps=20
 |evHp=0
 |evAtk=1
@@ -42,7 +42,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=32-48
 }}
 {{Statbox|type1=Grass|

@@ -5,14 +5,14 @@
 |ndex=605
 |type1=Psychic
 |type2=
-|ability1=Synchronize|ability2=Telepathy
+|ability1=Telepathy|ability2=Synchronize
 |abilityH=Analytic
 |abilityS=
 |genderm=50.0
 |catchrate=255
 |height-m=0.5
 |weight-kg=9.0
-|eggGroup1=Human_like
+|eggGroup1=Human-Like
 |eggGroup2=
 |steps=20
 |evHp=0
@@ -40,16 +40,16 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=uncommon
+|rarity=Uncommon
 |levelrange=9-34
 }}
 {{SpawnInfo|type1=Psychic|biome=[[Overworld]]|
 |antibiome=
 |location=Land
 |antilocation=Underground
-|time=night
+|time=Night
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=9-34
 }}
 {{SpawnInfo|type1=Psychic|biome=[[The Bumblezone:Howling Constructs]]|
@@ -58,7 +58,7 @@
 |antilocation=Underground
 |time=Any
 |antitime=Any
-|rarity=common
+|rarity=Common
 |levelrange=9-34
 }}
 {{Statbox|type1=Psychic|
