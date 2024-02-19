@@ -5,9 +5,8 @@
 |ndex=274
 |type1=Grass
 |type2=Dark
-|ability1=Earlybird|ability2=Chlorophyll
+|ability1=Chlorophyll|ability2=Earlybird
 |abilityH=Pickpocket
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120

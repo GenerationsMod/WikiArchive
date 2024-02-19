@@ -5,9 +5,8 @@
 |ndex=759
 |type1=Normal
 |type2=Fighting
-|ability1=Fluffy|ability2=Klutz
+|ability1=Klutz|ability2=Fluffy
 |abilityH=Cutecharm
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=140

@@ -7,7 +7,6 @@
 |type2=Steel
 |ability1=Sandrush|ability2=Sandforce
 |abilityH=Moldbreaker
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60

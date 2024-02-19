@@ -5,9 +5,8 @@
 |ndex=431
 |type1=Normal
 |type2=
-|ability1=Limber|ability2=Owntempo
+|ability1=Owntempo|ability2=Limber
 |abilityH=Keeneye
-|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=190

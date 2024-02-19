@@ -7,9 +7,8 @@
 |type2=Fairy
 |ability1=Clearbody
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=3
 |height-m=0.7
 |weight-kg=8.8

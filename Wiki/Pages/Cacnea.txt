@@ -9,7 +9,6 @@
 
 |ability2=
 |abilityH=Waterabsorb
-|genderm=70.0
 |abilityS=
 |genderm=70.0
 |catchrate=190

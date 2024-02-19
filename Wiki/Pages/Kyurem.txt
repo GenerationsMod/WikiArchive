@@ -7,9 +7,8 @@
 |type2=Ice
 |ability1=Pressure
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=3
 |height-m=3.0
 |weight-kg=325.0

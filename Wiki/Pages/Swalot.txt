@@ -7,7 +7,6 @@
 |type2=
 |ability1=Liquidooze|ability2=Stickyhold
 |abilityH=Gluttony
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

@@ -7,7 +7,6 @@
 |type2=Rock
 |ability1=Hustle|ability2=Naturalcure
 |abilityH=Regenerator
-|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=60

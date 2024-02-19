@@ -7,7 +7,6 @@
 |type2=
 |ability1=Owntempo|ability2=Tangledfeet
 |abilityH=Contrary
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255

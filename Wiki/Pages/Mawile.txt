@@ -5,9 +5,8 @@
 |ndex=303
 |type1=Steel
 |type2=Fairy
-|ability1=Hypercutter|ability2=Intimidate
+|ability1=Intimidate|ability2=Hypercutter
 |abilityH=Sheerforce
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

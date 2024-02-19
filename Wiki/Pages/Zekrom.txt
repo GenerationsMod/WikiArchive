@@ -7,9 +7,8 @@
 |type2=Electric
 |ability1=Teravolt
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=3
 |height-m=2.9
 |weight-kg=345.0

@@ -9,7 +9,6 @@
 
 |ability2=
 |abilityH=Perishbody
-|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=30

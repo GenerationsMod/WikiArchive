@@ -5,9 +5,8 @@
 |ndex=848
 |type1=Electric
 |type2=Poison
-|ability1=Static|ability2=Rattled
+|ability1=Rattled|ability2=Static
 |abilityH=Klutz
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

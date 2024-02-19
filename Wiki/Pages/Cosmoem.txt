@@ -7,9 +7,8 @@
 |type2=
 |ability1=Sturdy
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=45
 |height-m=0.1
 |weight-kg=999.9

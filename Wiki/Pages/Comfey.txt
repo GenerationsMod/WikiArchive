@@ -5,9 +5,8 @@
 |ndex=764
 |type1=Fairy
 |type2=
-|ability1=Flowerveil|ability2=Triage
+|ability1=Triage|ability2=Flowerveil
 |abilityH=Naturalcure
-|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=60

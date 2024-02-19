@@ -7,7 +7,6 @@
 |type2=
 |ability1=Cutecharm|ability2=Technician
 |abilityH=Skilllink
-|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=60

@@ -5,9 +5,8 @@
 |ndex=863
 |type1=Steel
 |type2=
-|ability1=Battlearmor|ability2=Toughclaws
+|ability1=Toughclaws|ability2=Battlearmor
 |abilityH=Steelyspirit
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=90

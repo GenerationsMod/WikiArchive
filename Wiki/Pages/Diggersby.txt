@@ -7,7 +7,6 @@
 |type2=Ground
 |ability1=Pickup|ability2=Cheekpouch
 |abilityH=Hugepower
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=127

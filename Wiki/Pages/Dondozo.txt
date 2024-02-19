@@ -7,7 +7,6 @@
 |type2=
 |ability1=Unaware|ability2=Oblivious
 |abilityH=Waterveil
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=25

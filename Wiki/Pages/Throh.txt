@@ -5,9 +5,8 @@
 |ndex=538
 |type1=Fighting
 |type2=
-|ability1=Innerfocus|ability2=Guts
+|ability1=Guts|ability2=Innerfocus
 |abilityH=Moldbreaker
-|genderm=100
 |abilityS=
 |genderm=100
 |catchrate=45

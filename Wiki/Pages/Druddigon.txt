@@ -5,9 +5,8 @@
 |ndex=621
 |type1=Dragon
 |type2=
-|ability1=Sheerforce|ability2=Roughskin
+|ability1=Roughskin|ability2=Sheerforce
 |abilityH=Moldbreaker
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

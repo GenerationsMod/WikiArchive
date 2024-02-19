@@ -5,11 +5,10 @@
 |ndex=600
 |type1=Steel
 |type2=
-|ability1=Plus|ability2=Minus
+|ability1=Minus|ability2=Plus
 |abilityH=Clearbody
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=60
 |height-m=0.6
 |weight-kg=51.0

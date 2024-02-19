@@ -5,11 +5,10 @@
 |ndex=883
 |type1=Water
 |type2=Ice
-|ability1=Icebody|ability2=Waterabsorb
+|ability1=Waterabsorb|ability2=Icebody
 |abilityH=Slushrush
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=45
 |height-m=2.0
 |weight-kg=175.0

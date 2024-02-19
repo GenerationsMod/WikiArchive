@@ -9,9 +9,8 @@
 
 |ability2=
 |abilityH=Lightmetal
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=3
 |height-m=0.6
 |weight-kg=95.2

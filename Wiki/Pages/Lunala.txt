@@ -7,9 +7,8 @@
 |type2=Ghost
 |ability1=Shadowshield
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=45
 |height-m=4.0
 |weight-kg=120.0

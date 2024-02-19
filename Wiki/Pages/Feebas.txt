@@ -5,9 +5,8 @@
 |ndex=349
 |type1=Water
 |type2=
-|ability1=Oblivious|ability2=Swiftswim
+|ability1=Swiftswim|ability2=Oblivious
 |abilityH=Adaptability
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255

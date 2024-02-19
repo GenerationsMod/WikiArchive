@@ -5,9 +5,8 @@
 |ndex=451
 |type1=Poison
 |type2=Bug
-|ability1=Battlearmor|ability2=Sniper
+|ability1=Sniper|ability2=Battlearmor
 |abilityH=Keeneye
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120

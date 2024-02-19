@@ -5,9 +5,8 @@
 |ndex=626
 |type1=Normal
 |type2=
-|ability1=Reckless|ability2=Sapsipper
+|ability1=Sapsipper|ability2=Reckless
 |abilityH=Soundproof
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

@@ -5,9 +5,8 @@
 |ndex=057
 |type1=Fighting
 |type2=
-|ability1=Vitalspirit|ability2=Angerpoint
+|ability1=Angerpoint|ability2=Vitalspirit
 |abilityH=Defiant
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

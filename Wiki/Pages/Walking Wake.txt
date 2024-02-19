@@ -7,9 +7,8 @@
 |type2=Dragon
 |ability1=Protosynthesis
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=5
 |height-m=3.5
 |weight-kg=280.0

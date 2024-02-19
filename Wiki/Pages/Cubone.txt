@@ -7,7 +7,6 @@
 |type2=
 |ability1=Rockhead|ability2=Lightningrod
 |abilityH=Battlearmor
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

@@ -7,7 +7,6 @@
 |type2=Steel
 |ability1=Supremeoverlord|ability2=Defiant
 |abilityH=Pressure
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=25

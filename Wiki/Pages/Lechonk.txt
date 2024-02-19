@@ -5,9 +5,8 @@
 |ndex=915
 |type1=Normal
 |type2=
-|ability1=Aromaveil|ability2=Gluttony
+|ability1=Gluttony|ability2=Aromaveil
 |abilityH=Thickfat
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255

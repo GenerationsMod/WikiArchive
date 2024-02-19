@@ -7,7 +7,6 @@
 |type2=
 |ability1=Steadfast|ability2=Guts
 |abilityH=Vitalspirit
-|genderm=100
 |abilityS=
 |genderm=100
 |catchrate=75

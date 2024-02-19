@@ -5,9 +5,8 @@
 |ndex=211
 |type1=Water
 |type2=Poison
-|ability1=Poisonpoint|ability2=Swiftswim
+|ability1=Swiftswim|ability2=Poisonpoint
 |abilityH=Intimidate
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

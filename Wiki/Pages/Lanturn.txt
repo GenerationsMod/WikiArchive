@@ -5,9 +5,8 @@
 |ndex=171
 |type1=Water
 |type2=Electric
-|ability1=Illuminate|ability2=Voltabsorb
+|ability1=Voltabsorb|ability2=Illuminate
 |abilityH=Waterabsorb
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

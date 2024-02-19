@@ -9,7 +9,6 @@
 
 |ability2=
 |abilityH=Hydration
-|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=225

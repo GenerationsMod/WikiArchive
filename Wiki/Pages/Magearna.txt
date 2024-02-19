@@ -7,9 +7,8 @@
 |type2=Fairy
 |ability1=Soulheart
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=3
 |height-m=1.0
 |weight-kg=80.5

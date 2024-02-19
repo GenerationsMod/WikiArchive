@@ -5,9 +5,8 @@
 |ndex=133
 |type1=Normal
 |type2=
-|ability1=Adaptability|ability2=Runaway
+|ability1=Runaway|ability2=Adaptability
 |abilityH=Anticipation
-|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=45

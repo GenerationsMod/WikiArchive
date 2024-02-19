@@ -5,9 +5,8 @@
 |ndex=198
 |type1=Dark
 |type2=Flying
-|ability1=Insomnia|ability2=Superluck
+|ability1=Superluck|ability2=Insomnia
 |abilityH=Prankster
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=30

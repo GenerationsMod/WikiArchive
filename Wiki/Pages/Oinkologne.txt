@@ -5,9 +5,8 @@
 |ndex=916
 |type1=Normal
 |type2=
-|ability1=Lingeringaroma|ability2=Gluttony
+|ability1=Gluttony|ability2=Lingeringaroma
 |abilityH=Thickfat
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=100

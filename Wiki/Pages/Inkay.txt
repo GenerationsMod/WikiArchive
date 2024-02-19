@@ -7,7 +7,6 @@
 |type2=Psychic
 |ability1=Suctioncups|ability2=Contrary
 |abilityH=Infiltrator
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

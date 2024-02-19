@@ -5,9 +5,8 @@
 |ndex=168
 |type1=Bug
 |type2=Poison
-|ability1=Insomnia|ability2=Swarm
+|ability1=Swarm|ability2=Insomnia
 |abilityH=Sniper
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=90

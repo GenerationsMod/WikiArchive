@@ -7,7 +7,6 @@
 |type2=Dragon
 |ability1=Frisk|ability2=Infiltrator
 |abilityH=Telepathy
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

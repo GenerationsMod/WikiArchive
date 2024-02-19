@@ -5,9 +5,8 @@
 |ndex=884
 |type1=Steel
 |type2=Dragon
-|ability1=Lightmetal|ability2=Heavymetal
+|ability1=Heavymetal|ability2=Lightmetal
 |abilityH=Stalwart
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

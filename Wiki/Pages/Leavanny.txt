@@ -5,9 +5,8 @@
 |ndex=542
 |type1=Bug
 |type2=Grass
-|ability1=Chlorophyll|ability2=Swarm
+|ability1=Swarm|ability2=Chlorophyll
 |abilityH=Overcoat
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

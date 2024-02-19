@@ -7,7 +7,6 @@
 |type2=
 |ability1=Shedskin|ability2=Swarm
 |abilityH=Noguard
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=200

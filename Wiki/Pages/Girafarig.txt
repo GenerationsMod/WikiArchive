@@ -5,9 +5,8 @@
 |ndex=203
 |type1=Normal
 |type2=Psychic
-|ability1=Earlybird|ability2=Innerfocus
+|ability1=Innerfocus|ability2=Earlybird
 |abilityH=Sapsipper
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60

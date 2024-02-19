@@ -5,9 +5,8 @@
 |ndex=208
 |type1=Steel
 |type2=Ground
-|ability1=Rockhead|ability2=Sturdy
+|ability1=Sturdy|ability2=Rockhead
 |abilityH=Sheerforce
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=25

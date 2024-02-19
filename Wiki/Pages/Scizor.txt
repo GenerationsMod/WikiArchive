@@ -5,9 +5,8 @@
 |ndex=212
 |type1=Bug
 |type2=Steel
-|ability1=Swarm|ability2=Technician
+|ability1=Technician|ability2=Swarm
 |abilityH=Lightmetal
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=25

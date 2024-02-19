@@ -5,9 +5,8 @@
 |ndex=545
 |type1=Bug
 |type2=Poison
-|ability1=Poisonpoint|ability2=Swarm
+|ability1=Swarm|ability2=Poisonpoint
 |abilityH=Speedboost
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

@@ -5,11 +5,10 @@
 |ndex=437
 |type1=Steel
 |type2=Psychic
-|ability1=Levitate|ability2=Heatproof
+|ability1=Heatproof|ability2=Levitate
 |abilityH=Heavymetal
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=90
 |height-m=1.3
 |weight-kg=187.0

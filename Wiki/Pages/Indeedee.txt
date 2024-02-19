@@ -7,7 +7,6 @@
 |type2=Normal
 |ability1=Innerfocus|ability2=Synchronize
 |abilityH=Psychicsurge
-|genderm=100
 |abilityS=
 |genderm=100
 |catchrate=30

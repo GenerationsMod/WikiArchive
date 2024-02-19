@@ -9,9 +9,8 @@
 
 |ability2=
 |abilityH=Imposter
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=35
 |height-m=0.3
 |weight-kg=4.0

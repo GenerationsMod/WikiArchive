@@ -5,9 +5,8 @@
 |ndex=958
 |type1=Fairy
 |type2=Steel
-|ability1=Moldbreaker|ability2=Owntempo
+|ability1=Owntempo|ability2=Moldbreaker
 |abilityH=Pickpocket
-|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=90

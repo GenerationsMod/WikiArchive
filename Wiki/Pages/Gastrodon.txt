@@ -7,7 +7,6 @@
 |type2=Ground
 |ability1=Stickyhold|ability2=Stormdrain
 |abilityH=Sandforce
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

@@ -5,9 +5,8 @@
 |ndex=162
 |type1=Normal
 |type2=
-|ability1=Keeneye|ability2=Runaway
+|ability1=Runaway|ability2=Keeneye
 |abilityH=Frisk
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=90

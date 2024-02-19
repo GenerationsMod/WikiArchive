@@ -5,9 +5,8 @@
 |ndex=313
 |type1=Bug
 |type2=
-|ability1=Illuminate|ability2=Swarm
+|ability1=Swarm|ability2=Illuminate
 |abilityH=Prankster
-|genderm=100
 |abilityS=
 |genderm=100
 |catchrate=150

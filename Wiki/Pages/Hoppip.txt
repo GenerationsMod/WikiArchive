@@ -7,7 +7,6 @@
 |type2=Flying
 |ability1=Leafguard|ability2=Chlorophyll
 |abilityH=Infiltrator
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255

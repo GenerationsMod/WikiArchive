@@ -5,9 +5,8 @@
 |ndex=457
 |type1=Water
 |type2=
-|ability1=Stormdrain|ability2=Swiftswim
+|ability1=Swiftswim|ability2=Stormdrain
 |abilityH=Waterveil
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

@@ -7,7 +7,6 @@
 |type2=
 |ability1=Slushrush|ability2=Snowcloak
 |abilityH=Rattled
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120

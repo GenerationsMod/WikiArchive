@@ -106,10 +106,10 @@ def create_txt_file(pokemon_data, spawn_folder, output_folder, pokemon_map, en_u
             gender_ratio = "Genderless"
         else:
             gender_ratio = str(male_ratio)
-        txt_file.write(f"|genderm={gender_ratio}\n")
+        # txt_file.write(f"|genderm={gender_ratio}\n")
         # This is probably for Rockruff since it has 4 abilities
         txt_file.write(f"|abilityS=\n")
-        txt_file.write(f"|genderm={male_ratio}\n")
+        txt_file.write(f"|genderm={gender_ratio}\n")
         txt_file.write(f"|catchrate={pokemon_data.get('catchRate', 'Unknown')}\n")
 
         # Adjusting the height

@@ -9,7 +9,6 @@
 
 |ability2=
 |abilityH=Cursedbody
-|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=75

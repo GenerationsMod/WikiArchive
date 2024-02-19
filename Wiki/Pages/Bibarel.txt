@@ -7,7 +7,6 @@
 |type2=Water
 |ability1=Unaware|ability2=Simple
 |abilityH=Moody
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=127

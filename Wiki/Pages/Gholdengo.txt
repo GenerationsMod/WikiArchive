@@ -7,9 +7,8 @@
 |type2=Ghost
 |ability1=Goodasgold
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=45
 |height-m=1.2
 |weight-kg=30.0

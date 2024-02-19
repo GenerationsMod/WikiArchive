@@ -7,7 +7,6 @@
 |type2=Ground
 |ability1=Oblivious|ability2=Snowcloak
 |abilityH=Thickfat
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=50

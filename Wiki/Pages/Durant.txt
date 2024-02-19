@@ -7,7 +7,6 @@
 |type2=Steel
 |ability1=Hustle|ability2=Swarm
 |abilityH=Truant
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=90

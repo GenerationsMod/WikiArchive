@@ -5,9 +5,8 @@
 |ndex=059
 |type1=Fire
 |type2=
-|ability1=Flashfire|ability2=Intimidate
+|ability1=Intimidate|ability2=Flashfire
 |abilityH=Justified
-|genderm=75.0
 |abilityS=
 |genderm=75.0
 |catchrate=75

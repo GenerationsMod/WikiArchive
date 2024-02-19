@@ -7,9 +7,8 @@
 |type2=
 |ability1=Pressure
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=3
 |height-m=1.7
 |weight-kg=60.8

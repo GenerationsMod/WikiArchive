@@ -7,7 +7,6 @@
 |type2=
 |ability1=Owntempo|ability2=Thickfat
 |abilityH=Defiant
-|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=75

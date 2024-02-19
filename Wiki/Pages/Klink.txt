@@ -5,11 +5,10 @@
 |ndex=599
 |type1=Steel
 |type2=
-|ability1=Plus|ability2=Minus
+|ability1=Minus|ability2=Plus
 |abilityH=Clearbody
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=130
 |height-m=0.3
 |weight-kg=21.0

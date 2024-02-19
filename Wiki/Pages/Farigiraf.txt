@@ -7,7 +7,6 @@
 |type2=Psychic
 |ability1=Cudchew|ability2=Armortail
 |abilityH=Sapsipper
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

@@ -7,7 +7,6 @@
 |type2=Grass
 |ability1=Dryskin|ability2=Effectspore
 |abilityH=Damp
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

@@ -7,7 +7,6 @@
 |type2=Normal
 |ability1=Rivalry|ability2=Unnerve
 |abilityH=Moxie
-|genderm=12.5
 |abilityS=
 |genderm=12.5
 |catchrate=65

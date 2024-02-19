@@ -9,7 +9,6 @@
 
 |ability2=
 |abilityH=Damp
-|genderm=87.5
 |abilityS=
 |genderm=87.5
 |catchrate=45

@@ -7,7 +7,6 @@
 |type2=
 |ability1=Magicguard|ability2=Cutecharm
 |abilityH=Unaware
-|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=25

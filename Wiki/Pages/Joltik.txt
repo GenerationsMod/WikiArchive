@@ -5,9 +5,8 @@
 |ndex=595
 |type1=Bug
 |type2=Electric
-|ability1=Compoundeyes|ability2=Unnerve
+|ability1=Unnerve|ability2=Compoundeyes
 |abilityH=Swarm
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

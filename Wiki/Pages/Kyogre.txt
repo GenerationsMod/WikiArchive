@@ -7,9 +7,8 @@
 |type2=
 |ability1=Drizzle
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=3
 |height-m=4.5
 |weight-kg=352.0

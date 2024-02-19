@@ -5,9 +5,8 @@
 |ndex=921
 |type1=Electric
 |type2=
-|ability1=Static|ability2=Naturalcure
+|ability1=Naturalcure|ability2=Static
 |abilityH=Ironfist
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

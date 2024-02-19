@@ -5,9 +5,8 @@
 |ndex=734
 |type1=Normal
 |type2=
-|ability1=Strongjaw|ability2=Stakeout
+|ability1=Stakeout|ability2=Strongjaw
 |abilityH=Adaptability
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255

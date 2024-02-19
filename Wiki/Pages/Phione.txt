@@ -7,9 +7,8 @@
 |type2=
 |ability1=Hydration
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=30
 |height-m=0.4
 |weight-kg=3.1

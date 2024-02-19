@@ -5,9 +5,8 @@
 |ndex=886
 |type1=Dragon
 |type2=Ghost
-|ability1=Infiltrator|ability2=Clearbody
+|ability1=Clearbody|ability2=Infiltrator
 |abilityH=Cursedbody
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

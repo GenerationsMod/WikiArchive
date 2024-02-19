@@ -7,7 +7,6 @@
 |type2=Fighting
 |ability1=Shedskin|ability2=Moxie
 |abilityH=Intimidate
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=90

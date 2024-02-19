@@ -5,9 +5,8 @@
 |ndex=115
 |type1=Normal
 |type2=
-|ability1=Earlybird|ability2=Scrappy
+|ability1=Scrappy|ability2=Earlybird
 |abilityH=Innerfocus
-|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=45

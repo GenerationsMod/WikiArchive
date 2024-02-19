@@ -5,9 +5,8 @@
 |ndex=194
 |type1=Water
 |type2=Ground
-|ability1=Damp|ability2=Waterabsorb
+|ability1=Waterabsorb|ability2=Damp
 |abilityH=Unaware
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255

@@ -7,7 +7,6 @@
 |type2=Flying
 |ability1=Keeneye|ability2=Sheerforce
 |abilityH=Hustle
-|genderm=100
 |abilityS=
 |genderm=100
 |catchrate=190

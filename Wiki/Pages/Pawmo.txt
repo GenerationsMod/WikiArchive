@@ -7,7 +7,6 @@
 |type2=Fighting
 |ability1=Voltabsorb|ability2=Naturalcure
 |abilityH=Ironfist
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=80

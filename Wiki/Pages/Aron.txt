@@ -5,9 +5,8 @@
 |ndex=304
 |type1=Steel
 |type2=Rock
-|ability1=Rockhead|ability2=Sturdy
+|ability1=Sturdy|ability2=Rockhead
 |abilityH=Heavymetal
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=180

@@ -5,9 +5,8 @@
 |ndex=779
 |type1=Water
 |type2=Psychic
-|ability1=Strongjaw|ability2=Dazzling
+|ability1=Dazzling|ability2=Strongjaw
 |abilityH=Wonderskin
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=80

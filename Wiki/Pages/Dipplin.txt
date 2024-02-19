@@ -5,9 +5,8 @@
 |ndex=1011
 |type1=Grass
 |type2=Dragon
-|ability1=Supersweetsyrup|ability2=Gluttony
+|ability1=Gluttony|ability2=Supersweetsyrup
 |abilityH=Stickyhold
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

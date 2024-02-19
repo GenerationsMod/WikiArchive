@@ -5,9 +5,8 @@
 |ndex=973
 |type1=Flying
 |type2=Fighting
-|ability1=Scrappy|ability2=Tangledfeet
+|ability1=Tangledfeet|ability2=Scrappy
 |abilityH=Costar
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=100

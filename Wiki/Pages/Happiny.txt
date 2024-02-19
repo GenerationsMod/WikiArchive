@@ -5,9 +5,8 @@
 |ndex=440
 |type1=Normal
 |type2=
-|ability1=Serenegrace|ability2=Naturalcure
+|ability1=Naturalcure|ability2=Serenegrace
 |abilityH=Friendguard
-|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=130

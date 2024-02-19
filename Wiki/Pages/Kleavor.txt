@@ -5,9 +5,8 @@
 |ndex=900
 |type1=Bug
 |type2=Rock
-|ability1=Sheerforce|ability2=Swarm
+|ability1=Swarm|ability2=Sheerforce
 |abilityH=Sharpness
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=115

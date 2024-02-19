@@ -5,9 +5,8 @@
 |ndex=532
 |type1=Fighting
 |type2=
-|ability1=Sheerforce|ability2=Guts
+|ability1=Guts|ability2=Sheerforce
 |abilityH=Ironfist
-|genderm=75.0
 |abilityS=
 |genderm=75.0
 |catchrate=180

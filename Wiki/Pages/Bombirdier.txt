@@ -7,7 +7,6 @@
 |type2=Dark
 |ability1=Keeneye|ability2=Bigpecks
 |abilityH=Rockypayload
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=25

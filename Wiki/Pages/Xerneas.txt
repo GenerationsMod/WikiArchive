@@ -7,9 +7,8 @@
 |type2=
 |ability1=Fairyaura
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=45
 |height-m=3.0
 |weight-kg=215.0

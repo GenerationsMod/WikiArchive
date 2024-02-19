@@ -7,7 +7,6 @@
 |type2=Fairy
 |ability1=Cutecharm|ability2=Competitive
 |abilityH=Frisk
-|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=50

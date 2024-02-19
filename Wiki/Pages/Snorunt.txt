@@ -5,9 +5,8 @@
 |ndex=361
 |type1=Ice
 |type2=
-|ability1=Innerfocus|ability2=Icebody
+|ability1=Icebody|ability2=Innerfocus
 |abilityH=Moody
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

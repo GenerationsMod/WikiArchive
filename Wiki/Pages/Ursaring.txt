@@ -5,9 +5,8 @@
 |ndex=217
 |type1=Normal
 |type2=
-|ability1=Quickfeet|ability2=Guts
+|ability1=Guts|ability2=Quickfeet
 |abilityH=Unnerve
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60

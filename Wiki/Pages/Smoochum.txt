@@ -5,9 +5,8 @@
 |ndex=238
 |type1=Ice
 |type2=Psychic
-|ability1=Forewarn|ability2=Oblivious
+|ability1=Oblivious|ability2=Forewarn
 |abilityH=Hydration
-|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=45

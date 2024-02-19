@@ -5,9 +5,8 @@
 |ndex=417
 |type1=Electric
 |type2=
-|ability1=Pickup|ability2=Runaway
+|ability1=Runaway|ability2=Pickup
 |abilityH=Voltabsorb
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=200

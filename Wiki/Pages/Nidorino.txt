@@ -7,7 +7,6 @@
 |type2=
 |ability1=Rivalry|ability2=Poisonpoint
 |abilityH=Hustle
-|genderm=100
 |abilityS=
 |genderm=100
 |catchrate=120

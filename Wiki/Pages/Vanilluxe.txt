@@ -5,9 +5,8 @@
 |ndex=584
 |type1=Ice
 |type2=
-|ability1=Snowwarning|ability2=Icebody
+|ability1=Icebody|ability2=Snowwarning
 |abilityH=Weakarmor
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

@@ -7,7 +7,6 @@
 |type2=Psychic
 |ability1=Frisk|ability2=Swarm
 |abilityH=Telepathy
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

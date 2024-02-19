@@ -5,9 +5,8 @@
 |ndex=285
 |type1=Grass
 |type2=
-|ability1=Poisonheal|ability2=Effectspore
+|ability1=Effectspore|ability2=Poisonheal
 |abilityH=Quickfeet
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255

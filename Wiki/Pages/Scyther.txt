@@ -5,9 +5,8 @@
 |ndex=123
 |type1=Bug
 |type2=Flying
-|ability1=Swarm|ability2=Technician
+|ability1=Technician|ability2=Swarm
 |abilityH=Steadfast
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

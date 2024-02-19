@@ -5,9 +5,8 @@
 |ndex=223
 |type1=Water
 |type2=
-|ability1=Hustle|ability2=Sniper
+|ability1=Sniper|ability2=Hustle
 |abilityH=Moody
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

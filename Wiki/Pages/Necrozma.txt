@@ -7,9 +7,8 @@
 |type2=
 |ability1=Prismarmor
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=255
 |height-m=2.4
 |weight-kg=230.0

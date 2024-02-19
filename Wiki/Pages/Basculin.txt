@@ -5,9 +5,8 @@
 |ndex=550
 |type1=Water
 |type2=
-|ability1=Reckless|ability2=Adaptability
+|ability1=Adaptability|ability2=Reckless
 |abilityH=Moldbreaker
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=25

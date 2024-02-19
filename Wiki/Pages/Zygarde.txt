@@ -7,9 +7,8 @@
 |type2=Ground
 |ability1=Aurabreak
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=3
 |height-m=5.0
 |weight-kg=305.0

@@ -9,9 +9,8 @@
 
 |ability2=
 |abilityH=Unnerve
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=3
 |height-m=2.0
 |weight-kg=122.0

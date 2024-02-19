@@ -7,9 +7,8 @@
 |type2=Steel
 |ability1=Magnetpull|ability2=Sturdy
 |abilityH=Analytic
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=30
 |height-m=1.2
 |weight-kg=180.0

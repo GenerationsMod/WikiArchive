@@ -5,9 +5,8 @@
 |ndex=740
 |type1=Fighting
 |type2=Ice
-|ability1=Hypercutter|ability2=Ironfist
+|ability1=Ironfist|ability2=Hypercutter
 |abilityH=Angerpoint
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60

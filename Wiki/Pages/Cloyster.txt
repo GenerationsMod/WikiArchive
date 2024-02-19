@@ -7,7 +7,6 @@
 |type2=Ice
 |ability1=Shellarmor|ability2=Skilllink
 |abilityH=Overcoat
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60

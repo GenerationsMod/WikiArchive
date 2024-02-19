@@ -5,9 +5,8 @@
 |ndex=209
 |type1=Fairy
 |type2=
-|ability1=Intimidate|ability2=Runaway
+|ability1=Runaway|ability2=Intimidate
 |abilityH=Rattled
-|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=190

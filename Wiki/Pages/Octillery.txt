@@ -5,9 +5,8 @@
 |ndex=224
 |type1=Water
 |type2=
-|ability1=Suctioncups|ability2=Sniper
+|ability1=Sniper|ability2=Suctioncups
 |abilityH=Moody
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

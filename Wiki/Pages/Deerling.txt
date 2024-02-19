@@ -7,7 +7,6 @@
 |type2=Grass
 |ability1=Chlorophyll|ability2=Sapsipper
 |abilityH=Serenegrace
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

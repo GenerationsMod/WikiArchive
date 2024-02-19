@@ -5,9 +5,8 @@
 |ndex=537
 |type1=Water
 |type2=Ground
-|ability1=Poisontouch|ability2=Swiftswim
+|ability1=Swiftswim|ability2=Poisontouch
 |abilityH=Waterabsorb
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

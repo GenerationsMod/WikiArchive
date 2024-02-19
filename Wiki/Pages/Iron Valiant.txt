@@ -7,9 +7,8 @@
 |type2=Fighting
 |ability1=Quarkdrive
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=10
 |height-m=1.4
 |weight-kg=35.0

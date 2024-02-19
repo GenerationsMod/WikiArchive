@@ -7,7 +7,6 @@
 |type2=
 |ability1=Defiant
 |abilityH=
-|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=5

@@ -5,9 +5,8 @@
 |ndex=761
 |type1=Grass
 |type2=
-|ability1=Leafguard|ability2=Oblivious
+|ability1=Oblivious|ability2=Leafguard
 |abilityH=Sweetveil
-|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=235

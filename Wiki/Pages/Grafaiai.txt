@@ -7,7 +7,6 @@
 |type2=Normal
 |ability1=Poisontouch|ability2=Unburden
 |abilityH=Prankster
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=90

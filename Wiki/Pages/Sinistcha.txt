@@ -9,9 +9,8 @@
 
 |ability2=
 |abilityH=Heatproof
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=60
 |height-m=0.2
 |weight-kg=2.2

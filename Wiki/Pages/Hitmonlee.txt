@@ -7,7 +7,6 @@
 |type2=
 |ability1=Limber|ability2=Reckless
 |abilityH=Unburden
-|genderm=100
 |abilityS=
 |genderm=100
 |catchrate=45

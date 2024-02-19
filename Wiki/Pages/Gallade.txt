@@ -7,7 +7,6 @@
 |type2=Fighting
 |ability1=Steadfast|ability2=Sharpness
 |abilityH=Justified
-|genderm=100
 |abilityS=
 |genderm=100
 |catchrate=45

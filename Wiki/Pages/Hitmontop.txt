@@ -7,7 +7,6 @@
 |type2=
 |ability1=Intimidate|ability2=Technician
 |abilityH=Steadfast
-|genderm=100
 |abilityS=
 |genderm=100
 |catchrate=45

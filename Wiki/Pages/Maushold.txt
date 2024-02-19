@@ -5,11 +5,10 @@
 |ndex=925
 |type1=Normal
 |type2=
-|ability1=Friendguard|ability2=Cheekpouch
+|ability1=Cheekpouch|ability2=Friendguard
 |abilityH=Technician
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=75
 |height-m=0.3
 |weight-kg=2.3

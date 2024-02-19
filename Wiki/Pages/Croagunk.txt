@@ -5,9 +5,8 @@
 |ndex=453
 |type1=Poison
 |type2=Fighting
-|ability1=Anticipation|ability2=Dryskin
+|ability1=Dryskin|ability2=Anticipation
 |abilityH=Poisontouch
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=140

@@ -7,9 +7,8 @@
 |type2=Ground
 |ability1=Vesselofruin
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=6
 |height-m=2.7
 |weight-kg=699.7

@@ -7,7 +7,6 @@
 |type2=
 |ability1=Cottondown|ability2=Regenerator
 |abilityH=Effectspore
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

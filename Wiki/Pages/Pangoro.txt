@@ -7,7 +7,6 @@
 |type2=Dark
 |ability1=Moldbreaker|ability2=Ironfist
 |abilityH=Scrappy
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=65

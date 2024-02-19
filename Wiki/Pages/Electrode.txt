@@ -5,11 +5,10 @@
 |ndex=101
 |type1=Electric
 |type2=
-|ability1=Static|ability2=Soundproof
+|ability1=Soundproof|ability2=Static
 |abilityH=Aftermath
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=60
 |height-m=1.2
 |weight-kg=66.6

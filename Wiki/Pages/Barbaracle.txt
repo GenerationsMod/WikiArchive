@@ -7,7 +7,6 @@
 |type2=Water
 |ability1=Sniper|ability2=Toughclaws
 |abilityH=Pickpocket
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

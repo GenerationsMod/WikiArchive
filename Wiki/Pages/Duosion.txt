@@ -7,7 +7,6 @@
 |type2=
 |ability1=Magicguard|ability2=Overcoat
 |abilityH=Regenerator
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=100

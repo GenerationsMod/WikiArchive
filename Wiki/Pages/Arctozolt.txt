@@ -5,11 +5,10 @@
 |ndex=881
 |type1=Electric
 |type2=Ice
-|ability1=Static|ability2=Voltabsorb
+|ability1=Voltabsorb|ability2=Static
 |abilityH=Slushrush
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=45
 |height-m=2.3
 |weight-kg=150.0

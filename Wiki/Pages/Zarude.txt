@@ -7,9 +7,8 @@
 |type2=Grass
 |ability1=Leafguard
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=3
 |height-m=1.8
 |weight-kg=70.0

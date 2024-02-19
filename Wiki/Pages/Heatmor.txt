@@ -5,9 +5,8 @@
 |ndex=631
 |type1=Fire
 |type2=
-|ability1=Flashfire|ability2=Gluttony
+|ability1=Gluttony|ability2=Flashfire
 |abilityH=Whitesmoke
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=90

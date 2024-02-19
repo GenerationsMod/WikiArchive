@@ -5,9 +5,8 @@
 |ndex=569
 |type1=Poison
 |type2=
-|ability1=Weakarmor|ability2=Stench
+|ability1=Stench|ability2=Weakarmor
 |abilityH=Aftermath
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60

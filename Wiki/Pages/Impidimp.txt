@@ -5,9 +5,8 @@
 |ndex=859
 |type1=Dark
 |type2=Fairy
-|ability1=Frisk|ability2=Prankster
+|ability1=Prankster|ability2=Frisk
 |abilityH=Pickpocket
-|genderm=100
 |abilityS=
 |genderm=100
 |catchrate=255

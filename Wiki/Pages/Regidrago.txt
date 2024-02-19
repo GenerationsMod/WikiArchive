@@ -7,9 +7,8 @@
 |type2=
 |ability1=Dragonsmaw
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=3
 |height-m=2.1
 |weight-kg=200.0

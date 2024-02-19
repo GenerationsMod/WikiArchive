@@ -7,7 +7,6 @@
 |type2=Fairy
 |ability1=Pickup|ability2=Cheekpouch
 |abilityH=Plus
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=180

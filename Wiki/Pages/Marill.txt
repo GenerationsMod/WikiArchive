@@ -5,9 +5,8 @@
 |ndex=183
 |type1=Water
 |type2=Fairy
-|ability1=Hugepower|ability2=Thickfat
+|ability1=Thickfat|ability2=Hugepower
 |abilityH=Sapsipper
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

@@ -7,7 +7,6 @@
 |type2=Dark
 |ability1=Intimidate|ability2=Moxie
 |abilityH=Angerpoint
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

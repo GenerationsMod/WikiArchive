@@ -7,7 +7,6 @@
 |type2=
 |ability1=Noguard|ability2=Guts
 |abilityH=Steadfast
-|genderm=75.0
 |abilityS=
 |genderm=75.0
 |catchrate=180

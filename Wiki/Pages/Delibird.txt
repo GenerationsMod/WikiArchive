@@ -7,7 +7,6 @@
 |type2=Flying
 |ability1=Vitalspirit|ability2=Hustle
 |abilityH=Insomnia
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

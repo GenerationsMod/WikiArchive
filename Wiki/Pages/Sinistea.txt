@@ -9,9 +9,8 @@
 
 |ability2=
 |abilityH=Cursedbody
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=120
 |height-m=0.1
 |weight-kg=0.2

@@ -7,7 +7,6 @@
 |type2=Flying
 |ability1=Voltabsorb|ability2=Windpower
 |abilityH=Competitive
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=180

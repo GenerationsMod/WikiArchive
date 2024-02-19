@@ -5,9 +5,8 @@
 |ndex=666
 |type1=Bug
 |type2=Flying
-|ability1=Compoundeyes|ability2=Shielddust
+|ability1=Shielddust|ability2=Compoundeyes
 |abilityH=Friendguard
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

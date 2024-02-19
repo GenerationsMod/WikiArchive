@@ -5,9 +5,8 @@
 |ndex=547
 |type1=Grass
 |type2=Fairy
-|ability1=Infiltrator|ability2=Prankster
+|ability1=Prankster|ability2=Infiltrator
 |abilityH=Chlorophyll
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

@@ -5,9 +5,8 @@
 |ndex=210
 |type1=Fairy
 |type2=
-|ability1=Quickfeet|ability2=Intimidate
+|ability1=Intimidate|ability2=Quickfeet
 |abilityH=Rattled
-|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=75

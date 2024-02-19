@@ -5,11 +5,10 @@
 |ndex=120
 |type1=Water
 |type2=
-|ability1=Illuminate|ability2=Naturalcure
+|ability1=Naturalcure|ability2=Illuminate
 |abilityH=Analytic
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=225
 |height-m=0.8
 |weight-kg=34.5

@@ -5,9 +5,8 @@
 |ndex=190
 |type1=Normal
 |type2=
-|ability1=Pickup|ability2=Runaway
+|ability1=Runaway|ability2=Pickup
 |abilityH=Skilllink
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

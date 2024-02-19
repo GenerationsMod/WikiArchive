@@ -7,9 +7,8 @@
 |type2=Grass
 |ability1=Unnerve
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=3
 |height-m=1.1
 |weight-kg=7.7

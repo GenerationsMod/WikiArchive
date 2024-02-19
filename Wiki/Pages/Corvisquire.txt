@@ -5,9 +5,8 @@
 |ndex=822
 |type1=Flying
 |type2=
-|ability1=Keeneye|ability2=Unnerve
+|ability1=Unnerve|ability2=Keeneye
 |abilityH=Bigpecks
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120

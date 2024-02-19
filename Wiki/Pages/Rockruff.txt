@@ -5,9 +5,8 @@
 |ndex=744
 |type1=Rock
 |type2=
-|ability1=Keeneye|ability2=Vitalspirit
+|ability1=Vitalspirit|ability2=Keeneye
 |abilityH=Steadfast
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=190

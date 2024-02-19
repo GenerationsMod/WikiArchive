@@ -7,7 +7,6 @@
 |type2=
 |ability1=Hydration|ability2=Healer
 |abilityH=Regenerator
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

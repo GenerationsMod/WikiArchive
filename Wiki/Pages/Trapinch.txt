@@ -5,9 +5,8 @@
 |ndex=328
 |type1=Ground
 |type2=
-|ability1=Hypercutter|ability2=Arenatrap
+|ability1=Arenatrap|ability2=Hypercutter
 |abilityH=Sheerforce
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255

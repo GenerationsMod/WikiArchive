@@ -5,9 +5,8 @@
 |ndex=777
 |type1=Electric
 |type2=Steel
-|ability1=Lightningrod|ability2=Ironbarbs
+|ability1=Ironbarbs|ability2=Lightningrod
 |abilityH=Sturdy
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=180

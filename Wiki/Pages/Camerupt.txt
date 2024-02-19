@@ -7,7 +7,6 @@
 |type2=Ground
 |ability1=Magmaarmor|ability2=Solidrock
 |abilityH=Angerpoint
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=150

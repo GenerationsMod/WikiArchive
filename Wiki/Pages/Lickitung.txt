@@ -5,9 +5,8 @@
 |ndex=108
 |type1=Normal
 |type2=
-|ability1=Oblivious|ability2=Owntempo
+|ability1=Owntempo|ability2=Oblivious
 |abilityH=Cloudnine
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

@@ -9,7 +9,6 @@
 
 |ability2=
 |abilityH=Sniper
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

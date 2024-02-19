@@ -5,9 +5,8 @@
 |ndex=166
 |type1=Bug
 |type2=Flying
-|ability1=Earlybird|ability2=Swarm
+|ability1=Swarm|ability2=Earlybird
 |abilityH=Ironfist
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=90

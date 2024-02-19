@@ -5,9 +5,8 @@
 |ndex=549
 |type1=Grass
 |type2=
-|ability1=Chlorophyll|ability2=Owntempo
+|ability1=Owntempo|ability2=Chlorophyll
 |abilityH=Leafguard
-|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=75

@@ -7,9 +7,8 @@
 |type2=
 |ability1=Levitate
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=225
 |height-m=0.5
 |weight-kg=5.0

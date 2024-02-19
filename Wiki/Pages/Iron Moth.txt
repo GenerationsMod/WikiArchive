@@ -7,9 +7,8 @@
 |type2=Poison
 |ability1=Quarkdrive
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=30
 |height-m=1.2
 |weight-kg=36.0

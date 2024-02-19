@@ -9,9 +9,8 @@
 
 |ability2=
 |abilityH=Defiant
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=45
 |height-m=3.0
 |weight-kg=62.0

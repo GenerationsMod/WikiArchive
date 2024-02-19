@@ -7,7 +7,6 @@
 |type2=Flying
 |ability1=Keeneye|ability2=Skilllink
 |abilityH=Sheerforce
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

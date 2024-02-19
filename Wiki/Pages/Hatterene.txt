@@ -7,7 +7,6 @@
 |type2=Fairy
 |ability1=Anticipation|ability2=Healer
 |abilityH=Magicbounce
-|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=45

@@ -7,7 +7,6 @@
 |type2=
 |ability1=Forewarn|ability2=Insomnia
 |abilityH=Innerfocus
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

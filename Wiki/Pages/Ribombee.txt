@@ -7,7 +7,6 @@
 |type2=Fairy
 |ability1=Honeygather|ability2=Shielddust
 |abilityH=Sweetveil
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

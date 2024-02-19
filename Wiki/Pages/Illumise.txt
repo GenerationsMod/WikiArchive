@@ -5,9 +5,8 @@
 |ndex=314
 |type1=Bug
 |type2=
-|ability1=Oblivious|ability2=Tintedlens
+|ability1=Tintedlens|ability2=Oblivious
 |abilityH=Prankster
-|genderm=0
 |abilityS=
 |genderm=0
 |catchrate=150

@@ -5,9 +5,8 @@
 |ndex=321
 |type1=Water
 |type2=
-|ability1=Oblivious|ability2=Waterveil
+|ability1=Waterveil|ability2=Oblivious
 |abilityH=Pressure
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60

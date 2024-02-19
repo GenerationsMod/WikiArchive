@@ -7,9 +7,8 @@
 |type2=Dragon
 |ability1=Orichalcumpulse
 |abilityH=
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=3
 |height-m=2.5
 |weight-kg=303.0

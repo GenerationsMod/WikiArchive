@@ -7,7 +7,6 @@
 |type2=Fighting
 |ability1=Guts|ability2=Swarm
 |abilityH=Moxie
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

@@ -7,7 +7,6 @@
 |type2=
 |ability1=Guarddog|ability2=Intimidate
 |abilityH=Stakeout
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

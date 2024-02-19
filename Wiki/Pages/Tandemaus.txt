@@ -5,11 +5,10 @@
 |ndex=924
 |type1=Normal
 |type2=
-|ability1=Pickup|ability2=Runaway
+|ability1=Runaway|ability2=Pickup
 |abilityH=Owntempo
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=150
 |height-m=0.3
 |weight-kg=1.8

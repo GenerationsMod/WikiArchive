@@ -7,7 +7,6 @@
 |type2=Dragon
 |ability1=Berserk|ability2=Sapsipper
 |abilityH=Cloudnine
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=70

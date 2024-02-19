@@ -5,9 +5,8 @@
 |ndex=618
 |type1=Ground
 |type2=Electric
-|ability1=Static|ability2=Limber
+|ability1=Limber|ability2=Static
 |abilityH=Sandveil
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

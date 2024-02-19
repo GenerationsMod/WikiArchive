@@ -7,7 +7,6 @@
 |type2=
 |ability1=Klutz|ability2=Cutecharm
 |abilityH=Limber
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=60

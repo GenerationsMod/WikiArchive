@@ -7,9 +7,8 @@
 |type2=Ghost
 |ability1=Klutz|ability2=Ironfist
 |abilityH=Noguard
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=90
 |height-m=2.8
 |weight-kg=330.0

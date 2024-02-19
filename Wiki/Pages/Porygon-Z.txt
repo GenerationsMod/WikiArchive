@@ -7,9 +7,8 @@
 |type2=
 |ability1=Download|ability2=Adaptability
 |abilityH=Analytic
-|genderm=Genderless
 |abilityS=
-|genderm=-100
+|genderm=Genderless
 |catchrate=30
 |height-m=0.9
 |weight-kg=34.0

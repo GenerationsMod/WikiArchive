@@ -5,9 +5,8 @@
 |ndex=322
 |type1=Fire
 |type2=Ground
-|ability1=Oblivious|ability2=Simple
+|ability1=Simple|ability2=Oblivious
 |abilityH=Owntempo
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255

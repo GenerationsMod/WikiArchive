@@ -5,9 +5,8 @@
 |ndex=216
 |type1=Normal
 |type2=
-|ability1=Quickfeet|ability2=Pickup
+|ability1=Pickup|ability2=Quickfeet
 |abilityH=Honeygather
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120

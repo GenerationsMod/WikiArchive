@@ -5,9 +5,8 @@
 |ndex=127
 |type1=Bug
 |type2=
-|ability1=Hypercutter|ability2=Moldbreaker
+|ability1=Moldbreaker|ability2=Hypercutter
 |abilityH=Moxie
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

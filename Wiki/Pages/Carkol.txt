@@ -5,9 +5,8 @@
 |ndex=838
 |type1=Rock
 |type2=Fire
-|ability1=Flamebody|ability2=Steamengine
+|ability1=Steamengine|ability2=Flamebody
 |abilityH=Flashfire
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120

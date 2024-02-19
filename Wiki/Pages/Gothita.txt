@@ -7,7 +7,6 @@
 |type2=
 |ability1=Frisk|ability2=Competitive
 |abilityH=Shadowtag
-|genderm=25.0
 |abilityS=
 |genderm=25.0
 |catchrate=200

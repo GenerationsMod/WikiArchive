@@ -5,9 +5,8 @@
 |ndex=228
 |type1=Dark
 |type2=Fire
-|ability1=Earlybird|ability2=Flashfire
+|ability1=Flashfire|ability2=Earlybird
 |abilityH=Unnerve
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120

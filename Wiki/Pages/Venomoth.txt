@@ -5,9 +5,8 @@
 |ndex=049
 |type1=Bug
 |type2=Poison
-|ability1=Tintedlens|ability2=Shielddust
+|ability1=Shielddust|ability2=Tintedlens
 |abilityH=Wonderskin
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=75

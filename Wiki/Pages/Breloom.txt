@@ -5,9 +5,8 @@
 |ndex=286
 |type1=Grass
 |type2=Fighting
-|ability1=Poisonheal|ability2=Effectspore
+|ability1=Effectspore|ability2=Poisonheal
 |abilityH=Technician
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=90

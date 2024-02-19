@@ -7,7 +7,6 @@
 |type2=
 |ability1=Rivalry|ability2=Intimidate
 |abilityH=Guts
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=120

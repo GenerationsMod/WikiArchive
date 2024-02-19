@@ -7,7 +7,6 @@
 |type2=Fighting
 |ability1=Bulletproof|ability2=Soundproof
 |abilityH=Overcoat
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=45

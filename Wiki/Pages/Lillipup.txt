@@ -5,9 +5,8 @@
 |ndex=506
 |type1=Normal
 |type2=
-|ability1=Vitalspirit|ability2=Pickup
+|ability1=Pickup|ability2=Vitalspirit
 |abilityH=Runaway
-|genderm=50.0
 |abilityS=
 |genderm=50.0
 |catchrate=255
