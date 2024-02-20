@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Muscle Band|id=muscle_band|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Yellow Wool|B1=Gold Ingot|C1=Yellow Wool
+|A2=Redstone|B2=|C2=Gold Ingot
+|A3=Yellow Wool|B3=Redstone|C3=Yellow Wool
+|Output=Muscle Band|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Increases the power of Physical-category moves.
+
+|drop1={{DropLoot|premier=y|sport=y|timer=y}}
+}}

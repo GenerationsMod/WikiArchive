@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Net Ball|id=net_ball|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=|B1=Black Apricorn|C1=
+|A2=Blue Apricorn|B2=Iron Ingot|C2=Blue Apricorn
+|A3=|B3=White Apricorn|C3=
+|Output=Net Ball|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Catches Water- and Bug-type Pokémon with 3.5x the rate of a standard Poké Ball.
+
+|drop1={{DropLoot|dive=y|fast=y|net=y}}
+}}

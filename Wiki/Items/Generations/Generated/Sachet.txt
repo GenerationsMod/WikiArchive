@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Sachet|id=sachet|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=String|B1=Purple Wool|C1=String
+|A2=Lilac|B2=Allium|C2=Peony
+|A3=Magenta Wool|B3=Purple Wool|C3=Magenta Wool
+|Output=Sachet|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Evolves Spritzee when traded holding the item.
+
+|drop1={{DropLoot|cherish=y|friend=y|level=y|origin=y}}
+}}

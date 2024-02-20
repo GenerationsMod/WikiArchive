@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Chipped Pot|id=chipped_pot|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Iron Ingot|B1=White Glazed Terracotta|C1=
+|A2=White Glazed Terracotta|B2=Glass Bottle|C2=White Glazed Terracotta
+|A3=Gold Ingot|B3=Gold Ingot|C3=Gold Ingot
+|Output=Chipped Pot|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Evolves Sinistea into Polteageist.
+
+|drop1={{DropLoot|cherish=y|origin=y|premier=y|ultra=y}}
+}}

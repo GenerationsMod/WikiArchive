@@ -1,0 +1,13 @@
+{{ItemInfobox|item=Zinc|id=zinc|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Medicinal Brew|B1=|C1=|A2=Grepa Berry|B2=Grepa Berry|C2=Pink Mint Leaf|A3=Pink Mint Leaf|B3=|C3=|Output=Zinc|shapeless=y}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Increases Special Defense EVs by 10.
+
+|drop1={{DropLoot|beast=y|jet=y|level=y|quick=y|repeat=y}}
+}}

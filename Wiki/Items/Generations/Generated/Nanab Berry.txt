@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Nanab Berry|id=nanab_berry|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+A Berry to be used in cooking. Calms a Pokémon in battle, in Let's Go Pikachu/Eevee.
+
+|drop1={{DropLoot|jet=y|nest=y|quick=y|timer=y}}
+}}

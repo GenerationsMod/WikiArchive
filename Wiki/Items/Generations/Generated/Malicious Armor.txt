@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Malicious Armor|id=malicious_armor|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Evolves Charcadet into Ceruledge.
+
+|drop1=None
+}}

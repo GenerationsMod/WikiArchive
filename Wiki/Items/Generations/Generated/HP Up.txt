@@ -1,0 +1,13 @@
+{{ItemInfobox|item=HP Up|id=hp_up|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Medicinal Brew|B1=Sugar|C1=Sugar|A2=Pomeg Berry|B2=Pomeg Berry|C2=White Mint Leaf|A3=White Mint Leaf|B3=|C3=|Output=Hp Up|shapeless=y}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Increases HP EVs by 10.
+
+|drop1={{DropLoot|cherish=y|heal=y|love=y}}
+}}

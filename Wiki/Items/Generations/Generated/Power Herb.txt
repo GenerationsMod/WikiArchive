@@ -2,6 +2,8 @@
 
 }}
 {{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
 
 A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn.
 

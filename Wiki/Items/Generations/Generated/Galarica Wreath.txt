@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Galarica Wreath|id=galarica_wreath|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Evolves Galarian Slowpoke into Galarian Slowking.
+
+|drop1={{DropLoot|cherish=y|origin=y|premier=y|safari=y}}
+}}

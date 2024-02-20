@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Quick Ball|id=quick_ball|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=|B1=Blue Apricorn|C1=
+|A2=Yellow Apricorn|B2=Gold Ingot|C2=Yellow Apricorn
+|A3=|B3=Blue Apricorn|C3=
+|Output=Quick Ball|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Catches wild Pokémon with a higher rate (5x) on the first turn of a battle.
+
+|drop1={{DropLoot|fast=y|great=y|jet=y|quick=y}}
+}}

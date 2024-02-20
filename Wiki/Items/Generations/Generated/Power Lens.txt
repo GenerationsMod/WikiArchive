@@ -1,7 +1,14 @@
 {{ItemInfobox|item=Power Lens|id=power_lens|left=y
-
+|recipe=
+{{Grid/Crafting Table
+|A1=Cyan Mint Leaf|B1=Magenta Concrete|C1=Diamond
+|A2=Magenta Concrete|B2=|C2=Magenta Concrete
+|A3=Diamond|B3=Magenta Concrete|C3=Cyan Mint Leaf
+|Output=Power Lens|shapeless=n}}
 }}
 {{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
 
 A Pokémon held item that promotes Sp. Atk gain on leveling, but reduces the Speed stat.
 

@@ -1,7 +1,14 @@
 {{ItemInfobox|item=Power Bracer|id=power_bracer|left=y
-
+|recipe=
+{{Grid/Crafting Table
+|A1=Red Mint Leaf|B1=Red Concrete|C1=Diamond
+|A2=Red Concrete|B2=|C2=Red Concrete
+|A3=Diamond|B3=Red Concrete|C3=Red Mint Leaf
+|Output=Power Bracer|shapeless=n}}
 }}
 {{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
 
 A Pokémon held item that promotes Attack gain on leveling, but reduces the Speed stat.
 

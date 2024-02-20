@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Tart Apple|id=tart_apple|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Evolves Applin into Flapple.
+
+|drop1={{DropLoot|cherish=y|level=y|net=y|origin=y}}
+}}

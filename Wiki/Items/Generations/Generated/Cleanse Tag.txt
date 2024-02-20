@@ -1,7 +1,14 @@
 {{ItemInfobox|item=Cleanse Tag|id=cleanse_tag|left=y
-
+|recipe=
+{{Grid/Crafting Table
+|A1=|B1=Paper|C1=White Dye
+|A2=Paper|B2=Red Dye|C2=Paper
+|A3=White Dye|B3=Paper|C3=
+|Output=Cleanse Tag|shapeless=n}}
 }}
 {{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
 
 An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.
 

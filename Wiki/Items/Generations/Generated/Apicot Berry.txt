@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Apicot Berry|id=apicot_berry|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Raises Special Defense when HP is low.
+
+|drop1={{DropLoot|friend=y|leaden=y|origin=y|poke=y|sport=y}}
+}}

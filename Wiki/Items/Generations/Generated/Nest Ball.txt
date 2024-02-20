@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Nest Ball|id=nest_ball|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=|B1=Green Apricorn|C1=
+|A2=Yellow Apricorn|B2=Iron Ingot|C2=Yellow Apricorn
+|A3=|B3=Green Apricorn|C3=
+|Output=Nest Ball|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Catches lower level wild Pokémon with a higher rate (up to 4x for level 1).
+
+|drop1={{DropLoot|fast=y|great=y|nest=y}}
+}}

@@ -1,7 +1,11 @@
 {{ItemInfobox|item=Max Revive|id=max_revive|left=y
-
+|recipe=
+{{Grid/Crafting Table
+|A1=Revive|B1=Revive|C1=Revive|A2=Vivichoke|B2=|C2=|A3=|B3=|C3=|Output=Max Revive|shapeless=y}}
 }}
 {{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
 
 Revives a fainted Pokémon, fully restoring its HP.
 

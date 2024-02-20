@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Babiri Berry|id=babiri_berry|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Weakens a supereffective Steel-type attack against the holding Pokémon.
+
+|drop1={{DropLoot|beast=y|gigaton=y|heavy=y|leaden=y|lure=y|origin=y|poke=y}}
+}}

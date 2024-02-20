@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Never-Melt Ice|id=never-melt_ice|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Increases the power of Ice-type moves.
+
+|drop1=None
+}}

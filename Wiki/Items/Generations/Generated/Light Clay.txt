@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Light Clay|id=light_clay|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Glow Ink Sac|B1=Clay Ball|C1=Glow Ink Sac
+|A2=Clay Ball|B2=Ender Pearl|C2=Clay Ball
+|A3=Glow Ink Sac|B3=Clay Ball|C3=Glow Ink Sac
+|Output=Light Clay|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+A Pokémon held item that extends the duration of barrier moves like Light Screen and Reflect used by the holder.
+
+|drop1={{DropLoot|dive=y|moon=y|timer=y}}
+}}

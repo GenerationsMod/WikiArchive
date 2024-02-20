@@ -1,0 +1,13 @@
+{{ItemInfobox|item=Calcium|id=calcium|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Medicinal Brew|B1=Bone Meal|C1=Bone Meal|A2=Hondew Berry|B2=Hondew Berry|C2=Cyan Mint Leaf|A3=Cyan Mint Leaf|B3=|C3=|Output=Calcium|shapeless=y}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Increases Special Attack EVs by 10.
+
+|drop1={{DropLoot|cherish=y|friend=y|moon=y|ultra=y|wing=y}}
+}}

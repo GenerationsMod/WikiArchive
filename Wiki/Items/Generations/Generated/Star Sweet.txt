@@ -1,0 +1,13 @@
+{{ItemInfobox|item=Star Sweet|id=star_sweet|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Yellow Dye|B1=Honey Bottle|C1=Sugar|A2=|B2=|C2=|A3=|B3=|C3=|Output=Star Sweet|shapeless=y}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Evolves Milcery into Star Flavor Alcremie.
+
+|drop1={{DropLoot|dusk=y|friend=y|moon=y|origin=y}}
+}}

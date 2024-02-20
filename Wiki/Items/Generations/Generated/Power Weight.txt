@@ -1,7 +1,14 @@
 {{ItemInfobox|item=Power Weight|id=power_weight|left=y
-
+|recipe=
+{{Grid/Crafting Table
+|A1=White Mint Leaf|B1=Lime Concrete|C1=Diamond
+|A2=Lime Concrete|B2=|C2=Lime Concrete
+|A3=Diamond|B3=Lime Concrete|C3=White Mint Leaf
+|Output=Power Weight|shapeless=n}}
 }}
 {{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
 
 A Pokémon held item that promotes HP gain on leveling, but reduces the Speed stat.
 

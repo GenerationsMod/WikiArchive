@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Dusk Stone|id=dusk_stone|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Evolves certain species of Pokémon.
+
+|drop1={{DropLoot|dusk=y|luxury=y|moon=y}}
+}}

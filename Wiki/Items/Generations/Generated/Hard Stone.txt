@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Hard Stone|id=hard_stone|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Increases the power of Rock-type moves.
+
+|drop1={{DropLoot|gigaton=y|heavy=y|level=y|quick=y|sport=y}}
+}}

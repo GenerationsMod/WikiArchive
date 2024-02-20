@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Yache Berry|id=yache_berry|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Weakens a supereffective Ice-type attack against the holding Pokémon.
+
+|drop1={{DropLoot|beast=y|dive=y|net=y|strange=y}}
+}}

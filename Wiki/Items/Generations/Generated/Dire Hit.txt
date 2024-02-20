@@ -1,7 +1,11 @@
 {{ItemInfobox|item=Dire Hit|id=dire_hit|left=y
-
+|recipe=
+{{Grid/Crafting Table
+|A1=Glass Bottle|B1=Pep Up Flower|C1=Lansat Berry|A2=Lansat Berry|B2=|C2=|A3=|B3=|C3=|Output=Dire Hit|shapeless=y}}
 }}
 {{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
 
 Raises critical-hit ratio of a Pokémon in battle.
 

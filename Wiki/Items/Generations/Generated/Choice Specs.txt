@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Choice Specs|id=choice_specs|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Blaze Rod|B1=|C1=Blaze Rod
+|A2=Gold Ingot|B2=Wise Glasses|C2=Gold Ingot
+|A3=Redstone|B3=Gold Ingot|C3=Redstone
+|Output=Choice Specs|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Raises Special Attack, but only one move can be used.
+
+|drop1={{DropLoot|beast=y|friend=y|nest=y|net=y}}
+}}

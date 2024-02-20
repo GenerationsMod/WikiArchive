@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Heal Ball|id=heal_ball|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=|B1=Pink Apricorn|C1=
+|A2=White Apricorn|B2=Copper Ingot|C2=White Apricorn
+|A3=|B3=Pink Apricorn|C3=
+|Output=Heal Ball|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Catches wild Pokémon and fully heals them.
+
+|drop1={{DropLoot|great=y|heal=y|safari=y|sport=y|ultra=y}}
+}}

@@ -2,6 +2,8 @@
 
 }}
 {{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
 
 An item to be held by a POKéMON. It restores any lowered stat in battle. It can be used only once.
 

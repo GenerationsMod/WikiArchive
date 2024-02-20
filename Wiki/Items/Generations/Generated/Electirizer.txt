@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Electirizer|id=electirizer|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Redstone|B1=Iron Ingot|C1=Redstone
+|A2=Iron Ingot|B2=Iron Bars|C2=Iron Ingot
+|A3=Glowstone|B3=Iron Ingot|C3=Glowstone
+|Output=Electirizer|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Evolves Electabuzz when traded holding the item.
+
+|drop1={{DropLoot|cherish=y|friend=y|level=y|origin=y}}
+}}

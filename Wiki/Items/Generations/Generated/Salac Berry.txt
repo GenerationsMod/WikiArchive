@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Salac Berry|id=salac_berry|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Raises Speed when HP is low.
+
+|drop1={{DropLoot|fast=y|heal=y|quick=y|timer=y}}
+}}

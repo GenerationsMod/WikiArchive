@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Chople Berry|id=chople_berry|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Weakens a supereffective Fighting-type attack against the holding Pokémon.
+
+|drop1={{DropLoot|beast=y|friend=y|master=y|repeat=y|sport=y}}
+}}

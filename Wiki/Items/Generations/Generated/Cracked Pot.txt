@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Cracked Pot|id=cracked_pot|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Evolves Sinistea into Polteageist.
+
+|drop1={{DropLoot|dream=y|luxury=y|master=y|origin=y}}
+}}

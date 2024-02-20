@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Rowap Berry|id=rowap_berry|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+If held by a Pokémon and a special attack lands, the attacker also takes damage.
+
+|drop1={{DropLoot|love=y|lure=y|premier=y}}
+}}

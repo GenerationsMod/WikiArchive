@@ -1,7 +1,11 @@
 {{ItemInfobox|item=Berry Juice|id=berry_juice|left=y
-
+|recipe=
+{{Grid/Crafting Table
+|A1=|B1=|C1=Bowl|A2=|B2=|C2=|A3=|B3=|C3=|Output=Berry Juice|shapeless=y}}
 }}
 {{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
 
 Restores 20 HP.
 
