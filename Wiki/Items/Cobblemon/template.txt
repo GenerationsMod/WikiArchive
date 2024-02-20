@@ -1,0 +1,10 @@
+{{ItemInfobox|item=Item Name|id=item_name|left=y
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Description
+
+|drop1=drop_loot_info pokemon_drops
+}}

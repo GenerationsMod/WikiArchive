@@ -1,0 +1,115 @@
+{
+  "implemented": true,
+  "name": "Applin",
+  "nationalPokedexNumber": 840,
+  "primaryType": "grass",
+  "secondaryType": "dragon",
+  "abilities": [
+    "ripen",
+    "gluttony",
+    "h:bulletproof"
+  ],
+  "baseStats": {
+    "hp": 40,
+    "attack": 40,
+    "defence": 80,
+    "special attack": 40,
+    "special defence": 40,
+    "speed": 20
+  },
+  "catchRate": 255,
+  "maleRatio": 0.5,
+  "shoulderMountable": false,
+  "baseExperienceYield": 52,
+  "experienceGroup": "erratic",
+  "eggCycles": 20,
+  "eggGroups": [
+    "grass",
+    "dragon"
+  ],
+  "moves": [
+    "1:astonish",
+    "1:withdraw",
+    "egg:defensecurl",
+    "egg:recycle",
+    "egg:rollout",
+    "egg:suckerpunch",
+    "tm:attract",
+    "tm:pounce",
+    "tm:terablast",
+    "tutor:dracometeor",
+    "tutor:grassyglide"
+  ],
+  "labels": [
+    "gen8"
+  ],
+  "pokedex": [
+    "cobblemon.species.applin.desc"
+  ],
+  "evolutions": [
+    {
+      "id": "applin flapple",
+      "variant": "item interact",
+      "result": "flapple",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "wingattack"
+      ],
+      "requirements": [],
+      "requiredContext": "cobblemon:tart apple"
+    },
+    {
+      "id": "applin appletun",
+      "variant": "item interact",
+      "result": "appletun",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "headbutt"
+      ],
+      "requirements": [],
+      "requiredContext": "cobblemon:sweet apple"
+    },
+    {
+      "id": "applin dipplin",
+      "variant": "item interact",
+      "result": "dipplin",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "doublehit"
+      ],
+      "requirements": [],
+      "requiredContext": "cobblemon:syrupy apple"
+    }
+  ],
+  "baseScale": 1,
+  "hitbox": {
+    "width": 1,
+    "height": 1,
+    "fixed": false
+  },
+  "baseFriendship": 50,
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 1,
+    "special attack": 0,
+    "special defence": 0,
+    "speed": 0
+  },
+  "height": 2,
+  "weight": 5,
+  "aspects": [],
+  "cannotDynamax": false,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:apple"
+      },
+      {
+        "item": "yache berry",
+        "percentage": 2.5
+      }
+    ]
+  }
+}

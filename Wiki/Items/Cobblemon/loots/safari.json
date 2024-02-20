@@ -1,0 +1,419 @@
+{
+  "pools": [
+    {
+
+      "entries": [
+        {
+
+          "name": "poke ball"
+        },
+        {
+
+          "name": "adrenaline orb"
+        },
+        {
+
+          "name": "aguav berry"
+        },
+        {
+
+          "name": "balm mushroom"
+        },
+        {
+
+          "name": "big mushroom"
+        },
+        {
+
+          "name": "bug gem"
+        },
+        {
+
+          "name": "comet shard"
+        },
+        {
+
+          "name": "courage candy l"
+        },
+        {
+
+          "name": "dragon scale"
+        },
+        {
+
+          "name": "ether"
+        },
+        {
+
+          "name": "exp candy s"
+        },
+        {
+
+          "name": "exp share"
+        },
+        {
+
+          "name": "fancy apple"
+        },
+        {
+
+          "name": "festival ticket"
+        },
+        {
+
+          "name": "figy berry"
+        },
+        {
+
+          "name": "fresh water"
+        },
+        {
+
+          "name": "fruit bunch"
+        },
+        {
+
+          "name": "full incense"
+        },
+        {
+
+          "name": "galarica wreath"
+        },
+        {
+
+          "name": "great ball"
+        },
+        {
+
+          "name": "ground gem"
+        },
+        {
+
+          "name": "discharged eleki key 1"
+        },
+        {
+
+          "name": "discharged eleki key 2"
+        },
+        {
+
+          "name": "discharged eleki key 3"
+        },
+        {
+
+          "name": "discharged eleki key 4"
+        },
+        {
+
+          "name": "heal ball"
+        },
+        {
+
+          "name": "instant noodles"
+        },
+        {
+
+          "name": "kasib berry"
+        },
+        {
+
+          "name": "leek"
+        },
+        {
+
+          "name": "leftovers"
+        },
+        {
+
+          "name": "mental herb"
+        },
+        {
+
+          "name": "mighty candy"
+        },
+        {
+
+          "name": "miracle seed"
+        },
+        {
+
+          "name": "odd incense"
+        },
+        {
+
+          "name": "pamtre berry"
+        },
+        {
+
+          "name": "pass orb"
+        },
+        {
+
+          "name": "polished mud ball"
+        },
+        {
+
+          "name": "red scarf"
+        },
+        {
+
+          "name": "revive"
+        },
+        {
+
+          "name": "rock incense"
+        },
+        {
+
+          "name": "roseli berry"
+        },
+        {
+
+          "name": "safari ball"
+        },
+        {
+
+          "name": "salad mix"
+        },
+        {
+
+          "name": "silver leaf"
+        },
+        {
+
+          "name": "silver powder"
+        },
+        {
+
+          "name": "soothe bell"
+        },
+        {
+
+          "name": "star piece"
+        },
+        {
+
+          "name": "super repel"
+        },
+        {
+
+          "name": "tiny mushroom"
+        },
+        {
+
+          "name": "wiki berry"
+        },
+        {
+
+          "name": "wise glasses"
+        },
+        {
+
+          "name": "x accuracy 3"
+        },
+        {
+
+          "name": "x attack 6"
+        },
+        {
+
+          "name": "x defense 2"
+        },
+        {
+
+          "name": "x special attack 6"
+        },
+        {
+
+          "name": "x special defense 3"
+        },
+        {
+
+          "name": "yellow nectar"
+        },
+        {
+
+          "name": "black apricorn"
+        },
+        {
+
+          "name": "blue apricorn"
+        },
+        {
+
+          "name": "green apricorn"
+        },
+        {
+
+          "name": "pink apricorn"
+        },
+        {
+
+          "name": "red apricorn"
+        },
+        {
+
+          "name": "white apricorn"
+        },
+        {
+
+          "name": "yellow apricorn"
+        },
+        {
+
+          "name": "minecraft:milk bucket"
+        },
+        {
+
+          "name": "minecraft:bone"
+        },
+        {
+
+          "name": "minecraft:spider eye"
+        },
+        {
+
+          "name": "minecraft:crimson fungus"
+        },
+        {
+
+          "name": "minecraft:music disc mall"
+        },
+        {
+
+          "name": "basic sweet poke puff"
+        },
+        {
+
+          "name": "basic mint poke puff"
+        },
+        {
+
+          "name": "basic citrus poke puff"
+        },
+        {
+
+          "name": "basic mocha poke puff"
+        },
+        {
+
+          "name": "basic spice poke puff"
+        },
+        {
+
+          "name": "rusty fragment"
+        },
+        {
+
+          "name": "scroll page"
+        },
+        {
+
+          "name": "grass memory drive"
+        },
+        {
+
+          "name": "meadow plate"
+        },
+        {
+
+          "name": "grass candy"
+        },
+        {
+
+          "name": "ground candy"
+        },
+        {
+
+          "name": "tm 20"
+        },
+        {
+
+          "name": "tm 33"
+        },
+        {
+
+          "name": "tm 56"
+        },
+        {
+
+          "name": "tm 71"
+        },
+        {
+
+          "name": "tm 81"
+        },
+        {
+
+          "name": "tm 111"
+        },
+        {
+
+          "name": "tm 119"
+        },
+        {
+
+          "name": "tm 137"
+        },
+        {
+
+          "name": "tm 146"
+        },
+        {
+
+          "name": "tm 155"
+        },
+        {
+
+          "name": "tm 159"
+        },
+        {
+
+          "name": "tm 168"
+        },
+        {
+
+          "name": "tm 5"
+        },
+        {
+
+          "name": "tm 28"
+        },
+        {
+
+          "name": "tm 35"
+        },
+        {
+
+          "name": "tm 55"
+        },
+        {
+
+          "name": "tm 84"
+        },
+        {
+
+          "name": "tm 90"
+        },
+        {
+
+          "name": "tm 106"
+        },
+        {
+
+          "name": "tm 133"
+        },
+        {
+
+          "name": "tm 149"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      }
+    }
+  ],
+  "random sequence": "chests/safari ball"
+}

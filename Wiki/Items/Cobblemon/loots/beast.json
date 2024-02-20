@@ -1,0 +1,331 @@
+{
+  "pools": [
+    {
+
+      "entries": [
+        {
+
+          "name": "poke ball"
+        },
+        {
+
+          "name": "antidote"
+        },
+        {
+
+          "name": "assault vest"
+        },
+        {
+
+          "name": "babiri berry"
+        },
+        {
+
+          "name": "beast ball"
+        },
+        {
+
+          "name": "big nugget"
+        },
+        {
+
+          "name": "black sludge"
+        },
+        {
+
+          "name": "bright powder"
+        },
+        {
+
+          "name": "brittle bones"
+        },
+        {
+
+          "name": "cell battery"
+        },
+        {
+
+          "name": "chalky stone"
+        },
+        {
+
+          "name": "charcoal"
+        },
+        {
+
+          "name": "charti berry"
+        },
+        {
+
+          "name": "choice band"
+        },
+        {
+
+          "name": "choice specs"
+        },
+        {
+
+          "name": "chople berry"
+        },
+        {
+
+          "name": "colbur berry"
+        },
+        {
+
+          "name": "comet shard"
+        },
+        {
+
+          "name": "courage candy xl"
+        },
+        {
+
+          "name": "dna splicers"
+        },
+        {
+
+          "name": "dragon gem"
+        },
+        {
+
+          "name": "dynamax candy"
+        },
+        {
+
+          "name": "enigma berry"
+        },
+        {
+
+          "name": "exp candy xl"
+        },
+        {
+
+          "name": "fairy gem"
+        },
+        {
+
+          "name": "fire gem"
+        },
+        {
+
+          "name": "flame orb"
+        },
+        {
+
+          "name": "full heal"
+        },
+        {
+
+          "name": "ganlon berry"
+        },
+        {
+
+          "name": "gigantamix"
+        },
+        {
+
+          "name": "heal powder"
+        },
+        {
+
+          "name": "jaboca berry"
+        },
+        {
+
+          "name": "lava cookie"
+        },
+        {
+
+          "name": "permit"
+        },
+        {
+
+          "name": "pomeg berry"
+        },
+        {
+
+          "name": "power belt"
+        },
+        {
+
+          "name": "rawst berry"
+        },
+        {
+
+          "name": "rock incense"
+        },
+        {
+
+          "name": "sea incense"
+        },
+        {
+
+          "name": "smart candy l"
+        },
+        {
+
+          "name": "soda pop"
+        },
+        {
+
+          "name": "strange souvenir"
+        },
+        {
+
+          "name": "weakness policy"
+        },
+        {
+
+          "name": "wepear berry"
+        },
+        {
+
+          "name": "wide lens"
+        },
+        {
+
+          "name": "x special defense 2"
+        },
+        {
+
+          "name": "x speed"
+        },
+        {
+
+          "name": "x speed 6"
+        },
+        {
+
+          "name": "yache berry"
+        },
+        {
+
+          "name": "yellow nectar"
+        },
+        {
+
+          "name": "dragon candy"
+        },
+        {
+
+          "name": "yellow shard"
+        },
+        {
+
+          "name": "zinc"
+        },
+        {
+
+          "name": "zoom lens"
+        },
+        {
+
+          "name": "minecraft:purpur block"
+        },
+        {
+
+          "name": "minecraft:end stone"
+        },
+        {
+
+          "name": "minecraft:prismarine"
+        },
+        {
+
+          "name": "minecraft:glowstone dust"
+        },
+        {
+
+          "name": "minecraft:nether wart"
+        },
+        {
+
+          "name": "minecraft:spider eye"
+        },
+        {
+
+          "name": "minecraft:warped fungus"
+        },
+        {
+
+          "name": "minecraft:music disc cat"
+        },
+        {
+
+          "name": "z ingot"
+        },
+        {
+
+          "name": "minecraft:amethyst shard"
+        },
+        {
+
+          "name": "ruby"
+        },
+        {
+
+          "name": "lava crystal"
+        },
+        {
+
+          "name": "belligerent wing"
+        },
+        {
+
+          "name": "lugia disc"
+        },
+        {
+
+          "name": "lavender town disc"
+        },
+        {
+
+          "name": "mt pyre disc"
+        },
+        {
+
+          "name": "tm 44"
+        },
+        {
+
+          "name": "tm 78"
+        },
+        {
+
+          "name": "tm 100"
+        },
+        {
+
+          "name": "tm 115"
+        },
+        {
+
+          "name": "tm 156"
+        },
+        {
+
+          "name": "tm 169"
+        },
+        {
+
+          "name": "surprise mulch"
+        },
+        {
+
+          "name": "growth mulch"
+        },
+        {
+
+          "name": "rich mulch"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 3.0,
+        "min": 1.0
+      }
+    }
+  ],
+  "random sequence": "chests/beast ball"
+}

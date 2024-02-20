@@ -1,0 +1,471 @@
+{
+  "pools": [
+    {
+
+      "entries": [
+        {
+
+          "name": "poke ball"
+        },
+        {
+
+          "name": "mirror"
+        },
+        {
+
+          "name": "bachs food tin"
+        },
+        {
+
+          "name": "berry juice"
+        },
+        {
+
+          "name": "big mushroom"
+        },
+        {
+
+          "name": "big nugget"
+        },
+        {
+
+          "name": "black glasses"
+        },
+        {
+
+          "name": "blue flute"
+        },
+        {
+
+          "name": "bread"
+        },
+        {
+
+          "name": "bright powder"
+        },
+        {
+
+          "name": "bug gem"
+        },
+        {
+
+          "name": "chalky stone"
+        },
+        {
+
+          "name": "cheri berry"
+        },
+        {
+
+          "name": "chilan berry"
+        },
+        {
+
+          "name": "choice scarf"
+        },
+        {
+
+          "name": "cleanse tag"
+        },
+        {
+
+          "name": "sinister wing"
+        },
+        {
+
+          "name": "coconut milk"
+        },
+        {
+
+          "name": "damp rock"
+        },
+        {
+
+          "name": "deep sea scale"
+        },
+        {
+
+          "name": "dire hit 2"
+        },
+        {
+
+          "name": "dive ball"
+        },
+        {
+
+          "name": "dragon scale"
+        },
+        {
+
+          "name": "durin berry"
+        },
+        {
+
+          "name": "ether"
+        },
+        {
+
+          "name": "exp candy s"
+        },
+        {
+
+          "name": "fancy apple"
+        },
+        {
+
+          "name": "fire gem"
+        },
+        {
+
+          "name": "fresh water"
+        },
+        {
+
+          "name": "ganlon berry"
+        },
+        {
+
+          "name": "grass gem"
+        },
+        {
+
+          "name": "great ball"
+        },
+        {
+
+          "name": "heal ball"
+        },
+        {
+
+          "name": "hyper potion"
+        },
+        {
+
+          "name": "item urge"
+        },
+        {
+
+          "name": "leaf stone"
+        },
+        {
+
+          "name": "lumiose galette"
+        },
+        {
+
+          "name": "marble"
+        },
+        {
+
+          "name": "max ether"
+        },
+        {
+
+          "name": "mental herb"
+        },
+        {
+
+          "name": "micle berry"
+        },
+        {
+
+          "name": "mighty candy"
+        },
+        {
+
+          "name": "mixed mushrooms"
+        },
+        {
+
+          "name": "moomoo milk"
+        },
+        {
+
+          "name": "nest ball"
+        },
+        {
+
+          "name": "nugget"
+        },
+        {
+
+          "name": "oran berry"
+        },
+        {
+
+          "name": "pack of potatoes"
+        },
+        {
+
+          "name": "paralyze heal"
+        },
+        {
+
+          "name": "passho berry"
+        },
+        {
+
+          "name": "pearl"
+        },
+        {
+
+          "name": "petaya berry"
+        },
+        {
+
+          "name": "power lens"
+        },
+        {
+
+          "name": "prism scale"
+        },
+        {
+
+          "name": "pungent root"
+        },
+        {
+
+          "name": "quick ball"
+        },
+        {
+
+          "name": "rage candy bar"
+        },
+        {
+
+          "name": "red nectar"
+        },
+        {
+
+          "name": "revival herb"
+        },
+        {
+
+          "name": "rindo berry"
+        },
+        {
+
+          "name": "safari ball"
+        },
+        {
+
+          "name": "silk scarf"
+        },
+        {
+
+          "name": "smart candy l"
+        },
+        {
+
+          "name": "strawberry sweet"
+        },
+        {
+
+          "name": "tin of beans"
+        },
+        {
+
+          "name": "ultra ball"
+        },
+        {
+
+          "name": "x special attack 2"
+        },
+        {
+
+          "name": "cascarrafa city disc"
+        },
+        {
+
+          "name": "slumbering weald disc"
+        },
+        {
+
+          "name": "pokemon center disc"
+        },
+        {
+
+          "name": "azalea town disc"
+        },
+        {
+
+          "name": "lillie disc"
+        },
+        {
+
+          "name": "route 228 disc"
+        },
+        {
+
+          "name": "jubilife village disc"
+        },
+        {
+
+          "name": "goldenrod city disc"
+        },
+        {
+
+          "name": "eterna city disc"
+        },
+        {
+
+          "name": "vermilion city disc"
+        },
+        {
+
+          "name": "black apricorn"
+        },
+        {
+
+          "name": "blue apricorn"
+        },
+        {
+
+          "name": "green apricorn"
+        },
+        {
+
+          "name": "pink apricorn"
+        },
+        {
+
+          "name": "red apricorn"
+        },
+        {
+
+          "name": "white apricorn"
+        },
+        {
+
+          "name": "yellow apricorn"
+        },
+        {
+
+          "name": "minecraft:end stone"
+        },
+        {
+
+          "name": "minecraft:gold ingot"
+        },
+        {
+
+          "name": "minecraft:ghast tear"
+        },
+        {
+
+          "name": "minecraft:blaze powder"
+        },
+        {
+
+          "name": "minecraft:music disc strad"
+        },
+        {
+
+          "name": "crystal"
+        },
+        {
+
+          "name": "sapphire"
+        },
+        {
+
+          "name": "silicon"
+        },
+        {
+
+          "name": "rusty iron key 1"
+        },
+        {
+
+          "name": "shattered ice key 1"
+        },
+        {
+
+          "name": "crumbled rock key 1"
+        },
+        {
+
+          "name": "fragmented drago key 1"
+        },
+        {
+
+          "name": "discharged eleki key 1"
+        },
+        {
+
+          "name": "shattered relic song 1"
+        },
+        {
+
+          "name": "exp candy m"
+        },
+        {
+
+          "name": "tm 5"
+        },
+        {
+
+          "name": "tm 28"
+        },
+        {
+
+          "name": "tm 35"
+        },
+        {
+
+          "name": "tm 55"
+        },
+        {
+
+          "name": "tm 84"
+        },
+        {
+
+          "name": "tm 90"
+        },
+        {
+
+          "name": "tm 106"
+        },
+        {
+
+          "name": "tm 133"
+        },
+        {
+
+          "name": "tm 149"
+        },
+        {
+
+          "name": "tm 44"
+        },
+        {
+
+          "name": "tm 78"
+        },
+        {
+
+          "name": "tm 100"
+        },
+        {
+
+          "name": "tm 115"
+        },
+        {
+
+          "name": "tm 156"
+        },
+        {
+
+          "name": "tm 169"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      }
+    }
+  ],
+  "random sequence": "chests/great ball"
+}

@@ -1,0 +1,391 @@
+{
+  "pools": [
+    {
+
+      "entries": [
+        {
+
+          "name": "poke ball"
+        },
+        {
+
+          "name": "absorb bulb"
+        },
+        {
+
+          "name": "big pearl"
+        },
+        {
+
+          "name": "chilan berry"
+        },
+        {
+
+          "name": "choice specs"
+        },
+        {
+
+          "name": "clover sweet"
+        },
+        {
+
+          "name": "courage candy xl"
+        },
+        {
+
+          "name": "dire hit"
+        },
+        {
+
+          "name": "durin berry"
+        },
+        {
+
+          "name": "elixir"
+        },
+        {
+
+          "name": "energy root"
+        },
+        {
+
+          "name": "friend ball"
+        },
+        {
+
+          "name": "galarica cuff"
+        },
+        {
+
+          "name": "grass gem"
+        },
+        {
+
+          "name": "kee berry"
+        },
+        {
+
+          "name": "leaf letter"
+        },
+        {
+
+          "name": "leaf stone"
+        },
+        {
+
+          "name": "luck incense"
+        },
+        {
+
+          "name": "lum berry"
+        },
+        {
+
+          "name": "lure ball"
+        },
+        {
+
+          "name": "magost berry"
+        },
+        {
+
+          "name": "maranga berry"
+        },
+        {
+
+          "name": "max elixir"
+        },
+        {
+
+          "name": "micle berry"
+        },
+        {
+
+          "name": "miracle seed"
+        },
+        {
+
+          "name": "net ball"
+        },
+        {
+
+          "name": "nomel berry"
+        },
+        {
+
+          "name": "passho berry"
+        },
+        {
+
+          "name": "petaya berry"
+        },
+        {
+
+          "name": "plasma card"
+        },
+        {
+
+          "name": "red nectar"
+        },
+        {
+
+          "name": "revival herb"
+        },
+        {
+
+          "name": "rindo berry"
+        },
+        {
+
+          "name": "rose incense"
+        },
+        {
+
+          "name": "sea incense"
+        },
+        {
+
+          "name": "shoal shell"
+        },
+        {
+
+          "name": "silver powder"
+        },
+        {
+
+          "name": "sport ball"
+        },
+        {
+
+          "name": "super lure"
+        },
+        {
+
+          "name": "tanga berry"
+        },
+        {
+
+          "name": "tart apple"
+        },
+        {
+
+          "name": "wepear berry"
+        },
+        {
+
+          "name": "water candy"
+        },
+        {
+
+          "name": "bug candy"
+        },
+        {
+
+          "name": "x accuracy 2"
+        },
+        {
+
+          "name": "x attack 3"
+        },
+        {
+
+          "name": "x defense"
+        },
+        {
+
+          "name": "x special attack"
+        },
+        {
+
+          "name": "x special defense"
+        },
+        {
+
+          "name": "x speed"
+        },
+        {
+
+          "name": "yache berry"
+        },
+        {
+
+          "name": "yellow flute"
+        },
+        {
+
+          "name": "zoom lens"
+        },
+        {
+
+          "name": "minecraft:string"
+        },
+        {
+
+          "name": "minecraft:slime ball"
+        },
+        {
+
+          "name": "minecraft:rabbit hide"
+        },
+        {
+
+          "name": "minecraft:music disc 13"
+        },
+        {
+
+          "name": "old rod"
+        },
+        {
+
+          "name": "good rod"
+        },
+        {
+
+          "name": "super rod"
+        },
+        {
+
+          "name": "cascarrafa city disc"
+        },
+        {
+
+          "name": "slumbering weald disc"
+        },
+        {
+
+          "name": "pokemon center disc"
+        },
+        {
+
+          "name": "azalea town disc"
+        },
+        {
+
+          "name": "lillie disc"
+        },
+        {
+
+          "name": "route 228 disc"
+        },
+        {
+
+          "name": "jubilife village disc"
+        },
+        {
+
+          "name": "goldenrod city disc"
+        },
+        {
+
+          "name": "eterna city disc"
+        },
+        {
+
+          "name": "vermilion city disc"
+        },
+        {
+
+          "name": "wailmer pail"
+        },
+        {
+
+          "name": "jolly mint"
+        },
+        {
+
+          "name": "naive mint"
+        },
+        {
+
+          "name": "modest mint"
+        },
+        {
+
+          "name": "ground memory drive"
+        },
+        {
+
+          "name": "bug memory drive"
+        },
+        {
+
+          "name": "earth plate"
+        },
+        {
+
+          "name": "insect plate"
+        },
+        {
+
+          "name": "tm 11"
+        },
+        {
+
+          "name": "tm 22"
+        },
+        {
+
+          "name": "tm 50"
+        },
+        {
+
+          "name": "tm 77"
+        },
+        {
+
+          "name": "tm 110"
+        },
+        {
+
+          "name": "tm 123"
+        },
+        {
+
+          "name": "tm 142"
+        },
+        {
+
+          "name": "tm 145"
+        },
+        {
+
+          "name": "tm 154"
+        },
+        {
+
+          "name": "tm 15"
+        },
+        {
+
+          "name": "tm 21"
+        },
+        {
+
+          "name": "tm 60"
+        },
+        {
+
+          "name": "tm 95"
+        },
+        {
+
+          "name": "tm 105"
+        },
+        {
+
+          "name": "tm 131"
+        },
+        {
+
+          "name": "tm 162"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 3.0,
+        "min": 1.0
+      }
+    }
+  ],
+  "random sequence": "chests/net ball"
+}

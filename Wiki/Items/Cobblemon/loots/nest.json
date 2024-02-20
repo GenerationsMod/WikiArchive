@@ -1,0 +1,387 @@
+{
+  "pools": [
+    {
+
+      "entries": [
+        {
+
+          "name": "poke ball"
+        },
+        {
+
+          "name": "bug gem"
+        },
+        {
+
+          "name": "choice specs"
+        },
+        {
+
+          "name": "cleanse tag"
+        },
+        {
+
+          "name": "clever feather"
+        },
+        {
+
+          "name": "coba berry"
+        },
+        {
+
+          "name": "courage candy l"
+        },
+        {
+
+          "name": "dire hit 2"
+        },
+        {
+
+          "name": "exp candy s"
+        },
+        {
+
+          "name": "fluffy tail"
+        },
+        {
+
+          "name": "flying gem"
+        },
+        {
+
+          "name": "fruit bunch"
+        },
+        {
+
+          "name": "galarica twig"
+        },
+        {
+
+          "name": "genius feather"
+        },
+        {
+
+          "name": "grassy seed"
+        },
+        {
+
+          "name": "grepa berry"
+        },
+        {
+
+          "name": "haban berry"
+        },
+        {
+
+          "name": "health feather"
+        },
+        {
+
+          "name": "kebia berry"
+        },
+        {
+
+          "name": "leaf stone"
+        },
+        {
+
+          "name": "leek"
+        },
+        {
+
+          "name": "liechi berry"
+        },
+        {
+
+          "name": "lum berry"
+        },
+        {
+
+          "name": "mental herb"
+        },
+        {
+
+          "name": "mighty candy xl"
+        },
+        {
+
+          "name": "mixed mushrooms"
+        },
+        {
+
+          "name": "muscle feather"
+        },
+        {
+
+          "name": "nanab berry"
+        },
+        {
+
+          "name": "nest ball"
+        },
+        {
+
+          "name": "packaged curry"
+        },
+        {
+
+          "name": "pearl string"
+        },
+        {
+
+          "name": "pink nectar"
+        },
+        {
+
+          "name": "poison barb"
+        },
+        {
+
+          "name": "poke toy"
+        },
+        {
+
+          "name": "power herb"
+        },
+        {
+
+          "name": "pretty feather"
+        },
+        {
+
+          "name": "purple nectar"
+        },
+        {
+
+          "name": "repeat ball"
+        },
+        {
+
+          "name": "resist feather"
+        },
+        {
+
+          "name": "salad mix"
+        },
+        {
+
+          "name": "sharp beak"
+        },
+        {
+
+          "name": "silver leaf"
+        },
+        {
+
+          "name": "super repel"
+        },
+        {
+
+          "name": "sweet apple"
+        },
+        {
+
+          "name": "swift feather"
+        },
+        {
+
+          "name": "white herb"
+        },
+        {
+
+          "name": "wiki berry"
+        },
+        {
+
+          "name": "x accuracy"
+        },
+        {
+
+          "name": "x attack 2"
+        },
+        {
+
+          "name": "x defense"
+        },
+        {
+
+          "name": "x special attack"
+        },
+        {
+
+          "name": "x special defense"
+        },
+        {
+
+          "name": "minecraft:cobweb"
+        },
+        {
+
+          "name": "minecraft:feather"
+        },
+        {
+
+          "name": "minecraft:music disc 11"
+        },
+        {
+
+          "name": "cerulean city disc"
+        },
+        {
+
+          "name": "icirrus city disc"
+        },
+        {
+
+          "name": "laverre city disc"
+        },
+        {
+
+          "name": "surf disc"
+        },
+        {
+
+          "name": "lake of rage disc"
+        },
+        {
+
+          "name": "penny disc"
+        },
+        {
+
+          "name": "nemona disc"
+        },
+        {
+
+          "name": "zinnia disc"
+        },
+        {
+
+          "name": "cynthia disc"
+        },
+        {
+
+          "name": "deoxys disc"
+        },
+        {
+
+          "name": "crystal"
+        },
+        {
+
+          "name": "sapphire"
+        },
+        {
+
+          "name": "silicon"
+        },
+        {
+
+          "name": "flying memory drive"
+        },
+        {
+
+          "name": "sky plate"
+        },
+        {
+
+          "name": "pokemail orange"
+        },
+        {
+
+          "name": "pokemail reply"
+        },
+        {
+
+          "name": "pokemail retro"
+        },
+        {
+
+          "name": "pokemail rsvp"
+        },
+        {
+
+          "name": "pokemail shadow"
+        },
+        {
+
+          "name": "pokemail snow"
+        },
+        {
+
+          "name": "pokemail space"
+        },
+        {
+
+          "name": "pokemail steel"
+        },
+        {
+
+          "name": "pokemail thanks"
+        },
+        {
+
+          "name": "pokemail tropic"
+        },
+        {
+
+          "name": "pokemail tunnel"
+        },
+        {
+
+          "name": "pokemail wave"
+        },
+        {
+
+          "name": "pokemail wood"
+        },
+        {
+
+          "name": "flying candy"
+        },
+        {
+
+          "name": "bug candy"
+        },
+        {
+
+          "name": "tm 14"
+        },
+        {
+
+          "name": "tm 27"
+        },
+        {
+
+          "name": "tm 40"
+        },
+        {
+
+          "name": "tm 65"
+        },
+        {
+
+          "name": "tm 97"
+        },
+        {
+
+          "name": "tm 105"
+        },
+        {
+
+          "name": "tm 131"
+        },
+        {
+
+          "name": "tm 162"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      }
+    }
+  ],
+  "random sequence": "chests/nest ball"
+}

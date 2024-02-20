@@ -1,0 +1,395 @@
+{
+  "pools": [
+    {
+
+      "entries": [
+        {
+
+          "name": "poke ball"
+        },
+        {
+
+          "name": "icy wing"
+        },
+        {
+
+          "name": "elegant wing"
+        },
+        {
+
+          "name": "health feather"
+        },
+        {
+
+          "name": "static wing"
+        },
+        {
+
+          "name": "belligerent wing"
+        },
+        {
+
+          "name": "fiery wing"
+        },
+        {
+
+          "name": "sinister wing"
+        },
+        {
+
+          "name": "silver wing"
+        },
+        {
+
+          "name": "rainbow wing"
+        },
+        {
+
+          "name": "coba berry"
+        },
+        {
+
+          "name": "flying gem"
+        },
+        {
+
+          "name": "flying memory drive"
+        },
+        {
+
+          "name": "cerulean city disc"
+        },
+        {
+
+          "name": "icirrus city disc"
+        },
+        {
+
+          "name": "laverre city disc"
+        },
+        {
+
+          "name": "surf disc"
+        },
+        {
+
+          "name": "lake of rage disc"
+        },
+        {
+
+          "name": "penny disc"
+        },
+        {
+
+          "name": "nemona disc"
+        },
+        {
+
+          "name": "zinnia disc"
+        },
+        {
+
+          "name": "cynthia disc"
+        },
+        {
+
+          "name": "deoxys disc"
+        },
+        {
+
+          "name": "iron ball"
+        },
+        {
+
+          "name": "sharp beak"
+        },
+        {
+
+          "name": "sky plate"
+        },
+        {
+
+          "name": "utility umbrella"
+        },
+        {
+
+          "name": "air balloon"
+        },
+        {
+
+          "name": "grepa berry"
+        },
+        {
+
+          "name": "lansat berry"
+        },
+        {
+
+          "name": "lum berry"
+        },
+        {
+
+          "name": "light ball"
+        },
+        {
+
+          "name": "pink nectar"
+        },
+        {
+
+          "name": "purple nectar"
+        },
+        {
+
+          "name": "red nectar"
+        },
+        {
+
+          "name": "yellow nectar"
+        },
+        {
+
+          "name": "power herb"
+        },
+        {
+
+          "name": "mental herb"
+        },
+        {
+
+          "name": "mirror herb"
+        },
+        {
+
+          "name": "white herb"
+        },
+        {
+
+          "name": "icy rock"
+        },
+        {
+
+          "name": "heat rock"
+        },
+        {
+
+          "name": "assault vest"
+        },
+        {
+
+          "name": "electric seed"
+        },
+        {
+
+          "name": "grassy seed"
+        },
+        {
+
+          "name": "misty seed"
+        },
+        {
+
+          "name": "psychic seed"
+        },
+        {
+
+          "name": "miracle seed"
+        },
+        {
+
+          "name": "antidote"
+        },
+        {
+
+          "name": "max elixir"
+        },
+        {
+
+          "name": "hyper potion"
+        },
+        {
+
+          "name": "moomoo milk"
+        },
+        {
+
+          "name": "great ball"
+        },
+        {
+
+          "name": "fresh water"
+        },
+        {
+
+          "name": "soda pop"
+        },
+        {
+
+          "name": "potion"
+        },
+        {
+
+          "name": "calcium"
+        },
+        {
+
+          "name": "health candy"
+        },
+        {
+
+          "name": "quick candy"
+        },
+        {
+
+          "name": "smart candy"
+        },
+        {
+
+          "name": "silver leaf"
+        },
+        {
+
+          "name": "gold leaf"
+        },
+        {
+
+          "name": "heart scale"
+        },
+        {
+
+          "name": "stardust"
+        },
+        {
+
+          "name": "pokemail harbor"
+        },
+        {
+
+          "name": "pokemail inquiry"
+        },
+        {
+
+          "name": "pokemail tropic"
+        },
+        {
+
+          "name": "pokemail air"
+        },
+        {
+
+          "name": "pokemail reply"
+        },
+        {
+
+          "name": "pokemail space"
+        },
+        {
+
+          "name": "choice band"
+        },
+        {
+
+          "name": "comet shard"
+        },
+        {
+
+          "name": "destiny knot"
+        },
+        {
+
+          "name": "boiled egg"
+        },
+        {
+
+          "name": "sausages"
+        },
+        {
+
+          "name": "bobs food tin"
+        },
+        {
+
+          "name": "bachs food tin"
+        },
+        {
+
+          "name": "grip claw"
+        },
+        {
+
+          "name": "repel"
+        },
+        {
+
+          "name": "super repel"
+        },
+        {
+
+          "name": "exp candy xs"
+        },
+        {
+
+          "name": "exp candy s"
+        },
+        {
+
+          "name": "flying candy"
+        },
+        {
+
+          "name": "x speed 2"
+        },
+        {
+
+          "name": "x speed"
+        },
+        {
+
+          "name": "x accuracy 6"
+        },
+        {
+
+          "name": "x attack"
+        },
+        {
+
+          "name": "tm 14"
+        },
+        {
+
+          "name": "tm 27"
+        },
+        {
+
+          "name": "tm 40"
+        },
+        {
+
+          "name": "tm 65"
+        },
+        {
+
+          "name": "tm 97"
+        },
+        {
+
+          "name": "tm 113"
+        },
+        {
+
+          "name": "tm 160"
+        },
+        {
+
+          "name": "tm 164"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      }
+    }
+  ],
+  "random sequence": "chests/wing ball"
+}

@@ -1,0 +1,387 @@
+{
+  "pools": [
+    {
+
+      "entries": [
+        {
+
+          "name": "poke ball"
+        },
+        {
+
+          "name": "adamant orb"
+        },
+        {
+
+          "name": "air balloon"
+        },
+        {
+
+          "name": "babiri berry"
+        },
+        {
+
+          "name": "big pearl"
+        },
+        {
+
+          "name": "binding band"
+        },
+        {
+
+          "name": "chesto berry"
+        },
+        {
+
+          "name": "chilan berry"
+        },
+        {
+
+          "name": "choice band"
+        },
+        {
+
+          "name": "coba berry"
+        },
+        {
+
+          "name": "courage candy"
+        },
+        {
+
+          "name": "courage candy xl"
+        },
+        {
+
+          "name": "dire hit 3"
+        },
+        {
+
+          "name": "dragon fang"
+        },
+        {
+
+          "name": "dubious disc"
+        },
+        {
+
+          "name": "fighting gem"
+        },
+        {
+
+          "name": "figy berry"
+        },
+        {
+
+          "name": "float stone"
+        },
+        {
+
+          "name": "full incense"
+        },
+        {
+
+          "name": "ganlon berry"
+        },
+        {
+
+          "name": "green shard"
+        },
+        {
+
+          "name": "ground gem"
+        },
+        {
+
+          "name": "haban berry"
+        },
+        {
+
+          "name": "hard stone"
+        },
+        {
+
+          "name": "health candy l"
+        },
+        {
+
+          "name": "heavy ball"
+        },
+        {
+
+          "name": "heavy duty boots"
+        },
+        {
+
+          "name": "hyper potion"
+        },
+        {
+
+          "name": "iron"
+        },
+        {
+
+          "name": "iron ball"
+        },
+        {
+
+          "name": "item drop"
+        },
+        {
+
+          "name": "kee berry"
+        },
+        {
+
+          "name": "lagging tail"
+        },
+        {
+
+          "name": "lava cookie"
+        },
+        {
+
+          "name": "life orb"
+        },
+        {
+
+          "name": "macho brace"
+        },
+        {
+
+          "name": "magmarizer"
+        },
+        {
+
+          "name": "maranga berry"
+        },
+        {
+
+          "name": "max ether"
+        },
+        {
+
+          "name": "metal coat"
+        },
+        {
+
+          "name": "pecha berry"
+        },
+        {
+
+          "name": "poke toy"
+        },
+        {
+
+          "name": "power band"
+        },
+        {
+
+          "name": "protective pads"
+        },
+        {
+
+          "name": "quick candy"
+        },
+        {
+
+          "name": "red shard"
+        },
+        {
+
+          "name": "relic copper"
+        },
+        {
+
+          "name": "repeat ball"
+        },
+        {
+
+          "name": "icy wing"
+        },
+        {
+
+          "name": "rock gem"
+        },
+        {
+
+          "name": "rocky helmet"
+        },
+        {
+
+          "name": "safety goggles"
+        },
+        {
+
+          "name": "sprink lotad"
+        },
+        {
+
+          "name": "steel gem"
+        },
+        {
+
+          "name": "sticky barb"
+        },
+        {
+
+          "name": "strange souvenir"
+        },
+        {
+
+          "name": "stretchy spring"
+        },
+        {
+
+          "name": "timer ball"
+        },
+        {
+
+          "name": "tough candy xl"
+        },
+        {
+
+          "name": "upgrade"
+        },
+        {
+
+          "name": "x attack 2"
+        },
+        {
+
+          "name": "x defense 6"
+        },
+        {
+
+          "name": "x special defense 6"
+        },
+        {
+
+          "name": "minecraft:iron ingot"
+        },
+        {
+
+          "name": "minecraft:gunpowder"
+        },
+        {
+
+          "name": "minecraft:quartz"
+        },
+        {
+
+          "name": "minecraft:music disc mellohi"
+        },
+        {
+
+          "name": "mewtwo armor"
+        },
+        {
+
+          "name": "exp candy l"
+        },
+        {
+
+          "name": "rock memory drive"
+        },
+        {
+
+          "name": "steel memory drive"
+        },
+        {
+
+          "name": "stone plate"
+        },
+        {
+
+          "name": "iron plate"
+        },
+        {
+
+          "name": "fragmented drago key 1"
+        },
+        {
+
+          "name": "fragmented drago key 2"
+        },
+        {
+
+          "name": "fragmented drago key 3"
+        },
+        {
+
+          "name": "fragmented drago key 4"
+        },
+        {
+
+          "name": "rock candy"
+        },
+        {
+
+          "name": "steel candy"
+        },
+        {
+
+          "name": "tm 36"
+        },
+        {
+
+          "name": "tm 51"
+        },
+        {
+
+          "name": "tm 76"
+        },
+        {
+
+          "name": "tm 86"
+        },
+        {
+
+          "name": "tm 101"
+        },
+        {
+
+          "name": "tm 116"
+        },
+        {
+
+          "name": "tm 150"
+        },
+        {
+
+          "name": "tm 31"
+        },
+        {
+
+          "name": "tm 53"
+        },
+        {
+
+          "name": "tm 93"
+        },
+        {
+
+          "name": "tm 43"
+        },
+        {
+
+          "name": "tm 99"
+        },
+        {
+
+          "name": "tm 104"
+        },
+        {
+
+          "name": "tm 121"
+        },
+        {
+
+          "name": "tm 170"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random sequence": "chests/heavy ball"
+}

@@ -1,0 +1,467 @@
+{
+  "pools": [
+    {
+
+      "entries": [
+        {
+
+          "name": "poke ball"
+        },
+        {
+
+          "name": "ability capsule"
+        },
+        {
+
+          "name": "ability patch"
+        },
+        {
+
+          "name": "amulet coin"
+        },
+        {
+
+          "name": "assault vest"
+        },
+        {
+
+          "name": "beast ball"
+        },
+        {
+
+          "name": "black flute"
+        },
+        {
+
+          "name": "blue shard"
+        },
+        {
+
+          "name": "bottle cap"
+        },
+        {
+
+          "name": "burn heal"
+        },
+        {
+
+          "name": "cheri berry"
+        },
+        {
+
+          "name": "chesto berry"
+        },
+        {
+
+          "name": "choice scarf"
+        },
+        {
+
+          "name": "chople berry"
+        },
+        {
+
+          "name": "courage candy xl"
+        },
+        {
+
+          "name": "cracked pot"
+        },
+        {
+
+          "name": "damp rock"
+        },
+        {
+
+          "name": "dawn stone"
+        },
+        {
+
+          "name": "dire hit 3"
+        },
+        {
+
+          "name": "discount coupon"
+        },
+        {
+
+          "name": "dna splicers"
+        },
+        {
+
+          "name": "dynamax candy"
+        },
+        {
+
+          "name": "electric gem"
+        },
+        {
+
+          "name": "elevator key"
+        },
+        {
+
+          "name": "exp candy xl"
+        },
+        {
+
+          "name": "full restore"
+        },
+        {
+
+          "name": "gigantamix"
+        },
+        {
+
+          "name": "gold bottle cap"
+        },
+        {
+
+          "name": "griseous orb"
+        },
+        {
+
+          "name": "health candy"
+        },
+        {
+
+          "name": "iron"
+        },
+        {
+
+          "name": "leftovers"
+        },
+        {
+
+          "name": "life orb"
+        },
+        {
+
+          "name": "lucky egg"
+        },
+        {
+
+          "name": "lustrous orb"
+        },
+        {
+
+          "name": "master ball"
+        },
+        {
+
+          "name": "max honey"
+        },
+        {
+
+          "name": "never melt ice"
+        },
+        {
+
+          "name": "odd keystone"
+        },
+        {
+
+          "name": "park ball"
+        },
+        {
+
+          "name": "pewter crunchies"
+        },
+        {
+
+          "name": "poison barb"
+        },
+        {
+
+          "name": "pp max"
+        },
+        {
+
+          "name": "psychic gem"
+        },
+        {
+
+          "name": "quick candy xl"
+        },
+        {
+
+          "name": "rare bone"
+        },
+        {
+
+          "name": "rare candy"
+        },
+        {
+
+          "name": "red card"
+        },
+        {
+
+          "name": "relic band"
+        },
+        {
+
+          "name": "relic crown"
+        },
+        {
+
+          "name": "relic statue"
+        },
+        {
+
+          "name": "relic vase"
+        },
+        {
+
+          "name": "rocky helmet"
+        },
+        {
+
+          "name": "soul dew"
+        },
+        {
+
+          "name": "toxic orb"
+        },
+        {
+
+          "name": "wishing piece"
+        },
+        {
+
+          "name": "x accuracy 6"
+        },
+        {
+
+          "name": "minecraft:nether star"
+        },
+        {
+
+          "name": "minecraft:trident"
+        },
+        {
+
+          "name": "minecraft:nautilus shell"
+        },
+        {
+
+          "name": "minecraft:netherite scrap"
+        },
+        {
+
+          "name": "minecraft:music disc otherside"
+        },
+        {
+
+          "name": "rusty fragment"
+        },
+        {
+
+          "name": "scroll page"
+        },
+        {
+
+          "name": "orb"
+        },
+        {
+
+          "name": "rainbow wing"
+        },
+        {
+
+          "name": "sinister wing"
+        },
+        {
+
+          "name": "fiery wing"
+        },
+        {
+
+          "name": "health feather"
+        },
+        {
+
+          "name": "belligerent wing"
+        },
+        {
+
+          "name": "elegant wing"
+        },
+        {
+
+          "name": "icy wing"
+        },
+        {
+
+          "name": "static wing"
+        },
+        {
+
+          "name": "silver wing"
+        },
+        {
+
+          "name": "lava crystal"
+        },
+        {
+
+          "name": "exp candy xl"
+        },
+        {
+
+          "name": "draco plate"
+        },
+        {
+
+          "name": "dread plate"
+        },
+        {
+
+          "name": "earth plate"
+        },
+        {
+
+          "name": "fist plate"
+        },
+        {
+
+          "name": "flame plate"
+        },
+        {
+
+          "name": "icicle plate"
+        },
+        {
+
+          "name": "insect plate"
+        },
+        {
+
+          "name": "iron plate"
+        },
+        {
+
+          "name": "meadow plate"
+        },
+        {
+
+          "name": "mind plate"
+        },
+        {
+
+          "name": "pixie plate"
+        },
+        {
+
+          "name": "sky plate"
+        },
+        {
+
+          "name": "splash plate"
+        },
+        {
+
+          "name": "spooky plate"
+        },
+        {
+
+          "name": "stone plate"
+        },
+        {
+
+          "name": "toxic plate"
+        },
+        {
+
+          "name": "zap plate"
+        },
+        {
+
+          "name": "legend plate"
+        },
+        {
+
+          "name": "sparkling shard"
+        },
+        {
+
+          "name": "mirror"
+        },
+        {
+
+          "name": "dark soul"
+        },
+        {
+
+          "name": "light soul"
+        },
+        {
+
+          "name": "meteorite shard"
+        },
+        {
+
+          "name": "mew dna fiber"
+        },
+        {
+
+          "name": "lustrous globe"
+        },
+        {
+
+          "name": "griseous core"
+        },
+        {
+
+          "name": "adamant crystal"
+        },
+        {
+
+          "name": "tm 9"
+        },
+        {
+
+          "name": "tm 23"
+        },
+        {
+
+          "name": "tm 48"
+        },
+        {
+
+          "name": "tm 68"
+        },
+        {
+
+          "name": "tm 72"
+        },
+        {
+
+          "name": "tm 82"
+        },
+        {
+
+          "name": "tm 96"
+        },
+        {
+
+          "name": "tm 126"
+        },
+        {
+
+          "name": "tm 136"
+        },
+        {
+
+          "name": "tm 147"
+        },
+        {
+
+          "name": "tm 166"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random sequence": "chests/master ball"
+}
