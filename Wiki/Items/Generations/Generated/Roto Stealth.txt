@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Roto Stealth|id=roto_stealth|left=y
-
-}}
-{{DescBox|
-
-Prevents you from encountering wild Pokémon for a certain period of time.
-
-|drop1=None
-}}

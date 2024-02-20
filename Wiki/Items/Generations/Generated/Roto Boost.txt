@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Roto Boost|id=roto_boost|left=y
-
-}}
-{{DescBox|
-
-Raises all stats of your battling Pokémon.
-
-|drop1=None
-}}

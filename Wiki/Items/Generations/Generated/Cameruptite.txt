@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Cameruptite|id=cameruptite|left=y
-
-}}
-{{DescBox|
-
-Enables Camerupt to Mega Evolve during battle.
-
-|drop1=None
-}}

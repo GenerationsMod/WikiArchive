@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Old Gateau|id=old_gateau|left=y
-
-}}
-{{DescBox|
-
-Heals all major status conditions.
-
-|drop1={{DropLoot|heal=y|lure=y|repeat=y}}
-}}

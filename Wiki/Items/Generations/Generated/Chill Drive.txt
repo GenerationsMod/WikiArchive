@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Chill Drive|id=chill_drive|left=y
-
-}}
-{{DescBox|
-
-Changes Techno Blast to an Ice-type move when held by Genesect.
-
-|drop1=None
-}}

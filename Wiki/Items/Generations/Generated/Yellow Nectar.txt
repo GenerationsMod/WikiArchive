@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Yellow Nectar|id=yellow_nectar|left=y
-
-}}
-{{DescBox|
-
-A flower nectar obtained at Melemele Meadow. It changes the form of certain species of Pokémon.
-
-|drop1={{DropLoot|beast=y|quick=y|safari=y|strange=y|wing=y}}
-}}

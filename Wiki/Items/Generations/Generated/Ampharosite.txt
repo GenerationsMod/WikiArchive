@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Ampharosite|id=ampharosite|left=y
-
-}}
-{{DescBox|
-
-Enables Ampharos to Mega Evolve during battle.
-
-|drop1=None
-}}

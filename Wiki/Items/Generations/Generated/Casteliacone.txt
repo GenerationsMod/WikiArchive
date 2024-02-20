@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Casteliacone|id=casteliacone|left=y
-
-}}
-{{DescBox|
-
-Heals all major status conditions.
-
-|drop1={{DropLoot|heal=y|moon=y|premier=y|quick=y}}
-}}

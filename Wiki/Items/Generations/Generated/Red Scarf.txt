@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Red Scarf|id=red_scarf|left=y
-
-}}
-{{DescBox|
-
-Raises holder's Cool aspect in a Contest.
-
-|drop1={{DropLoot|dream=y|moon=y|safari=y}}
-}}

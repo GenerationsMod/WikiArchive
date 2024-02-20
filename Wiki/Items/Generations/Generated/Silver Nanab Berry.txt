@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Silver Nanab Berry|id=silver_nanab_berry|left=y
-
-}}
-{{DescBox|
-
-Greatly calms a Pokémon in battle, in Let's Go Pikachu/Eevee.
-
-|drop1=None
-}}

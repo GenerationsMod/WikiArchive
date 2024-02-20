@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Coconut Milk|id=coconut_milk|left=y
-
-}}
-{{DescBox|
-
-One of the many ingredients that can be used for cooking at your camp. The refined sweetness of this coconut milk makes it quite popular.
-
-|drop1={{DropLoot|great=y|heal=y|luxury=y|origin=y|timer=y}}
-}}

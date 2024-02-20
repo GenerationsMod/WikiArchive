@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Meadow Plate|id=meadow_plate|left=y
-
-}}
-{{DescBox|
-
-Increases power of Grass-type moves. Changes Arceus' type to Grass.
-
-|drop1={{DropLoot|master=y|safari=y}}
-}}

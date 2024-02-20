@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Blue Shard|id=blue_shard|left=y
-
-}}
-{{DescBox|
-
-A small blue shard. It appears to be from some sort of implement made long ago.
-
-|drop1={{DropLoot|dive=y|level=y|lure=y|master=y|quick=y}}
-}}

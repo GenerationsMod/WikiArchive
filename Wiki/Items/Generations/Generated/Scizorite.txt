@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Scizorite|id=scizorite|left=y
-
-}}
-{{DescBox|
-
-Enables Scizor to Mega Evolve during battle.
-
-|drop1=None
-}}

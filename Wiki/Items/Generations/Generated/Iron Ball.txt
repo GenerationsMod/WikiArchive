@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Iron Ball|id=iron_ball|left=y
-
-}}
-{{DescBox|
-
-A Pokémon held item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves.
-
-|drop1={{DropLoot|gigaton=y|heavy=y|jet=y|leaden=y|level=y|wing=y}}
-}}

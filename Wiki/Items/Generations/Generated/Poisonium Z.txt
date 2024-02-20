@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Poisonium Z|id=poisonium_z|left=y
-
-}}
-{{DescBox|
-
-Allows the use of Acid Downpour, the Poison type Z-Move.
-
-|drop1=None
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Helix Fossil|id=helix_fossil|left=y
-
-}}
-{{DescBox|
-
-A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a seashell.
-
-|drop1=None
-}}

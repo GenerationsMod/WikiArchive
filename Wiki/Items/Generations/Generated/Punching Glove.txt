@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Punching Glove|id=punching_glove|left=y
-
-}}
-{{DescBox|
-
-An item to be held by a Pokémon. This protective glove boosts the power of the holder’s punching moves and prevents direct contact with targets.
-
-|drop1=None
-}}

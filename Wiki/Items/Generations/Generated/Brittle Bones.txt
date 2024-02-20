@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Brittle Bones|id=brittle_bones|left=y
-
-}}
-{{DescBox|
-
-One of the many ingredients that can be used for cooking at your camp. The taste boiled off from the bones is sure to give a dish a light umami taste.
-
-|drop1={{DropLoot|beast=y|dusk=y|heal=y|leaden=y}}
-}}

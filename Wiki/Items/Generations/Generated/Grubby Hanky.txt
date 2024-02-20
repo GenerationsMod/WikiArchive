@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Grubby Hanky|id=grubby_hanky|left=y
-
-}}
-{{DescBox|
-
-A handkerchief dropped by a regular at Café Warehouse. It smells faintly like a Pokémon.
-
-|drop1={{DropLoot|park=y|timer=y|ultra=y}}
-}}

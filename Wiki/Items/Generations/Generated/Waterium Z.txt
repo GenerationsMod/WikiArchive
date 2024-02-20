@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Waterium Z|id=waterium_z|left=y
-
-}}
-{{DescBox|
-
-Allows the use of Hydro Vortex, the Water type Z-Move.
-
-|drop1=None
-}}

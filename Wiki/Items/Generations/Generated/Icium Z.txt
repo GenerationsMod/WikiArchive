@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Icium Z|id=icium_z|left=y
-
-}}
-{{DescBox|
-
-Allows the use of Subzero Slammer, the Ice type Z-Move.
-
-|drop1=None
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Resist Feather|id=resist_feather|left=y
-
-}}
-{{DescBox|
-
-Increases Defense EVs by 1.
-
-|drop1={{DropLoot|jet=y|nest=y}}
-}}

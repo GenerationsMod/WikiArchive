@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Snorlium Z|id=snorlium_z|left=y
-
-}}
-{{DescBox|
-
-Allows Snorlax to upgrade Giga Impact to a Z-Move, Pulverizing Pancake.
-
-|drop1=None
-}}

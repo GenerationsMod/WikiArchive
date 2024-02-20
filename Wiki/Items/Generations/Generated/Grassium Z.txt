@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Grassium Z|id=grassium_z|left=y
-
-}}
-{{DescBox|
-
-Allows the use of Bloom Doom, the Grass type Z-Move.
-
-|drop1=None
-}}

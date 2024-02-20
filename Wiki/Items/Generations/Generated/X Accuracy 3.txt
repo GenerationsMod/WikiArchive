@@ -1,9 +1,0 @@
-{{ItemInfobox|item=X Accuracy 3|id=x_accuracy_3|left=y
-
-}}
-{{DescBox|
-
-Drastically raises Accuracy of a Pokémon in battle.
-
-|drop1={{DropLoot|lure=y|park=y|safari=y}}
-}}

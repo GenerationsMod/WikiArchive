@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Binding Band|id=binding_band|left=y
-
-}}
-{{DescBox|
-
-A band that increases the power of binding moves when held.
-
-|drop1={{DropLoot|heavy=y|leaden=y|love=y|repeat=y}}
-}}

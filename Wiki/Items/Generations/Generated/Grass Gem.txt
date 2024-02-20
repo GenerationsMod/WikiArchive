@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Grass Gem|id=grass_gem|left=y
-
-}}
-{{DescBox|
-
-Increases the power of a Grass-type move only once.
-
-|drop1={{DropLoot|great=y|level=y|net=y|park=y}}
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Odd Incense|id=odd_incense|left=y
-
-}}
-{{DescBox|
-
-Increases the power of Psychic-type moves. Breeding Mr. Mime produces Mime Jr. when held.
-
-|drop1={{DropLoot|dream=y|dusk=y|safari=y|strange=y}}
-}}

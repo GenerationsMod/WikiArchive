@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Star Piece|id=star_piece|left=y
-
-}}
-{{DescBox|
-
-A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.
-
-|drop1={{DropLoot|dream=y|moon=y|safari=y}}
-}}

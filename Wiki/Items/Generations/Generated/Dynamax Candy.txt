@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Dynamax Candy|id=dynamax_candy|left=y
-
-}}
-{{DescBox|
-
-Raises Dynamax Level.
-
-|drop1={{DropLoot|beast=y|master=y|premier=y}}
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Glalitite|id=glalitite|left=y
-
-}}
-{{DescBox|
-
-Enables Glalie to Mega Evolve during battle.
-
-|drop1=None
-}}

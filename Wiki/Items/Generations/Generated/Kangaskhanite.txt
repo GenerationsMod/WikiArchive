@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Kangaskhanite|id=kangaskhanite|left=y
-
-}}
-{{DescBox|
-
-Enables Kangaskhan to Mega Evolve during battle.
-
-|drop1=None
-}}

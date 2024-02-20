@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Health Feather|id=health_feather|left=y
-
-}}
-{{DescBox|
-
-Increases HP EVs by 1.
-
-|drop1={{DropLoot|dusk=y|jet=y|master=y|nest=y|quick=y|wing=y}}
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Plume Fossil|id=plume_fossil|left=y
-
-}}
-{{DescBox|
-
-A fossil of an ancient Pokémon that flew in the sky in ancient times. It appears to be part of its wing.
-
-|drop1=None
-}}

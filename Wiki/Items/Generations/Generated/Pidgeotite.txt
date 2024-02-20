@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Pidgeotite|id=pidgeotite|left=y
-
-}}
-{{DescBox|
-
-Enables Pidgeot to Mega Evolve during battle.
-
-|drop1=None
-}}

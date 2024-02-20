@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Honor Of Kalos|id=honor_of_kalos|left=y
-
-}}
-{{DescBox|
-
-A precious symbol that is awarded only to an individual who has done great things for the Kalos region.
-
-|drop1=None
-}}

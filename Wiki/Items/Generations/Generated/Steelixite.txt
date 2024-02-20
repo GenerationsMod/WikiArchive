@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Steelixite|id=steelixite|left=y
-
-}}
-{{DescBox|
-
-Enables Steelix to Mega Evolve during battle.
-
-|drop1=None
-}}

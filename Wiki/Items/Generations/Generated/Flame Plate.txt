@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Flame Plate|id=flame_plate|left=y
-
-}}
-{{DescBox|
-
-Increases power of Fire-type moves. Changes Arceus' type to Fire.
-
-|drop1={{DropLoot|master=y|sport=y}}
-}}

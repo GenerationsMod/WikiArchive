@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Mimikium Z|id=mimikium_z|left=y
-
-}}
-{{DescBox|
-
-Allows Mimikyu to upgrade Play Rough to a Z-Move, Let's Snuggle Forever.
-
-|drop1=None
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Amulet Coin|id=amulet_coin|left=y
-
-}}
-{{DescBox|
-
-Doubles prize money if held.
-
-|drop1={{DropLoot|cherish=y|level=y|luxury=y|master=y}}
-}}

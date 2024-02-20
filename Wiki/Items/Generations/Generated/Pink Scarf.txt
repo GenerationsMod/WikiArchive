@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Pink Scarf|id=pink_scarf|left=y
-
-}}
-{{DescBox|
-
-Raises holder's Cute aspect in a Contest.
-
-|drop1={{DropLoot|cherish=y|love=y|sport=y}}
-}}

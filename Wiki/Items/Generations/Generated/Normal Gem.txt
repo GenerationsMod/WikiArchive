@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Normal Gem|id=normal_gem|left=y
-
-}}
-{{DescBox|
-
-Increases the power of a Normal-type move only once.
-
-|drop1={{DropLoot|dream=y|premier=y|ultra=y}}
-}}

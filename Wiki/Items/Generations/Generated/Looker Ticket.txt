@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Looker Ticket|id=looker_ticket|left=y
-
-}}
-{{DescBox|
-
-A ticket that was handmade by Looker. It's decorated with a liberal amount of glittery paint.
-
-|drop1={{DropLoot|dream=y|premier=y|ultra=y}}
-}}

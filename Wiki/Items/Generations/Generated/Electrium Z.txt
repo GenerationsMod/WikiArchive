@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Electrium Z|id=electrium_z|left=y
-
-}}
-{{DescBox|
-
-Allows the use of Gigavolt Havoc, the Electric type Z-Move.
-
-|drop1=None
-}}

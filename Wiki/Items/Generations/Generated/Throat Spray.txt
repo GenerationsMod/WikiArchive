@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Throat Spray|id=throat_spray|left=y
-
-}}
-{{DescBox|
-
-Raises Sp. Atk when a sound-based move is used.
-
-|drop1={{DropLoot|dream=y|fast=y|friend=y|ultra=y}}
-}}

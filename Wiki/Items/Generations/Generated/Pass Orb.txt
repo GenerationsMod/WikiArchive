@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Pass Orb|id=pass_orb|left=y
-
-}}
-{{DescBox|
-
-A mysterious orb containing the power of the Unova region, to be used when generating Pass Power.
-
-|drop1={{DropLoot|dive=y|lure=y|safari=y}}
-}}

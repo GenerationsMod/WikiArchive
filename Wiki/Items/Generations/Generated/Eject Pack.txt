@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Eject Pack|id=eject_pack|left=y
-
-}}
-{{DescBox|
-
-The Pokémon switches out if its stats are lowered.
-
-|drop1={{DropLoot|friend=y|heal=y|jet=y|leaden=y|ultra=y}}
-}}

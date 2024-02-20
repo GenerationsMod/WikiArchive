@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Beach Glass|id=beach_glass|left=y
-
-}}
-{{DescBox|
-
-A piece of colored glass. Waves have rounded its edges. It's slightly rough to the touch.
-
-|drop1={{DropLoot|cherish=y|dive=y|moon=y}}
-}}

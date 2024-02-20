@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Relic Copper|id=relic_copper|left=y
-
-}}
-{{DescBox|
-
-A copper coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price.
-
-|drop1={{DropLoot|heavy=y|jet=y|park=y}}
-}}

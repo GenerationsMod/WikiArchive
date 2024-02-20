@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Shaderoot Carrot|id=shaderoot_carrot|left=y
-
-}}
-{{DescBox|
-
-Produce that the King of Bountiful Harvests’ beloved steed likes to eat. It grew in a gloomy field.
-
-|drop1=None
-}}

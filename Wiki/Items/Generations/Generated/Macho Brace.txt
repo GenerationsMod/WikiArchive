@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Macho Brace|id=macho_brace|left=y
-
-}}
-{{DescBox|
-
-An item to be held by a Pokémon. It is a stiff and heavy brace that promotes strong growth but lowers Speed.
-
-|drop1={{DropLoot|fast=y|heavy=y|leaden=y|sport=y}}
-}}

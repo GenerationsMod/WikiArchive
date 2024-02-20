@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Pungent Root|id=pungent_root|left=y
-
-}}
-{{DescBox|
-
-One of the many ingredients that can be used for cooking at your camp. Though carelessly picked, these herbs can add a fragrant accent to a dish.
-
-|drop1={{DropLoot|dive=y|great=y|sport=y|strange=y}}
-}}

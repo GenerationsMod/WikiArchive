@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Marble|id=marble|left=y
-
-}}
-{{DescBox|
-
-
-
-|drop1={{DropLoot|dive=y|dream=y|great=y|luxury=y}}
-}}

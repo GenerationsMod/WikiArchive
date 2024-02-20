@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Dire Hit 3|id=dire_hit_3|left=y
-
-}}
-{{DescBox|
-
-Greatly raises a Pokémon's critical-hit ratio in battle.
-
-|drop1={{DropLoot|heavy=y|master=y|premier=y|sport=y}}
-}}

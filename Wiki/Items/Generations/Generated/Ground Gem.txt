@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Ground Gem|id=ground_gem|left=y
-
-}}
-{{DescBox|
-
-Increases the power of a Ground-type move only once.
-
-|drop1={{DropLoot|heavy=y|moon=y|safari=y}}
-}}

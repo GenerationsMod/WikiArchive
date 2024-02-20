@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Psychic Gem|id=psychic_gem|left=y
-
-}}
-{{DescBox|
-
-Increases the power of a Psychic-type move only once.
-
-|drop1={{DropLoot|dream=y|master=y|moon=y}}
-}}

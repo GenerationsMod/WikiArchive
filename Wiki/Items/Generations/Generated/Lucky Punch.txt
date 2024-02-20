@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Lucky Punch|id=lucky_punch|left=y
-
-}}
-{{DescBox|
-
-Increases critical-hit ratio when held by Chansey.
-
-|drop1={{DropLoot|dive=y|lure=y|sport=y}}
-}}

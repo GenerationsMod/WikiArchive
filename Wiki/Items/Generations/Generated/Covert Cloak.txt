@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Covert Cloak|id=covert_cloak|left=y
-
-}}
-{{DescBox|
-
-Conceals the holder, protecting it from the additional effects of moves.
-
-|drop1=None
-}}

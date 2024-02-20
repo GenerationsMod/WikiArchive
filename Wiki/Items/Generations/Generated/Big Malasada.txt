@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Big Malasada|id=big_malasada|left=y
-
-}}
-{{DescBox|
-
-Heals all major status conditions.
-
-|drop1={{DropLoot|friend=y|park=y|premier=y}}
-}}

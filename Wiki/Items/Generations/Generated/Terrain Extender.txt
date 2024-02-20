@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Terrain Extender|id=terrain_extender|left=y
-
-}}
-{{DescBox|
-
-An item to be held by a Pokémon. It extends the duration of the terrain caused by the holder's move or Ability.
-
-|drop1={{DropLoot|jet=y|quick=y|sport=y|timer=y}}
-}}

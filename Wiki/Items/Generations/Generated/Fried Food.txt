@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Fried Food|id=fried_food|left=y
-
-}}
-{{DescBox|
-
-One of the many ingredients that can be used for cooking at your camp. It’s been a while since it was fried, so it’s gotten greasy.
-
-|drop1={{DropLoot|cherish=y|dream=y|friend=y|leaden=y|repeat=y}}
-}}

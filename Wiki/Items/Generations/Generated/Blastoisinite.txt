@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Blastoisinite|id=blastoisinite|left=y
-
-}}
-{{DescBox|
-
-Enables Blastoise to Mega Evolve during battle.
-
-|drop1=None
-}}

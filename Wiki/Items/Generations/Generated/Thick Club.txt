@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Thick Club|id=thick_club|left=y
-
-}}
-{{DescBox|
-
-Increases Attack when held by Cubone or Marowak.
-
-|drop1={{DropLoot|dusk=y|gigaton=y|level=y|quick=y}}
-}}

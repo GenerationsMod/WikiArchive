@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Pixie Plate|id=pixie_plate|left=y
-
-}}
-{{DescBox|
-
-Increases power of Fairy-type moves. Changes Arceus' type to Fairy.
-
-|drop1={{DropLoot|master=y|moon=y}}
-}}

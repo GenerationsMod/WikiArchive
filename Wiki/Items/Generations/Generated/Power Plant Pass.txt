@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Power Plant Pass|id=power_plant_pass|left=y
-
-}}
-{{DescBox|
-
-This pass serves as an ID card for gaining access to the power plant that lies along Route 13.
-
-|drop1={{DropLoot|lure=y|repeat=y}}
-}}

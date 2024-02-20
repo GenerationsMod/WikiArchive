@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Grip Claw|id=grip_claw|left=y
-
-}}
-{{DescBox|
-
-A Pokémon held item that extends the duration of multiturn attacks like Bind and Wrap.
-
-|drop1={{DropLoot|leaden=y|quick=y|timer=y|ultra=y|wing=y}}
-}}

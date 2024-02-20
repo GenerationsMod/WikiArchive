@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Light Ball|id=light_ball|left=y
-
-}}
-{{DescBox|
-
-An item to be held by PIKACHU. It is a puzzling orb that raises the Attack and Sp. Atk stat.
-
-|drop1={{DropLoot|cherish=y|dream=y|friend=y|jet=y|wing=y}}
-}}

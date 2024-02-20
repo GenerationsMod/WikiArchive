@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Purple Nectar|id=purple_nectar|left=y
-
-}}
-{{DescBox|
-
-A flower nectar obtained at Poni Meadow. It changes the form of certain species of Pokémon.
-
-|drop1={{DropLoot|heal=y|lure=y|nest=y|strange=y|wing=y}}
-}}

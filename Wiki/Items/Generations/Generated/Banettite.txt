@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Banettite|id=banettite|left=y
-
-}}
-{{DescBox|
-
-Enables Banette to Mega Evolve during battle.
-
-|drop1=None
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Mewtwonite Y|id=mewtwonite_y|left=y
-
-}}
-{{DescBox|
-
-Enables Mewtwo to Mega Evolve during battle.
-
-|drop1=None
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Spice Mix|id=spice_mix|left=y
-
-}}
-{{DescBox|
-
-One of the many ingredients that can be used for cooking at your camp. There are over fifty spices contained within this ingredient’s hot flavor.
-
-|drop1={{DropLoot|cherish=y|jet=y|level=y|sport=y}}
-}}

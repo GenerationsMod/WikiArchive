@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Fruit Bunch|id=fruit_bunch|left=y
-
-}}
-{{DescBox|
-
-One of the many ingredients that can be used for cooking at your camp. The syrupy fruits give off a strong tropical feel.
-
-|drop1={{DropLoot|cherish=y|nest=y|origin=y|premier=y|safari=y|ultra=y}}
-}}

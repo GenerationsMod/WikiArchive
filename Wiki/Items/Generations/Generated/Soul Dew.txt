@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Soul Dew|id=soul_dew|left=y
-
-}}
-{{DescBox|
-
-Increases the power of Psychic- and Dragon-type moves when held by Latios or Latias. Increases Sp.Atk/Sp.Def prior to Gen 7.
-
-|drop1={{DropLoot|dream=y|master=y|ultra=y}}
-}}

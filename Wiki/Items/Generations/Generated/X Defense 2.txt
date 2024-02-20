@@ -1,9 +1,0 @@
-{{ItemInfobox|item=X Defense 2|id=x_defense_2|left=y
-
-}}
-{{DescBox|
-
-Sharply raises Defense of a Pokémon in battle.
-
-|drop1={{DropLoot|repeat=y|safari=y}}
-}}

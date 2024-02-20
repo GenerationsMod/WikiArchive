@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Rage Candy Bar|id=rage_candy_bar|left=y
-
-}}
-{{DescBox|
-
-Heals all major status conditions.
-
-|drop1={{DropLoot|dream=y|great=y|heal=y}}
-}}

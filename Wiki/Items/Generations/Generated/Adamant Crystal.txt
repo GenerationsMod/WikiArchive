@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Adamant Crystal|id=adamant_crystal|left=y
-
-}}
-{{DescBox|
-
-
-
-|drop1={{DropLoot|friend=y|gigaton=y|master=y|origin=y}}
-}}

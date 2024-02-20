@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Room Service|id=room_service|left=y
-
-}}
-{{DescBox|
-
-Lowers the Pokémon's speed during Trick Room.
-
-|drop1={{DropLoot|dream=y|gigaton=y|luxury=y|quick=y|strange=y|ultra=y}}
-}}

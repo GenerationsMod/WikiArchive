@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Wishing Piece|id=wishing_piece|left=y
-
-}}
-{{DescBox|
-
-Activates a Pokémon Den for a Max Raid Battle.
-
-|drop1={{DropLoot|dusk=y|master=y|moon=y}}
-}}

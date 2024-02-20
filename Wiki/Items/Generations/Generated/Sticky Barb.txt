@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Sticky Barb|id=sticky_barb|left=y
-
-}}
-{{DescBox|
-
-A held item that damages the holder on every turn. It may latch on to foes and allies that touch the holder.
-
-|drop1={{DropLoot|cherish=y|gigaton=y|heavy=y|sport=y}}
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Lunalium Z|id=lunalium_z|left=y
-
-}}
-{{DescBox|
-
-Allows Lunala to upgrade Moongeist Beam to a Z-Move, Menacing Moonraze Maelstrom.
-
-|drop1=None
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Stardust|id=stardust|left=y
-
-}}
-{{DescBox|
-
-Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.
-
-|drop1={{DropLoot|dream=y|moon=y|ultra=y|wing=y}}
-}}

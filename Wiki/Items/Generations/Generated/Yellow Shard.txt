@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Yellow Shard|id=yellow_shard|left=y
-
-}}
-{{DescBox|
-
-A small yellow shard. It appears to be from some sort of implement made long ago.
-
-|drop1={{DropLoot|beast=y|quick=y|repeat=y}}
-}}

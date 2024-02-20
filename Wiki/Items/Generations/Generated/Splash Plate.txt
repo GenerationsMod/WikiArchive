@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Splash Plate|id=splash_plate|left=y
-
-}}
-{{DescBox|
-
-Increases power of Water-type moves. Changes Arceus' type to Water.
-
-|drop1={{DropLoot|dive=y|master=y}}
-}}

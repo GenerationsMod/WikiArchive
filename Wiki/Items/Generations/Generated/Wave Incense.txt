@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Wave Incense|id=wave_incense|left=y
-
-}}
-{{DescBox|
-
-Increases the power of Water-type moves. Breeding Mantine produces Mantyke when held.
-
-|drop1={{DropLoot|cherish=y|dive=y|lure=y|strange=y}}
-}}

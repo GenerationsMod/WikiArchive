@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Electric Gem|id=electric_gem|left=y
-
-}}
-{{DescBox|
-
-Increases the power of an Electric-type move only once.
-
-|drop1={{DropLoot|cherish=y|master=y|premier=y}}
-}}

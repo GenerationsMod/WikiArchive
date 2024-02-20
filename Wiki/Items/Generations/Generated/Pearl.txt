@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Pearl|id=pearl|left=y
-
-}}
-{{DescBox|
-
-A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.
-
-|drop1={{DropLoot|dusk=y|great=y|luxury=y}}
-}}

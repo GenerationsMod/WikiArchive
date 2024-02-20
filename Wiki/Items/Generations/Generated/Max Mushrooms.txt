@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Max Mushrooms|id=max_mushrooms|left=y
-
-}}
-{{DescBox|
-
-
-
-|drop1={{DropLoot|park=y}}
-}}

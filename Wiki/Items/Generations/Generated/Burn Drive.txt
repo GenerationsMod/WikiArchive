@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Burn Drive|id=burn_drive|left=y
-
-}}
-{{DescBox|
-
-Changes Techno Blast to a Fire-type move when held by Genesect.
-
-|drop1=None
-}}

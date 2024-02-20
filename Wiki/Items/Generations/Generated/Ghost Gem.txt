@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Ghost Gem|id=ghost_gem|left=y
-
-}}
-{{DescBox|
-
-Increases the power of a Ghost-type move only once.
-
-|drop1={{DropLoot|dusk=y|moon=y|ultra=y}}
-}}

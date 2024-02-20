@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Aerodactylite|id=aerodactylite|left=y
-
-}}
-{{DescBox|
-
-Enables Aerodactyl to Mega Evolve during battle.
-
-|drop1=None
-}}

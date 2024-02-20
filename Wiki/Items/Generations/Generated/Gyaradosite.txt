@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Gyaradosite|id=gyaradosite|left=y
-
-}}
-{{DescBox|
-
-Enables Gyarados to Mega Evolve during battle.
-
-|drop1=None
-}}

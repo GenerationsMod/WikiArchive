@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Energy Powder|id=energy_powder|left=y
-
-}}
-{{DescBox|
-
-Restores 60 HP but lowers Friendship.
-
-|drop1={{DropLoot|friend=y|heal=y|poke=y}}
-}}

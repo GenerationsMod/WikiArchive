@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Sacred Ash|id=sacred_ash|left=y
-
-}}
-{{DescBox|
-
-Revives all fainted Pokémon and fully restores their HP.
-
-|drop1=None
-}}

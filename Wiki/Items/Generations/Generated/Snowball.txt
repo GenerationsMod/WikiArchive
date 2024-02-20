@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Snowball|id=snowball|left=y
-
-}}
-{{DescBox|
-
-Raises Attack if hit by an Ice-type move.
-
-|drop1={{DropLoot|dream=y|dusk=y|fast=y}}
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Psychium Z|id=psychium_z|left=y
-
-}}
-{{DescBox|
-
-Allows the use of Shattered Psyche, the Psychic type Z-Move.
-
-|drop1=None
-}}

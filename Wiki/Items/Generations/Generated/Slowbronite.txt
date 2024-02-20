@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Slowbronite|id=slowbronite|left=y
-
-}}
-{{DescBox|
-
-Enables Slowbro to Mega Evolve during battle.
-
-|drop1=None
-}}

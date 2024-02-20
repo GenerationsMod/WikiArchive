@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Dark Gem|id=dark_gem|left=y
-
-}}
-{{DescBox|
-
-Increases the power of a Dark-type move only once.
-
-|drop1={{DropLoot|cherish=y|dusk=y|premier=y}}
-}}

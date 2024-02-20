@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Poison Gem|id=poison_gem|left=y
-
-}}
-{{DescBox|
-
-Increases the power of a Poison-type move only once.
-
-|drop1={{DropLoot|dream=y|moon=y|premier=y}}
-}}

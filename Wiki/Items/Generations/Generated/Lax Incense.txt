@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Lax Incense|id=lax_incense|left=y
-
-}}
-{{DescBox|
-
-Lowers the opponent's accuracy. Breeding Wobbuffet produces Wynaut when held.
-
-|drop1={{DropLoot|cherish=y|dive=y|lure=y|strange=y}}
-}}

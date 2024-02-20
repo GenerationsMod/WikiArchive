@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Tropical Shell|id=tropical_shell|left=y
-
-}}
-{{DescBox|
-
-
-
-|drop1={{DropLoot|cherish=y|dive=y|luxury=y}}
-}}

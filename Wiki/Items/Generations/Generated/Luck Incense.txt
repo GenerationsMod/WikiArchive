@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Luck Incense|id=luck_incense|left=y
-
-}}
-{{DescBox|
-
-Doubles prize money if held. Breeding Chansey or Blissey produces Happiny when held.
-
-|drop1={{DropLoot|lure=y|luxury=y|net=y}}
-}}

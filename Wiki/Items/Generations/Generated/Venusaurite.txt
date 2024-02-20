@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Venusaurite|id=venusaurite|left=y
-
-}}
-{{DescBox|
-
-Enables Venusaur to Mega Evolve during battle.
-
-|drop1=None
-}}

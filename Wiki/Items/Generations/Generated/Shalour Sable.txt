@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Shalour Sable|id=shalour_sable|left=y
-
-}}
-{{DescBox|
-
-Heals all major status conditions.
-
-|drop1={{DropLoot|cherish=y|heal=y|strange=y|ultra=y}}
-}}

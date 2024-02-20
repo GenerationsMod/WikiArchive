@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Diancite|id=diancite|left=y
-
-}}
-{{DescBox|
-
-Enables Diancie to Mega Evolve during battle.
-
-|drop1=None
-}}

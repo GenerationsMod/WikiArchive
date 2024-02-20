@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Carrot Seeds|id=carrot_seeds|left=y
-
-}}
-{{DescBox|
-
-Seeds to plant in a field. The kind of carrot you’ll get is determined by which field you plant the seeds in.
-
-|drop1=None
-}}

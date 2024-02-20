@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Lycanium Z|id=lycanium_z|left=y
-
-}}
-{{DescBox|
-
-Allows Lycanroc to upgrade Stone Edge to a Z-Move, Splintered Stormshards.
-
-|drop1=None
-}}

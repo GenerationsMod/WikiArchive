@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Genius Feather|id=genius_feather|left=y
-
-}}
-{{DescBox|
-
-Increases Special Attack EVs by 1.
-
-|drop1={{DropLoot|jet=y|nest=y}}
-}}

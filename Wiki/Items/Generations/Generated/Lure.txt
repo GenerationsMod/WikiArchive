@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Lure|id=lure|left=y
-
-}}
-{{DescBox|
-
-Attracts Pokémon in the wild.
-
-|drop1={{DropLoot|dive=y|lure=y|luxury=y|moon=y}}
-}}

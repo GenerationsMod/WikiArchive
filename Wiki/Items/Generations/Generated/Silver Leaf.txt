@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Silver Leaf|id=silver_leaf|left=y
-
-}}
-{{DescBox|
-
-
-
-|drop1={{DropLoot|nest=y|safari=y|timer=y|wing=y}}
-}}

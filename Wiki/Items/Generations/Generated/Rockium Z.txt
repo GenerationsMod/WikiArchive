@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Rockium Z|id=rockium_z|left=y
-
-}}
-{{DescBox|
-
-Allows the use of Continental Crush, the Rock type Z-Move.
-
-|drop1=None
-}}

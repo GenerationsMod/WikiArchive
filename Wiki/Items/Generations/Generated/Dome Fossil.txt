@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Dome Fossil|id=dome_fossil|left=y
-
-}}
-{{DescBox|
-
-A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a shell.
-
-|drop1=None
-}}

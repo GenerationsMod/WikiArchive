@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Griseous Orb|id=griseous_orb|left=y
-
-}}
-{{DescBox|
-
-Increases the power of Dragon- and Ghost-type moves when held by Giratina, and changes it to Origin Forme.
-
-|drop1={{DropLoot|dusk=y|master=y|origin=y}}
-}}

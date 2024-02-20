@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Lumiose Galette|id=lumiose_galette|left=y
-
-}}
-{{DescBox|
-
-Heals all major status conditions.
-
-|drop1={{DropLoot|dive=y|great=y|luxury=y}}
-}}

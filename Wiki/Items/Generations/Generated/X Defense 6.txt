@@ -1,9 +1,0 @@
-{{ItemInfobox|item=X Defense 6|id=x_defense_6|left=y
-
-}}
-{{DescBox|
-
-Immensely raises Defense of a Pokémon in battle.
-
-|drop1={{DropLoot|dream=y|heavy=y|luxury=y}}
-}}

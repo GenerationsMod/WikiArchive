@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Garchompite|id=garchompite|left=y
-
-}}
-{{DescBox|
-
-Enables Garchomp to Mega Evolve during battle.
-
-|drop1=None
-}}

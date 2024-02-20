@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Black Flute|id=black_flute|left=y
-
-}}
-{{DescBox|
-
-A toy flute made from black glass. A maniac will buy it for a high price.
-
-|drop1={{DropLoot|cherish=y|luxury=y|master=y}}
-}}

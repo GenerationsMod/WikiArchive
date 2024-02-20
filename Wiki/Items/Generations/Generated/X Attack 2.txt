@@ -1,9 +1,0 @@
-{{ItemInfobox|item=X Attack 2|id=x_attack_2|left=y
-
-}}
-{{DescBox|
-
-Sharply raises Attack of a Pokémon in battle.
-
-|drop1={{DropLoot|heavy=y|nest=y|premier=y}}
-}}

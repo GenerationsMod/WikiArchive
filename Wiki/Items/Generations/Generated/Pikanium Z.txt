@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Pikanium Z|id=pikanium_z|left=y
-
-}}
-{{DescBox|
-
-Allows Pikachu to upgrade Volt Tackle to a Z-Move, Catastropika.
-
-|drop1=None
-}}

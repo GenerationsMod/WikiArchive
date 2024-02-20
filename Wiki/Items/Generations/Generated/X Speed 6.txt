@@ -1,9 +1,0 @@
-{{ItemInfobox|item=X Speed 6|id=x_speed_6|left=y
-
-}}
-{{DescBox|
-
-Immensely raises Speed of a Pokémon in battle.
-
-|drop1={{DropLoot|beast=y|jet=y|park=y|quick=y}}
-}}

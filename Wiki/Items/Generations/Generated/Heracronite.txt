@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Heracronite|id=heracronite|left=y
-
-}}
-{{DescBox|
-
-Enables Heracross to Mega Evolve during battle.
-
-|drop1=None
-}}

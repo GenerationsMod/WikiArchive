@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Pearl String|id=pearl_string|left=y
-
-}}
-{{DescBox|
-
-Very large pearls that sparkle in a pretty silver color. A maniac will buy them for a high price.
-
-|drop1={{DropLoot|level=y|love=y|nest=y}}
-}}

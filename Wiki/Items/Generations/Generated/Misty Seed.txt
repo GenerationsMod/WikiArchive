@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Misty Seed|id=misty_seed|left=y
-
-}}
-{{DescBox|
-
-An item to be held by a Pokémon. It boosts Sp. Def on Misty Terrain. It can only be used once.
-
-|drop1={{DropLoot|moon=y|repeat=y|wing=y}}
-}}

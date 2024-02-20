@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Darkinium Z|id=darkinium_z|left=y
-
-}}
-{{DescBox|
-
-Allows the use of Black Hole Eclipse, the Dark type Z-Move.
-
-|drop1=None
-}}

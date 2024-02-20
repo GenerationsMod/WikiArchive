@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Stone Plate|id=stone_plate|left=y
-
-}}
-{{DescBox|
-
-Increases power of Rock-type moves. Changes Arceus' type to Rock.
-
-|drop1={{DropLoot|heavy=y|master=y}}
-}}

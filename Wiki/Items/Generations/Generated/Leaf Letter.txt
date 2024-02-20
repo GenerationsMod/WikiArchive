@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Leaf Letter|id=leaf_letter|left=y
-
-}}
-{{DescBox|
-
-A letter written on a leaf. Something is written using Eevee's footprints.
-
-|drop1={{DropLoot|level=y|lure=y|net=y}}
-}}

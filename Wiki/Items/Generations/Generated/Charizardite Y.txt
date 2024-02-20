@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Charizardite Y|id=charizardite_y|left=y
-
-}}
-{{DescBox|
-
-Enables Charizard to Mega Evolve during battle.
-
-|drop1=None
-}}

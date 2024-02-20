@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Silver Razz Berry|id=silver_razz_berry|left=y
-
-}}
-{{DescBox|
-
-Makes a Pokémon easier to catch in Pokémon Let's Go.
-
-|drop1=None
-}}

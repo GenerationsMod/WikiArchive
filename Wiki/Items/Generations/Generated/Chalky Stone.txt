@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Chalky Stone|id=chalky_stone|left=y
-
-}}
-{{DescBox|
-
-A small whitish stone picked up at the edge of the road.
-
-|drop1={{DropLoot|beast=y|dream=y|great=y|moon=y}}
-}}

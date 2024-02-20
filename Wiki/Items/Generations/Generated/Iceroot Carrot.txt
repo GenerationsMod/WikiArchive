@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Iceroot Carrot|id=iceroot_carrot|left=y
-
-}}
-{{DescBox|
-
-Produce that the King of Bountiful Harvests’ beloved steed likes to eat. It grew in a field covered in snow.
-
-|drop1=None
-}}

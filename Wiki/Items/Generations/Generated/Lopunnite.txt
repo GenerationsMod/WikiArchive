@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Lopunnite|id=lopunnite|left=y
-
-}}
-{{DescBox|
-
-Enables Lopunny to Mega Evolve during battle.
-
-|drop1=None
-}}

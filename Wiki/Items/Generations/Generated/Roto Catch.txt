@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Roto Catch|id=roto_catch|left=y
-
-}}
-{{DescBox|
-
-Increases the chance to catch Pokémon a lot.
-
-|drop1=None
-}}

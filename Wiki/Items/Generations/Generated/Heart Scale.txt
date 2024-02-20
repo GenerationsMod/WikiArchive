@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Heart Scale|id=heart_scale|left=y
-
-}}
-{{DescBox|
-
-A pretty, heart-shaped scale that is extremely rare. It glows faintly in the colors of the rainbow.
-
-|drop1={{DropLoot|cherish=y|friend=y|premier=y|quick=y|wing=y}}
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Marshadium Z|id=marshadium_z|left=y
-
-}}
-{{DescBox|
-
-Allows Marshadow to upgrade Spectral Thief to a Z-Move, Soul-Stealing 7-Star Strike.
-
-|drop1=None
-}}

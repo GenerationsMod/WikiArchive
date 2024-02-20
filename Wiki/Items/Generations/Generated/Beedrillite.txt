@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Beedrillite|id=beedrillite|left=y
-
-}}
-{{DescBox|
-
-Enables Beedrill to Mega Evolve during battle.
-
-|drop1=None
-}}

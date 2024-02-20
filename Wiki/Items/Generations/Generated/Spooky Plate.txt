@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Spooky Plate|id=spooky_plate|left=y
-
-}}
-{{DescBox|
-
-Increases power of Ghost-type moves. Changes Arceus' type to Ghost.
-
-|drop1={{DropLoot|dusk=y|master=y}}
-}}

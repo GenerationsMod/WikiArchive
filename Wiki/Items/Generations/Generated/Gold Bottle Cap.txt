@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Gold Bottle Cap|id=gold_bottle_cap|left=y
-
-}}
-{{DescBox|
-
-Maximizes all of a Pokémon's IV stats in Hyper Training.
-
-|drop1={{DropLoot|master=y|park=y}}
-}}

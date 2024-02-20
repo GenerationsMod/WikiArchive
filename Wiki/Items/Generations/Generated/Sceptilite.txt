@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Sceptilite|id=sceptilite|left=y
-
-}}
-{{DescBox|
-
-Enables Sceptile to Mega Evolve during battle.
-
-|drop1=None
-}}

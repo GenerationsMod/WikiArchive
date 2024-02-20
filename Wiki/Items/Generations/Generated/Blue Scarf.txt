@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Blue Scarf|id=blue_scarf|left=y
-
-}}
-{{DescBox|
-
-Raises holder's Beauty aspect in a Contest.
-
-|drop1={{DropLoot|heal=y|luxury=y|moon=y}}
-}}

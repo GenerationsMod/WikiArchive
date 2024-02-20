@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Cover Fossil|id=cover_fossil|left=y
-
-}}
-{{DescBox|
-
-A fossil of an ancient Pokémon that lived in the sea in ancient times. It appears to be part of its back.
-
-|drop1=None
-}}

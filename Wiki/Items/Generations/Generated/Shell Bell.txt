@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Shell Bell|id=shell_bell|left=y
-
-}}
-{{DescBox|
-
-An item to be held by a Pokémon. The holder's HP is restored a little every time it inflicts damage.
-
-|drop1={{DropLoot|leaden=y}}
-}}

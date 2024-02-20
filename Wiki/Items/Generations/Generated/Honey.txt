@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Honey|id=honey|left=y
-
-}}
-{{DescBox|
-
-A sweet honey with a lush aroma that attracts wild Pokémon when it is used in grass, caves, or on special trees.
-
-|drop1={{DropLoot|cherish=y|jet=y|love=y|lure=y|origin=y|park=y|quick=y}}
-}}

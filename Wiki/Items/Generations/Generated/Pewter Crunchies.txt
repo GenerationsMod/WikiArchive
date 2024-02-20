@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Pewter Crunchies|id=pewter_crunchies|left=y
-
-}}
-{{DescBox|
-
-Heals all major status conditions.
-
-|drop1={{DropLoot|luxury=y|master=y|timer=y}}
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Reveal Glass|id=reveal_glass|left=y
-
-}}
-{{DescBox|
-
-A looking glass that reveals the truth. It's a mysterious glass that returns a Pokémon to its original shape.
-
-|drop1=None
-}}

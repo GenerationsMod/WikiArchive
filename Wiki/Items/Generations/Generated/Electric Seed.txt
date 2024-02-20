@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Electric Seed|id=electric_seed|left=y
-
-}}
-{{DescBox|
-
-An item to be held by a Pokémon. It boosts Defense on Electric Terrain. It can only be used once.
-
-|drop1={{DropLoot|fast=y|repeat=y|timer=y|wing=y}}
-}}

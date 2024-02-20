@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Soothe Bell|id=soothe_bell|left=y
-
-}}
-{{DescBox|
-
-An item to be held by a Pokémon. It is a bell with a comforting chime that calms the holder and makes it friendly.
-
-|drop1={{DropLoot|gigaton=y|level=y|luxury=y|safari=y}}
-}}

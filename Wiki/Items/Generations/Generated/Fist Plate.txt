@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Fist Plate|id=fist_plate|left=y
-
-}}
-{{DescBox|
-
-Increases power of Fighting-type moves. Changes Arceus' type to Fighting.
-
-|drop1={{DropLoot|master=y|sport=y}}
-}}

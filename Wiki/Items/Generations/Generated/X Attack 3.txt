@@ -1,9 +1,0 @@
-{{ItemInfobox|item=X Attack 3|id=x_attack_3|left=y
-
-}}
-{{DescBox|
-
-Drastically raises Attack of a Pokémon in battle.
-
-|drop1={{DropLoot|dusk=y|jet=y|net=y|quick=y}}
-}}

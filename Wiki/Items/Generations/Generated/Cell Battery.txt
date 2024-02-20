@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Cell Battery|id=cell_battery|left=y
-
-}}
-{{DescBox|
-
-A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise.
-
-|drop1={{DropLoot|beast=y|dream=y|jet=y|poke=y|quick=y|repeat=y|ultra=y}}
-}}

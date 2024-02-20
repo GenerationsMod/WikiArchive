@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Fighting Gem|id=fighting_gem|left=y
-
-}}
-{{DescBox|
-
-Increases the power of a Fighting-type move only once.
-
-|drop1={{DropLoot|heavy=y|park=y|sport=y}}
-}}

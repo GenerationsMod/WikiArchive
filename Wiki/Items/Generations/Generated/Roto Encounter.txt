@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Roto Encounter|id=roto_encounter|left=y
-
-}}
-{{DescBox|
-
-Increases the chance of encountering high-level wild Pokémon a lot for a certain period of time.
-
-|drop1=None
-}}

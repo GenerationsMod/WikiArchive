@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Absorb Bulb|id=absorb_bulb|left=y
-
-}}
-{{DescBox|
-
-A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise.
-
-|drop1={{DropLoot|dive=y|gigaton=y|level=y|net=y|ultra=y}}
-}}

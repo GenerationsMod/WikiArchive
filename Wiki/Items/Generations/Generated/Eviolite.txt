@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Eviolite|id=eviolite|left=y
-
-}}
-{{DescBox|
-
-A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def of a Pokémon that can still evolve.
-
-|drop1={{DropLoot|dusk=y|friend=y|gigaton=y|moon=y}}
-}}

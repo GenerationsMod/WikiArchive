@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Yellow Scarf|id=yellow_scarf|left=y
-
-}}
-{{DescBox|
-
-Raises holder's Tough aspect in a Contest.
-
-|drop1=None
-}}

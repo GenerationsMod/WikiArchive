@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Courage Candy|id=courage_candy|left=y
-
-}}
-{{DescBox|
-
-Increases a Pokémon's Special Defense stat by 1.
-
-|drop1={{DropLoot|dream=y|heal=y|heavy=y|jet=y}}
-}}

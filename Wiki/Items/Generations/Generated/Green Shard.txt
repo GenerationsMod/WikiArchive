@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Green Shard|id=green_shard|left=y
-
-}}
-{{DescBox|
-
-A small green shard. It appears to be from some sort of implement made long ago.
-
-|drop1={{DropLoot|heavy=y|lure=y|moon=y}}
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Max Honey|id=max_honey|left=y
-
-}}
-{{DescBox|
-
-
-
-|drop1={{DropLoot|master=y}}
-}}

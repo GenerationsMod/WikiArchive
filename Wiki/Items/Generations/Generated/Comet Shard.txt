@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Comet Shard|id=comet_shard|left=y
-
-}}
-{{DescBox|
-
-A shard which fell to the ground when a comet approached. A maniac will buy it for a high price.
-
-|drop1={{DropLoot|beast=y|park=y|safari=y|wing=y}}
-}}

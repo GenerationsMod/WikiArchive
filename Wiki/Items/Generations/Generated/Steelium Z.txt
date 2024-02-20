@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Steelium Z|id=steelium_z|left=y
-
-}}
-{{DescBox|
-
-Allows the use of Corkscrew Crash, the Steel type Z-Move.
-
-|drop1=None
-}}

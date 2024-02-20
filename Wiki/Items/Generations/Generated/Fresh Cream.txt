@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Fresh Cream|id=fresh_cream|left=y
-
-}}
-{{DescBox|
-
-One of the many ingredients that can be used for cooking at your camp. Add some whipped cream to a spicy curry to give it some sweetness.
-
-|drop1={{DropLoot|dream=y|friend=y|origin=y|quick=y|timer=y}}
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Shoal Shell|id=shoal_shell|left=y
-
-}}
-{{DescBox|
-
-A pretty seashell that can be found deep inside the Shoal Cave. A maniac will buy it for a high price.
-
-|drop1={{DropLoot|dive=y|moon=y|net=y}}
-}}

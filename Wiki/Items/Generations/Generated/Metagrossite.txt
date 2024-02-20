@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Metagrossite|id=metagrossite|left=y
-
-}}
-{{DescBox|
-
-Enables Metagross to Mega Evolve during battle.
-
-|drop1=None
-}}

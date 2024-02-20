@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Mewnium Z|id=mewnium_z|left=y
-
-}}
-{{DescBox|
-
-Allows Mew to upgrade Psychic to a Z-Move, Genesis Supernova.
-
-|drop1=None
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Absolite|id=absolite|left=y
-
-}}
-{{DescBox|
-
-Enables Absol to Mega Evolve during battle.
-
-|drop1=None
-}}

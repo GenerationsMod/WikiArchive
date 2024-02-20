@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Muscle Feather|id=muscle_feather|left=y
-
-}}
-{{DescBox|
-
-Increases Attack EVs by 1.
-
-|drop1={{DropLoot|jet=y|nest=y}}
-}}

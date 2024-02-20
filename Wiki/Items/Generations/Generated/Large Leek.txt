@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Large Leek|id=large_leek|left=y
-
-}}
-{{DescBox|
-
-One of the many ingredients that can be used for cooking at your camp. Whether this is the kind of vegetable stalk that Farfetch’d like is unknown.
-
-|drop1={{DropLoot|dive=y|dream=y|gigaton=y|level=y}}
-}}

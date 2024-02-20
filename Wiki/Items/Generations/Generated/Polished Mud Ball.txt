@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Polished Mud Ball|id=polished_mud_ball|left=y
-
-}}
-{{DescBox|
-
-
-
-|drop1={{DropLoot|dream=y|fast=y|safari=y}}
-}}

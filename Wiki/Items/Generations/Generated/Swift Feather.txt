@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Swift Feather|id=swift_feather|left=y
-
-}}
-{{DescBox|
-
-Increases Speed EVs by 1.
-
-|drop1={{DropLoot|jet=y|nest=y}}
-}}

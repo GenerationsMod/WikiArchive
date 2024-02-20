@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Lucarionite|id=lucarionite|left=y
-
-}}
-{{DescBox|
-
-Enables Lucario to Mega Evolve during battle.
-
-|drop1=None
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Lagging Tail|id=lagging_tail|left=y
-
-}}
-{{DescBox|
-
-Holder always attacks last.
-
-|drop1={{DropLoot|heavy=y|leaden=y|level=y|lure=y|quick=y}}
-}}

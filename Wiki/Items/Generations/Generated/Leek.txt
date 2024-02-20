@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Leek|id=leek|left=y
-
-}}
-{{DescBox|
-
-Increases critical-hit ratio when held by Farfetch'd.
-
-|drop1={{DropLoot|dream=y|jet=y|nest=y|origin=y|park=y|safari=y}}
-}}

@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Salamencite|id=salamencite|left=y
-
-}}
-{{DescBox|
-
-Enables Salamence to Mega Evolve during battle.
-
-|drop1=None
-}}

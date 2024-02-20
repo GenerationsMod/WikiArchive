@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Reset Urge|id=reset_urge|left=y
-
-}}
-{{DescBox|
-
-When used, it restores any stat changes of an ally Pokémon.
-
-|drop1={{DropLoot|cherish=y|strange=y|ultra=y}}
-}}

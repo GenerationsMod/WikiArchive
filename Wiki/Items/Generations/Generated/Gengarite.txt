@@ -1,9 +1,0 @@
-{{ItemInfobox|item=Gengarite|id=gengarite|left=y
-
-}}
-{{DescBox|
-
-Enables Gengar to Mega Evolve during battle.
-
-|drop1=None
-}}
