@@ -1,0 +1,499 @@
+{
+  "pools": [
+    {
+
+      "entries": [
+        {
+
+          "name": "poke ball"
+        },
+        {
+
+          "name": "ability patch"
+        },
+        {
+
+          "name": "amulet coin"
+        },
+        {
+
+          "name": "antidote"
+        },
+        {
+
+          "name": "bachs food tin"
+        },
+        {
+
+          "name": "beach glass"
+        },
+        {
+
+          "name": "berry juice"
+        },
+        {
+
+          "name": "berry sweet"
+        },
+        {
+
+          "name": "black flute"
+        },
+        {
+
+          "name": "boiled egg"
+        },
+        {
+
+          "name": "bread"
+        },
+        {
+
+          "name": "calcium"
+        },
+        {
+
+          "name": "cherish ball"
+        },
+        {
+
+          "name": "chipped pot"
+        },
+        {
+
+          "name": "dark gem"
+        },
+        {
+
+          "name": "discount coupon"
+        },
+        {
+
+          "name": "electirizer"
+        },
+        {
+
+          "name": "electric gem"
+        },
+        {
+
+          "name": "everstone"
+        },
+        {
+
+          "name": "exp candy m"
+        },
+        {
+
+          "name": "fire gem"
+        },
+        {
+
+          "name": "flame orb"
+        },
+        {
+
+          "name": "flower sweet"
+        },
+        {
+
+          "name": "fried food"
+        },
+        {
+
+          "name": "friend ball"
+        },
+        {
+
+          "name": "fruit bunch"
+        },
+        {
+
+          "name": "galarica twig"
+        },
+        {
+
+          "name": "galarica wreath"
+        },
+        {
+
+          "name": "heart scale"
+        },
+        {
+
+          "name": "hondew berry"
+        },
+        {
+
+          "name": "honey"
+        },
+        {
+
+          "name": "hp up"
+        },
+        {
+
+          "name": "ice gem"
+        },
+        {
+
+          "name": "jaboca berry"
+        },
+        {
+
+          "name": "lax incense"
+        },
+        {
+
+          "name": "light ball"
+        },
+        {
+
+          "name": "love ball"
+        },
+        {
+
+          "name": "love sweet"
+        },
+        {
+
+          "name": "metronome"
+        },
+        {
+
+          "name": "mighty candy l"
+        },
+        {
+
+          "name": "moon ball"
+        },
+        {
+
+          "name": "pecha berry"
+        },
+        {
+
+          "name": "persim berry"
+        },
+        {
+
+          "name": "pink scarf"
+        },
+        {
+
+          "name": "poke ball"
+        },
+        {
+
+          "name": "potion"
+        },
+        {
+
+          "name": "power belt"
+        },
+        {
+
+          "name": "pure incense"
+        },
+        {
+
+          "name": "red flute"
+        },
+        {
+
+          "name": "relic silver"
+        },
+        {
+
+          "name": "reset urge"
+        },
+        {
+
+          "name": "rose incense"
+        },
+        {
+
+          "name": "sachet"
+        },
+        {
+
+          "name": "sausages"
+        },
+        {
+
+          "name": "shalour sable"
+        },
+        {
+
+          "name": "sharp beak"
+        },
+        {
+
+          "name": "silk scarf"
+        },
+        {
+
+          "name": "small bouquet"
+        },
+        {
+
+          "name": "smart candy"
+        },
+        {
+
+          "name": "spice mix"
+        },
+        {
+
+          "name": "starf berry"
+        },
+        {
+
+          "name": "sticky barb"
+        },
+        {
+
+          "name": "stretchy spring"
+        },
+        {
+
+          "name": "sweet apple"
+        },
+        {
+
+          "name": "sweet heart"
+        },
+        {
+
+          "name": "tart apple"
+        },
+        {
+
+          "name": "toxic orb"
+        },
+        {
+
+          "name": "tropical shell"
+        },
+        {
+
+          "name": "wave incense"
+        },
+        {
+
+          "name": "x special attack 6"
+        },
+        {
+
+          "name": "rotom catalog"
+        },
+        {
+
+          "name": "minecraft:gold ingot"
+        },
+        {
+
+          "name": "minecraft:saddle"
+        },
+        {
+
+          "name": "minecraft:quartz"
+        },
+        {
+
+          "name": "minecraft:prismarine shard"
+        },
+        {
+
+          "name": "minecraft:rabbit hide"
+        },
+        {
+
+          "name": "minecraft:music disc cat"
+        },
+        {
+
+          "name": "exp charm"
+        },
+        {
+
+          "name": "rockstar costume"
+        },
+        {
+
+          "name": "belle costume"
+        },
+        {
+
+          "name": "popstar costume"
+        },
+        {
+
+          "name": "phd costume"
+        },
+        {
+
+          "name": "libre costume"
+        },
+        {
+
+          "name": "rusty iron key 1"
+        },
+        {
+
+          "name": "shattered ice key 1"
+        },
+        {
+
+          "name": "crumbled rock key 1"
+        },
+        {
+
+          "name": "fragmented drago key 1"
+        },
+        {
+
+          "name": "discharged eleki key 1"
+        },
+        {
+
+          "name": "shattered relic song 1"
+        },
+        {
+
+          "name": "serious mint"
+        },
+        {
+
+          "name": "lonely mint"
+        },
+        {
+
+          "name": "brave mint"
+        },
+        {
+
+          "name": "dragon memory drive"
+        },
+        {
+
+          "name": "draco plate"
+        },
+        {
+
+          "name": "ice candy"
+        },
+        {
+
+          "name": "psychic candy"
+        },
+        {
+
+          "name": "tm 10"
+        },
+        {
+
+          "name": "tm 34"
+        },
+        {
+
+          "name": "tm 46"
+        },
+        {
+
+          "name": "tm 52"
+        },
+        {
+
+          "name": "tm 69"
+        },
+        {
+
+          "name": "tm 124"
+        },
+        {
+
+          "name": "tm 135"
+        },
+        {
+
+          "name": "tm 143"
+        },
+        {
+
+          "name": "tm 4"
+        },
+        {
+
+          "name": "tm 16"
+        },
+        {
+
+          "name": "tm 41"
+        },
+        {
+
+          "name": "tm 54"
+        },
+        {
+
+          "name": "tm 59"
+        },
+        {
+
+          "name": "tm 63"
+        },
+        {
+
+          "name": "tm 74"
+        },
+        {
+
+          "name": "tm 75"
+        },
+        {
+
+          "name": "tm 85"
+        },
+        {
+
+          "name": "tm 92"
+        },
+        {
+
+          "name": "tm 98"
+        },
+        {
+
+          "name": "tm 109"
+        },
+        {
+
+          "name": "tm 120"
+        },
+        {
+
+          "name": "tm 128"
+        },
+        {
+
+          "name": "tm 129"
+        },
+        {
+
+          "name": "tm 138"
+        },
+        {
+
+          "name": "tm 161"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      }
+    }
+  ],
+  "random sequence": "chests/cherish ball"
+}

@@ -1,0 +1,423 @@
+{
+  "pools": [
+    {
+
+      "entries": [
+        {
+
+          "name": "poke ball"
+        },
+        {
+
+          "name": "ability urge"
+        },
+        {
+
+          "name": "aguav berry"
+        },
+        {
+
+          "name": "belue berry"
+        },
+        {
+
+          "name": "black belt"
+        },
+        {
+
+          "name": "blunder policy"
+        },
+        {
+
+          "name": "carbos"
+        },
+        {
+
+          "name": "chesto berry"
+        },
+        {
+
+          "name": "choice scarf"
+        },
+        {
+
+          "name": "eject button"
+        },
+        {
+
+          "name": "electric seed"
+        },
+        {
+
+          "name": "escape rope"
+        },
+        {
+
+          "name": "exp candy xs"
+        },
+        {
+
+          "name": "fast ball"
+        },
+        {
+
+          "name": "growth mulch"
+        },
+        {
+
+          "name": "health candy"
+        },
+        {
+
+          "name": "iapapa berry"
+        },
+        {
+
+          "name": "ice gem"
+        },
+        {
+
+          "name": "instant noodles"
+        },
+        {
+
+          "name": "kelpsy berry"
+        },
+        {
+
+          "name": "liechi berry"
+        },
+        {
+
+          "name": "macho brace"
+        },
+        {
+
+          "name": "magmarizer"
+        },
+        {
+
+          "name": "magnet"
+        },
+        {
+
+          "name": "miracle seed"
+        },
+        {
+
+          "name": "moomoo cheese"
+        },
+        {
+
+          "name": "moon ball"
+        },
+        {
+
+          "name": "moon stone"
+        },
+        {
+
+          "name": "belligerent wing"
+        },
+        {
+
+          "name": "nest ball"
+        },
+        {
+
+          "name": "net ball"
+        },
+        {
+
+          "name": "pack of potatoes"
+        },
+        {
+
+          "name": "payapa berry"
+        },
+        {
+
+          "name": "pink nectar"
+        },
+        {
+
+          "name": "polished mud ball"
+        },
+        {
+
+          "name": "power anklet"
+        },
+        {
+
+          "name": "qualot berry"
+        },
+        {
+
+          "name": "quick ball"
+        },
+        {
+
+          "name": "quick candy l"
+        },
+        {
+
+          "name": "quick powder"
+        },
+        {
+
+          "name": "relic crown"
+        },
+        {
+
+          "name": "repel"
+        },
+        {
+
+          "name": "roller skates"
+        },
+        {
+
+          "name": "salac berry"
+        },
+        {
+
+          "name": "snowball"
+        },
+        {
+
+          "name": "tamato berry"
+        },
+        {
+
+          "name": "throat spray"
+        },
+        {
+
+          "name": "tough candy l"
+        },
+        {
+
+          "name": "ultra ball"
+        },
+        {
+
+          "name": "watmel berry"
+        },
+        {
+
+          "name": "electric candy"
+        },
+        {
+
+          "name": "x accuracy 6"
+        },
+        {
+
+          "name": "x attack"
+        },
+        {
+
+          "name": "x defense 3"
+        },
+        {
+
+          "name": "fiery wing"
+        },
+        {
+
+          "name": "minecraft:glowstone dust"
+        },
+        {
+
+          "name": "minecraft:nether wart"
+        },
+        {
+
+          "name": "minecraft:prismarine shard"
+        },
+        {
+
+          "name": "minecraft:warped fungus"
+        },
+        {
+
+          "name": "minecraft:music disc far"
+        },
+        {
+
+          "name": "rusty iron key 3"
+        },
+        {
+
+          "name": "shattered ice key 3"
+        },
+        {
+
+          "name": "crumbled rock key 3"
+        },
+        {
+
+          "name": "fragmented drago key 3"
+        },
+        {
+
+          "name": "discharged eleki key 3"
+        },
+        {
+
+          "name": "shattered relic song 3"
+        },
+        {
+
+          "name": "exp candy s"
+        },
+        {
+
+          "name": "ice memory drive"
+        },
+        {
+
+          "name": "icicle plate"
+        },
+        {
+
+          "name": "pokemail air"
+        },
+        {
+
+          "name": "pokemail bloom"
+        },
+        {
+
+          "name": "pokemail brick"
+        },
+        {
+
+          "name": "pokemail bridge d"
+        },
+        {
+
+          "name": "pokemail bridge m"
+        },
+        {
+
+          "name": "pokemail bridge s"
+        },
+        {
+
+          "name": "pokemail bridge t"
+        },
+        {
+
+          "name": "pokemail bridge v"
+        },
+        {
+
+          "name": "pokemail bubble"
+        },
+        {
+
+          "name": "pokemail dream"
+        },
+        {
+
+          "name": "pokemail fab"
+        },
+        {
+
+          "name": "pokemail favored"
+        },
+        {
+
+          "name": "pokemail flame"
+        },
+        {
+
+          "name": "pokemail glitter"
+        },
+        {
+
+          "name": "pokemail grass"
+        },
+        {
+
+          "name": "pokemail greet"
+        },
+        {
+
+          "name": "pokemail harbor"
+        },
+        {
+
+          "name": "pokemail heart"
+        },
+        {
+
+          "name": "pokemail inquiry"
+        },
+        {
+
+          "name": "pokemail like"
+        },
+        {
+
+          "name": "pokemail mech"
+        },
+        {
+
+          "name": "pokemail mosaic"
+        },
+        {
+
+          "name": "tm 9"
+        },
+        {
+
+          "name": "tm 23"
+        },
+        {
+
+          "name": "tm 48"
+        },
+        {
+
+          "name": "tm 68"
+        },
+        {
+
+          "name": "tm 72"
+        },
+        {
+
+          "name": "tm 82"
+        },
+        {
+
+          "name": "tm 96"
+        },
+        {
+
+          "name": "tm 126"
+        },
+        {
+
+          "name": "tm 136"
+        },
+        {
+
+          "name": "tm 147"
+        },
+        {
+
+          "name": "tm 166"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      }
+    }
+  ],
+  "random sequence": "chests/fast ball"
+}

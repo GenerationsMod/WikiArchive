@@ -1,0 +1,387 @@
+{
+  "pools": [
+    {
+
+      "entries": [
+        {
+
+          "name": "poke ball"
+        },
+        {
+
+          "name": "apicot berry"
+        },
+        {
+
+          "name": "aspear berry"
+        },
+        {
+
+          "name": "assault vest"
+        },
+        {
+
+          "name": "black belt"
+        },
+        {
+
+          "name": "black glasses"
+        },
+        {
+
+          "name": "blue flute"
+        },
+        {
+
+          "name": "bread"
+        },
+        {
+
+          "name": "bright powder"
+        },
+        {
+
+          "name": "charcoal"
+        },
+        {
+
+          "name": "chilan berry"
+        },
+        {
+
+          "name": "chople berry"
+        },
+        {
+
+          "name": "dire hit 3"
+        },
+        {
+
+          "name": "dive ball"
+        },
+        {
+
+          "name": "energy root"
+        },
+        {
+
+          "name": "expert belt"
+        },
+        {
+
+          "name": "fighting gem"
+        },
+        {
+
+          "name": "fire stone"
+        },
+        {
+
+          "name": "focus band"
+        },
+        {
+
+          "name": "focus sash"
+        },
+        {
+
+          "name": "hard stone"
+        },
+        {
+
+          "name": "heal ball"
+        },
+        {
+
+          "name": "heavy duty boots"
+        },
+        {
+
+          "name": "iron"
+        },
+        {
+
+          "name": "kelpsy berry"
+        },
+        {
+
+          "name": "kings rock"
+        },
+        {
+
+          "name": "lava cookie"
+        },
+        {
+
+          "name": "level ball"
+        },
+        {
+
+          "name": "liechi berry"
+        },
+        {
+
+          "name": "lucky punch"
+        },
+        {
+
+          "name": "macho brace"
+        },
+        {
+
+          "name": "mighty candy"
+        },
+        {
+
+          "name": "muscle band"
+        },
+        {
+
+          "name": "belligerent wing"
+        },
+        {
+
+          "name": "occa berry"
+        },
+        {
+
+          "name": "pink scarf"
+        },
+        {
+
+          "name": "power anklet"
+        },
+        {
+
+          "name": "power bracer"
+        },
+        {
+
+          "name": "elegant wing"
+        },
+        {
+
+          "name": "protective pads"
+        },
+        {
+
+          "name": "protein"
+        },
+        {
+
+          "name": "pungent root"
+        },
+        {
+
+          "name": "quick claw"
+        },
+        {
+
+          "name": "safety goggles"
+        },
+        {
+
+          "name": "shoal salt"
+        },
+        {
+
+          "name": "smart candy"
+        },
+        {
+
+          "name": "soft sand"
+        },
+        {
+
+          "name": "spice mix"
+        },
+        {
+
+          "name": "sport ball"
+        },
+        {
+
+          "name": "sticky barb"
+        },
+        {
+
+          "name": "super potion"
+        },
+        {
+
+          "name": "terrain extender"
+        },
+        {
+
+          "name": "utility umbrella"
+        },
+        {
+
+          "name": "white flute"
+        },
+        {
+
+          "name": "wide lens"
+        },
+        {
+
+          "name": "fighting candy"
+        },
+        {
+
+          "name": "x defense 3"
+        },
+        {
+
+          "name": "x special defense"
+        },
+        {
+
+          "name": "minecraft:string"
+        },
+        {
+
+          "name": "minecraft:gunpowder"
+        },
+        {
+
+          "name": "minecraft:saddle"
+        },
+        {
+
+          "name": "minecraft:rabbit foot"
+        },
+        {
+
+          "name": "minecraft:rabbit hide"
+        },
+        {
+
+          "name": "minecraft:music disc wait"
+        },
+        {
+
+          "name": "mark charm"
+        },
+        {
+
+          "name": "rockstar costume"
+        },
+        {
+
+          "name": "belle costume"
+        },
+        {
+
+          "name": "popstar costume"
+        },
+        {
+
+          "name": "phd costume"
+        },
+        {
+
+          "name": "libre costume"
+        },
+        {
+
+          "name": "old rod"
+        },
+        {
+
+          "name": "good rod"
+        },
+        {
+
+          "name": "super rod"
+        },
+        {
+
+          "name": "rusty iron key 4"
+        },
+        {
+
+          "name": "shattered ice key 4"
+        },
+        {
+
+          "name": "crumbled rock key 4"
+        },
+        {
+
+          "name": "fragmented drago key 4"
+        },
+        {
+
+          "name": "discharged eleki key 4"
+        },
+        {
+
+          "name": "shattered relic song 4"
+        },
+        {
+
+          "name": "fire memory drive"
+        },
+        {
+
+          "name": "fighting memory drive"
+        },
+        {
+
+          "name": "flame plate"
+        },
+        {
+
+          "name": "fist plate"
+        },
+        {
+
+          "name": "tm 12"
+        },
+        {
+
+          "name": "tm 39"
+        },
+        {
+
+          "name": "tm 58"
+        },
+        {
+
+          "name": "tm 64"
+        },
+        {
+
+          "name": "tm 73"
+        },
+        {
+
+          "name": "tm 89"
+        },
+        {
+
+          "name": "tm 112"
+        },
+        {
+
+          "name": "tm 134"
+        },
+        {
+
+          "name": "tm 158"
+        },
+        {
+
+          "name": "tm 167"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      }
+    }
+  ],
+  "random sequence": "chests/sport ball"
+}

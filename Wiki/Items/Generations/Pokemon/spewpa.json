@@ -1,0 +1,531 @@
+{
+  "implemented": true,
+  "name": "Spewpa",
+  "nationalPokedexNumber": 665,
+  "primaryType": "bug",
+  "abilities": [
+    "shedskin",
+    "h:friendguard"
+  ],
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:string",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "bright powder",
+        "percentage": 2.5
+      },
+      {
+        "item": "cheri berry",
+        "percentage": 2.5
+      }
+    ]
+  },
+  "baseStats": {
+    "hp": 45,
+    "attack": 22,
+    "defence": 60,
+    "special attack": 27,
+    "special defence": 30,
+    "speed": 29
+  },
+  "catchRate": 120,
+  "maleRatio": 0.5,
+  "shoulderMountable": false,
+  "baseExperienceYield": 75,
+  "experienceGroup": "medium fast",
+  "eggCycles": 15,
+  "eggGroups": [
+    "bug"
+  ],
+  "behaviour": {
+    "moving": {
+      "walk": {
+        "canWalk": false
+      },
+      "swim": {
+        "canSwimInWater": false
+      },
+      "canLook": false
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  },
+  "moves": [
+    "1:harden",
+    "1:protect",
+    "tm:irondefense",
+    "tm:pounce",
+    "tm:protect",
+    "tm:strugglebug",
+    "tm:terablast",
+    "tutor:bugbite",
+    "tutor:electroweb",
+    "tutor:irondefense"
+  ],
+  "labels": [
+    "gen6"
+  ],
+  "pokedex": [
+    "cobblemon.species.spewpa.desc"
+  ],
+  "preEvolution": "scatterbug",
+  "evolutions": [
+    {
+      "id": "spewpa vivillon archipelago",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=archipelago",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is mushroom"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon continental",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=continental",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is plains"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon elegant",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=elegant",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is spooky"
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is magical"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon fancy",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=fancy",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "minecraft:cherry grove"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon garden",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=garden",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is forest"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon high plains",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=high-plains",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is badlands"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon icy snow",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=icy-snow",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is taiga"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon jungle",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=jungle",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is jungle"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon marine",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=marine",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is ocean"
+        },
+        {
+          "variant": "biome",
+          "biomeAnticondition": "#cobblemon:is warm ocean"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon meadow",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=meadow",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is floral"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon modern",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=modern",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "structure",
+          "structureCondition": "#minecraft:village"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon monsoon",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=monsoon",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is mountain"
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is peak"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon ocean",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=ocean",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:vivillon evolutions/ocean"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon polar",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=polar",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is frozen ocean"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon river",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=river",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:vivillon evolutions/river"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon sandstorm",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=sandstorm",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is desert"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon savanna",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=savanna",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is savanna"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon sun",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=sun",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:vivillon evolutions/sun"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon tundra",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=tundra",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:vivillon evolutions/tundra"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon inferno",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=inferno",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#minecraft:is nether"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon void",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=void",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#minecraft:is end"
+        }
+      ]
+    },
+    {
+      "id": "spewpa vivillon forsaken",
+      "variant": "level up",
+      "result": "vivillon vivillon wings=forsaken",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "gust"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 12
+        },
+        {
+          "variant": "biome",
+          "biomeCondition": "#cobblemon:is deep dark"
+        }
+      ]
+    }
+  ],
+  "baseScale": 0.8,
+  "hitbox": {
+    "width": 0.5,
+    "height": 0.7,
+    "fixed": false
+  },
+  "baseFriendship": 70,
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 2,
+    "special attack": 0,
+    "special defence": 0,
+    "speed": 0
+  },
+  "height": 3,
+  "weight": 84,
+  "aspects": [],
+  "cannotDynamax": false
+}

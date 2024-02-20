@@ -1,0 +1,519 @@
+{
+  "pools": [
+    {
+
+      "entries": [
+        {
+
+          "name": "poke ball"
+        },
+        {
+
+          "name": "ability patch"
+        },
+        {
+
+          "name": "adamant orb"
+        },
+        {
+
+          "name": "air balloon"
+        },
+        {
+
+          "name": "big malasada"
+        },
+        {
+
+          "name": "boiled egg"
+        },
+        {
+
+          "name": "bottle cap"
+        },
+        {
+
+          "name": "charti berry"
+        },
+        {
+
+          "name": "chilan berry"
+        },
+        {
+
+          "name": "choice band"
+        },
+        {
+
+          "name": "comet shard"
+        },
+        {
+
+          "name": "destiny knot"
+        },
+        {
+
+          "name": "elevator key"
+        },
+        {
+
+          "name": "exp candy xs"
+        },
+        {
+
+          "name": "fighting gem"
+        },
+        {
+
+          "name": "fluffy tail"
+        },
+        {
+
+          "name": "silver wing"
+        },
+        {
+
+          "name": "rainbow wing"
+        },
+        {
+
+          "name": "gold bottle cap"
+        },
+        {
+
+          "name": "gold leaf"
+        },
+        {
+
+          "name": "grass gem"
+        },
+        {
+
+          "name": "green scarf"
+        },
+        {
+
+          "name": "grubby hanky"
+        },
+        {
+
+          "name": "health candy xl"
+        },
+        {
+
+          "name": "honey"
+        },
+        {
+
+          "name": "leek"
+        },
+        {
+
+          "name": "leftovers"
+        },
+        {
+
+          "name": "lone earring"
+        },
+        {
+
+          "name": "lustrous orb"
+        },
+        {
+
+          "name": "master ball"
+        },
+        {
+
+          "name": "max mushrooms"
+        },
+        {
+
+          "name": "odd keystone"
+        },
+        {
+
+          "name": "park ball"
+        },
+        {
+
+          "name": "pp max"
+        },
+        {
+
+          "name": "rare bone"
+        },
+        {
+
+          "name": "relic copper"
+        },
+        {
+
+          "name": "relic gold"
+        },
+        {
+
+          "name": "relic silver"
+        },
+        {
+
+          "name": "rock gem"
+        },
+        {
+
+          "name": "spelon berry"
+        },
+        {
+
+          "name": "tough candy xl"
+        },
+        {
+
+          "name": "white flute"
+        },
+        {
+
+          "name": "x accuracy 3"
+        },
+        {
+
+          "name": "x defense"
+        },
+        {
+
+          "name": "x special attack 6"
+        },
+        {
+
+          "name": "x special defense 6"
+        },
+        {
+
+          "name": "x speed 3"
+        },
+        {
+
+          "name": "x speed 6"
+        },
+        {
+
+          "name": "yellow flute"
+        },
+        {
+
+          "name": "minecraft:diamond"
+        },
+        {
+
+          "name": "minecraft:music disc otherside"
+        },
+        {
+
+          "name": "rusty iron key 4"
+        },
+        {
+
+          "name": "shattered ice key 4"
+        },
+        {
+
+          "name": "crumbled rock key 4"
+        },
+        {
+
+          "name": "fragmented drago key 4"
+        },
+        {
+
+          "name": "discharged eleki key 4"
+        },
+        {
+
+          "name": "shattered relic song 4"
+        },
+        {
+
+          "name": "sun flute"
+        },
+        {
+
+          "name": "moon flute"
+        },
+        {
+
+          "name": "n solarizer"
+        },
+        {
+
+          "name": "n lunarizer"
+        },
+        {
+
+          "name": "melody flute"
+        },
+        {
+
+          "name": "hoopa ring"
+        },
+        {
+
+          "name": "gracidea"
+        },
+        {
+
+          "name": "serious mint"
+        },
+        {
+
+          "name": "lonely mint"
+        },
+        {
+
+          "name": "brave mint"
+        },
+        {
+
+          "name": "adamant mint"
+        },
+        {
+
+          "name": "naughty mint"
+        },
+        {
+
+          "name": "bold mint"
+        },
+        {
+
+          "name": "relaxed mint"
+        },
+        {
+
+          "name": "impish mint"
+        },
+        {
+
+          "name": "gentle mint"
+        },
+        {
+
+          "name": "lax mint"
+        },
+        {
+
+          "name": "timid mint"
+        },
+        {
+
+          "name": "hasty mint"
+        },
+        {
+
+          "name": "jolly mint"
+        },
+        {
+
+          "name": "naive mint"
+        },
+        {
+
+          "name": "modest mint"
+        },
+        {
+
+          "name": "quiet mint"
+        },
+        {
+
+          "name": "rash mint"
+        },
+        {
+
+          "name": "mild mint"
+        },
+        {
+
+          "name": "calm mint"
+        },
+        {
+
+          "name": "sassy mint"
+        },
+        {
+
+          "name": "careful mint"
+        },
+        {
+
+          "name": "bug memory drive"
+        },
+        {
+
+          "name": "dark memory drive"
+        },
+        {
+
+          "name": "dragon memory drive"
+        },
+        {
+
+          "name": "electric memory drive"
+        },
+        {
+
+          "name": "fairy memory drive"
+        },
+        {
+
+          "name": "fighting memory drive"
+        },
+        {
+
+          "name": "fire memory drive"
+        },
+        {
+
+          "name": "flying memory drive"
+        },
+        {
+
+          "name": "ghost memory drive"
+        },
+        {
+
+          "name": "grass memory drive"
+        },
+        {
+
+          "name": "ground memory drive"
+        },
+        {
+
+          "name": "ice memory drive"
+        },
+        {
+
+          "name": "poison memory drive"
+        },
+        {
+
+          "name": "psychic memory drive"
+        },
+        {
+
+          "name": "rock memory drive"
+        },
+        {
+
+          "name": "steel memory drive"
+        },
+        {
+
+          "name": "water memory drive"
+        },
+        {
+
+          "name": "tm 8"
+        },
+        {
+
+          "name": "tm 24"
+        },
+        {
+
+          "name": "tm 38"
+        },
+        {
+
+          "name": "tm 49"
+        },
+        {
+
+          "name": "tm 67"
+        },
+        {
+
+          "name": "tm 107"
+        },
+        {
+
+          "name": "tm 118"
+        },
+        {
+
+          "name": "tm 125"
+        },
+        {
+
+          "name": "tm 141"
+        },
+        {
+
+          "name": "tm 144"
+        },
+        {
+
+          "name": "tm 153"
+        },
+        {
+
+          "name": "tm 157"
+        },
+        {
+
+          "name": "tm 165"
+        },
+        {
+
+          "name": "tm 20"
+        },
+        {
+
+          "name": "tm 33"
+        },
+        {
+
+          "name": "tm 56"
+        },
+        {
+
+          "name": "tm 71"
+        },
+        {
+
+          "name": "tm 81"
+        },
+        {
+
+          "name": "tm 111"
+        },
+        {
+
+          "name": "tm 119"
+        },
+        {
+
+          "name": "tm 137"
+        },
+        {
+
+          "name": "tm 146"
+        },
+        {
+
+          "name": "tm 155"
+        },
+        {
+
+          "name": "tm 159"
+        },
+        {
+
+          "name": "tm 168"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random sequence": "chests/park ball"
+}

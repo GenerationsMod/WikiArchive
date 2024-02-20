@@ -1,0 +1,411 @@
+{
+  "pools": [
+    {
+
+      "entries": [
+        {
+
+          "name": "poke ball"
+        },
+        {
+
+          "name": "antidote"
+        },
+        {
+
+          "name": "berry juice"
+        },
+        {
+
+          "name": "blue shard"
+        },
+        {
+
+          "name": "blunder policy"
+        },
+        {
+
+          "name": "boiled egg"
+        },
+        {
+
+          "name": "casteliacone"
+        },
+        {
+
+          "name": "cell battery"
+        },
+        {
+
+          "name": "choice scarf"
+        },
+        {
+
+          "name": "custap berry"
+        },
+        {
+
+          "name": "float stone"
+        },
+        {
+
+          "name": "fresh cream"
+        },
+        {
+
+          "name": "full incense"
+        },
+        {
+
+          "name": "grip claw"
+        },
+        {
+
+          "name": "haban berry"
+        },
+        {
+
+          "name": "hard stone"
+        },
+        {
+
+          "name": "health feather"
+        },
+        {
+
+          "name": "heart scale"
+        },
+        {
+
+          "name": "honey"
+        },
+        {
+
+          "name": "kasib berry"
+        },
+        {
+
+          "name": "lagging tail"
+        },
+        {
+
+          "name": "max potion"
+        },
+        {
+
+          "name": "max repel"
+        },
+        {
+
+          "name": "metal powder"
+        },
+        {
+
+          "name": "metronome"
+        },
+        {
+
+          "name": "nanab berry"
+        },
+        {
+
+          "name": "pomeg berry"
+        },
+        {
+
+          "name": "power anklet"
+        },
+        {
+
+          "name": "power band"
+        },
+        {
+
+          "name": "precooked burger"
+        },
+        {
+
+          "name": "premier ball"
+        },
+        {
+
+          "name": "protector"
+        },
+        {
+
+          "name": "discharged eleki key 1"
+        },
+        {
+
+          "name": "discharged eleki key 2"
+        },
+        {
+
+          "name": "discharged eleki key 3"
+        },
+        {
+
+          "name": "discharged eleki key 4"
+        },
+        {
+
+          "name": "quick ball"
+        },
+        {
+
+          "name": "quick candy xl"
+        },
+        {
+
+          "name": "quick claw"
+        },
+        {
+
+          "name": "red flute"
+        },
+        {
+
+          "name": "icy wing"
+        },
+        {
+
+          "name": "roller skates"
+        },
+        {
+
+          "name": "room service"
+        },
+        {
+
+          "name": "salac berry"
+        },
+        {
+
+          "name": "smoked poke tail"
+        },
+        {
+
+          "name": "spelon berry"
+        },
+        {
+
+          "name": "static wing"
+        },
+        {
+
+          "name": "terrain extender"
+        },
+        {
+
+          "name": "thick club"
+        },
+        {
+
+          "name": "normal candy"
+        },
+        {
+
+          "name": "electric candy"
+        },
+        {
+
+          "name": "x accuracy 2"
+        },
+        {
+
+          "name": "x attack 3"
+        },
+        {
+
+          "name": "x special attack 3"
+        },
+        {
+
+          "name": "x special defense 3"
+        },
+        {
+
+          "name": "x speed 6"
+        },
+        {
+
+          "name": "yellow nectar"
+        },
+        {
+
+          "name": "yellow shard"
+        },
+        {
+
+          "name": "zinc"
+        },
+        {
+
+          "name": "zoom lens"
+        },
+        {
+
+          "name": "minecraft:feather"
+        },
+        {
+
+          "name": "minecraft:porkchop"
+        },
+        {
+
+          "name": "minecraft:rabbit foot"
+        },
+        {
+
+          "name": "minecraft:music disc stal"
+        },
+        {
+
+          "name": "dragon soul"
+        },
+        {
+
+          "name": "sassy mint"
+        },
+        {
+
+          "name": "careful mint"
+        },
+        {
+
+          "name": "dark memory drive"
+        },
+        {
+
+          "name": "dread plate"
+        },
+        {
+
+          "name": "tm 1"
+        },
+        {
+
+          "name": "tm 6"
+        },
+        {
+
+          "name": "tm 7"
+        },
+        {
+
+          "name": "tm 25"
+        },
+        {
+
+          "name": "tm 32"
+        },
+        {
+
+          "name": "tm 47"
+        },
+        {
+
+          "name": "tm 57"
+        },
+        {
+
+          "name": "tm 66"
+        },
+        {
+
+          "name": "tm 70"
+        },
+        {
+
+          "name": "tm 80"
+        },
+        {
+
+          "name": "tm 88"
+        },
+        {
+
+          "name": "tm 103"
+        },
+        {
+
+          "name": "tm 117"
+        },
+        {
+
+          "name": "tm 122"
+        },
+        {
+
+          "name": "tm 130"
+        },
+        {
+
+          "name": "tm 132"
+        },
+        {
+
+          "name": "tm 152"
+        },
+        {
+
+          "name": "tm 163"
+        },
+        {
+
+          "name": "tm 171"
+        },
+        {
+
+          "name": "tm 9"
+        },
+        {
+
+          "name": "tm 23"
+        },
+        {
+
+          "name": "tm 48"
+        },
+        {
+
+          "name": "tm 68"
+        },
+        {
+
+          "name": "tm 72"
+        },
+        {
+
+          "name": "tm 82"
+        },
+        {
+
+          "name": "tm 96"
+        },
+        {
+
+          "name": "tm 126"
+        },
+        {
+
+          "name": "tm 136"
+        },
+        {
+
+          "name": "tm 147"
+        },
+        {
+
+          "name": "tm 166"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      }
+    }
+  ],
+  "random sequence": "chests/quick ball"
+}

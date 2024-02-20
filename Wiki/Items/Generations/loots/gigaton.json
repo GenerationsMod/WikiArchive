@@ -1,0 +1,343 @@
+{
+  "pools": [
+    {
+
+      "entries": [
+        {
+
+          "name": "poke ball"
+        },
+        {
+
+          "name": "heavy ball"
+        },
+        {
+
+          "name": "heavy duty boots"
+        },
+        {
+
+          "name": "hyper potion"
+        },
+        {
+
+          "name": "iron"
+        },
+        {
+
+          "name": "iron ball"
+        },
+        {
+
+          "name": "dragon soul"
+        },
+        {
+
+          "name": "meteorite shard"
+        },
+        {
+
+          "name": "legend plate"
+        },
+        {
+
+          "name": "rock gem"
+        },
+        {
+
+          "name": "rocky helmet"
+        },
+        {
+
+          "name": "safety goggles"
+        },
+        {
+
+          "name": "sprink lotad"
+        },
+        {
+
+          "name": "steel gem"
+        },
+        {
+
+          "name": "sticky barb"
+        },
+        {
+
+          "name": "strange souvenir"
+        },
+        {
+
+          "name": "stretchy spring"
+        },
+        {
+
+          "name": "timer ball"
+        },
+        {
+
+          "name": "tough candy xl"
+        },
+        {
+
+          "name": "upgrade"
+        },
+        {
+
+          "name": "steel candy"
+        },
+        {
+
+          "name": "exp candy xl"
+        },
+        {
+
+          "name": "tin of beans"
+        },
+        {
+
+          "name": "smoked poke tail"
+        },
+        {
+
+          "name": "large leek"
+        },
+        {
+
+          "name": "pack of potatoes"
+        },
+        {
+
+          "name": "bottle cap"
+        },
+        {
+
+          "name": "eject button"
+        },
+        {
+
+          "name": "assault vest"
+        },
+        {
+
+          "name": "kings rock"
+        },
+        {
+
+          "name": "metal powder"
+        },
+        {
+
+          "name": "metronome"
+        },
+        {
+
+          "name": "soothe bell"
+        },
+        {
+
+          "name": "babiri berry"
+        },
+        {
+
+          "name": "iron plate"
+        },
+        {
+
+          "name": "metal coat"
+        },
+        {
+
+          "name": "steel memory drive"
+        },
+        {
+
+          "name": "enigma berry"
+        },
+        {
+
+          "name": "sitrus berry"
+        },
+        {
+
+          "name": "oran berry"
+        },
+        {
+
+          "name": "figy berry"
+        },
+        {
+
+          "name": "absorb bulb"
+        },
+        {
+
+          "name": "damp rock"
+        },
+        {
+
+          "name": "crumbled rock key 1"
+        },
+        {
+
+          "name": "crumbled rock key 2"
+        },
+        {
+
+          "name": "crumbled rock key 3"
+        },
+        {
+
+          "name": "crumbled rock key 4"
+        },
+        {
+
+          "name": "lustrous globe"
+        },
+        {
+
+          "name": "griseous core"
+        },
+        {
+
+          "name": "adamant crystal"
+        },
+        {
+
+          "name": "cascarrafa city disc"
+        },
+        {
+
+          "name": "slumbering weald disc"
+        },
+        {
+
+          "name": "pokemon center disc"
+        },
+        {
+
+          "name": "azalea town disc"
+        },
+        {
+
+          "name": "lillie disc"
+        },
+        {
+
+          "name": "route 228 disc"
+        },
+        {
+
+          "name": "jubilife village disc"
+        },
+        {
+
+          "name": "goldenrod city disc"
+        },
+        {
+
+          "name": "eterna city disc"
+        },
+        {
+
+          "name": "vermilion city disc"
+        },
+        {
+
+          "name": "eviolite"
+        },
+        {
+
+          "name": "hard stone"
+        },
+        {
+
+          "name": "lucky egg"
+        },
+        {
+
+          "name": "power anklet"
+        },
+        {
+
+          "name": "power band"
+        },
+        {
+
+          "name": "power belt"
+        },
+        {
+
+          "name": "power bracer"
+        },
+        {
+
+          "name": "power lens"
+        },
+        {
+
+          "name": "power weight"
+        },
+        {
+
+          "name": "rocky helmet"
+        },
+        {
+
+          "name": "room service"
+        },
+        {
+
+          "name": "soft sand"
+        },
+        {
+
+          "name": "thick club"
+        },
+        {
+
+          "name": "wide lens"
+        },
+        {
+
+          "name": "z ingot"
+        },
+        {
+
+          "name": "tm 31"
+        },
+        {
+
+          "name": "tm 53"
+        },
+        {
+
+          "name": "tm 93"
+        },
+        {
+
+          "name": "tm 43"
+        },
+        {
+
+          "name": "tm 99"
+        },
+        {
+
+          "name": "tm 104"
+        },
+        {
+
+          "name": "tm 121"
+        },
+        {
+
+          "name": "tm 170"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random sequence": "chests/gigaton ball"
+}

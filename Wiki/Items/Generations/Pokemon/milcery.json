@@ -1,0 +1,1710 @@
+{
+  "implemented": true,
+  "name": "Milcery",
+  "nationalPokedexNumber": 868,
+  "primaryType": "fairy",
+  "abilities": [
+    "sweetveil",
+    "h:aromaveil"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 40,
+    "defence": 40,
+    "special attack": 50,
+    "special defence": 61,
+    "speed": 34
+  },
+  "catchRate": 200,
+  "maleRatio": 0,
+  "shoulderMountable": true,
+  "baseExperienceYield": 54,
+  "experienceGroup": "medium fast",
+  "eggCycles": 20,
+  "eggGroups": [
+    "fairy",
+    "amorphous"
+  ],
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "minecraft:sugar",
+        "quantityRange": "0-1"
+      }
+    ]
+  },
+  "moves": [
+    "1:aromaticmist",
+    "1:tackle",
+    "5:sweetkiss",
+    "10:sweetscent",
+    "15:drainingkiss",
+    "20:aromatherapy",
+    "25:attract",
+    "30:acidarmor",
+    "35:dazzlinggleam",
+    "40:recover",
+    "45:mistyterrain",
+    "50:entrainment",
+    "egg:babydolleyes",
+    "egg:lastresort",
+    "tm:attract",
+    "tm:charm",
+    "tm:dazzlinggleam",
+    "tm:drainingkiss",
+    "tm:endure",
+    "tm:facade",
+    "tm:fling",
+    "tm:helpinghand",
+    "tm:mistyterrain",
+    "tm:protect",
+    "tm:rest",
+    "tm:round",
+    "tm:sleeptalk",
+    "tm:snore",
+    "tm:storedpower",
+    "tm:substitute",
+    "tutor:attract",
+    "tutor:celebrate",
+    "tutor:entrainment",
+    "tutor:lastresort"
+  ],
+  "labels": [
+    "gen8"
+  ],
+  "pokedex": [
+    "cobblemon.species.milcery.desc"
+  ],
+  "evolutions": [
+    {
+      "id": "milcery alcremie strawberry shiny",
+      "variant": "level up",
+      "result": "alcremie s decoration=strawberry",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "properties",
+          "target": "shiny"
+        },
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:strawberry sweet"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie strawberry caramelswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=strawberry cream=caramel swirl",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:strawberry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie strawberry lemon",
+      "variant": "level up",
+      "result": "alcremie decoration=strawberry cream=lemon",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:strawberry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie strawberry matcha",
+      "variant": "level up",
+      "result": "alcremie decoration=strawberry cream=matcha",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:strawberry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie strawberry mint",
+      "variant": "level up",
+      "result": "alcremie decoration=strawberry cream=mint",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:strawberry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie strawberry rainbowswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=strawberry cream=rainbow swirl",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:strawberry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "dusk"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie strawberry ruby",
+      "variant": "level up",
+      "result": "alcremie decoration=strawberry cream=ruby",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:strawberry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie strawberry rubyswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=strawberry cream=ruby swirl",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:strawberry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie strawberry salted",
+      "variant": "level up",
+      "result": "alcremie decoration=strawberry cream=salted",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:strawberry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie strawberry vanilla",
+      "variant": "level up",
+      "result": "alcremie decoration=strawberry cream=vanilla",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:strawberry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie love shiny",
+      "variant": "level up",
+      "result": "alcremie s decoration=love",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "properties",
+          "target": "shiny"
+        },
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:love sweet"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie love caramelswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=love cream=caramel swirl",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:love sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie love lemon",
+      "variant": "level up",
+      "result": "alcremie decoration=love cream=lemon",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:love sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie love matcha",
+      "variant": "level up",
+      "result": "alcremie decoration=love cream=matcha",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:love sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie love mint",
+      "variant": "level up",
+      "result": "alcremie decoration=love cream=mint",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:love sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie love rainbowswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=love cream=rainbow swirl",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:love sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "dusk"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie love ruby",
+      "variant": "level up",
+      "result": "alcremie decoration=love cream=ruby",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:love sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie love rubyswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=love cream=ruby swirl",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:love sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie love salted",
+      "variant": "level up",
+      "result": "alcremie decoration=love cream=salted",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:love sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie love vanilla",
+      "variant": "level up",
+      "result": "alcremie decoration=love cream=vanilla",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:love sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie berry shiny",
+      "variant": "level up",
+      "result": "alcremie s decoration=berry",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "properties",
+          "target": "shiny"
+        },
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:berry sweet"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie berry caramelswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=berry cream=caramel swirl",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:berry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie berry lemon",
+      "variant": "level up",
+      "result": "alcremie decoration=berry cream=lemon",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:berry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie berry matcha",
+      "variant": "level up",
+      "result": "alcremie decoration=berry cream=matcha",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:berry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie berry mint",
+      "variant": "level up",
+      "result": "alcremie decoration=berry cream=mint",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:berry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie berry rainbowswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=berry cream=rainbow swirl",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:berry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "dusk"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie berry ruby",
+      "variant": "level up",
+      "result": "alcremie decoration=berry cream=ruby",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:berry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie berry rubyswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=berry cream=ruby swirl",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:berry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie berry salted",
+      "variant": "level up",
+      "result": "alcremie decoration=berry cream=salted",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:berry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie berry vanilla",
+      "variant": "level up",
+      "result": "alcremie decoration=berry cream=vanilla",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:berry sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie clover shiny",
+      "variant": "level up",
+      "result": "alcremie s decoration=clover",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "properties",
+          "target": "shiny"
+        },
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:clover sweet"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie clover caramelswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=clover cream=caramel swirl",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:clover sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie clover lemon",
+      "variant": "level up",
+      "result": "alcremie decoration=clover cream=lemon",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:clover sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie clover matcha",
+      "variant": "level up",
+      "result": "alcremie decoration=clover cream=matcha",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:clover sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie clover mint",
+      "variant": "level up",
+      "result": "alcremie decoration=clover cream=mint",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:clover sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie clover rainbowswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=clover cream=rainbow swirl",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:clover sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "dusk"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie clover ruby",
+      "variant": "level up",
+      "result": "alcremie decoration=clover cream=ruby",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:clover sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie clover rubyswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=clover cream=ruby swirl",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:clover sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie clover salted",
+      "variant": "level up",
+      "result": "alcremie decoration=clover cream=salted",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:clover sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie clover vanilla",
+      "variant": "level up",
+      "result": "alcremie decoration=clover cream=vanilla",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:clover sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie flower shiny",
+      "variant": "level up",
+      "result": "alcremie s decoration=flower",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "properties",
+          "target": "shiny"
+        },
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:flower sweet"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie flower caramelswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=flower cream=caramel swirl",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:flower sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie flower lemon",
+      "variant": "level up",
+      "result": "alcremie decoration=flower cream=lemon",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:flower sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie flower matcha",
+      "variant": "level up",
+      "result": "alcremie decoration=flower cream=matcha",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:flower sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie flower mint",
+      "variant": "level up",
+      "result": "alcremie decoration=flower cream=mint",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:flower sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie flower rainbowswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=flower cream=rainbow swirl",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:flower sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "dusk"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie flower ruby",
+      "variant": "level up",
+      "result": "alcremie decoration=flower cream=ruby",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:flower sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie flower rubyswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=flower cream=ruby swirl",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:flower sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie flower salted",
+      "variant": "level up",
+      "result": "alcremie decoration=flower cream=salted",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:flower sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie flower vanilla",
+      "variant": "level up",
+      "result": "alcremie decoration=flower cream=vanilla",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:flower sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie star shiny",
+      "variant": "level up",
+      "result": "alcremie s decoration=star",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "properties",
+          "target": "shiny"
+        },
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:star sweet"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie star caramelswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=star cream=caramel swirl",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:star sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie star lemon",
+      "variant": "level up",
+      "result": "alcremie decoration=star cream=lemon",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:star sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie star matcha",
+      "variant": "level up",
+      "result": "alcremie decoration=star cream=matcha",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:star sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie star mint",
+      "variant": "level up",
+      "result": "alcremie decoration=star cream=mint",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:star sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie star rainbowswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=star cream=rainbow swirl",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:star sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "dusk"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie star ruby",
+      "variant": "level up",
+      "result": "alcremie decoration=star cream=ruby",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:star sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie star rubyswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=star cream=ruby swirl",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:star sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie star salted",
+      "variant": "level up",
+      "result": "alcremie decoration=star cream=salted",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:star sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie star vanilla",
+      "variant": "level up",
+      "result": "alcremie decoration=star cream=vanilla",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:star sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie ribbon shiny",
+      "variant": "level up",
+      "result": "alcremie s decoration=ribbon",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "properties",
+          "target": "shiny"
+        },
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:ribbon sweet"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie ribbon caramelswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=ribbon cream=caramel swirl",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:ribbon sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie ribbon lemon",
+      "variant": "level up",
+      "result": "alcremie decoration=ribbon cream=lemon",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:ribbon sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie ribbon matcha",
+      "variant": "level up",
+      "result": "alcremie decoration=ribbon cream=matcha",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:ribbon sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie ribbon mint",
+      "variant": "level up",
+      "result": "alcremie decoration=ribbon cream=mint",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:ribbon sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie ribbon rainbowswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=ribbon cream=rainbow swirl",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:ribbon sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "dusk"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie ribbon ruby",
+      "variant": "level up",
+      "result": "alcremie decoration=ribbon cream=ruby",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:ribbon sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie ribbon rubyswirl",
+      "variant": "level up",
+      "result": "alcremie decoration=ribbon cream=ruby swirl",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:ribbon sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie ribbon salted",
+      "variant": "level up",
+      "result": "alcremie decoration=ribbon cream=salted",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:ribbon sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "night"
+        }
+      ]
+    },
+    {
+      "id": "milcery alcremie ribbon vanilla",
+      "variant": "level up",
+      "result": "alcremie decoration=ribbon cream=vanilla",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "decorate"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 1
+        },
+        {
+          "variant": "held item",
+          "itemCondition": "cobblemon:ribbon sweet"
+        },
+        {
+          "variant": "time range",
+          "range": "day"
+        }
+      ]
+    }
+  ],
+  "baseScale": 0.5,
+  "hitbox": {
+    "width": 0.5,
+    "height": 0.5,
+    "fixed": false
+  },
+  "baseFriendship": 50,
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special attack": 0,
+    "special defence": 1,
+    "speed": 0
+  },
+  "height": 2,
+  "weight": 3,
+  "aspects": [],
+  "cannotDynamax": false
+}

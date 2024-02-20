@@ -1,0 +1,411 @@
+{
+  "pools": [
+    {
+
+      "entries": [
+        {
+
+          "name": "poke ball"
+        },
+        {
+
+          "name": "ability urge"
+        },
+        {
+
+          "name": "air balloon"
+        },
+        {
+
+          "name": "binding band"
+        },
+        {
+
+          "name": "burn heal"
+        },
+        {
+
+          "name": "cheri berry"
+        },
+        {
+
+          "name": "cherish ball"
+        },
+        {
+
+          "name": "clover sweet"
+        },
+        {
+
+          "name": "courage candy xl"
+        },
+        {
+
+          "name": "destiny knot"
+        },
+        {
+
+          "name": "dragon scale"
+        },
+        {
+
+          "name": "dubious disc"
+        },
+        {
+
+          "name": "everstone"
+        },
+        {
+
+          "name": "exp candy xs"
+        },
+        {
+
+          "name": "fancy apple"
+        },
+        {
+
+          "name": "fresh water"
+        },
+        {
+
+          "name": "guard spec"
+        },
+        {
+
+          "name": "haban berry"
+        },
+        {
+
+          "name": "health candy l"
+        },
+        {
+
+          "name": "honey"
+        },
+        {
+
+          "name": "hp up"
+        },
+        {
+
+          "name": "ice heal"
+        },
+        {
+
+          "name": "ice stone"
+        },
+        {
+
+          "name": "leppa berry"
+        },
+        {
+
+          "name": "love ball"
+        },
+        {
+
+          "name": "love sweet"
+        },
+        {
+
+          "name": "max potion"
+        },
+        {
+
+          "name": "oval stone"
+        },
+        {
+
+          "name": "pearl string"
+        },
+        {
+
+          "name": "pink scarf"
+        },
+        {
+
+          "name": "poke doll"
+        },
+        {
+
+          "name": "potion"
+        },
+        {
+
+          "name": "power anklet"
+        },
+        {
+
+          "name": "power bracer"
+        },
+        {
+
+          "name": "mirror"
+        },
+        {
+
+          "name": "cerulean city disc"
+        },
+        {
+
+          "name": "icirrus city disc"
+        },
+        {
+
+          "name": "laverre city disc"
+        },
+        {
+
+          "name": "surf disc"
+        },
+        {
+
+          "name": "lake of rage disc"
+        },
+        {
+
+          "name": "penny disc"
+        },
+        {
+
+          "name": "nemona disc"
+        },
+        {
+
+          "name": "zinnia disc"
+        },
+        {
+
+          "name": "cynthia disc"
+        },
+        {
+
+          "name": "deoxys disc"
+        },
+        {
+
+          "name": "quick candy"
+        },
+        {
+
+          "name": "ribbon sweet"
+        },
+        {
+
+          "name": "rowap berry"
+        },
+        {
+
+          "name": "sausages"
+        },
+        {
+
+          "name": "sitrus berry"
+        },
+        {
+
+          "name": "smoked poke tail"
+        },
+        {
+
+          "name": "smooth rock"
+        },
+        {
+
+          "name": "starf berry"
+        },
+        {
+
+          "name": "strange souvenir"
+        },
+        {
+
+          "name": "strawberry sweet"
+        },
+        {
+
+          "name": "tough candy"
+        },
+        {
+
+          "name": "water gem"
+        },
+        {
+
+          "name": "water stone"
+        },
+        {
+
+          "name": "watmel berry"
+        },
+        {
+
+          "name": "wepear berry"
+        },
+        {
+
+          "name": "white flute"
+        },
+        {
+
+          "name": "white herb"
+        },
+        {
+
+          "name": "x defense 3"
+        },
+        {
+
+          "name": "minecraft:scute"
+        },
+        {
+
+          "name": "minecraft:music disc ward"
+        },
+        {
+
+          "name": "purple juice"
+        },
+        {
+
+          "name": "red juice"
+        },
+        {
+
+          "name": "yellow juice"
+        },
+        {
+
+          "name": "blue juice"
+        },
+        {
+
+          "name": "green juice"
+        },
+        {
+
+          "name": "pink juice"
+        },
+        {
+
+          "name": "sun flute"
+        },
+        {
+
+          "name": "moon flute"
+        },
+        {
+
+          "name": "n solarizer"
+        },
+        {
+
+          "name": "n lunarizer"
+        },
+        {
+
+          "name": "melody flute"
+        },
+        {
+
+          "name": "light soul"
+        },
+        {
+
+          "name": "exp candy m"
+        },
+        {
+
+          "name": "pokemail bubble"
+        },
+        {
+
+          "name": "pokemail dream"
+        },
+        {
+
+          "name": "pokemail fab"
+        },
+        {
+
+          "name": "pokemail favored"
+        },
+        {
+
+          "name": "pokemail flame"
+        },
+        {
+
+          "name": "pokemail glitter"
+        },
+        {
+
+          "name": "pokemail grass"
+        },
+        {
+
+          "name": "pokemail greet"
+        },
+        {
+
+          "name": "pokemail harbor"
+        },
+        {
+
+          "name": "pokemail heart"
+        },
+        {
+
+          "name": "pokemail inquiry"
+        },
+        {
+
+          "name": "pokemail like"
+        },
+        {
+
+          "name": "pokemail mech"
+        },
+        {
+
+          "name": "pokemail mosaic"
+        },
+        {
+
+          "name": "fairy candy"
+        },
+        {
+
+          "name": "tm 2"
+        },
+        {
+
+          "name": "tm 19"
+        },
+        {
+
+          "name": "tm 37"
+        },
+        {
+
+          "name": "tm 79"
+        },
+        {
+
+          "name": "tm 127"
+        },
+        {
+
+          "name": "tm 139"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 2.0,
+        "min": 1.0
+      }
+    }
+  ],
+  "random sequence": "chests/love ball"
+}
