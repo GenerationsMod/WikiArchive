@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "bridge_block_stairs",
+  "group": "bridge block stairs",
   "key": {
     "#": {
-      "item": "generations_core:bridge_block"
+      "item": "bridge block"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:bridge_block_stairs"
+    "item": "bridge block stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

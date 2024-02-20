@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Gold Leaf|id=gold_leaf|left=y
+
+}}
+{{DescBox|
+
+
+
+|drop1={{DropLoot|park=y|wing=y}}
+}}

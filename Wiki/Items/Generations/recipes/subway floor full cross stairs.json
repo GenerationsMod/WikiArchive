@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "subway_floor_full_cross_stairs",
+  "group": "subway floor full cross stairs",
   "key": {
     "#": {
-      "item": "generations_core:subway_floor_full_cross"
+      "item": "subway floor full cross"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:subway_floor_full_cross_stairs"
+    "item": "subway floor full cross stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

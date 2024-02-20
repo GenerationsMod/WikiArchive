@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Golden Razz Berry|id=golden_razz_berry|left=y
+
+}}
+{{DescBox|
+
+Makes a Pokémon easier to catch in Pokémon Let's Go.
+
+|drop1=None
+}}

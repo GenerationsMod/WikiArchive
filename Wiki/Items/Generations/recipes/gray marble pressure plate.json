@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "redstone",
-  "group": "gray_marble_pressure_plate",
+  "group": "gray marble pressure plate",
   "key": {
     "#": {
-      "item": "generations_core:gray_marble"
+      "item": "gray marble"
     }
   },
   "pattern": [
     "##"
   ],
   "result": {
-    "item": "generations_core:gray_marble_pressure_plate"
+    "item": "gray marble pressure plate"
   },
-  "show_notification": true
+  "show notification": true
 }

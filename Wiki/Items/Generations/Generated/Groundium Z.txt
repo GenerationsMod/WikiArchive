@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Groundium Z|id=groundium_z|left=y
+
+}}
+{{DescBox|
+
+Allows the use of Tectonic Rage, the Ground type Z-Move.
+
+|drop1=None
+}}

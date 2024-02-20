@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "golden_temple_sandstone_stairs",
+  "group": "golden temple sandstone stairs",
   "key": {
     "#": {
-      "item": "generations_core:golden_temple_sandstone"
+      "item": "golden temple sandstone"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:golden_temple_sandstone_stairs"
+    "item": "golden temple sandstone stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

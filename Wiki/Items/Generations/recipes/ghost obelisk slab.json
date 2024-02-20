@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "ghost_obelisk_slab",
+  "group": "ghost obelisk slab",
   "key": {
     "#": {
-      "item": "generations_core:ghost_obelisk"
+      "item": "ghost obelisk"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:ghost_obelisk_slab"
+    "item": "ghost obelisk slab"
   },
-  "show_notification": true
+  "show notification": true
 }

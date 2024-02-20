@@ -1,0 +1,21 @@
+{
+  "type": "crafting shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "black augurite"
+    },
+	"S": {
+		"item": "stick"
+	}
+  },
+  "pattern": [
+    " A",
+    " S",
+	" S"
+  ],
+  "result": {
+    "item": "stone axe"
+  },
+  "show notification": true
+}

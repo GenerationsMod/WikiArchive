@@ -1,0 +1,17 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "roasted leek"
+        },
+        {
+            "item": "baked potato"
+        },
+        {
+            "item": "bowl"
+        }
+    ],
+    "result": {
+        "item": "leek and potato stew"
+    }
+}

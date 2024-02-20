@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "E": {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     "Q": {
-      "item": "generations_core:castle_block"
+      "item": "castle block"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:cracked_castle_block"
+    "item": "cracked castle block"
   },
-  "show_notification": true
+  "show notification": true
 }

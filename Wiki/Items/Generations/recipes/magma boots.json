@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "X": {
-      "item": "generations_core:ruby"
+      "item": "ruby"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "X X"
   ],
   "result": {
-    "item": "generations_core:magma_boots"
+    "item": "magma boots"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "X": {
-      "item": "generations_core:ice_brick"
+      "item": "ice brick"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "X"
   ],
   "result": {
-    "item": "generations_core:ice_pillar_broken"
+    "item": "ice pillar broken"
   },
-  "show_notification": true
+  "show notification": true
 }

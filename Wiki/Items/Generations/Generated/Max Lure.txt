@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Max Lure|id=max_lure|left=y
+
+}}
+{{DescBox|
+
+Attracts Pokémon in the wild.
+
+|drop1={{DropLoot|dive=y|level=y|lure=y|luxury=y}}
+}}

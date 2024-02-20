@@ -1,0 +1,10 @@
+{
+  "type": "blasting",
+  "group": "thunder stone",
+  "ingredient": {
+    "item": "thunder stone ore"
+  },
+  "result": "thunder stone",
+  "experience": 0.1,
+  "cookingtime": 100
+}

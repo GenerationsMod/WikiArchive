@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "lime_marble_wall",
+  "group": "lime marble wall",
   "key": {
     "#": {
-      "item": "generations_core:lime_marble"
+      "item": "lime marble"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:lime_marble_wall"
+    "item": "lime marble wall"
   },
-  "show_notification": true
+  "show notification": true
 }

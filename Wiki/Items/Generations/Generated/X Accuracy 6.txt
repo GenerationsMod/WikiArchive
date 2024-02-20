@@ -1,0 +1,9 @@
+{{ItemInfobox|item=X Accuracy 6|id=x_accuracy_6|left=y
+
+}}
+{{DescBox|
+
+Immensely raises Accuracy of a Pokémon in battle.
+
+|drop1={{DropLoot|fast=y|master=y|ultra=y|wing=y}}
+}}

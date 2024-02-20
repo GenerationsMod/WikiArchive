@@ -1,0 +1,14 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "razor fang"
+        },
+        {
+            "item": "dragon breath"
+        }
+    ],
+    "result": {
+        "item": "dragon fang"
+    }
+}

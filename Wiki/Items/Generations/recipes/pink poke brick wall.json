@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "pink_poke_brick_wall",
+  "group": "pink poke brick wall",
   "key": {
     "#": {
-      "item": "generations_core:pink_poke_brick"
+      "item": "pink poke brick"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:pink_poke_brick_wall"
+    "item": "pink poke brick wall"
   },
-  "show_notification": true
+  "show notification": true
 }

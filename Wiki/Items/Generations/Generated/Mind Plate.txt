@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Mind Plate|id=mind_plate|left=y
+
+}}
+{{DescBox|
+
+Increases power of Psychic-type moves. Changes Arceus' type to Psychic.
+
+|drop1={{DropLoot|master=y|moon=y}}
+}}

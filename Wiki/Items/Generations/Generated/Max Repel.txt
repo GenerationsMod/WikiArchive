@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Max Repel|id=max_repel|left=y
+
+}}
+{{DescBox|
+
+An item that prevents weak wild Pokémon from appearing for 250 steps after its use.
+
+|drop1={{DropLoot|jet=y|lure=y|quick=y|repeat=y|strange=y}}
+}}

@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "#": {
-      "item": "minecraft:stick"
+      "item": "stick"
     },
     "X": {
-      "item": "cobblemon:water_stone"
+      "item": "water stone"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     "#"
   ],
   "result": {
-    "item": "generations_core:water_stone_shovel"
+    "item": "water stone shovel"
   },
-  "show_notification": true
+  "show notification": true
 }

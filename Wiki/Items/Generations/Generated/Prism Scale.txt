@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Prism Scale|id=prism_scale|left=y
+
+}}
+{{DescBox|
+
+Evolves Feebas when traded holding the item.
+
+|drop1={{DropLoot|dive=y|great=y|level=y|origin=y|premier=y}}
+}}

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "purple_shingles_wall",
+  "group": "purple shingles wall",
   "key": {
     "#": {
-      "item": "generations_core:purple_shingles"
+      "item": "purple shingles"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:purple_shingles_wall"
+    "item": "purple shingles wall"
   },
-  "show_notification": true
+  "show notification": true
 }

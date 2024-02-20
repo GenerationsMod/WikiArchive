@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Escape Rope|id=escape_rope|left=y
+
+}}
+{{DescBox|
+
+A long, durable rope. Use it to escape instantly from a cave or a dungeon.
+
+|drop1={{DropLoot|fast=y|poke=y|timer=y}}
+}}

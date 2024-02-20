@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Kommonium Z|id=kommonium_z|left=y
+
+}}
+{{DescBox|
+
+Allows Kommo-o to upgrade Clanging Scales to a Z-Move, Clangorous Soulblaze.
+
+|drop1=None
+}}

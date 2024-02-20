@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "redstone",
-  "group": "ultra_magenta_button",
+  "group": "ultra magenta button",
   "ingredients": [
     {
-      "item": "generations_core:ultra_magenta"
+      "item": "ultra magenta"
     }
   ],
   "result": {
-    "item": "generations_core:ultra_magenta_button"
+    "item": "ultra magenta button"
   }
 }

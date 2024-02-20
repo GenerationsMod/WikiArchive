@@ -1,0 +1,8 @@
+{
+  "type": "stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "chipped pot"
+  },
+  "result": "cracked pot"
+}

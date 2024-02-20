@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "redstone",
-  "group": "ultra_cyan_button",
+  "group": "ultra cyan button",
   "ingredients": [
     {
-      "item": "generations_core:ultra_cyan"
+      "item": "ultra cyan"
     }
   ],
   "result": {
-    "item": "generations_core:ultra_cyan_button"
+    "item": "ultra cyan button"
   }
 }

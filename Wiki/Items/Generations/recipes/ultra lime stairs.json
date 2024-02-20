@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "ultra_lime_stairs",
+  "group": "ultra lime stairs",
   "key": {
     "#": {
-      "item": "generations_core:ultra_lime"
+      "item": "ultra lime"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:ultra_lime_stairs"
+    "item": "ultra lime stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

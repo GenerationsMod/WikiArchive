@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "castle_wall_3_slab",
+  "group": "castle wall 3 slab",
   "key": {
     "#": {
-      "item": "generations_core:castle_wall_3"
+      "item": "castle wall 3"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:castle_wall_3_slab"
+    "item": "castle wall 3 slab"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "#": {
-      "item": "minecraft:stick"
+      "item": "stick"
     },
     "X": {
-      "item": "cobblemon:sun_stone"
+      "item": "sun stone"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     " # "
   ],
   "result": {
-    "item": "generations_core:sun_stone_pickaxe"
+    "item": "sun stone pickaxe"
   },
-  "show_notification": true
+  "show notification": true
 }

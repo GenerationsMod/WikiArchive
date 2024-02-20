@@ -1,0 +1,29 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "medicinal brew"
+        },
+        {
+            "item": "sugar"
+        },
+        {
+            "item": "sugar"
+        },
+        {
+            "item": "pomeg berry"
+        },
+        {
+            "item": "pomeg berry"
+        },
+        {
+            "item": "white mint leaf"
+        },
+        {
+            "item": "white mint leaf"
+        }
+    ],
+    "result": {
+        "item": "hp up"
+    }
+}

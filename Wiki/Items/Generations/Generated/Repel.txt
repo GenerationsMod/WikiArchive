@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Repel|id=repel|left=y
+
+}}
+{{DescBox|
+
+An item that prevents weak wild Pokémon from appearing for 100 steps after its use.
+
+|drop1={{DropLoot|fast=y|friend=y|lure=y|poke=y|strange=y|wing=y}}
+}}

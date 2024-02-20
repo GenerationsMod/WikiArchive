@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Enigma Berry|id=enigma_berry|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+If held by a Pokémon, it restores its HP if it is hit by any supereffective attack.
+
+|drop1={{DropLoot|beast=y|friend=y|gigaton=y|heal=y|strange=y}}
+}}

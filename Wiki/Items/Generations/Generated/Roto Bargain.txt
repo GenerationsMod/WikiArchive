@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Roto Bargain|id=roto_bargain|left=y
+
+}}
+{{DescBox|
+
+Reduces the prices of products at Poké Marts by half.
+
+|drop1=None
+}}

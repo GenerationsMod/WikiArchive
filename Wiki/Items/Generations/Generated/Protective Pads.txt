@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Protective Pads|id=protective_pads|left=y
+
+}}
+{{DescBox|
+
+An item to be held by a Pokémon. These pads protect the holder from effects caused by making direct contact with the target.
+
+|drop1={{DropLoot|friend=y|heavy=y|sport=y}}
+}}

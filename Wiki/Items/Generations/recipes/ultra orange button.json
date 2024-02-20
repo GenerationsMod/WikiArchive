@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "redstone",
-  "group": "ultra_orange_button",
+  "group": "ultra orange button",
   "ingredients": [
     {
-      "item": "generations_core:ultra_orange"
+      "item": "ultra orange"
     }
   ],
   "result": {
-    "item": "generations_core:ultra_orange_button"
+    "item": "ultra orange button"
   }
 }

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Golden Nanab Berry|id=golden_nanab_berry|left=y
+
+}}
+{{DescBox|
+
+Drastically calms a Pokémon in battle, in Let's Go Pikachu/Eevee.
+
+|drop1=None
+}}

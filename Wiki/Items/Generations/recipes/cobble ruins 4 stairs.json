@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "cobble_ruins_4_stairs",
+  "group": "cobble ruins 4 stairs",
   "key": {
     "#": {
-      "item": "generations_core:cobble_ruins_4"
+      "item": "cobble ruins 4"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:cobble_ruins_4_stairs"
+    "item": "cobble ruins 4 stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Pink Nectar|id=pink_nectar|left=y
+
+}}
+{{DescBox|
+
+The flower nectar obtained at the flowering shrubs on Royal Avenue. It changes the form of certain species of Pokémon.
+
+|drop1={{DropLoot|fast=y|friend=y|nest=y|strange=y|wing=y}}
+}}

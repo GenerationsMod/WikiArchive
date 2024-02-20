@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "X": {
-      "item": "minecraft:amethyst_shard"
+      "item": "amethyst shard"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
     "X X"
   ],
   "result": {
-    "item": "generations_core:rocket_leggings"
+    "item": "rocket leggings"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Prison Bottle|id=prison_bottle|left=y
+
+}}
+{{DescBox|
+
+Transforms Hoopa Confined to Hoopa Unbound.
+
+|drop1=None
+}}

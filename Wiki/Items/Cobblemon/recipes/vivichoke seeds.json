@@ -1,0 +1,12 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "vivichoke"
+        }
+    ],
+    "result": {
+        "item": "vivichoke seeds",
+        "count": 2
+    }
+}

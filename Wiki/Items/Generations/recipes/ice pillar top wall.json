@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "ice_pillar_top_wall",
+  "group": "ice pillar top wall",
   "key": {
     "#": {
-      "item": "generations_core:ice_pillar_top"
+      "item": "ice pillar top"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:ice_pillar_top_wall"
+    "item": "ice pillar top wall"
   },
-  "show_notification": true
+  "show notification": true
 }

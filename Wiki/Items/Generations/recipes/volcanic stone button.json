@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "redstone",
-  "group": "volcanic_stone_button",
+  "group": "volcanic stone button",
   "ingredients": [
     {
-      "item": "generations_core:volcanic_stone"
+      "item": "volcanic stone"
     }
   ],
   "result": {
-    "item": "generations_core:volcanic_stone_button"
+    "item": "volcanic stone button"
   }
 }

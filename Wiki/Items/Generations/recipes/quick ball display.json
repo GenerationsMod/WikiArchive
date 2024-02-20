@@ -1,15 +1,15 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "misc",
   "ingredients": [
     {
-      "item": "cobblemon:quick_ball"
+      "item": "quick ball"
     },
     {
-      "item": "generations_core:empty_ball_display"
+      "item": "empty ball display"
     }
   ],
   "result": {
-    "item": "generations_core:quick_ball_display"
+    "item": "quick ball display"
   }
 }

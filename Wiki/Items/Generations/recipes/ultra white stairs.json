@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "ultra_white_stairs",
+  "group": "ultra white stairs",
   "key": {
     "#": {
-      "item": "generations_core:ultra_white"
+      "item": "ultra white"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:ultra_white_stairs"
+    "item": "ultra white stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Clever Feather|id=clever_feather|left=y
+
+}}
+{{DescBox|
+
+Increases Special Defense EVs by 1.
+
+|drop1={{DropLoot|jet=y|nest=y}}
+}}

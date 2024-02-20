@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Fire Gem|id=fire_gem|left=y
+
+}}
+{{DescBox|
+
+Increases the power of a Fire-type move only once.
+
+|drop1={{DropLoot|beast=y|cherish=y|great=y}}
+}}

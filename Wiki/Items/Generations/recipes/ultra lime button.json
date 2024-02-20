@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "redstone",
-  "group": "ultra_lime_button",
+  "group": "ultra lime button",
   "ingredients": [
     {
-      "item": "generations_core:ultra_lime"
+      "item": "ultra lime"
     }
   ],
   "result": {
-    "item": "generations_core:ultra_lime_button"
+    "item": "ultra lime button"
   }
 }

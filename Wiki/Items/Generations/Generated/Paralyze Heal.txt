@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Paralyze Heal|id=paralyze_heal|left=y
+
+}}
+{{DescBox|
+
+Cures a Pokémon of paralysis.
+
+|drop1={{DropLoot|dive=y|dream=y|great=y|heal=y|jet=y}}
+}}

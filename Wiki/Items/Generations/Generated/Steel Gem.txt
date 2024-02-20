@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Steel Gem|id=steel_gem|left=y
+
+}}
+{{DescBox|
+
+Increases the power of a Steel-type move only once.
+
+|drop1={{DropLoot|gigaton=y|heavy=y|leaden=y|moon=y|premier=y}}
+}}

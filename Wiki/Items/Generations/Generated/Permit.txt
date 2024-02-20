@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Permit|id=permit|left=y
+
+}}
+{{DescBox|
+
+A permit that is needed to enter the Nature Preserve. Not many know about it.
+
+|drop1={{DropLoot|beast=y|luxury=y|strange=y|ultra=y}}
+}}

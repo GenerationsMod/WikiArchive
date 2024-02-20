@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Choice Band|id=choice_band|left=y
+
+}}
+{{DescBox|
+
+Raises Attack, but only one move can be used.
+
+|drop1={{DropLoot|beast=y|heavy=y|leaden=y|park=y|ultra=y|wing=y}}
+}}

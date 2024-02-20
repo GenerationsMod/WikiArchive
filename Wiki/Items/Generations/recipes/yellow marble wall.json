@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "yellow_marble_wall",
+  "group": "yellow marble wall",
   "key": {
     "#": {
-      "item": "generations_core:yellow_marble"
+      "item": "yellow marble"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:yellow_marble_wall"
+    "item": "yellow marble wall"
   },
-  "show_notification": true
+  "show notification": true
 }

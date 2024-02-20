@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Weakness Policy|id=weakness_policy|left=y
+
+}}
+{{DescBox|
+
+Sharply raises Attack and Special Attack if hit by a super-effective move.
+
+|drop1={{DropLoot|beast=y|friend=y|leaden=y|ultra=y}}
+}}

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "ultra_magenta_slab",
+  "group": "ultra magenta slab",
   "key": {
     "#": {
-      "item": "generations_core:ultra_magenta"
+      "item": "ultra magenta"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:ultra_magenta_slab"
+    "item": "ultra magenta slab"
   },
-  "show_notification": true
+  "show notification": true
 }

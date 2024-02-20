@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Toxic Orb|id=toxic_orb|left=y
+
+}}
+{{DescBox|
+
+An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle.
+
+|drop1={{DropLoot|cherish=y|dusk=y|master=y}}
+}}

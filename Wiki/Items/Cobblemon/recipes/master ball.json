@@ -1,0 +1,29 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " t ",
+        "lcr",
+        " b "
+    ],
+    "key": {
+        "t": {
+            "item": "shulker shell"
+        },
+        "l": {
+            "item": "netherite ingot"
+        },
+        "c": {
+            "item": "nether star"
+        },
+        "r": {
+            "item": "netherite ingot"
+        },
+        "b": {
+            "item": "shulker shell"
+        }
+    },
+    "result":
+    {
+        "item": "master ball"
+    }
+}

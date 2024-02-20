@@ -1,0 +1,10 @@
+{
+  "type": "campfire cooking",
+  "group": "roasted leek",
+  "ingredient": {
+    "item": "medicinal leek"
+  },
+  "result": "roasted leek",
+  "experience": 0.1,
+  "cookingtime": 600
+}

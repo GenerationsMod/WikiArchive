@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Berry Juice|id=berry_juice|left=y
+
+}}
+{{DescBox|
+
+Restores 20 HP.
+
+|drop1={{DropLoot|cherish=y|great=y|heal=y|origin=y|quick=y}}
+}}

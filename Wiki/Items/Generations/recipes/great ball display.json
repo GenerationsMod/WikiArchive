@@ -1,15 +1,15 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "misc",
   "ingredients": [
     {
-      "item": "cobblemon:great_ball"
+      "item": "great ball"
     },
     {
-      "item": "generations_core:empty_ball_display"
+      "item": "empty ball display"
     }
   ],
   "result": {
-    "item": "generations_core:great_ball_display"
+    "item": "great ball display"
   }
 }

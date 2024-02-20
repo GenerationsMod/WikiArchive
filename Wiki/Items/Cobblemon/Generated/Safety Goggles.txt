@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Safety Goggles|id=safety_goggles|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=|B1=Scute|C1=
+|A2=Scute|B2=|C2=Scute
+|A3=Red Stained Glass|B3=Red Stained Glass|C3=Red Stained Glass
+|Output=Safety Goggles|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Prevents damage from weather and powder.
+
+|drop1={{DropLoot|dusk=y|gigaton=y|heavy=y|leaden=y|sport=y}}
+}}

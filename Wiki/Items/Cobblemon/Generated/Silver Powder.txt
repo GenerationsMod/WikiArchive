@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Silver Powder|id=silver_powder|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Increases the power of Bug-type moves.
+
+|drop1={{DropLoot|friend=y|net=y|safari=y}}
+}}

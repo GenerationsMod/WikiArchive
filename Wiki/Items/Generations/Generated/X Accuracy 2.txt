@@ -1,0 +1,9 @@
+{{ItemInfobox|item=X Accuracy 2|id=x_accuracy_2|left=y
+
+}}
+{{DescBox|
+
+Sharply raises Accuracy of a Pokémon in battle.
+
+|drop1={{DropLoot|net=y|quick=y|timer=y}}
+}}

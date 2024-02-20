@@ -1,0 +1,28 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "CGC",
+        "IRI",
+        "IDI"
+    ],
+    "key": {
+        "C": {
+            "item": "copper ingot"
+        },
+        "I": {
+            "item": "iron ingot"
+        },
+        "G": {
+            "item": "ghast tear"
+        },
+        "D": {
+            "item": "diamond"
+        },
+        "R": {
+            "item": "max revive"
+        }
+    },
+    "result": {
+        "item": "healing machine"
+    }
+}

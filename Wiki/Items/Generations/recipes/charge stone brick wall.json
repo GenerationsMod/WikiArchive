@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "charge_stone_bricks_wall",
+  "group": "charge stone bricks wall",
   "key": {
     "#": {
-      "item": "generations_core:charge_stone_bricks"
+      "item": "charge stone bricks"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:charge_stone_brick_wall"
+    "item": "charge stone brick wall"
   },
-  "show_notification": true
+  "show notification": true
 }

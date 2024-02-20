@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "cobble_ruins_2_wall",
+  "group": "cobble ruins 2 wall",
   "key": {
     "#": {
-      "item": "generations_core:cobble_ruins_2"
+      "item": "cobble ruins 2"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:cobble_ruins_2_wall"
+    "item": "cobble ruins 2 wall"
   },
-  "show_notification": true
+  "show notification": true
 }

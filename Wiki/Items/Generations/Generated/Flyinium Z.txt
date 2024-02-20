@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Flyinium Z|id=flyinium_z|left=y
+
+}}
+{{DescBox|
+
+Allows the use of Supersonic Skystrike, the Flying type Z-Move.
+
+|drop1=None
+}}

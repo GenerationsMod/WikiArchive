@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "redstone",
-  "group": "lime_marble_pressure_plate",
+  "group": "lime marble pressure plate",
   "key": {
     "#": {
-      "item": "generations_core:lime_marble"
+      "item": "lime marble"
     }
   },
   "pattern": [
     "##"
   ],
   "result": {
-    "item": "generations_core:lime_marble_pressure_plate"
+    "item": "lime marble pressure plate"
   },
-  "show_notification": true
+  "show notification": true
 }

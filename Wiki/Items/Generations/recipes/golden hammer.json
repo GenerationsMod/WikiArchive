@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "#": {
-      "item": "minecraft:stick"
+      "item": "stick"
     },
     "X": {
-      "item": "minecraft:gold_ingot"
+      "item": "gold ingot"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     " # "
   ],
   "result": {
-    "item": "generations_core:golden_hammer"
+    "item": "golden hammer"
   },
-  "show_notification": true
+  "show notification": true
 }

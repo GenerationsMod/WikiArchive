@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Blazikenite|id=blazikenite|left=y
+
+}}
+{{DescBox|
+
+Enables Blaziken to Mega Evolve during battle.
+
+|drop1=None
+}}

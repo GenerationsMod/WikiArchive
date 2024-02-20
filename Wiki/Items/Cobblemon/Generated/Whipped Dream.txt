@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Whipped Dream|id=whipped_dream|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=|B1=Sweet Berries|C1=
+|A2=Sugar|B2=Milk Bucket|C2=Sugar
+|A3=Honey Bottle|B3=Sugar|C3=Honey Bottle
+|Output=Whipped Dream|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Evolves Swirlix when traded holding the item.
+
+|drop1={{DropLoot|dream=y|friend=y|level=y|origin=y}}
+}}

@@ -1,25 +1,25 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "building",
   "ingredients": [
     {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     {
-      "item": "minecraft:light_gray_dye"
+      "item": "light gray dye"
     }
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:light_gray_poke_brick"
+    "item": "light gray poke brick"
   }
 }

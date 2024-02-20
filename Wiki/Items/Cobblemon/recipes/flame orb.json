@@ -1,0 +1,25 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "PTS",
+        "TET",
+		"STP"
+    ],
+    "key": {
+        "S": {
+            "item": "fire stone"
+        },
+        "T": {
+            "item": "tinted glass"
+        },
+        "E": {
+            "item": "ender pearl"
+        },
+        "P": {
+            "item": "blaze powder"
+        }
+    },
+    "result": {
+        "item": "flame orb"
+    }
+}

@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Black Augurite|id=black_augurite|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+A glassy black stone that produces a sharp cutting edge when split. It’s loved by a certain Pokémon.
+
+|drop1=None
+}}

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "floor_4_wall",
+  "group": "floor 4 wall",
   "key": {
     "#": {
-      "item": "generations_core:floor_4"
+      "item": "floor 4"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:floor_4_wall"
+    "item": "floor 4 wall"
   },
-  "show_notification": true
+  "show notification": true
 }

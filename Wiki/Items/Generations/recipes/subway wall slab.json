@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "subway_wall_slab",
+  "group": "subway wall slab",
   "key": {
     "#": {
-      "item": "generations_core:subway_wall"
+      "item": "subway wall"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:subway_wall_slab"
+    "item": "subway wall slab"
   },
-  "show_notification": true
+  "show notification": true
 }

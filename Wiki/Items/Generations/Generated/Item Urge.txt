@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Item Urge|id=item_urge|left=y
+
+}}
+{{DescBox|
+
+When used, it causes an ally Pokémon to use its held item.
+
+|drop1={{DropLoot|great=y|level=y|moon=y|repeat=y}}
+}}

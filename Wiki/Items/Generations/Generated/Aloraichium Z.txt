@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Aloraichium Z|id=aloraichium_z|left=y
+
+}}
+{{DescBox|
+
+Allows Alolan Raichu to upgrade Thunderbolt to a Z-Move, Stoked Sparksurfer.
+
+|drop1=None
+}}

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "brown_shingles_slab",
+  "group": "brown shingles slab",
   "key": {
     "#": {
-      "item": "generations_core:brown_shingles"
+      "item": "brown shingles"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:brown_shingles_slab"
+    "item": "brown shingles slab"
   },
-  "show_notification": true
+  "show notification": true
 }

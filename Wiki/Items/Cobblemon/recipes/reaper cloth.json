@@ -1,0 +1,22 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " W ",
+        "PGP",
+		"WPW"
+    ],
+    "key": {
+        "P": {
+            "item": "phantom membrane"
+        },
+        "W": {
+            "item": "gray wool"
+        },
+        "G": {
+            "item": "ghast tear"
+        }
+    },
+    "result": {
+        "item": "reaper cloth"
+    }
+}

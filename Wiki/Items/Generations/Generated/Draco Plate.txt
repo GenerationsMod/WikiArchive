@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Draco Plate|id=draco_plate|left=y
+
+}}
+{{DescBox|
+
+Increases power of Dragon-type moves. Changes Arceus' type to Dragon.
+
+|drop1={{DropLoot|cherish=y|master=y}}
+}}

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Power Bracer|id=power_bracer|left=y
+
+}}
+{{DescBox|
+
+A Pokémon held item that promotes Attack gain on leveling, but reduces the Speed stat.
+
+|drop1={{DropLoot|gigaton=y|level=y|love=y|sport=y}}
+}}

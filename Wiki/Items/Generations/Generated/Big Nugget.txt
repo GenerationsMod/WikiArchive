@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Big Nugget|id=big_nugget|left=y
+
+}}
+{{DescBox|
+
+A big nugget of pure gold that gives off a lustrous gleam. A maniac will buy it for a high price.
+
+|drop1={{DropLoot|beast=y|great=y|luxury=y}}
+}}

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Smart Candy L|id=smart_candy_l|left=y
+
+}}
+{{DescBox|
+
+Increases a Pokémon's Special Attack stat.
+
+|drop1={{DropLoot|beast=y|great=y|level=y}}
+}}

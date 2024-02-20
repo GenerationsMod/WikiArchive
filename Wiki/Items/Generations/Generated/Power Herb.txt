@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Power Herb|id=power_herb|left=y
+
+}}
+{{DescBox|
+
+A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn.
+
+|drop1={{DropLoot|jet=y|lure=y|nest=y|timer=y|wing=y}}
+}}

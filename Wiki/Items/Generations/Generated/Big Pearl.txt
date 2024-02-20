@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Big Pearl|id=big_pearl|left=y
+
+}}
+{{DescBox|
+
+A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.
+
+|drop1={{DropLoot|heavy=y|leaden=y|moon=y|net=y}}
+}}

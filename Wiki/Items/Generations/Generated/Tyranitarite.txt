@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Tyranitarite|id=tyranitarite|left=y
+
+}}
+{{DescBox|
+
+Enables Tyranitar to Mega Evolve during battle.
+
+|drop1=None
+}}

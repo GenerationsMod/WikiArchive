@@ -1,0 +1,24 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "GRG",
+        "CAC"
+    ],
+    "key": {
+        "G": {
+            "item": "glass"
+        },
+        "R": {
+            "item": "redstone lamp"
+        },
+        "C": {
+            "item": "copper ingot"
+        },
+        "A": {
+            "item": "amethyst shard"
+        }
+    },
+    "result": {
+        "item": "upgrade"
+    }
+}

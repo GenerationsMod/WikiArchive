@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "subway_floor_plain_stairs",
+  "group": "subway floor plain stairs",
   "key": {
     "#": {
-      "item": "generations_core:subway_floor_plain"
+      "item": "subway floor plain"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:subway_floor_plain_stairs"
+    "item": "subway floor plain stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

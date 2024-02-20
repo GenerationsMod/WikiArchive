@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Power Lens|id=power_lens|left=y
+
+}}
+{{DescBox|
+
+A Pokémon held item that promotes Sp. Atk gain on leveling, but reduces the Speed stat.
+
+|drop1={{DropLoot|dream=y|dusk=y|gigaton=y|great=y}}
+}}

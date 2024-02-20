@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Decidium Z|id=decidium_z|left=y
+
+}}
+{{DescBox|
+
+Allows Decidueye to upgrade Spirit Shackle to a Z-Move, Sinister Arrow Raid.
+
+|drop1=None
+}}

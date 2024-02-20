@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "#": {
-      "item": "generations_core:volcanic_stone"
+      "item": "volcanic stone"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:volcanic_stone_bricks"
+    "item": "volcanic stone bricks"
   },
-  "show_notification": true
+  "show notification": true
 }

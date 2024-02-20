@@ -1,16 +1,16 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "misc",
-  "group": "chest_boat",
+  "group": "chest boat",
   "ingredients": [
     {
-      "item": "minecraft:chest"
+      "item": "chest"
     },
     {
-      "item": "generations_core:ultra_jungle_boat"
+      "item": "ultra jungle boat"
     }
   ],
   "result": {
-    "item": "generations_core:ultra_jungle_boat_with_chest"
+    "item": "ultra jungle boat with chest"
   }
 }

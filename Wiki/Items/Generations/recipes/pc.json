@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
   "key": {
     "A": {
-      "item": "minecraft:glass_pane"
+      "item": "glass pane"
     },
     "P": {
-      "item": "minecraft:redstone_lamp"
+      "item": "redstone lamp"
     },
     "Q": {
-      "item": "generations_core:copper_plate"
+      "item": "copper plate"
     },
     "R": {
-      "item": "minecraft:redstone"
+      "item": "redstone"
     }
   },
   "pattern": [
@@ -21,7 +21,7 @@
     "QRQ"
   ],
   "result": {
-    "item": "generations_core:rotom_pc"
+    "item": "rotom pc"
   },
-  "show_notification": true
+  "show notification": true
 }

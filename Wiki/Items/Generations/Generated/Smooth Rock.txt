@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Smooth Rock|id=smooth_rock|left=y
+
+}}
+{{DescBox|
+
+A Pokémon held item that extends the duration of the move Sandstorm used by the holder.
+
+|drop1={{DropLoot|dive=y|love=y|moon=y}}
+}}

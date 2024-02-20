@@ -1,0 +1,13 @@
+{
+	"type": "crafting shapeless",
+	"group": "planks",
+	"ingredients": [
+		{
+			"tag": "apricorn logs"
+		}
+	],
+	"result": {
+		"item": "apricorn planks",
+		"count": 4
+	}
+}

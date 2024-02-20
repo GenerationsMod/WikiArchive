@@ -1,0 +1,22 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "O O",
+        "OBO",
+		"I I"
+    ],
+    "key": {
+        "I": {
+            "item": "iron ingot"
+        },
+        "O": {
+            "item": "obsidian"
+        },
+		"B": {
+			"item": "leather boots"
+		}
+    },
+    "result": {
+        "item": "heavy duty boots"
+    }
+}

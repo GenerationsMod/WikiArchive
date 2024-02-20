@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Audinite|id=audinite|left=y
+
+}}
+{{DescBox|
+
+Enables Audino to Mega Evolve during battle.
+
+|drop1=None
+}}

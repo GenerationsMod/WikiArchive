@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Max Elixir|id=max_elixir|left=y
+
+}}
+{{DescBox|
+
+Fully restores PP to all moves of a Pokémon.
+
+|drop1={{DropLoot|friend=y|net=y|ultra=y|wing=y}}
+}}

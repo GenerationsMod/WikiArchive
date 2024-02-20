@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "red_marble_slab",
+  "group": "red marble slab",
   "key": {
     "#": {
-      "item": "generations_core:red_marble"
+      "item": "red marble"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:red_marble_slab"
+    "item": "red marble slab"
   },
-  "show_notification": true
+  "show notification": true
 }

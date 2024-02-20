@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "redstone",
-  "group": "ultra_white_button",
+  "group": "ultra white button",
   "ingredients": [
     {
-      "item": "generations_core:ultra_white"
+      "item": "ultra white"
     }
   ],
   "result": {
-    "item": "generations_core:ultra_white_button"
+    "item": "ultra white button"
   }
 }

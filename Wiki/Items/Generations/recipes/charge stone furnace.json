@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
   "key": {
     "X": {
-      "item": "generations_core:charge_cobblestone"
+      "item": "charge cobblestone"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
     "XXX"
   ],
   "result": {
-    "item": "generations_core:charge_stone_furnace"
+    "item": "charge stone furnace"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Fightinium Z|id=fightinium_z|left=y
+
+}}
+{{DescBox|
+
+Allows the use of All-Out Pummeling, the Fighting type Z-Move.
+
+|drop1=None
+}}

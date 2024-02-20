@@ -1,0 +1,20 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "glass bottle"
+        },
+        {
+            "item": "pep up flower"
+        },
+        {
+            "item": "lansat berry"
+        },
+        {
+            "item": "lansat berry"
+        }
+    ],
+    "result": {
+        "item": "dire hit"
+    }
+}

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "volcanic_cobblestone_stairs",
+  "group": "volcanic cobblestone stairs",
   "key": {
     "#": {
-      "item": "generations_core:volcanic_cobblestone"
+      "item": "volcanic cobblestone"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:volcanic_cobblestone_stairs"
+    "item": "volcanic cobblestone stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,0 +1,22 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "WIW",
+        "D I",
+		"WDW"
+    ],
+    "key": {
+        "W": {
+            "item": "yellow wool"
+        },
+        "D": {
+            "item": "redstone"
+        },
+        "I": {
+            "item": "gold ingot"
+        }
+    },
+    "result": {
+        "item": "muscle band"
+    }
+}

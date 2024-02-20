@@ -1,0 +1,25 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "RIR",
+        "IBI",
+		"GIG"
+    ],
+    "key": {
+        "G": {
+            "item": "glowstone"
+        },
+        "I": {
+            "item": "iron ingot"
+        },
+        "B": {
+            "item": "iron bars"
+        },
+        "R": {
+            "item": "redstone"
+        }
+    },
+    "result": {
+        "item": "electirizer"
+    }
+}

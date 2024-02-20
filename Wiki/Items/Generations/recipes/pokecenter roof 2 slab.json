@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "pokecenter_roof_2_slab",
+  "group": "pokecenter roof 2 slab",
   "key": {
     "#": {
-      "item": "generations_core:pokecenter_roof_2"
+      "item": "pokecenter roof 2"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:pokecenter_roof_2_slab"
+    "item": "pokecenter roof 2 slab"
   },
-  "show_notification": true
+  "show notification": true
 }

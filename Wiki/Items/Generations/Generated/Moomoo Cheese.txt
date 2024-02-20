@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Moomoo Cheese|id=moomoo_cheese|left=y
+
+}}
+{{DescBox|
+
+One of the many ingredients that can be used for cooking at your camp. Melted cheese can really give a curry some richness.
+
+|drop1={{DropLoot|fast=y|friend=y|leaden=y|poke=y}}
+}}

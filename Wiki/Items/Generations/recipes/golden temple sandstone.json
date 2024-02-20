@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "#": {
-      "item": "generations_core:golden_temple_sand"
+      "item": "golden temple sand"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "##"
   ],
   "result": {
-    "item": "generations_core:golden_temple_sandstone"
+    "item": "golden temple sandstone"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=X Accuracy|id=x_accuracy|left=y
+
+}}
+{{DescBox|
+
+Raises Accuracy of a Pokémon in battle.
+
+|drop1={{DropLoot|dream=y|dusk=y|jet=y|nest=y}}
+}}

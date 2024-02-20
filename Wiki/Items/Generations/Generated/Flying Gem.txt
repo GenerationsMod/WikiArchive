@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Flying Gem|id=flying_gem|left=y
+
+}}
+{{DescBox|
+
+Increases the power of a Flying-type move only once.
+
+|drop1={{DropLoot|jet=y|nest=y|wing=y}}
+}}

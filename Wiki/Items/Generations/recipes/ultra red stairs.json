@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "ultra_red_stairs",
+  "group": "ultra red stairs",
   "key": {
     "#": {
-      "item": "generations_core:ultra_red"
+      "item": "ultra red"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:ultra_red_stairs"
+    "item": "ultra red stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

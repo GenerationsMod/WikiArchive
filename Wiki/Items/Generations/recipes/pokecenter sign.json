@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "X": {
-      "item": "minecraft:iron_block"
+      "item": "iron block"
     },
     "Y": {
-      "item": "minecraft:red_dye"
+      "item": "red dye"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
     "Y Y"
   ],
   "result": {
-    "item": "generations_core:pokecenter_sign"
+    "item": "pokecenter sign"
   },
-  "show_notification": true
+  "show notification": true
 }

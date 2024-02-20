@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "E": {
-      "item": "minecraft:quartz_block"
+      "item": "quartz block"
     },
     "Q": {
-      "item": "generations_core:white_castle_brick"
+      "item": "white castle brick"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:white_castle_brick_2"
+    "item": "white castle brick 2"
   },
-  "show_notification": true
+  "show notification": true
 }

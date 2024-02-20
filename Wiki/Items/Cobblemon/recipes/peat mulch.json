@@ -1,0 +1,20 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "moss block"
+        },
+        {
+            "item": "moss block"
+        },
+        {
+            "item": "moss block"
+        },
+        {
+            "item": "mulch base"
+        }
+    ],
+    "result": {
+        "item": "peat mulch"
+    }
+}

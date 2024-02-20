@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Mawilite|id=mawilite|left=y
+
+}}
+{{DescBox|
+
+Enables Mawile to Mega Evolve during battle.
+
+|drop1=None
+}}

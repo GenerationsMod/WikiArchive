@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "redstone",
-  "group": "black_poke_brick_pressure_plate",
+  "group": "black poke brick pressure plate",
   "key": {
     "#": {
-      "item": "generations_core:black_poke_brick"
+      "item": "black poke brick"
     }
   },
   "pattern": [
     "##"
   ],
   "result": {
-    "item": "generations_core:black_poke_brick_pressure_plate"
+    "item": "black poke brick pressure plate"
   },
-  "show_notification": true
+  "show notification": true
 }

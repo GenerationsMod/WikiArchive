@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
   "key": {
     "#": {
-      "tag": "minecraft:logs"
+      "tag": "logs"
     },
     "X": {
-      "item": "generations_core:charge_stone_furnace"
+      "item": "charge stone furnace"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     " # "
   ],
   "result": {
-    "item": "generations_core:charge_stone_smoker"
+    "item": "charge stone smoker"
   },
-  "show_notification": true
+  "show notification": true
 }

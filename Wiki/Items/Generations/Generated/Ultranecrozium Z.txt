@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Ultranecrozium Z|id=ultranecrozium_z|left=y
+
+}}
+{{DescBox|
+
+Allows Ultra Necrozma to upgrade Photon Geyser to a Z-Move, Light That Burns the Sky.
+
+|drop1=None
+}}

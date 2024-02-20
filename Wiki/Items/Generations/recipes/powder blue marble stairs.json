@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "powder_blue_marble_stairs",
+  "group": "powder blue marble stairs",
   "key": {
     "#": {
-      "item": "generations_core:powder_blue_marble"
+      "item": "powder blue marble"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:powder_blue_marble_stairs"
+    "item": "powder blue marble stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

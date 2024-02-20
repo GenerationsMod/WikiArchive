@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Red Nectar|id=red_nectar|left=y
+
+}}
+{{DescBox|
+
+A flower nectar obtained at Ula'ula Meadow. It changes the form of certain species of Pokémon.
+
+|drop1={{DropLoot|dream=y|great=y|net=y|strange=y|wing=y}}
+}}

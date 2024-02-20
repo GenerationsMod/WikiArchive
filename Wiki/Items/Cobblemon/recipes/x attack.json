@@ -1,0 +1,20 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "glass bottle"
+        },
+        {
+            "item": "pep up flower"
+        },
+        {
+            "item": "liechi berry"
+        },
+        {
+            "item": "liechi berry"
+        }
+    ],
+    "result": {
+        "item": "x attack"
+    }
+}

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "temple_brick_slab",
+  "group": "temple brick slab",
   "key": {
     "#": {
-      "item": "generations_core:temple_brick"
+      "item": "temple brick"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:temple_brick_slab"
+    "item": "temple brick slab"
   },
-  "show_notification": true
+  "show notification": true
 }

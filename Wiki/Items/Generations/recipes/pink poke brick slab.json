@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "pink_poke_brick_slab",
+  "group": "pink poke brick slab",
   "key": {
     "#": {
-      "item": "generations_core:pink_poke_brick"
+      "item": "pink poke brick"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:pink_poke_brick_slab"
+    "item": "pink poke brick slab"
   },
-  "show_notification": true
+  "show notification": true
 }

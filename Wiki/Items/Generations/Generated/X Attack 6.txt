@@ -1,0 +1,9 @@
+{{ItemInfobox|item=X Attack 6|id=x_attack_6|left=y
+
+}}
+{{DescBox|
+
+Immensely raises Attack of a Pokémon in battle.
+
+|drop1={{DropLoot|repeat=y|safari=y|timer=y}}
+}}

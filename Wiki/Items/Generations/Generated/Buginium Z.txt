@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Buginium Z|id=buginium_z|left=y
+
+}}
+{{DescBox|
+
+Allows the use of Savage Spin-Out, the Bug type Z-Move.
+
+|drop1=None
+}}

@@ -1,0 +1,8 @@
+{
+  "type": "stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "deepslate"
+  },
+  "result": "hard stone"
+}

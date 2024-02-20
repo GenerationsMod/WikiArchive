@@ -1,0 +1,29 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "medicinal brew"
+        },
+        {
+            "tag": "protein ingredients"
+        },
+        {
+            "tag": "protein ingredients"
+        },
+        {
+            "item": "kelpsy berry"
+        },
+        {
+            "item": "kelpsy berry"
+        },
+        {
+            "item": "red mint leaf"
+        },
+        {
+            "item": "red mint leaf"
+        }
+    ],
+    "result": {
+        "item": "protein"
+    }
+}

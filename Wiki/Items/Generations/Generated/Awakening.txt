@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Awakening|id=awakening|left=y
+
+}}
+{{DescBox|
+
+Wakes up a sleeping Pokémon.
+
+|drop1={{DropLoot|dream=y|heal=y|jet=y|ultra=y}}
+}}

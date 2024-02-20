@@ -1,0 +1,18 @@
+{
+  "type": "crafting shaped",
+  "group": "wooden door",
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "apricorn planks"
+    }
+  },
+  "result": {
+    "item": "apricorn door",
+    "count": 3
+  }
+}

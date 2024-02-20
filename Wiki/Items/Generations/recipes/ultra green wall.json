@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "ultra_green_wall",
+  "group": "ultra green wall",
   "key": {
     "#": {
-      "item": "generations_core:ultra_green"
+      "item": "ultra green"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:ultra_green_wall"
+    "item": "ultra green wall"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,15 +1,15 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
   "key": {
     "#": {
-      "item": "minecraft:bowl"
+      "item": "bowl"
     },
     "X": {
-      "item": "generations_core:gray_marble_stairs"
+      "item": "gray marble stairs"
     },
     "Y": {
-      "item": "generations_core:gray_marble"
+      "item": "gray marble"
     }
   },
   "pattern": [
@@ -17,7 +17,7 @@
     "XYX"
   ],
   "result": {
-    "item": "generations_core:empty_ball_display"
+    "item": "empty ball display"
   },
-  "show_notification": true
+  "show notification": true
 }

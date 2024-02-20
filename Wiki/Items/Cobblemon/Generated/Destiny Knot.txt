@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Destiny Knot|id=destiny_knot|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Red Wool|B1=Red Wool|C1=
+|A2=Red Wool|B2=Diamond|C2=String
+|A3=|B3=String|C3=String
+|Output=Destiny Knot|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+A long, thin, bright-red string to be held by a Pokémon. If the holder becomes infatuated, the foe does too.
+
+|drop1={{DropLoot|love=y|park=y|premier=y|wing=y}}
+}}

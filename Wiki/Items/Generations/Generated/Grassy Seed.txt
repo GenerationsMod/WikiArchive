@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Grassy Seed|id=grassy_seed|left=y
+
+}}
+{{DescBox|
+
+An item to be held by a Pokémon. It boosts Defense on Grassy Terrain. It can only be used once.
+
+|drop1={{DropLoot|level=y|nest=y|repeat=y|wing=y}}
+}}

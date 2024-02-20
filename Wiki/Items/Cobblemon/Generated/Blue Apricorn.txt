@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Blue Apricorn|id=blue_apricorn|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+A blue Apricorn. It smells a bit like grass.
+
+|drop1={{DropLoot|great=y|origin=y|poke=y|repeat=y|safari=y}}
+}}

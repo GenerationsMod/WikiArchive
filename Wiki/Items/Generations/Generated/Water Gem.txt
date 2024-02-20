@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Water Gem|id=water_gem|left=y
+
+}}
+{{DescBox|
+
+Increases the power of a Water-type move only once.
+
+|drop1={{DropLoot|dive=y|level=y|love=y}}
+}}

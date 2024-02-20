@@ -1,0 +1,25 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "B B",
+        "GWG",
+		"RGR"
+    ],
+    "key": {
+        "G": {
+            "item": "gold ingot"
+        },
+        "B": {
+            "item": "blaze rod"
+        },
+        "W": {
+            "item": "wise glasses"
+        },
+        "R": {
+            "item": "redstone"
+        }
+    },
+    "result": {
+        "item": "choice specs"
+    }
+}

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Skull Fossil|id=skull_fossil|left=y
+
+}}
+{{DescBox|
+
+A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a head.
+
+|drop1=None
+}}

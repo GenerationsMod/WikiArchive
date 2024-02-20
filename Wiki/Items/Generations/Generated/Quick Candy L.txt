@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Quick Candy L|id=quick_candy_l|left=y
+
+}}
+{{DescBox|
+
+Increases a Pokémon's Speed stat.
+
+|drop1={{DropLoot|fast=y|friend=y|moon=y}}
+}}

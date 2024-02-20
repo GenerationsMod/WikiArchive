@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Dread Plate|id=dread_plate|left=y
+
+}}
+{{DescBox|
+
+Increases power of Dark-type moves. Changes Arceus' type to Dark.
+
+|drop1={{DropLoot|master=y|quick=y}}
+}}

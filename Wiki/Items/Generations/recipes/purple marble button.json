@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "redstone",
-  "group": "purple_marble_button",
+  "group": "purple marble button",
   "ingredients": [
     {
-      "item": "generations_core:purple_marble"
+      "item": "purple marble"
     }
   ],
   "result": {
-    "item": "generations_core:purple_marble_button"
+    "item": "purple marble button"
   }
 }

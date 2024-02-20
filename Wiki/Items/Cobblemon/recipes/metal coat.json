@@ -1,0 +1,22 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "III",
+        "CHC",
+		"III"
+    ],
+    "key": {
+        "I": {
+            "item": "iron ingot"
+        },
+        "C": {
+            "item": "clay ball"
+        },
+        "H": {
+            "item": "honeycomb"
+        }
+    },
+    "result": {
+        "item": "metal coat"
+    }
+}

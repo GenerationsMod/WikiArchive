@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "redstone",
-  "group": "volcanic_stone_pressure_plate",
+  "group": "volcanic stone pressure plate",
   "key": {
     "#": {
-      "item": "generations_core:volcanic_stone"
+      "item": "volcanic stone"
     }
   },
   "pattern": [
     "##"
   ],
   "result": {
-    "item": "generations_core:volcanic_stone_pressure_plate"
+    "item": "volcanic stone pressure plate"
   },
-  "show_notification": true
+  "show notification": true
 }

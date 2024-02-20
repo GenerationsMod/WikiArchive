@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "redstone",
-  "group": "ultra_lime_pressure_plate",
+  "group": "ultra lime pressure plate",
   "key": {
     "#": {
-      "item": "generations_core:ultra_lime"
+      "item": "ultra lime"
     }
   },
   "pattern": [
     "##"
   ],
   "result": {
-    "item": "generations_core:ultra_lime_pressure_plate"
+    "item": "ultra lime pressure plate"
   },
-  "show_notification": true
+  "show notification": true
 }

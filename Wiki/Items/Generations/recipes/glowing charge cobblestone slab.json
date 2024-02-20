@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "glowing_charge_cobblestone_slab",
+  "group": "glowing charge cobblestone slab",
   "key": {
     "#": {
-      "item": "generations_core:glowing_charge_cobblestone"
+      "item": "glowing charge cobblestone"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:glowing_charge_cobblestone_slab"
+    "item": "glowing charge cobblestone slab"
   },
-  "show_notification": true
+  "show notification": true
 }

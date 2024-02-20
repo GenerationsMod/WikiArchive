@@ -1,0 +1,20 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "dirt"
+        },
+        {
+            "item": "dirt"
+        },
+        {
+            "item": "dirt"
+        },
+        {
+            "item": "mulch base"
+        }
+    ],
+    "result": {
+        "item": "loamy mulch"
+    }
+}

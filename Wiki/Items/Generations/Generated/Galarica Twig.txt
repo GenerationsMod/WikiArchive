@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Galarica Twig|id=galarica_twig|left=y
+
+}}
+{{DescBox|
+
+Used to create Galarica Cuff/Wreath, to evolve Galarian Slowpoke.
+
+|drop1={{DropLoot|cherish=y|friend=y|moon=y|nest=y}}
+}}

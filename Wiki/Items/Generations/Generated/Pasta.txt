@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Pasta|id=pasta|left=y
+
+}}
+{{DescBox|
+
+One of the many ingredients that can be used for cooking at your camp. These flour noodles make for a surprisingly good match with curry.
+
+|drop1={{DropLoot|friend=y|jet=y|level=y|lure=y}}
+}}

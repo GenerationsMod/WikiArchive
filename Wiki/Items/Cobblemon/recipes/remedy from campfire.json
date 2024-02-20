@@ -1,0 +1,10 @@
+{
+  "type": "campfire cooking",
+  "group": "remedy",
+  "ingredient": {
+    "item": "big root"
+  },
+  "result": "remedy",
+  "experience": 0.1,
+  "cookingtime": 600
+}

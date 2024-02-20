@@ -1,0 +1,28 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "GCG",
+        "LHL",
+		"I I"
+    ],
+    "key": {
+        "I": {
+            "item": "iron ingot"
+        },
+        "G": {
+            "item": "amethyst shard"
+        },
+        "C": {
+            "item": "gold ingot"
+        },
+        "L": {
+            "item": "lapis lazuli"
+        },
+        "H": {
+            "item": "iron helmet"
+        }
+    },
+    "result": {
+        "item": "exp share"
+    }
+}

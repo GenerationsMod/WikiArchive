@@ -1,0 +1,17 @@
+{
+  "type": "crafting shaped",
+  "group": "wooden trapdoor",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "apricorn planks"
+    }
+  },
+  "result": {
+    "item": "apricorn trapdoor",
+    "count": 2
+  }
+}

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Old Amber|id=old_amber|left=y
+
+}}
+{{DescBox|
+
+A piece of amber that contains the genetic material of an ancient Pokémon. It is clear with a reddish tint.
+
+|drop1=None
+}}

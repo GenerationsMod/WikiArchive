@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Antidote|id=antidote|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Cures a Pokémon of poisoning.
+
+|drop1={{DropLoot|beast=y|cherish=y|heal=y|origin=y|poke=y|quick=y|wing=y}}
+}}

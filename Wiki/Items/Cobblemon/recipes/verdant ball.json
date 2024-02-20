@@ -1,0 +1,30 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " t ",
+        "lcr",
+        " b "
+    ],
+    "key": {
+        "t": {
+            "item": "green apricorn"
+        },
+        "l": {
+            "item": "green apricorn"
+        },
+        "c": {
+            "item": "copper ingot"
+        },
+        "r": {
+            "item": "green apricorn"
+        },
+        "b": {
+            "item": "green apricorn"
+        }
+    },
+    "result":
+    {
+        "item": "verdant ball",
+        "count": 4
+    }
+}

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "magenta_shingles_wall",
+  "group": "magenta shingles wall",
   "key": {
     "#": {
-      "item": "generations_core:magenta_shingles"
+      "item": "magenta shingles"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:magenta_shingles_wall"
+    "item": "magenta shingles wall"
   },
-  "show_notification": true
+  "show notification": true
 }

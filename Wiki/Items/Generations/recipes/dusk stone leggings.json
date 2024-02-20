@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "X": {
-      "item": "cobblemon:dusk_stone"
+      "item": "dusk stone"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
     "X X"
   ],
   "result": {
-    "item": "generations_core:dusk_stone_leggings"
+    "item": "dusk stone leggings"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Pretty Feather|id=pretty_feather|left=y
+
+}}
+{{DescBox|
+
+Can be sold for a high price.
+
+|drop1={{DropLoot|jet=y|nest=y|poke=y}}
+}}

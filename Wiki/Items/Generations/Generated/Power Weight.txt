@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Power Weight|id=power_weight|left=y
+
+}}
+{{DescBox|
+
+A Pokémon held item that promotes HP gain on leveling, but reduces the Speed stat.
+
+|drop1={{DropLoot|friend=y|gigaton=y|moon=y|strange=y|ultra=y}}
+}}

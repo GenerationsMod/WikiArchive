@@ -1,24 +1,24 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
   "key": {
     "A": {
-      "item": "minecraft:iron_ingot"
+      "item": "iron ingot"
     },
     "B": {
-      "item": "minecraft:glass_pane"
+      "item": "glass pane"
     },
     "C": {
-      "item": "generations_core:fresh_water"
+      "item": "fresh water"
     },
     "D": {
-      "item": "generations_core:soda_pop"
+      "item": "soda pop"
     },
     "E": {
-      "item": "generations_core:lemonade"
+      "item": "lemonade"
     },
     "F": {
-      "item": "minecraft:brown_dye"
+      "item": "brown dye"
     }
   },
   "pattern": [
@@ -27,7 +27,7 @@
     "AFA"
   ],
   "result": {
-    "item": "generations_core:brown_vending_machine"
+    "item": "brown vending machine"
   },
-  "show_notification": true
+  "show notification": true
 }

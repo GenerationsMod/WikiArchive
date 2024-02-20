@@ -1,0 +1,29 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "medicinal brew"
+        },
+        {
+            "item": "pep up flower"
+        },
+        {
+            "item": "pep up flower"
+        },
+        {
+            "item": "leppa berry"
+        },
+        {
+            "item": "leppa berry"
+        },
+        {
+            "item": "vivichoke"
+        },
+        {
+            "item": "vivichoke"
+        }
+    ],
+    "result": {
+        "item": "pp up"
+    }
+}

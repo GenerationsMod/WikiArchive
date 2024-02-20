@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Paralyze Heal|id=paralyze_heal|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Cures a Pokémon of paralysis.
+
+|drop1={{DropLoot|dive=y|dream=y|great=y|heal=y|jet=y}}
+}}

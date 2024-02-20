@@ -1,0 +1,16 @@
+{
+  "type": "crafting shaped",
+  "group": "wooden slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "apricorn planks"
+    }
+  },
+  "result": {
+    "item": "apricorn slab",
+    "count": 6
+  }
+}

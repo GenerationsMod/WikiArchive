@@ -1,0 +1,18 @@
+{
+  "type": "crafting shaped",
+  "key": {
+    "#": {
+      "item": "green mint leaf"
+    },
+    "W": {
+      "item": "red mint leaf"
+    }
+  },
+  "pattern": [
+    "##",
+    "#W"
+  ],
+  "result": {
+    "item": "timid mint"
+  }
+}

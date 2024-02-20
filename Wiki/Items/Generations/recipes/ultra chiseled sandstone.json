@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "#": {
-      "item": "generations_core:ultra_sandstone"
+      "item": "ultra sandstone"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "#"
   ],
   "result": {
-    "item": "generations_core:ultra_chiseled_sandstone"
+    "item": "ultra chiseled sandstone"
   },
-  "show_notification": true
+  "show notification": true
 }

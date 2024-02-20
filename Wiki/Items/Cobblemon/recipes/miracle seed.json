@@ -1,0 +1,20 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " S ",
+        "SLS",
+        " S "
+    ],
+    "key": {
+        "S": {
+            "tag": "seeds"
+        },
+        "L": {
+            "item": "leaf stone"
+        }
+    },
+    "result":
+    {
+        "item": "miracle seed"
+    }
+}

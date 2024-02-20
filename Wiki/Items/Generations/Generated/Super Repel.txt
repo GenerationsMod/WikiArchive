@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Super Repel|id=super_repel|left=y
+
+}}
+{{DescBox|
+
+An item that prevents weak wild Pokémon from appearing for 200 steps after its use.
+
+|drop1={{DropLoot|lure=y|nest=y|safari=y|strange=y|wing=y}}
+}}

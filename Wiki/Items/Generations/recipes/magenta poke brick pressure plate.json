@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "redstone",
-  "group": "magenta_poke_brick_pressure_plate",
+  "group": "magenta poke brick pressure plate",
   "key": {
     "#": {
-      "item": "generations_core:magenta_poke_brick"
+      "item": "magenta poke brick"
     }
   },
   "pattern": [
     "##"
   ],
   "result": {
-    "item": "generations_core:magenta_poke_brick_pressure_plate"
+    "item": "magenta poke brick pressure plate"
   },
-  "show_notification": true
+  "show notification": true
 }

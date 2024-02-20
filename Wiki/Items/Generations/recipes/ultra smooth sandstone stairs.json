@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "ultra_smooth_sandstone_stairs",
+  "group": "ultra smooth sandstone stairs",
   "key": {
     "#": {
-      "item": "generations_core:ultra_smooth_sandstone"
+      "item": "ultra smooth sandstone"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:ultra_smooth_sandstone_stairs"
+    "item": "ultra smooth sandstone stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

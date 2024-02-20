@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Wide Lens|id=wide_lens|left=y
+
+}}
+{{DescBox|
+
+Increases the accuracy of moves.
+
+|drop1={{DropLoot|beast=y|dream=y|dusk=y|gigaton=y|sport=y}}
+}}

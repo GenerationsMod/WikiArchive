@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Roto Hatch|id=roto_hatch|left=y
+
+}}
+{{DescBox|
+
+Helps Eggs hatch faster.
+
+|drop1=None
+}}

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "volcanic_stone_bricks_chiseled",
+  "group": "volcanic stone bricks chiseled",
   "key": {
     "#": {
-      "item": "generations_core:volcanic_stone_brick_slab"
+      "item": "volcanic stone brick slab"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
     "#"
   ],
   "result": {
-    "item": "generations_core:chiseled_volcanic_stone_bricks"
+    "item": "chiseled volcanic stone bricks"
   },
-  "show_notification": true
+  "show notification": true
 }

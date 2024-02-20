@@ -1,0 +1,25 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "SSS",
+        "LHL",
+		"G G"
+    ],
+    "key": {
+        "G": {
+            "item": "gold ingot"
+        },
+        "L": {
+            "item": "lime dye"
+        },
+        "S": {
+            "item": "hard stone"
+        },
+        "H": {
+            "item": "golden helmet"
+        }
+    },
+    "result": {
+        "item": "rocky helmet"
+    }
+}

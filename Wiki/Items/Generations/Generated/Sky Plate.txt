@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Sky Plate|id=sky_plate|left=y
+
+}}
+{{DescBox|
+
+Increases power of Flying-type moves. Changes Arceus' type to Flying.
+
+|drop1={{DropLoot|jet=y|master=y|nest=y|wing=y}}
+}}

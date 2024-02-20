@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "X": {
-      "item": "cobblemon:water_stone"
+      "item": "water stone"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "X X"
   ],
   "result": {
-    "item": "generations_core:water_stone_helmet"
+    "item": "water stone helmet"
   },
-  "show_notification": true
+  "show notification": true
 }

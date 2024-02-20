@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Roto Friendship|id=roto_friendship|left=y
+
+}}
+{{DescBox|
+
+Helps Pokémon in your party grow friendly faster.
+
+|drop1=None
+}}

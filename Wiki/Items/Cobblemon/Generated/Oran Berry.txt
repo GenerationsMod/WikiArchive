@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Oran Berry|id=oran_berry|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+If held by a Pokémon, it heals the user by just 10 HP.
+
+|drop1={{DropLoot|gigaton=y|great=y|level=y|poke=y}}
+}}

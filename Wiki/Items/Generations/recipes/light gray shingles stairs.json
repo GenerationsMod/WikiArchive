@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "light_gray_shingles_stairs",
+  "group": "light gray shingles stairs",
   "key": {
     "#": {
-      "item": "generations_core:light_gray_shingles"
+      "item": "light gray shingles"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:light_gray_shingles_stairs"
+    "item": "light gray shingles stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:smelting",
+  "type": "smelting",
   "category": "blocks",
   "cookingtime": 200,
   "experience": 0.1,
   "ingredient": {
-    "item": "generations_core:golden_temple_sandstone"
+    "item": "golden temple sandstone"
   },
-  "result": "generations_core:golden_temple_smooth_sandstone"
+  "result": "golden temple smooth sandstone"
 }

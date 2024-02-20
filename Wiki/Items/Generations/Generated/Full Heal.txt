@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Full Heal|id=full_heal|left=y
+
+}}
+{{DescBox|
+
+Cures a Pokémon of any status condition.
+
+|drop1={{DropLoot|beast=y|heal=y|luxury=y|ultra=y}}
+}}

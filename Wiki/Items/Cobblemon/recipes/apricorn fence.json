@@ -1,0 +1,20 @@
+{
+  "type": "crafting shaped",
+  "group": "wooden fence",
+  "pattern": [
+    "W#W",
+    "W#W"
+  ],
+  "key": {
+    "W": {
+      "item": "apricorn planks"
+    },
+    "#": {
+      "item": "stick"
+    }
+  },
+  "result": {
+    "item": "apricorn fence",
+    "count": 3
+  }
+}

@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Big Root|id=big_root|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Recovers more HP from HP-stealing moves.
+
+|drop1={{DropLoot|dream=y|dusk=y|heal=y|lure=y}}
+}}

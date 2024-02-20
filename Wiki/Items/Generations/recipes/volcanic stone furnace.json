@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
   "key": {
     "X": {
-      "item": "generations_core:volcanic_cobblestone"
+      "item": "volcanic cobblestone"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
     "XXX"
   ],
   "result": {
-    "item": "generations_core:volcanic_stone_furnace"
+    "item": "volcanic stone furnace"
   },
-  "show_notification": true
+  "show notification": true
 }

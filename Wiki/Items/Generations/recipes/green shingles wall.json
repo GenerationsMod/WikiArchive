@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "green_shingles_wall",
+  "group": "green shingles wall",
   "key": {
     "#": {
-      "item": "generations_core:green_shingles"
+      "item": "green shingles"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:green_shingles_wall"
+    "item": "green shingles wall"
   },
-  "show_notification": true
+  "show notification": true
 }

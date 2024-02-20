@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Persim Berry|id=persim_berry|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+If held by a Pokémon, it recovers from confusion.
+
+|drop1={{DropLoot|cherish=y|dive=y|dream=y}}
+}}

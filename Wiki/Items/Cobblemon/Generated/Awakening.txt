@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Awakening|id=awakening|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Wakes up a sleeping Pokémon.
+
+|drop1={{DropLoot|dream=y|heal=y|jet=y|ultra=y}}
+}}

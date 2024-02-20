@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Primarium Z|id=primarium_z|left=y
+
+}}
+{{DescBox|
+
+Allows Primarina to upgrade Sparkling Aria to a Z-Move, Oceanic Operetta.
+
+|drop1=None
+}}

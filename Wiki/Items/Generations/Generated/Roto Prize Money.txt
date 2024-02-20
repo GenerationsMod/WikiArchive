@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Roto Prize Money|id=roto_prize_money|left=y
+
+}}
+{{DescBox|
+
+Triples the prize money you receive after battle.
+
+|drop1=None
+}}

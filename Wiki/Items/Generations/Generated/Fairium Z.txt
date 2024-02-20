@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Fairium Z|id=fairium_z|left=y
+
+}}
+{{DescBox|
+
+Allows the use of Twinkle Tackle, the Fairy type Z-Move.
+
+|drop1=None
+}}

@@ -1,0 +1,30 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " t ",
+        "lcr",
+        " b "
+    ],
+    "key": {
+        "t": {
+            "item": "red apricorn"
+        },
+        "l": {
+            "item": "pink apricorn"
+        },
+        "c": {
+            "item": "diamond"
+        },
+        "r": {
+            "item": "pink apricorn"
+        },
+        "b": {
+            "item": "blue apricorn"
+        }
+    },
+    "result":
+    {
+        "item": "dream ball",
+        "count": 4
+    }
+}

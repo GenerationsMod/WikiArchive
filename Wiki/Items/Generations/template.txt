@@ -2,6 +2,7 @@
 recipe_here
 }}
 {{DescBox|
+
 Description
 
 |drop1=drop_loot_info pokemon_drops

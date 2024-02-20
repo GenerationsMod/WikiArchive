@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "redstone",
-  "group": "ultra_yellow_button",
+  "group": "ultra yellow button",
   "ingredients": [
     {
-      "item": "generations_core:ultra_yellow"
+      "item": "ultra yellow"
     }
   ],
   "result": {
-    "item": "generations_core:ultra_yellow_button"
+    "item": "ultra yellow button"
   }
 }

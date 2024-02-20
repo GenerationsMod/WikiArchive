@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Dragonium Z|id=dragonium_z|left=y
+
+}}
+{{DescBox|
+
+Allows the use of Devastating Drake, the Dragon type Z-Move.
+
+|drop1=None
+}}

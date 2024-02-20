@@ -1,0 +1,22 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "  I",
+        "PCP",
+		"I  "
+    ],
+    "key": {
+        "I": {
+            "item": "iron ingot"
+        },
+        "C": {
+            "item": "copper ingot"
+        },
+        "P": {
+            "item": "popped chorus fruit"
+        }
+    },
+    "result": {
+        "item": "link cable"
+    }
+}

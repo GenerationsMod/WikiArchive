@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "white_shingles_stairs",
+  "group": "white shingles stairs",
   "key": {
     "#": {
-      "item": "generations_core:white_shingles"
+      "item": "white shingles"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:white_shingles_stairs"
+    "item": "white shingles stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

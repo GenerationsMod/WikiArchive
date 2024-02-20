@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Tough Candy L|id=tough_candy_l|left=y
+
+}}
+{{DescBox|
+
+Increases a Pokémon's Defense stat.
+
+|drop1={{DropLoot|fast=y|lure=y|moon=y|ultra=y}}
+}}

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Life Orb|id=life_orb|left=y
+
+}}
+{{DescBox|
+
+Increases the power of moves, but loses HP each turn.
+
+|drop1={{DropLoot|heavy=y|leaden=y|master=y|timer=y}}
+}}

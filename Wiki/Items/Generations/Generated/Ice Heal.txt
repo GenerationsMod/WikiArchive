@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Ice Heal|id=ice_heal|left=y
+
+}}
+{{DescBox|
+
+Cures a Pokémon of freezing.
+
+|drop1={{DropLoot|dive=y|heal=y|love=y|lure=y|luxury=y}}
+}}

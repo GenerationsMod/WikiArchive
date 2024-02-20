@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Legend Plate|id=legend_plate|left=y
+
+}}
+{{DescBox|
+
+
+
+|drop1={{DropLoot|gigaton=y|master=y|origin=y|strange=y}}
+}}

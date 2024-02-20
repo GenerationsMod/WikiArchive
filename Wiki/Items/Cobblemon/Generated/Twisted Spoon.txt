@@ -1,0 +1,13 @@
+{{ItemInfobox|item=Twisted Spoon|id=twisted_spoon|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Iron Shovel|B1=Ender Pearl|C1=|A2=|B2=|C2=|A3=|B3=|C3=|Output=Twisted Spoon|shapeless=y}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Increases the power of Psychic-type moves.
+
+|drop1={{DropLoot|dream=y|dusk=y|friend=y}}
+}}

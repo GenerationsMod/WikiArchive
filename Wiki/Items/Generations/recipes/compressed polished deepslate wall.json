@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "compressed_polished_deepslate_wall",
+  "group": "compressed polished deepslate wall",
   "key": {
     "#": {
-      "item": "generations_core:compressed_polished_deepslate"
+      "item": "compressed polished deepslate"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:compressed_polished_deepslate_wall"
+    "item": "compressed polished deepslate wall"
   },
-  "show_notification": true
+  "show notification": true
 }

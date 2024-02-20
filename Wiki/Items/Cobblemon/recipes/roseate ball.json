@@ -1,0 +1,30 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " t ",
+        "lcr",
+        " b "
+    ],
+    "key": {
+        "t": {
+            "item": "pink apricorn"
+        },
+        "l": {
+            "item": "pink apricorn"
+        },
+        "c": {
+            "item": "copper ingot"
+        },
+        "r": {
+            "item": "pink apricorn"
+        },
+        "b": {
+            "item": "pink apricorn"
+        }
+    },
+    "result":
+    {
+        "item": "roseate ball",
+        "count": 4
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " t ",
+        "lcr",
+        " b "
+    ],
+    "key": {
+        "t": {
+            "item": "blue apricorn"
+        },
+        "l": {
+            "item": "blue apricorn"
+        },
+        "c": {
+            "item": "copper ingot"
+        },
+        "r": {
+            "item": "blue apricorn"
+        },
+        "b": {
+            "item": "blue apricorn"
+        }
+    },
+    "result":
+    {
+        "item": "azure ball",
+        "count": 4
+    }
+}

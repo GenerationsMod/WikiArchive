@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Red Apricorn|id=red_apricorn|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+A red Apricorn. It assails your nostrils.
+
+|drop1={{DropLoot|great=y|origin=y|poke=y|repeat=y|safari=y}}
+}}

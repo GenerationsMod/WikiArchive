@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "X": {
-      "item": "generations_core:crystal"
+      "item": "crystal"
     },
     "Y": {
-      "item": "generations_core:silicon"
+      "item": "silicon"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
     "Y Y"
   ],
   "result": {
-    "item": "generations_core:neo_plasma_helmet"
+    "item": "neo plasma helmet"
   },
-  "show_notification": true
+  "show notification": true
 }

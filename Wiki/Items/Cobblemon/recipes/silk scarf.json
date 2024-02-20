@@ -1,0 +1,19 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " WS",
+        "SWW",
+		"WS "
+    ],
+    "key": {
+        "W": {
+            "item": "white wool"
+        },
+        "S": {
+            "item": "string"
+        }
+    },
+    "result": {
+        "item": "silk scarf"
+    }
+}

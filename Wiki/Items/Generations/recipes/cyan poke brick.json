@@ -1,25 +1,25 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "building",
   "ingredients": [
     {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     {
-      "item": "minecraft:cyan_dye"
+      "item": "cyan dye"
     }
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:cyan_poke_brick"
+    "item": "cyan poke brick"
   }
 }

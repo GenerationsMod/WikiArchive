@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Salad Mix|id=salad_mix|left=y
+
+}}
+{{DescBox|
+
+One of the many ingredients that can be used for cooking at your camp. The assortment of vegetables looks quite appealing and healthy.
+
+|drop1={{DropLoot|leaden=y|lure=y|nest=y|safari=y|timer=y}}
+}}

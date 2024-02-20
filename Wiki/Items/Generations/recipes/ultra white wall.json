@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "ultra_white_wall",
+  "group": "ultra white wall",
   "key": {
     "#": {
-      "item": "generations_core:ultra_white"
+      "item": "ultra white"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:ultra_white_wall"
+    "item": "ultra white wall"
   },
-  "show_notification": true
+  "show notification": true
 }

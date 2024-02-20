@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Full Heal|id=full_heal|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Cures a Pokémon of any status condition.
+
+|drop1={{DropLoot|beast=y|heal=y|luxury=y|ultra=y}}
+}}

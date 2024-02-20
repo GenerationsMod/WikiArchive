@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Scope Lens|id=scope_lens|left=y
+
+}}
+{{DescBox|
+
+Increases critical-hit ratio.
+
+|drop1={{DropLoot|dream=y|dusk=y|premier=y}}
+}}

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Manectite|id=manectite|left=y
+
+}}
+{{DescBox|
+
+Enables Manectric to Mega Evolve during battle.
+
+|drop1=None
+}}

@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Power Band|id=power_band|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Pink Mint Leaf|B1=Yellow Concrete|C1=Diamond
+|A2=Yellow Concrete|B2=|C2=Yellow Concrete
+|A3=Diamond|B3=Yellow Concrete|C3=Pink Mint Leaf
+|Output=Power Band|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+A Pokémon held item that promotes Sp. Def gain on leveling, but reduces the Speed stat.
+
+|drop1={{DropLoot|gigaton=y|heavy=y|jet=y|luxury=y|quick=y}}
+}}

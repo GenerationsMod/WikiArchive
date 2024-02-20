@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Relic Silver|id=relic_silver|left=y
+
+}}
+{{DescBox|
+
+A silver coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+
+|drop1={{DropLoot|cherish=y|jet=y|park=y}}
+}}

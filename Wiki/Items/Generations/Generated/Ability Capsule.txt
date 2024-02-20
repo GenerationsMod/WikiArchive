@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Ability Capsule|id=ability_capsule|left=y
+
+}}
+{{DescBox|
+
+A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used.
+
+|drop1={{DropLoot|luxury=y|master=y}}
+}}

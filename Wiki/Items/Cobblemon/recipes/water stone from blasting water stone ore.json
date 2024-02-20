@@ -1,0 +1,10 @@
+{
+  "type": "blasting",
+  "group": "water stone",
+  "ingredient": {
+    "item": "water stone ore"
+  },
+  "result": "water stone",
+  "experience": 0.1,
+  "cookingtime": 100
+}

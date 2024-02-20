@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "golden_temple_sandstone_wall",
+  "group": "golden temple sandstone wall",
   "key": {
     "#": {
-      "item": "generations_core:golden_temple_sandstone"
+      "item": "golden temple sandstone"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:golden_temple_sandstone_wall"
+    "item": "golden temple sandstone wall"
   },
-  "show_notification": true
+  "show notification": true
 }

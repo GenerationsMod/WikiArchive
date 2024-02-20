@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "redstone",
-  "group": "charge_stone_button",
+  "group": "charge stone button",
   "ingredients": [
     {
-      "item": "generations_core:charge_stone"
+      "item": "charge stone"
     }
   ],
   "result": {
-    "item": "generations_core:charge_stone_button"
+    "item": "charge stone button"
   }
 }

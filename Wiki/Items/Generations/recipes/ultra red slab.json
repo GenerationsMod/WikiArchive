@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "ultra_red_slab",
+  "group": "ultra red slab",
   "key": {
     "#": {
-      "item": "generations_core:ultra_red"
+      "item": "ultra red"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:ultra_red_slab"
+    "item": "ultra red slab"
   },
-  "show_notification": true
+  "show notification": true
 }

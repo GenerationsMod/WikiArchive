@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "ghost_brick_stairs",
+  "group": "ghost brick stairs",
   "key": {
     "#": {
-      "item": "generations_core:ghost_bricks"
+      "item": "ghost bricks"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:ghost_brick_stairs"
+    "item": "ghost brick stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

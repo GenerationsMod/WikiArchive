@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Destiny Knot|id=destiny_knot|left=y
+
+}}
+{{DescBox|
+
+A long, thin, bright-red string to be held by a Pokémon. If the holder becomes infatuated, the foe does too.
+
+|drop1={{DropLoot|love=y|park=y|premier=y|wing=y}}
+}}

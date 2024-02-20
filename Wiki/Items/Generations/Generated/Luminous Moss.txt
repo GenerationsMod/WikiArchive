@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Luminous Moss|id=luminous_moss|left=y
+
+}}
+{{DescBox|
+
+Raises Special Defense if hit by a Water-type move.
+
+|drop1={{DropLoot|dive=y}}
+}}

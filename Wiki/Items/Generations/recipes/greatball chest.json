@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "E": {
-      "item": "cobblemon:great_ball"
+      "item": "great ball"
     },
     "X": {
-      "item": "generations_core:pokeball_chest"
+      "item": "pokeball chest"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     "EEE"
   ],
   "result": {
-    "item": "generations_core:greatball_chest"
+    "item": "greatball chest"
   },
-  "show_notification": true
+  "show notification": true
 }

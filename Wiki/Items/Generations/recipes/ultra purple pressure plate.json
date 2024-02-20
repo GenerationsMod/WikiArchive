@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "redstone",
-  "group": "ultra_purple_pressure_plate",
+  "group": "ultra purple pressure plate",
   "key": {
     "#": {
-      "item": "generations_core:ultra_purple"
+      "item": "ultra purple"
     }
   },
   "pattern": [
     "##"
   ],
   "result": {
-    "item": "generations_core:ultra_purple_pressure_plate"
+    "item": "ultra purple pressure plate"
   },
-  "show_notification": true
+  "show notification": true
 }

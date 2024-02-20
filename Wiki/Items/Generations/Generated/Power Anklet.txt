@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Power Anklet|id=power_anklet|left=y
+
+}}
+{{DescBox|
+
+A Pokémon held item that promotes Speed gain on leveling, but reduces the Speed stat.
+
+|drop1={{DropLoot|fast=y|gigaton=y|jet=y|love=y|quick=y|sport=y}}
+}}

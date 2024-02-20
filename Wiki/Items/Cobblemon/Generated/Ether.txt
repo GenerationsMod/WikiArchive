@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Ether|id=ether|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Restores 10 PP to one move of a Pokémon.
+
+|drop1={{DropLoot|great=y|level=y|safari=y}}
+}}

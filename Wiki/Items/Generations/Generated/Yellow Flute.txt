@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Yellow Flute|id=yellow_flute|left=y
+
+}}
+{{DescBox|
+
+A toy flute made from yellow glass. A maniac will buy it for a high price.
+
+|drop1={{DropLoot|luxury=y|net=y|park=y}}
+}}

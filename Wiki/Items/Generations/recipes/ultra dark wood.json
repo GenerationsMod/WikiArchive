@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "group": "bark",
   "key": {
     "#": {
-      "item": "generations_core:ultra_dark_log"
+      "item": "ultra dark log"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 3,
-    "item": "generations_core:ultra_dark_wood"
+    "item": "ultra dark wood"
   },
-  "show_notification": true
+  "show notification": true
 }

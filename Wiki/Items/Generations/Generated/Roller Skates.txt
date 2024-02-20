@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Roller Skates|id=roller_skates|left=y
+
+}}
+{{DescBox|
+
+Attaches roller skates to the bottom of your shoes, allowing you to glide quickly around and perform tricks.
+
+|drop1={{DropLoot|fast=y|quick=y|strange=y|ultra=y}}
+}}

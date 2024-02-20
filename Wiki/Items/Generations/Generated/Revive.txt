@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Revive|id=revive|left=y
+
+}}
+{{DescBox|
+
+Revives a fainted Pokémon, restoring half its HP.
+
+|drop1={{DropLoot|heal=y|repeat=y|safari=y|timer=y}}
+}}

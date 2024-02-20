@@ -1,0 +1,13 @@
+{{ItemInfobox|item=Revive|id=revive|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Heal Powder|B1=Honey Bottle|C1=|A2=|B2=|C2=|A3=|B3=|C3=|Output=Revive|shapeless=y}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Revives a fainted Pokémon, restoring half its HP.
+
+|drop1={{DropLoot|heal=y|repeat=y|safari=y|timer=y}}
+}}

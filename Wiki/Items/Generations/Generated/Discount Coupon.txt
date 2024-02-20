@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Discount Coupon|id=discount_coupon|left=y
+
+}}
+{{DescBox|
+
+This special coupon allows you to buy items at a discount when you are shopping at a boutique.
+
+|drop1={{DropLoot|cherish=y|master=y|premier=y}}
+}}

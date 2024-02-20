@@ -1,25 +1,25 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "building",
   "ingredients": [
     {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     {
-      "item": "minecraft:orange_dye"
+      "item": "orange dye"
     }
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:orange_poke_brick"
+    "item": "orange poke brick"
   }
 }

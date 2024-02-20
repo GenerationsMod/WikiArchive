@@ -1,0 +1,23 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "group": "wooden sign",
+  "key": {
+    "#": {
+      "item": "apricorn planks"
+    },
+    "X": {
+      "item": "stick"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    " X "
+  ],
+  "result": {
+    "count": 3,
+    "item": "apricorn sign"
+  },
+  "show notification": true
+}

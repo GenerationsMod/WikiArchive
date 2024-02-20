@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "cracked_castle_block_slab",
+  "group": "cracked castle block slab",
   "key": {
     "#": {
-      "item": "generations_core:cracked_castle_block"
+      "item": "cracked castle block"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:cracked_castle_block_slab"
+    "item": "cracked castle block slab"
   },
-  "show_notification": true
+  "show notification": true
 }

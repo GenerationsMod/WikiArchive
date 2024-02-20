@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Gardevoirite|id=gardevoirite|left=y
+
+}}
+{{DescBox|
+
+Enables Gardevoir to Mega Evolve during battle.
+
+|drop1=None
+}}

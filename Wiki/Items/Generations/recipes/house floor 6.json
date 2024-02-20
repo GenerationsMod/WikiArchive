@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "#": {
-      "item": "generations_core:normal_sandstone"
+      "item": "normal sandstone"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "##"
   ],
   "result": {
-    "item": "generations_core:house_floor_6"
+    "item": "house floor 6"
   },
-  "show_notification": true
+  "show notification": true
 }

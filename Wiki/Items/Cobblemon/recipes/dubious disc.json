@@ -1,0 +1,24 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "TLT",
+        "SAS"
+    ],
+    "key": {
+        "T": {
+            "item": "tinted glass"
+        },
+        "A": {
+            "item": "amethyst shard"
+        },
+        "S": {
+            "item": "sculk"
+        },
+        "L": {
+            "item": "sea lantern"
+        }
+    },
+    "result": {
+        "item": "dubious disc"
+    }
+}

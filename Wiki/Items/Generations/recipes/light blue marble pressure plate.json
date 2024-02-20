@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "redstone",
-  "group": "light_blue_marble_pressure_plate",
+  "group": "light blue marble pressure plate",
   "key": {
     "#": {
-      "item": "generations_core:light_blue_marble"
+      "item": "light blue marble"
     }
   },
   "pattern": [
     "##"
   ],
   "result": {
-    "item": "generations_core:light_blue_marble_pressure_plate"
+    "item": "light blue marble pressure plate"
   },
-  "show_notification": true
+  "show notification": true
 }

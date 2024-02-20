@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Item Drop|id=item_drop|left=y
+
+}}
+{{DescBox|
+
+When used, it causes an ally Pokémon to drop a held item.
+
+|drop1={{DropLoot|friend=y|heavy=y|leaden=y|premier=y}}
+}}

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Medichamite|id=medichamite|left=y
+
+}}
+{{DescBox|
+
+Enables Medicham to Mega Evolve during battle.
+
+|drop1=None
+}}

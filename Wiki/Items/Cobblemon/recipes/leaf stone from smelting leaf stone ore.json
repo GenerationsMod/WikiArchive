@@ -1,0 +1,10 @@
+{
+  "type": "smelting",
+  "group": "leaf stone",
+  "ingredient": {
+    "item": "leaf stone ore"
+  },
+  "result": "leaf stone",
+  "experience": 0.1,
+  "cookingtime": 200
+}

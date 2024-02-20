@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "water_quartz_stairs",
+  "group": "water quartz stairs",
   "key": {
     "#": {
-      "item": "generations_core:water_quartz"
+      "item": "water quartz"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:water_quartz_stairs"
+    "item": "water quartz stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

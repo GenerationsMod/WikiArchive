@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Super Potion|id=super_potion|left=y
+
+}}
+{{DescBox|
+
+Restores 60 HP.
+
+|drop1={{DropLoot|heal=y|sport=y|ultra=y}}
+}}

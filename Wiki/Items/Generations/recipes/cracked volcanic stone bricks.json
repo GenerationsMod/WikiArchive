@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:smelting",
+  "type": "smelting",
   "category": "blocks",
   "cookingtime": 200,
   "experience": 0.1,
   "ingredient": {
-    "item": "generations_core:volcanic_stone_bricks"
+    "item": "volcanic stone bricks"
   },
-  "result": "generations_core:cracked_volcanic_stone_bricks"
+  "result": "cracked volcanic stone bricks"
 }

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "ultra_brown_slab",
+  "group": "ultra brown slab",
   "key": {
     "#": {
-      "item": "generations_core:ultra_brown"
+      "item": "ultra brown"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:ultra_brown_slab"
+    "item": "ultra brown slab"
   },
-  "show_notification": true
+  "show notification": true
 }

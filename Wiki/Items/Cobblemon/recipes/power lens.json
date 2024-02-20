@@ -1,0 +1,22 @@
+{
+  "type": "crafting shaped",
+  "pattern": [
+    "MCD",
+    "C C",
+    "DCM"
+  ],
+  "key": {
+    "M": {
+      "item": "cyan mint leaf"
+    },
+    "C": {
+      "item": "magenta concrete"
+    },
+    "D": {
+      "item": "diamond"
+    }
+  },
+  "result": {
+    "item": "power lens"
+  }
+}

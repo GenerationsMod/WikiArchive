@@ -1,0 +1,22 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " C ",
+        "GSG",
+		"SGS"
+    ],
+    "key": {
+        "C": {
+            "item": "chiseled sandstone"
+        },
+        "G": {
+            "item": "raw gold"
+        },
+        "S": {
+            "item": "sandstone"
+        }
+    },
+    "result": {
+        "item": "kings rock"
+    }
+}

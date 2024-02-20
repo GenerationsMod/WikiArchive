@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "light_blue_poke_brick_wall",
+  "group": "light blue poke brick wall",
   "key": {
     "#": {
-      "item": "generations_core:light_blue_poke_brick"
+      "item": "light blue poke brick"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:light_blue_poke_brick_wall"
+    "item": "light blue poke brick wall"
   },
-  "show_notification": true
+  "show notification": true
 }

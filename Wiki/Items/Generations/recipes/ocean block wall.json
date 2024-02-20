@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "ocean_block_wall",
+  "group": "ocean block wall",
   "key": {
     "#": {
-      "item": "generations_core:ocean_block"
+      "item": "ocean block"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:ocean_block_wall"
+    "item": "ocean block wall"
   },
-  "show_notification": true
+  "show notification": true
 }

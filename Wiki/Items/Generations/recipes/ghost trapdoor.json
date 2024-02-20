@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "redstone",
-  "group": "wooden_trapdoor",
+  "group": "wooden trapdoor",
   "key": {
     "#": {
-      "item": "generations_core:ghost_planks"
+      "item": "ghost planks"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 2,
-    "item": "generations_core:ghost_trapdoor"
+    "item": "ghost trapdoor"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:smelting",
+  "type": "smelting",
   "category": "blocks",
   "cookingtime": 200,
   "experience": 0.1,
   "ingredient": {
-    "item": "generations_core:charge_cobblestone"
+    "item": "charge cobblestone"
   },
-  "result": "generations_core:charge_stone"
+  "result": "charge stone"
 }

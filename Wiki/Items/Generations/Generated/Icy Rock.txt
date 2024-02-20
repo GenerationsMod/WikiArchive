@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Icy Rock|id=icy_rock|left=y
+
+}}
+{{DescBox|
+
+A Pokémon held item that extends the duration of the move Hail used by the holder.
+
+|drop1={{DropLoot|dive=y|level=y|moon=y|timer=y|wing=y}}
+}}

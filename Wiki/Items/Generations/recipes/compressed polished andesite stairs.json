@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "compressed_polished_andesite_stairs",
+  "group": "compressed polished andesite stairs",
   "key": {
     "#": {
-      "item": "generations_core:compressed_polished_andesite"
+      "item": "compressed polished andesite"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:compressed_polished_andesite_stairs"
+    "item": "compressed polished andesite stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

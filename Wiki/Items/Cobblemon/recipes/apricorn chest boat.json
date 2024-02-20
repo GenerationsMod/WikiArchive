@@ -1,0 +1,16 @@
+{
+  "type": "crafting shapeless",
+  "category": "misc",
+  "group": "chest boat",
+  "ingredients": [
+    {
+      "item": "chest"
+    },
+    {
+      "item": "apricorn boat"
+    }
+  ],
+  "result": {
+    "item": "apricorn chest boat"
+  }
+}

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Blunder Policy|id=blunder_policy|left=y
+
+}}
+{{DescBox|
+
+Raises Speed sharply if its attack misses.
+
+|drop1={{DropLoot|fast=y|quick=y|timer=y|ultra=y}}
+}}

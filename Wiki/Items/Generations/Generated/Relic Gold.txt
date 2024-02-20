@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Relic Gold|id=relic_gold|left=y
+
+}}
+{{DescBox|
+
+A gold coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+
+|drop1={{DropLoot|dive=y|jet=y|park=y}}
+}}

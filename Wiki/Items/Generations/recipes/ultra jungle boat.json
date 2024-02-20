@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
   "group": "boat",
   "key": {
     "#": {
-      "item": "generations_core:ultra_jungle_planks"
+      "item": "ultra jungle planks"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
     "###"
   ],
   "result": {
-    "item": "generations_core:ultra_jungle_boat"
+    "item": "ultra jungle boat"
   },
-  "show_notification": true
+  "show notification": true
 }

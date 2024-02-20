@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "bright_charge_cobblestone_stairs",
+  "group": "bright charge cobblestone stairs",
   "key": {
     "#": {
-      "item": "generations_core:bright_charge_cobblestone"
+      "item": "bright charge cobblestone"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:bright_charge_cobblestone_stairs"
+    "item": "bright charge cobblestone stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

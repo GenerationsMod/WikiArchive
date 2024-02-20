@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "#": {
-      "item": "minecraft:stick"
+      "item": "stick"
     },
     "X": {
-      "item": "cobblemon:dawn_stone"
+      "item": "dawn stone"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     " #"
   ],
   "result": {
-    "item": "generations_core:dawn_stone_hoe"
+    "item": "dawn stone hoe"
   },
-  "show_notification": true
+  "show notification": true
 }

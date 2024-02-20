@@ -1,0 +1,10 @@
+{
+  "type": "blasting",
+  "group": "sun stone",
+  "ingredient": {
+    "item": "deepslate sun stone ore"
+  },
+  "result": "sun stone",
+  "experience": 0.1,
+  "cookingtime": 100
+}

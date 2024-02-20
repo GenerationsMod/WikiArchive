@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Bottle Cap|id=bottle_cap|left=y
+
+}}
+{{DescBox|
+
+Maximizes one IV stat in Hyper Training.
+
+|drop1={{DropLoot|gigaton=y|master=y|park=y|premier=y}}
+}}

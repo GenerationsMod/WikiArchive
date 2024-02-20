@@ -1,0 +1,30 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " t ",
+        "lcr",
+        " b "
+    ],
+    "key": {
+        "t": {
+            "item": "red apricorn"
+        },
+        "l": {
+            "item": "yellow apricorn"
+        },
+        "c": {
+            "item": "iron ingot"
+        },
+        "r": {
+            "item": "yellow apricorn"
+        },
+        "b": {
+            "item": "white apricorn"
+        }
+    },
+    "result":
+    {
+        "item": "fast ball",
+        "count": 4
+    }
+}

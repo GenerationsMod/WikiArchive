@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Griseous Core|id=griseous_core|left=y
+
+}}
+{{DescBox|
+
+
+
+|drop1={{DropLoot|friend=y|gigaton=y|master=y|origin=y}}
+}}

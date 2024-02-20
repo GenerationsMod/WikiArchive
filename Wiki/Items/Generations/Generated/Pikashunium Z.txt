@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Pikashunium Z|id=pikashunium_z|left=y
+
+}}
+{{DescBox|
+
+Allows Pikachu in a cap to upgrade Thunderbolt to a Z-Move, 10,000,000 Volt Thunderbolt.
+
+|drop1=None
+}}

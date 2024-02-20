@@ -1,0 +1,10 @@
+{
+  "type": "campfire cooking",
+  "group": "braised vivichoke",
+  "ingredient": {
+    "item": "vivichoke"
+  },
+  "result": "braised vivichoke",
+  "experience": 0.35,
+  "cookingtime": 600
+}

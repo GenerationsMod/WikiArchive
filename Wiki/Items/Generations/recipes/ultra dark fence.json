@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "wooden_fence",
+  "group": "wooden fence",
   "key": {
     "#": {
-      "item": "minecraft:stick"
+      "item": "stick"
     },
     "W": {
-      "item": "generations_core:ultra_dark_planks"
+      "item": "ultra dark planks"
     }
   },
   "pattern": [
@@ -16,7 +16,7 @@
   ],
   "result": {
     "count": 3,
-    "item": "generations_core:ultra_dark_fence"
+    "item": "ultra dark fence"
   },
-  "show_notification": true
+  "show notification": true
 }

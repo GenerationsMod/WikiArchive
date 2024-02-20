@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Cherish Ball|id=cherish_ball|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Rre Poké Ball used for event Pokémon.
+
+|drop1={{DropLoot|cherish=y|love=y}}
+}}

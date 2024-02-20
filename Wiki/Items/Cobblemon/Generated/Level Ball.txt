@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Level Ball|id=level_ball|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=|B1=Black Apricorn|C1=
+|A2=Yellow Apricorn|B2=Iron Ingot|C2=Pink Apricorn
+|A3=|B3=Red Apricorn|C3=
+|Output=Level Ball|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+A Poké Ball for catching Pokémon that are a lower level than your own.
+
+|drop1={{DropLoot|dive=y|level=y|poke=y|sport=y}}
+}}

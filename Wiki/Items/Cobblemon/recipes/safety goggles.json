@@ -1,0 +1,19 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " S ",
+        "S S",
+		"GGG"
+    ],
+    "key": {
+        "G": {
+            "item": "red stained glass"
+        },
+        "S": {
+            "item": "scute"
+        }
+    },
+    "result": {
+        "item": "safety goggles"
+    }
+}

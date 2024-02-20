@@ -1,15 +1,15 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
   "key": {
     "#": {
-      "item": "generations_core:smooth_volcanic_stone"
+      "item": "smooth volcanic stone"
     },
     "I": {
-      "item": "minecraft:iron_ingot"
+      "item": "iron ingot"
     },
     "X": {
-      "item": "generations_core:volcanic_stone_furnace"
+      "item": "volcanic stone furnace"
     }
   },
   "pattern": [
@@ -18,7 +18,7 @@
     "###"
   ],
   "result": {
-    "item": "generations_core:volcanic_stone_blast_furnace"
+    "item": "volcanic stone blast furnace"
   },
-  "show_notification": true
+  "show notification": true
 }

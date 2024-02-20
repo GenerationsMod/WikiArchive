@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "#": {
-      "item": "generations_core:charge_stone"
+      "item": "charge stone"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:charge_stone_bricks"
+    "item": "charge stone bricks"
   },
-  "show_notification": true
+  "show notification": true
 }

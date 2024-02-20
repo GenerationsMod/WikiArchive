@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "ultra_light_gray_wall",
+  "group": "ultra light gray wall",
   "key": {
     "#": {
-      "item": "generations_core:ultra_light_gray"
+      "item": "ultra light gray"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:ultra_light_gray_wall"
+    "item": "ultra light gray wall"
   },
-  "show_notification": true
+  "show notification": true
 }

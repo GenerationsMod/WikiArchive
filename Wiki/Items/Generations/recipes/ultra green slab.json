@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "ultra_green_slab",
+  "group": "ultra green slab",
   "key": {
     "#": {
-      "item": "generations_core:ultra_green"
+      "item": "ultra green"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:ultra_green_slab"
+    "item": "ultra green slab"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Lemonade|id=lemonade|left=y
+
+}}
+{{DescBox|
+
+Restores 70 HP.
+
+|drop1={{DropLoot|dream=y|heal=y|jet=y|lure=y}}
+}}

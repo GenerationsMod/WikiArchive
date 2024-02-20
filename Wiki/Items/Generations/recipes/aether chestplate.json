@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "X": {
-      "item": "minecraft:copper_ingot"
+      "item": "copper ingot"
     },
     "Y": {
-      "item": "generations_core:crystal"
+      "item": "crystal"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     "YYY"
   ],
   "result": {
-    "item": "generations_core:aether_chestplate"
+    "item": "aether chestplate"
   },
-  "show_notification": true
+  "show notification": true
 }

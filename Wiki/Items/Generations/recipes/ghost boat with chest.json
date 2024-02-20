@@ -1,16 +1,16 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "misc",
-  "group": "chest_boat",
+  "group": "chest boat",
   "ingredients": [
     {
-      "item": "minecraft:chest"
+      "item": "chest"
     },
     {
-      "item": "generations_core:ghost_boat"
+      "item": "ghost boat"
     }
   ],
   "result": {
-    "item": "generations_core:ghost_boat_with_chest"
+    "item": "ghost boat with chest"
   }
 }

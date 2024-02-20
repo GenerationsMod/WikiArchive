@@ -1,0 +1,20 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "bone meal"
+        },
+        {
+            "item": "bone meal"
+        },
+        {
+            "item": "bone meal"
+        },
+        {
+            "item": "mulch base"
+        }
+    ],
+    "result": {
+        "item": "growth mulch"
+    }
+}

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Eevium Z|id=eevium_z|left=y
+
+}}
+{{DescBox|
+
+Allows Eevee to upgrade Last Resort to a Z-Move, Extreme Evoboost.
+
+|drop1=None
+}}

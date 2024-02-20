@@ -1,0 +1,20 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "remedy"
+        },
+        {
+            "item": "sweet berries"
+        },
+        {
+            "item": "sweet berries"
+        },
+		{
+			"item": "pep up flower"
+		}
+    ],
+    "result": {
+        "item": "fine remedy"
+    }
+}

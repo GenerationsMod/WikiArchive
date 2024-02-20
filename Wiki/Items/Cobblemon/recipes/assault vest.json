@@ -1,0 +1,22 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "P P",
+        "WCW",
+		"WWW"
+    ],
+    "key": {
+        "P": {
+            "item": "protector"
+        },
+        "C": {
+            "item": "leather chestplate"
+        },
+        "W": {
+            "item": "red wool"
+        }
+    },
+    "result": {
+        "item": "assault vest"
+    }
+}

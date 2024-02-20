@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Sharpedonite|id=sharpedonite|left=y
+
+}}
+{{DescBox|
+
+Enables Sharpedo to Mega Evolve during battle.
+
+|drop1=None
+}}

@@ -1,0 +1,11 @@
+{
+  "type": "crafting shapeless",
+  "ingredients": [
+    {
+      "item": "pep up flower"
+    }
+  ],
+  "result": {
+    "item": "white dye"
+  }
+}

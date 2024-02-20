@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Rose Incense|id=rose_incense|left=y
+
+}}
+{{DescBox|
+
+Increases the power of Grass-type moves. Breeding Roselia or Roserade produces Budew when held.
+
+|drop1={{DropLoot|cherish=y|lure=y|net=y|strange=y}}
+}}

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "rock_wall",
+  "group": "rock wall",
   "key": {
     "#": {
-      "item": "generations_core:rock"
+      "item": "rock"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:rock_wall"
+    "item": "rock wall"
   },
-  "show_notification": true
+  "show notification": true
 }

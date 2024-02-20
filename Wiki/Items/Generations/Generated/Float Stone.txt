@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Float Stone|id=float_stone|left=y
+
+}}
+{{DescBox|
+
+A very light stone. It reduces the weight of a Pokémon when held.
+
+|drop1={{DropLoot|heavy=y|leaden=y|poke=y|quick=y}}
+}}

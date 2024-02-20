@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "#": {
-      "item": "minecraft:stick"
+      "item": "stick"
     },
     "X": {
-      "item": "generations_core:charge_cobblestone"
+      "item": "charge cobblestone"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     " # "
   ],
   "result": {
-    "item": "generations_core:charge_stone_hammer"
+    "item": "charge stone hammer"
   },
-  "show_notification": true
+  "show notification": true
 }

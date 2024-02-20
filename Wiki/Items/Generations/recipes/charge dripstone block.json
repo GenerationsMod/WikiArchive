@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "#": {
-      "item": "generations_core:pointed_charge_dripstone"
+      "item": "pointed charge dripstone"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "##"
   ],
   "result": {
-    "item": "generations_core:charge_dripstone_block"
+    "item": "charge dripstone block"
   },
-  "show_notification": true
+  "show notification": true
 }

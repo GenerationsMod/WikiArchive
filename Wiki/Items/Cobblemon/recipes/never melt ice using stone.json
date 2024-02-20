@@ -1,0 +1,18 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " P ",
+        "PIP"
+    ],
+    "key": {
+        "P": {
+            "item": "packed ice"
+        },
+        "I": {
+            "item": "ice stone"
+        }
+    },
+    "result": {
+        "item": "never melt ice"
+    }
+}

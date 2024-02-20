@@ -1,0 +1,12 @@
+{
+  "type": "crafting shapeless",
+  "group": "wooden button",
+  "ingredients": [
+    {
+      "item": "apricorn planks"
+    }
+  ],
+  "result": {
+    "item": "apricorn button"
+  }
+}

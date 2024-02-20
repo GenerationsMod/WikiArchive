@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "X": {
-      "item": "generations_core:crystal"
+      "item": "crystal"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
     "X X"
   ],
   "result": {
-    "item": "generations_core:crystallized_leggings"
+    "item": "crystallized leggings"
   },
-  "show_notification": true
+  "show notification": true
 }

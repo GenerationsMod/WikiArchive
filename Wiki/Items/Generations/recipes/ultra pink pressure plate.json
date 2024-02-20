@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "redstone",
-  "group": "ultra_pink_pressure_plate",
+  "group": "ultra pink pressure plate",
   "key": {
     "#": {
-      "item": "generations_core:ultra_pink"
+      "item": "ultra pink"
     }
   },
   "pattern": [
     "##"
   ],
   "result": {
-    "item": "generations_core:ultra_pink_pressure_plate"
+    "item": "ultra pink pressure plate"
   },
-  "show_notification": true
+  "show notification": true
 }

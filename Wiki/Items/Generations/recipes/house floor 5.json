@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "#": {
-      "item": "generations_core:mirror_glass"
+      "item": "mirror glass"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "##"
   ],
   "result": {
-    "item": "generations_core:house_floor_5"
+    "item": "house floor 5"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,15 +1,15 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "misc",
   "ingredients": [
     {
-      "item": "cobblemon:luxury_ball"
+      "item": "luxury ball"
     },
     {
-      "item": "generations_core:empty_ball_display"
+      "item": "empty ball display"
     }
   ],
   "result": {
-    "item": "generations_core:luxury_ball_display"
+    "item": "luxury ball display"
   }
 }

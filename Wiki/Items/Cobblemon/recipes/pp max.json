@@ -1,0 +1,29 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "pp up"
+        },
+        {
+            "item": "pep up flower"
+        },
+        {
+            "item": "pep up flower"
+        },
+        {
+            "item": "hopo berry"
+        },
+        {
+            "item": "hopo berry"
+        },
+        {
+            "item": "vivichoke"
+        },
+        {
+            "item": "vivichoke"
+        }
+    ],
+    "result": {
+        "item": "pp max"
+    }
+}

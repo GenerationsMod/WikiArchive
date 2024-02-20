@@ -1,0 +1,13 @@
+{{ItemInfobox|item=PP Max|id=pp_max|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Pp Up|B1=Pep Up Flower|C1=Pep Up Flower|A2=Hopo Berry|B2=Hopo Berry|C2=Vivichoke|A3=Vivichoke|B3=|C3=|Output=Pp Max|shapeless=y}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Raises the maximum PP of a move to its maximum.
+
+|drop1={{DropLoot|master=y|park=y}}
+}}

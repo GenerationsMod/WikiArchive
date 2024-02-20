@@ -1,0 +1,9 @@
+{{ItemInfobox|item=White Flute|id=white_flute|left=y
+
+}}
+{{DescBox|
+
+A toy flute made from white glass. A maniac will buy it for a high price.
+
+|drop1={{DropLoot|love=y|park=y|sport=y|ultra=y}}
+}}

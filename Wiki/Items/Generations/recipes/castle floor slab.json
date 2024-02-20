@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "castle_floor_slab",
+  "group": "castle floor slab",
   "key": {
     "#": {
-      "item": "generations_core:castle_floor"
+      "item": "castle floor"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:castle_floor_slab"
+    "item": "castle floor slab"
   },
-  "show_notification": true
+  "show notification": true
 }

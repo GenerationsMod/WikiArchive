@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Rock Gem|id=rock_gem|left=y
+
+}}
+{{DescBox|
+
+Increases the power of a Rock-type move only once.
+
+|drop1={{DropLoot|gigaton=y|heavy=y|leaden=y|level=y|park=y}}
+}}

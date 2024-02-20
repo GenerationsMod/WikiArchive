@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "compressed_polished_deepslate_slab",
+  "group": "compressed polished deepslate slab",
   "key": {
     "#": {
-      "item": "generations_core:compressed_polished_deepslate"
+      "item": "compressed polished deepslate"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:compressed_polished_deepslate_slab"
+    "item": "compressed polished deepslate slab"
   },
-  "show_notification": true
+  "show notification": true
 }

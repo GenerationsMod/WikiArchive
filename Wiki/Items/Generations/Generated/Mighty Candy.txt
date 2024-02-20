@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Mighty Candy|id=mighty_candy|left=y
+
+}}
+{{DescBox|
+
+Increases a Pokémon's Attack stat by 1.
+
+|drop1={{DropLoot|great=y|safari=y|sport=y}}
+}}

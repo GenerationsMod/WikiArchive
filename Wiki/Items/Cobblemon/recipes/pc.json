@@ -1,0 +1,25 @@
+{
+  "type": "crafting shaped",
+  "pattern": [
+    "IGI",
+    "ICI",
+    "SCS"
+  ],
+  "key": {
+    "G": {
+      "item": "glass"
+    },
+    "I": {
+      "item": "iron ingot"
+    },
+    "C": {
+      "item": "copper ingot"
+    },
+    "S": {
+      "item": "smooth stone"
+    }
+  },
+  "result": {
+    "item": "pc"
+  }
+}

@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "X": {
-      "item": "cobblemon:dawn_stone"
+      "item": "dawn stone"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
     "XXX"
   ],
   "result": {
-    "item": "generations_core:dawn_stone_chestplate"
+    "item": "dawn stone chestplate"
   },
-  "show_notification": true
+  "show notification": true
 }

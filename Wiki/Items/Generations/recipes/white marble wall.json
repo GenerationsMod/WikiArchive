@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "white_marble_wall",
+  "group": "white marble wall",
   "key": {
     "#": {
-      "item": "generations_core:white_marble"
+      "item": "white marble"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:white_marble_wall"
+    "item": "white marble wall"
   },
-  "show_notification": true
+  "show notification": true
 }

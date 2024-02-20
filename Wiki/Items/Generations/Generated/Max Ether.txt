@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Max Ether|id=max_ether|left=y
+
+}}
+{{DescBox|
+
+Fully restores PP to one move of a Pokémon.
+
+|drop1={{DropLoot|dusk=y|great=y|heavy=y|leaden=y|moon=y}}
+}}

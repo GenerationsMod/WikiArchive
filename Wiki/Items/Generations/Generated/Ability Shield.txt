@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Ability Shield|id=ability_shield|left=y
+
+}}
+{{DescBox|
+
+An item to be held by a Pokémon. This cute and rather unique-looking shield protects the holder from having its Ability changed by others.
+
+|drop1=None
+}}

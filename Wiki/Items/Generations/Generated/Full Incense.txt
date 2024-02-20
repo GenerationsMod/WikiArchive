@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Full Incense|id=full_incense|left=y
+
+}}
+{{DescBox|
+
+Holder always attacks last. Breeding Snorlax produces Munchlax when held.
+
+|drop1={{DropLoot|friend=y|heavy=y|quick=y|safari=y|strange=y}}
+}}

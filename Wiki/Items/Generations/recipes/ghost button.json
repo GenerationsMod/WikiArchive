@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "redstone",
-  "group": "wooden_button",
+  "group": "wooden button",
   "ingredients": [
     {
-      "item": "generations_core:ghost_planks"
+      "item": "ghost planks"
     }
   ],
   "result": {
-    "item": "generations_core:ghost_button"
+    "item": "ghost button"
   }
 }

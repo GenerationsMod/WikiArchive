@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "ultra_light_gray_stairs",
+  "group": "ultra light gray stairs",
   "key": {
     "#": {
-      "item": "generations_core:ultra_light_gray"
+      "item": "ultra light gray"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:ultra_light_gray_stairs"
+    "item": "ultra light gray stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

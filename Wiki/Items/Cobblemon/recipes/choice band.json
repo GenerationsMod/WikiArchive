@@ -1,0 +1,28 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "WQW",
+        "LMQ",
+		"RLW"
+    ],
+    "key": {
+        "W": {
+            "item": "white wool"
+        },
+        "L": {
+            "item": "lapis lazuli"
+        },
+        "R": {
+            "item": "redstone"
+        },
+        "M": {
+            "item": "muscle band"
+        },
+        "Q": {
+            "item": "quartz"
+        }
+    },
+    "result": {
+        "item": "choice band"
+    }
+}

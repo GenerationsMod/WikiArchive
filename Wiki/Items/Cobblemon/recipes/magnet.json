@@ -1,0 +1,22 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "III",
+        "I I",
+		"R B"
+    ],
+    "key": {
+        "I": {
+            "item": "iron ingot"
+        },
+        "B": {
+            "item": "blue dye"
+        },
+        "R": {
+            "item": "redstone"
+        }
+    },
+    "result": {
+        "item": "magnet"
+    }
+}

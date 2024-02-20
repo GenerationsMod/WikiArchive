@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Armorite Ore|id=armorite_ore|left=y
+
+}}
+{{DescBox|
+
+
+
+|drop1=None
+}}

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Nugget|id=nugget|left=y
+
+}}
+{{DescBox|
+
+A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.
+
+|drop1={{DropLoot|dusk=y|great=y|premier=y}}
+}}

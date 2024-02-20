@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Zap Plate|id=zap_plate|left=y
+
+}}
+{{DescBox|
+
+Increases power of Electric-type moves. Changes Arceus' type to Electric.
+
+|drop1={{DropLoot|master=y|premier=y}}
+}}

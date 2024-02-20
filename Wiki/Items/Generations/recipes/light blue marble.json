@@ -1,25 +1,25 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "building",
   "ingredients": [
     {
-      "item": "minecraft:quartz_block"
+      "item": "quartz block"
     },
     {
-      "item": "minecraft:quartz_block"
+      "item": "quartz block"
     },
     {
-      "item": "minecraft:quartz_block"
+      "item": "quartz block"
     },
     {
-      "item": "minecraft:quartz_block"
+      "item": "quartz block"
     },
     {
-      "item": "minecraft:light_blue_dye"
+      "item": "light blue dye"
     }
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:light_blue_marble"
+    "item": "light blue marble"
   }
 }

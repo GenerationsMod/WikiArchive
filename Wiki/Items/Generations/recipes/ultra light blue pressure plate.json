@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "redstone",
-  "group": "ultra_light_blue_pressure_plate",
+  "group": "ultra light blue pressure plate",
   "key": {
     "#": {
-      "item": "generations_core:ultra_light_blue"
+      "item": "ultra light blue"
     }
   },
   "pattern": [
     "##"
   ],
   "result": {
-    "item": "generations_core:ultra_light_blue_pressure_plate"
+    "item": "ultra light blue pressure plate"
   },
-  "show_notification": true
+  "show notification": true
 }

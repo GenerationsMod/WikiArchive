@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "redstone",
-  "group": "magenta_poke_brick_button",
+  "group": "magenta poke brick button",
   "ingredients": [
     {
-      "item": "generations_core:magenta_poke_brick"
+      "item": "magenta poke brick"
     }
   ],
   "result": {
-    "item": "generations_core:magenta_poke_brick_button"
+    "item": "magenta poke brick button"
   }
 }

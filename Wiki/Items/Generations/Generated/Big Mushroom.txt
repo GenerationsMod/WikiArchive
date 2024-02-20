@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Big Mushroom|id=big_mushroom|left=y
+
+}}
+{{DescBox|
+
+A large and rare mushroom. It is sought after by collectors.
+
+|drop1={{DropLoot|great=y|premier=y|safari=y}}
+}}

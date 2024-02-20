@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Ether|id=ether|left=y
+
+}}
+{{DescBox|
+
+Restores 10 PP to one move of a Pokémon.
+
+|drop1={{DropLoot|great=y|level=y|safari=y}}
+}}

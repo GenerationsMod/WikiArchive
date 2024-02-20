@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Rock Incense|id=rock_incense|left=y
+
+}}
+{{DescBox|
+
+Increases the power of Rock-type moves. Breeding Sudowoodo produces Bonsly when held.
+
+|drop1={{DropLoot|beast=y|leaden=y|level=y|lure=y|safari=y|strange=y}}
+}}

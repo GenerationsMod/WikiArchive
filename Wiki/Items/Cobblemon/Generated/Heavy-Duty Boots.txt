@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Heavy-Duty Boots|id=heavy-duty_boots|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Protects the holder from traps set on the battlefield.
+
+|drop1=None
+}}

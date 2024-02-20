@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Red Flute|id=red_flute|left=y
+
+}}
+{{DescBox|
+
+A toy flute made from red glass. A maniac will buy it for a high price.
+
+|drop1={{DropLoot|cherish=y|luxury=y|quick=y}}
+}}

@@ -1,0 +1,14 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "fermented spider eye"
+        },
+        {
+            "item": "arrow"
+        }
+    ],
+    "result": {
+        "item": "poison barb"
+    }
+}

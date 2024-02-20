@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Potion|id=potion|left=y
+
+}}
+{{DescBox|
+
+Restores 20 HP.
+
+|drop1={{DropLoot|cherish=y|dive=y|love=y|wing=y}}
+}}

@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "X": {
-      "item": "cobblemon:fire_stone"
+      "item": "fire stone"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "X X"
   ],
   "result": {
-    "item": "generations_core:fire_stone_helmet"
+    "item": "fire stone helmet"
   },
-  "show_notification": true
+  "show notification": true
 }

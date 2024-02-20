@@ -1,0 +1,10 @@
+{
+  "type": "blasting",
+  "group": "dusk stone",
+  "ingredient": {
+    "item": "deepslate dusk stone ore"
+  },
+  "result": "dusk stone",
+  "experience": 0.1,
+  "cookingtime": 100
+}

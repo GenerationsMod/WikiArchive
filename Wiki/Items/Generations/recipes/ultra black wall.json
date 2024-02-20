@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "ultra_black_wall",
+  "group": "ultra black wall",
   "key": {
     "#": {
-      "item": "generations_core:ultra_black"
+      "item": "ultra black"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:ultra_black_wall"
+    "item": "ultra black wall"
   },
-  "show_notification": true
+  "show notification": true
 }

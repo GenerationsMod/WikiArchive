@@ -1,4 +1,5 @@
 {{ItemInfobox|item=Item Name|id=item_name|left=y
+recipe_here
 }}
 {{DescBox|
 '''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''

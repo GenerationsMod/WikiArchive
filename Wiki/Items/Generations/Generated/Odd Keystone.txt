@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Odd Keystone|id=odd_keystone|left=y
+
+}}
+{{DescBox|
+
+A vital item that is needed to keep a stone tower from collapsing. Voices can be heard from it occasionally.
+
+|drop1={{DropLoot|dream=y|jet=y|luxury=y|master=y|park=y}}
+}}

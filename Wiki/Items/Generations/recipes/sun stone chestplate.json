@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "X": {
-      "item": "cobblemon:sun_stone"
+      "item": "sun stone"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
     "XXX"
   ],
   "result": {
-    "item": "generations_core:sun_stone_chestplate"
+    "item": "sun stone chestplate"
   },
-  "show_notification": true
+  "show notification": true
 }

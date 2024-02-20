@@ -1,0 +1,31 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "SPS",
+        "LAF",
+		"MPM"
+    ],
+    "key": {
+        "P": {
+            "item": "purple wool"
+        },
+        "S": {
+            "item": "string"
+        },
+        "M": {
+            "item": "magenta wool"
+        },
+        "L": {
+            "item": "lilac"
+        },
+        "A": {
+            "item": "allium"
+        },
+        "F": {
+            "item": "peony"
+        }
+    },
+    "result": {
+        "item": "sachet"
+    }
+}

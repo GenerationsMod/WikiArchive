@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Bread|id=bread|left=y
+
+}}
+{{DescBox|
+
+One of the many ingredients that can be used for cooking at your camp. An indispensable tool for mopping up that extra curry left on your plate.
+
+|drop1={{DropLoot|cherish=y|great=y|jet=y|poke=y|sport=y}}
+}}

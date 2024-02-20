@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Nomel Berry|id=nomel_berry|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+A Berry which is very rare in the Unova region. A maniac will buy it for a high price.
+
+|drop1={{DropLoot|dusk=y|luxury=y|net=y|timer=y}}
+}}

@@ -1,0 +1,14 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "iron shovel"
+        },
+        {
+            "item": "ender pearl"
+        }
+    ],
+    "result": {
+        "item": "twisted spoon"
+    }
+}

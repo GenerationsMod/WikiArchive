@@ -1,14 +1,14 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "building",
   "group": "planks",
   "ingredients": [
     {
-      "tag": "generations_core:ghost_logs"
+      "tag": "ghost logs"
     }
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:ghost_planks"
+    "item": "ghost planks"
   }
 }

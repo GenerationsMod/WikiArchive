@@ -1,0 +1,11 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "medicinal leek"
+        }
+    ],
+    "result": {
+        "item": "magenta dye"
+    }
+}

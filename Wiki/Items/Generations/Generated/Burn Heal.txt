@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Burn Heal|id=burn_heal|left=y
+
+}}
+{{DescBox|
+
+Cures a Pokémon of a burn.
+
+|drop1={{DropLoot|heal=y|love=y|master=y|origin=y|poke=y|ultra=y}}
+}}

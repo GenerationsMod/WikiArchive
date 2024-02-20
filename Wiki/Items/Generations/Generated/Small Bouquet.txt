@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Small Bouquet|id=small_bouquet|left=y
+
+}}
+{{DescBox|
+
+
+
+|drop1={{DropLoot|cherish=y|level=y|moon=y}}
+}}

@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
   "key": {
     "#": {
-      "item": "generations_core:enigma_fragment"
+      "item": "enigma fragment"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "##"
   ],
   "result": {
-    "item": "generations_core:enigma_shard"
+    "item": "enigma shard"
   },
-  "show_notification": true
+  "show notification": true
 }

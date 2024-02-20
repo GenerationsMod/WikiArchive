@@ -1,0 +1,20 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "mud"
+        },
+        {
+            "item": "dirt"
+        },
+        {
+            "item": "moss block"
+        },
+        {
+            "item": "clay"
+        }
+    ],
+    "result": {
+        "item": "peat block"
+    }
+}

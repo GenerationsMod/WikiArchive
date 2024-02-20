@@ -1,0 +1,15 @@
+{
+  "type": "crafting shaped",
+  "group": "wooden pressure plate",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "apricorn planks"
+    }
+  },
+  "result": {
+    "item": "apricorn pressure plate"
+  }
+}

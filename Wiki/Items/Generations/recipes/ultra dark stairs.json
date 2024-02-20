@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "wooden_stairs",
+  "group": "wooden stairs",
   "key": {
     "#": {
-      "item": "generations_core:ultra_dark_planks"
+      "item": "ultra dark planks"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:ultra_dark_stairs"
+    "item": "ultra dark stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

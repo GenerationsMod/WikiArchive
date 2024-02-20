@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "white_castle_brick_stairs",
+  "group": "white castle brick stairs",
   "key": {
     "#": {
-      "item": "generations_core:white_castle_brick"
+      "item": "white castle brick"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:white_castle_brick_stairs"
+    "item": "white castle brick stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

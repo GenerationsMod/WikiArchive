@@ -1,0 +1,17 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "apricorns"
+    }
+  },
+  "pattern": [
+    "# #",
+    " # "
+  ],
+  "result": {
+    "count": 3,
+    "item": "bowl"
+  }
+}

@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "X": {
-      "item": "generations_core:temple_block"
+      "item": "temple block"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
     "XXX"
   ],
   "result": {
-    "item": "generations_core:unown_block_blank"
+    "item": "unown block blank"
   },
-  "show_notification": true
+  "show notification": true
 }

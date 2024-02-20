@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Fluffy Tail|id=fluffy_tail|left=y
+
+}}
+{{DescBox|
+
+An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
+
+|drop1={{DropLoot|nest=y|park=y|poke=y|timer=y}}
+}}

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "ultra_light_blue_stairs",
+  "group": "ultra light blue stairs",
   "key": {
     "#": {
-      "item": "generations_core:ultra_light_blue"
+      "item": "ultra light blue"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:ultra_light_blue_stairs"
+    "item": "ultra light blue stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

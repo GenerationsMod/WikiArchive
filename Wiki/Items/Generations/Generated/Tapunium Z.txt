@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Tapunium Z|id=tapunium_z|left=y
+
+}}
+{{DescBox|
+
+Allows the Tapus to upgrade Nature's Madness to a Z-Move, Guardian of Alola.
+
+|drop1=None
+}}

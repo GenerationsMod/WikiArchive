@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Ice Gem|id=ice_gem|left=y
+
+}}
+{{DescBox|
+
+Increases the power of an Ice-type move only once.
+
+|drop1={{DropLoot|cherish=y|dive=y|fast=y|premier=y}}
+}}

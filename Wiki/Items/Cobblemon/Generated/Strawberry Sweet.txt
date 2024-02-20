@@ -1,0 +1,13 @@
+{{ItemInfobox|item=Strawberry Sweet|id=strawberry_sweet|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Red Dye|B1=Honey Bottle|C1=Sugar|A2=|B2=|C2=|A3=|B3=|C3=|Output=Strawberry Sweet|shapeless=y}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Evolves Milcery into Strawberry Flavor Alcremie.
+
+|drop1={{DropLoot|great=y|level=y|love=y|origin=y}}
+}}

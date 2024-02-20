@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "E": {
-      "item": "generations_core:castle_wall"
+      "item": "castle wall"
     },
     "Q": {
-      "tag": "minecraft:dirt"
+      "tag": "dirt"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:castle_wall_2"
+    "item": "castle wall 2"
   },
-  "show_notification": true
+  "show notification": true
 }

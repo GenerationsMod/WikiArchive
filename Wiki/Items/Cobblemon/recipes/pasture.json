@@ -1,0 +1,25 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "PPP",
+        "PCP",
+        "WHW"
+    ],
+    "key": {
+        "P": {
+            "tag": "planks"
+        },
+        "C": {
+            "item": "pc"
+        },
+        "W": {
+            "item": "wheat"
+        },
+        "H": {
+            "item": "hopper"
+        }
+    },
+    "result": {
+        "item": "pasture"
+    }
+}

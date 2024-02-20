@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Boiled Egg|id=boiled_egg|left=y
+
+}}
+{{DescBox|
+
+One of the many ingredients that can be used for cooking at your camp. Even just one boiled egg can really enhance a dish.
+
+|drop1={{DropLoot|cherish=y|park=y|poke=y|quick=y|wing=y}}
+}}

@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "redstone",
-  "group": "ultra_white_pressure_plate",
+  "group": "ultra white pressure plate",
   "key": {
     "#": {
-      "item": "generations_core:ultra_white"
+      "item": "ultra white"
     }
   },
   "pattern": [
     "##"
   ],
   "result": {
-    "item": "generations_core:ultra_white_pressure_plate"
+    "item": "ultra white pressure plate"
   },
-  "show_notification": true
+  "show notification": true
 }

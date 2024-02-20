@@ -1,0 +1,22 @@
+{
+  "type": "crafting shaped",
+  "pattern": [
+    " PW",
+    "PRP",
+    "WP "
+  ],
+  "key": {
+    "P": {
+      "item": "paper"
+    },
+    "W": {
+      "item": "white dye"
+    },
+    "R": {
+      "item": "red dye"
+    }
+  },
+  "result": {
+    "item": "cleanse tag"
+  }
+}

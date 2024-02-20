@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Bright Powder|id=bright_powder|left=y
+
+}}
+{{DescBox|
+
+Lowers the opponent's accuracy.
+
+|drop1={{DropLoot|beast=y|friend=y|great=y|sport=y|timer=y}}
+}}

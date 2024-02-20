@@ -1,0 +1,30 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " t ",
+        "lcr",
+        " b "
+    ],
+    "key": {
+        "t": {
+            "item": "white apricorn"
+        },
+        "l": {
+            "item": "white apricorn"
+        },
+        "c": {
+            "item": "copper ingot"
+        },
+        "r": {
+            "item": "white apricorn"
+        },
+        "b": {
+            "item": "white apricorn"
+        }
+    },
+    "result":
+    {
+        "item": "premier ball",
+        "count": 4
+    }
+}

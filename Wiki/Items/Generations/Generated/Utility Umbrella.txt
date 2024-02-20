@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Utility Umbrella|id=utility_umbrella|left=y
+
+}}
+{{DescBox|
+
+An item to be held by a Pokémon. This sturdy umbrella protects the holder from the effects of weather.
+
+|drop1={{DropLoot|level=y|premier=y|sport=y|wing=y}}
+}}

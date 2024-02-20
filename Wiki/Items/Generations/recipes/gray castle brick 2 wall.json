@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "gray_castle_brick_2_wall",
+  "group": "gray castle brick 2 wall",
   "key": {
     "#": {
-      "item": "generations_core:gray_castle_brick_2"
+      "item": "gray castle brick 2"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:gray_castle_brick_2_wall"
+    "item": "gray castle brick 2 wall"
   },
-  "show_notification": true
+  "show notification": true
 }

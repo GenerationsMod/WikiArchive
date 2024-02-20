@@ -1,0 +1,19 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " RR",
+        "SSR",
+		"SS "
+    ],
+    "key": {
+        "S": {
+            "item": "sand"
+        },
+        "R": {
+            "item": "rabbit hide"
+        }
+    },
+    "result": {
+        "item": "soft sand"
+    }
+}

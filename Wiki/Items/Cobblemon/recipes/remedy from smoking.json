@@ -1,0 +1,10 @@
+{
+  "type": "smoking",
+  "group": "remedy",
+  "ingredient": {
+    "item": "big root"
+  },
+  "result": "remedy",
+  "experience": 0.1,
+  "cookingtime": 100
+}

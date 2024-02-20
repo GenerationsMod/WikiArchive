@@ -1,15 +1,15 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "misc",
   "ingredients": [
     {
-      "item": "cobblemon:cherish_ball"
+      "item": "cherish ball"
     },
     {
-      "item": "generations_core:empty_ball_display"
+      "item": "empty ball display"
     }
   ],
   "result": {
-    "item": "generations_core:cherish_ball_display"
+    "item": "cherish ball display"
   }
 }

@@ -1,0 +1,19 @@
+{
+  "type": "crafting shaped",
+  "group": "wooden fence gate",
+  "pattern": [
+    "#W#",
+    "#W#"
+  ],
+  "key": {
+    "#": {
+      "item": "stick"
+    },
+    "W": {
+      "item": "apricorn planks"
+    }
+  },
+  "result": {
+    "item": "apricorn fence gate"
+  }
+}

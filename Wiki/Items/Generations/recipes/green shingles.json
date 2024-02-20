@@ -1,15 +1,15 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "X": {
-      "item": "minecraft:gravel"
+      "item": "gravel"
     },
     "Y": {
-      "item": "minecraft:ink_sac"
+      "item": "ink sac"
     },
     "Z": {
-      "item": "minecraft:green_dye"
+      "item": "green dye"
     }
   },
   "pattern": [
@@ -19,7 +19,7 @@
   ],
   "result": {
     "count": 5,
-    "item": "generations_core:green_shingles"
+    "item": "green shingles"
   },
-  "show_notification": true
+  "show notification": true
 }

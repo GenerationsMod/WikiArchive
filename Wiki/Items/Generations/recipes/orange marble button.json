@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "redstone",
-  "group": "orange_marble_button",
+  "group": "orange marble button",
   "ingredients": [
     {
-      "item": "generations_core:orange_marble"
+      "item": "orange marble"
     }
   ],
   "result": {
-    "item": "generations_core:orange_marble_button"
+    "item": "orange marble button"
   }
 }

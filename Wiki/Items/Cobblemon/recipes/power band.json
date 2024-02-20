@@ -1,0 +1,22 @@
+{
+  "type": "crafting shaped",
+  "pattern": [
+    "MCD",
+    "C C",
+    "DCM"
+  ],
+  "key": {
+    "M": {
+      "item": "pink mint leaf"
+    },
+    "C": {
+      "item": "yellow concrete"
+    },
+    "D": {
+      "item": "diamond"
+    }
+  },
+  "result": {
+    "item": "power band"
+  }
+}

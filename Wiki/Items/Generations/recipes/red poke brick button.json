@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "redstone",
-  "group": "red_poke_brick_button",
+  "group": "red poke brick button",
   "ingredients": [
     {
-      "item": "generations_core:red_poke_brick"
+      "item": "red poke brick"
     }
   ],
   "result": {
-    "item": "generations_core:red_poke_brick_button"
+    "item": "red poke brick button"
   }
 }

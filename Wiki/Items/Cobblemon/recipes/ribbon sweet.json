@@ -1,0 +1,17 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "purple dye"
+        },
+        {
+            "item": "honey bottle"
+        },
+        {
+            "item": "sugar"
+        }
+    ],
+    "result": {
+        "item": "ribbon sweet"
+    }
+}

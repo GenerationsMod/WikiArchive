@@ -1,0 +1,19 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "W  ",
+        "KKK",
+		"  W"
+    ],
+    "key": {
+        "W": {
+            "item": "black wool"
+        },
+        "K": {
+            "item": "dried kelp"
+        }
+    },
+    "result": {
+        "item": "black belt"
+    }
+}

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Earth Plate|id=earth_plate|left=y
+
+}}
+{{DescBox|
+
+Increases power of Ground-type moves. Changes Arceus' type to Ground.
+
+|drop1={{DropLoot|master=y|net=y}}
+}}

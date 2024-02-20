@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "light_blue_shingles_stairs",
+  "group": "light blue shingles stairs",
   "key": {
     "#": {
-      "item": "generations_core:light_blue_shingles"
+      "item": "light blue shingles"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:light_blue_shingles_stairs"
+    "item": "light blue shingles stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

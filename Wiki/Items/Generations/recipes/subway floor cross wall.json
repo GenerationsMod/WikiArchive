@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "subway_floor_cross_wall",
+  "group": "subway floor cross wall",
   "key": {
     "#": {
-      "item": "generations_core:subway_floor_cross"
+      "item": "subway floor cross"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:subway_floor_cross_wall"
+    "item": "subway floor cross wall"
   },
-  "show_notification": true
+  "show notification": true
 }

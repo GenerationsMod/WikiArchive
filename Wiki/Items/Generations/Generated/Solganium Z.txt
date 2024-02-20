@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Solganium Z|id=solganium_z|left=y
+
+}}
+{{DescBox|
+
+Allows Solgaleo to upgrade Sunsteel Strike to a Z-Move, Searing Sunraze Smash.
+
+|drop1=None
+}}

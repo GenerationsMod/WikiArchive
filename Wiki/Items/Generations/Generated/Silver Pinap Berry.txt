@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Silver Pinap Berry|id=silver_pinap_berry|left=y
+
+}}
+{{DescBox|
+
+Greatly increases chance of getting items when a Pokémon is caught, in Pokémon Let's Go.
+
+|drop1=None
+}}

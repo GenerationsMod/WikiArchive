@@ -1,0 +1,29 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "medicinal brew"
+        },
+        {
+            "item": "wheat"
+        },
+        {
+            "item": "wheat"
+        },
+        {
+            "item": "tamato berry"
+        },
+        {
+            "item": "tamato berry"
+        },
+        {
+            "item": "green mint leaf"
+        },
+        {
+            "item": "green mint leaf"
+        }
+    ],
+    "result": {
+        "item": "carbos"
+    }
+}

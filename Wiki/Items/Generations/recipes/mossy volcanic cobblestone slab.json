@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "mossy_volcanic_cobblestone_slab",
+  "group": "mossy volcanic cobblestone slab",
   "key": {
     "#": {
-      "item": "generations_core:mossy_volcanic_cobblestone"
+      "item": "mossy volcanic cobblestone"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:mossy_volcanic_cobblestone_slab"
+    "item": "mossy volcanic cobblestone slab"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Moomoo Milk|id=moomoo_milk|left=y
+
+}}
+{{DescBox|
+
+Restores 100 HP.
+
+|drop1={{DropLoot|great=y|heal=y|premier=y|wing=y}}
+}}

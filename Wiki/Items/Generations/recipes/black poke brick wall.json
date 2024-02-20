@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "black_poke_brick_wall",
+  "group": "black poke brick wall",
   "key": {
     "#": {
-      "item": "generations_core:black_poke_brick"
+      "item": "black poke brick"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:black_poke_brick_wall"
+    "item": "black poke brick wall"
   },
-  "show_notification": true
+  "show notification": true
 }

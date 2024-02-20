@@ -1,0 +1,30 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " t ",
+        "lcr",
+        " b "
+    ],
+    "key": {
+        "t": {
+            "item": "green apricorn"
+        },
+        "l": {
+            "item": "black apricorn"
+        },
+        "c": {
+            "item": "gold ingot"
+        },
+        "r": {
+            "item": "black apricorn"
+        },
+        "b": {
+            "item": "green apricorn"
+        }
+    },
+    "result":
+    {
+        "item": "dusk ball",
+        "count": 4
+    }
+}

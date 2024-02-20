@@ -1,0 +1,9 @@
+{{ItemInfobox|item=X Speed 2|id=x_speed_2|left=y
+
+}}
+{{DescBox|
+
+Sharply raises Speed of a Pokémon in battle.
+
+|drop1={{DropLoot|dusk=y|heal=y|lure=y|wing=y}}
+}}

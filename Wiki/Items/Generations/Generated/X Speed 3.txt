@@ -1,0 +1,9 @@
+{{ItemInfobox|item=X Speed 3|id=x_speed_3|left=y
+
+}}
+{{DescBox|
+
+Drastically raises Speed of a Pokémon in battle.
+
+|drop1={{DropLoot|park=y}}
+}}

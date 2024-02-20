@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Antidote|id=antidote|left=y
+
+}}
+{{DescBox|
+
+Cures a Pokémon of poisoning.
+
+|drop1={{DropLoot|beast=y|cherish=y|heal=y|origin=y|poke=y|quick=y|wing=y}}
+}}

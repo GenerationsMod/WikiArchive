@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Pure Incense|id=pure_incense|left=y
+
+}}
+{{DescBox|
+
+Descreases the likelihood of meeting wild Pokémon. Breeding Chimecho produces Chingling when held.
+
+|drop1={{DropLoot|cherish=y|dive=y|leaden=y|lure=y|strange=y}}
+}}

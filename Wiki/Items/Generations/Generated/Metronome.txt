@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Metronome|id=metronome|left=y
+
+}}
+{{DescBox|
+
+Increases the power of moves used consecutively.
+
+|drop1={{DropLoot|cherish=y|gigaton=y|jet=y|leaden=y|moon=y|quick=y}}
+}}

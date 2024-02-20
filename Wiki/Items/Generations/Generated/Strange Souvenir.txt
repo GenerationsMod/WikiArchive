@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Strange Souvenir|id=strange_souvenir|left=y
+
+}}
+{{DescBox|
+
+An ornament depicting a Pokémon that is venerated as a protector in some region far from Kalos.
+
+|drop1={{DropLoot|beast=y|gigaton=y|heavy=y|love=y}}
+}}

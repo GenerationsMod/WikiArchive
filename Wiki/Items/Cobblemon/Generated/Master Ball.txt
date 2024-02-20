@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Master Ball|id=master_ball|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=|B1=Shulker Shell|C1=
+|A2=Netherite Ingot|B2=Nether Star|C2=Netherite Ingot
+|A3=|B3=Shulker Shell|C3=
+|Output=Master Ball|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Catches any wild Pokémon without fail.
+
+|drop1={{DropLoot|master=y|park=y}}
+}}

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Power Band|id=power_band|left=y
+
+}}
+{{DescBox|
+
+A Pokémon held item that promotes Sp. Def gain on leveling, but reduces the Speed stat.
+
+|drop1={{DropLoot|gigaton=y|heavy=y|jet=y|luxury=y|quick=y}}
+}}

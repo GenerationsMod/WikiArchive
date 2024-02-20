@@ -1,0 +1,25 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " B ",
+        "SMS",
+		"HSH"
+    ],
+    "key": {
+        "B": {
+            "item": "sweet berries"
+        },
+        "S": {
+            "item": "sugar"
+        },
+        "M": {
+            "item": "milk bucket"
+        },
+        "H": {
+            "item": "honey bottle"
+        }
+    },
+    "result": {
+        "item": "whipped dream"
+    }
+}

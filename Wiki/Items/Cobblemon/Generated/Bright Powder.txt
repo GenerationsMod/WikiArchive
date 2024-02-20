@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Bright Powder|id=bright_powder|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Lowers the opponent's accuracy.
+
+|drop1={{DropLoot|beast=y|friend=y|great=y|sport=y|timer=y}}
+}}

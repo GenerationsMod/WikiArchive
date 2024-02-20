@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "X": {
-      "item": "generations_core:sapphire"
+      "item": "sapphire"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "X X"
   ],
   "result": {
-    "item": "generations_core:aqua_helmet"
+    "item": "aqua helmet"
   },
-  "show_notification": true
+  "show notification": true
 }

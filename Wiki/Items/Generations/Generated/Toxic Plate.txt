@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Toxic Plate|id=toxic_plate|left=y
+
+}}
+{{DescBox|
+
+Increases power of Poison-type moves. Changes Arceus' type to Poison.
+
+|drop1={{DropLoot|dusk=y|master=y}}
+}}

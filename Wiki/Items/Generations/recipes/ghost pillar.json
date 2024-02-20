@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "X": {
-      "item": "generations_core:ghost_bricks"
+      "item": "ghost bricks"
     },
     "Y": {
-      "item": "generations_core:ghost_planks"
+      "item": "ghost planks"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
     "XY"
   ],
   "result": {
-    "item": "generations_core:ghost_pillar"
+    "item": "ghost pillar"
   },
-  "show_notification": true
+  "show notification": true
 }

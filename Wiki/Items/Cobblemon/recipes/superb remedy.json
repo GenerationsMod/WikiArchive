@@ -1,0 +1,17 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "fine remedy"
+        },
+        {
+            "item": "vivichoke"
+        },
+		{
+			"item": "energy root"
+		}
+    ],
+    "result": {
+        "item": "superb remedy"
+    }
+}

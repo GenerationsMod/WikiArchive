@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Latiasite|id=latiasite|left=y
+
+}}
+{{DescBox|
+
+Enables Latias to Mega Evolve during battle.
+
+|drop1=None
+}}

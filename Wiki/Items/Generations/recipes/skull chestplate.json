@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "X": {
-      "item": "minecraft:amethyst_shard"
+      "item": "amethyst shard"
     },
     "Y": {
-      "item": "generations_core:silicon"
+      "item": "silicon"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     "YYY"
   ],
   "result": {
-    "item": "generations_core:skull_chestplate"
+    "item": "skull chestplate"
   },
-  "show_notification": true
+  "show notification": true
 }

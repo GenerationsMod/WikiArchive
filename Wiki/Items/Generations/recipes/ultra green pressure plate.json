@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "redstone",
-  "group": "ultra_green_pressure_plate",
+  "group": "ultra green pressure plate",
   "key": {
     "#": {
-      "item": "generations_core:ultra_green"
+      "item": "ultra green"
     }
   },
   "pattern": [
     "##"
   ],
   "result": {
-    "item": "generations_core:ultra_green_pressure_plate"
+    "item": "ultra green pressure plate"
   },
-  "show_notification": true
+  "show notification": true
 }

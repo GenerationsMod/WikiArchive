@@ -1,0 +1,18 @@
+{
+  "type": "crafting shaped",
+  "group": "wooden stairs",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "apricorn planks"
+    }
+  },
+  "result": {
+    "item": "apricorn stairs",
+    "count": 4
+  }
+}

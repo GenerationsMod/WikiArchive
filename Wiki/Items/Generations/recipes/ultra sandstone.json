@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "#": {
-      "item": "generations_core:ultra_sand"
+      "item": "ultra sand"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "##"
   ],
   "result": {
-    "item": "generations_core:ultra_sandstone"
+    "item": "ultra sandstone"
   },
-  "show_notification": true
+  "show notification": true
 }

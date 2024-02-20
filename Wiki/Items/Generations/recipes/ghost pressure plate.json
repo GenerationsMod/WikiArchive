@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "redstone",
-  "group": "wooden_pressure_plate",
+  "group": "wooden pressure plate",
   "key": {
     "#": {
-      "item": "generations_core:ghost_planks"
+      "item": "ghost planks"
     }
   },
   "pattern": [
     "##"
   ],
   "result": {
-    "item": "generations_core:ghost_pressure_plate"
+    "item": "ghost pressure plate"
   },
-  "show_notification": true
+  "show notification": true
 }

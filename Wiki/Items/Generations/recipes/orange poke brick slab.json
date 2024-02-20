@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "orange_poke_brick_slab",
+  "group": "orange poke brick slab",
   "key": {
     "#": {
-      "item": "generations_core:orange_poke_brick"
+      "item": "orange poke brick"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:orange_poke_brick_slab"
+    "item": "orange poke brick slab"
   },
-  "show_notification": true
+  "show notification": true
 }

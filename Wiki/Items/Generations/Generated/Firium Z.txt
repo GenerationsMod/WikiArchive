@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Firium Z|id=firium_z|left=y
+
+}}
+{{DescBox|
+
+Allows the use of Inferno Overdrive, the Fire type Z-Move.
+
+|drop1=None
+}}

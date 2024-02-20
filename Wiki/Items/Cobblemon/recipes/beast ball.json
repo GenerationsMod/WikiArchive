@@ -1,0 +1,24 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "GEG",
+        "EDE",
+        "GEG"
+    ],
+    "key": {
+        "G": {
+            "item": "gold ingot"
+        },
+        "E": {
+            "item": "echo shard"
+        },
+        "D": {
+            "item": "diamond"
+        }
+    },
+    "result":
+    {
+        "item": "beast ball",
+        "count": 8
+    }
+}

@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "hanging_sign",
+  "group": "hanging sign",
   "key": {
     "#": {
-      "item": "generations_core:stripped_ultra_dark_log"
+      "item": "stripped ultra dark log"
     },
     "X": {
-      "item": "minecraft:chain"
+      "item": "chain"
     }
   },
   "pattern": [
@@ -17,7 +17,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:ghost_hanging_sign"
+    "item": "ghost hanging sign"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "bridge_block_slab",
+  "group": "bridge block slab",
   "key": {
     "#": {
-      "item": "generations_core:bridge_block"
+      "item": "bridge block"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:bridge_block_slab"
+    "item": "bridge block slab"
   },
-  "show_notification": true
+  "show notification": true
 }

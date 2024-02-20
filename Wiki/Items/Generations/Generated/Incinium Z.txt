@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Incinium Z|id=incinium_z|left=y
+
+}}
+{{DescBox|
+
+Allows Incineroar to upgrade Darkest Lariat to a Z-Move, Malicious Moonsault.
+
+|drop1=None
+}}

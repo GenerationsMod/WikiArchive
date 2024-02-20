@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Balm Mushroom|id=balm_mushroom|left=y
+
+}}
+{{DescBox|
+
+A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.
+
+|drop1={{DropLoot|safari=y|ultra=y}}
+}}

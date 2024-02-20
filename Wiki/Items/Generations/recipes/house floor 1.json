@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "#": {
-      "item": "generations_core:burst_turf"
+      "item": "burst turf"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "##"
   ],
   "result": {
-    "item": "generations_core:house_floor_1"
+    "item": "house floor 1"
   },
-  "show_notification": true
+  "show notification": true
 }

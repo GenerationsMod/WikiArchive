@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "orange_marble_slab",
+  "group": "orange marble slab",
   "key": {
     "#": {
-      "item": "generations_core:orange_marble"
+      "item": "orange marble"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:orange_marble_slab"
+    "item": "orange marble slab"
   },
-  "show_notification": true
+  "show notification": true
 }

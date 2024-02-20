@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "cyan_shingles_slab",
+  "group": "cyan shingles slab",
   "key": {
     "#": {
-      "item": "generations_core:cyan_shingles"
+      "item": "cyan shingles"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:cyan_shingles_slab"
+    "item": "cyan shingles slab"
   },
-  "show_notification": true
+  "show notification": true
 }

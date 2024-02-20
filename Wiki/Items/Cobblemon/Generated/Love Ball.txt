@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Love Ball|id=love_ball|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=|B1=White Apricorn|C1=
+|A2=Pink Apricorn|B2=Gold Ingot|C2=Pink Apricorn
+|A3=|B3=Pink Apricorn|C3=
+|Output=Love Ball|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Poké Ball for catching Pokémon that are the opposite gender of your Pokémon.
+
+|drop1={{DropLoot|cherish=y|love=y|poke=y}}
+}}

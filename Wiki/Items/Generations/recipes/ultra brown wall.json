@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "ultra_brown_wall",
+  "group": "ultra brown wall",
   "key": {
     "#": {
-      "item": "generations_core:ultra_brown"
+      "item": "ultra brown"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:ultra_brown_wall"
+    "item": "ultra brown wall"
   },
-  "show_notification": true
+  "show notification": true
 }

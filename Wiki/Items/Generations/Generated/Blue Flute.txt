@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Blue Flute|id=blue_flute|left=y
+
+}}
+{{DescBox|
+
+A toy flute made from blue glass. A maniac will buy it for a high price.
+
+|drop1={{DropLoot|great=y|premier=y|sport=y}}
+}}

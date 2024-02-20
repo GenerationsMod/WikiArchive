@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Lansat Berry|id=lansat_berry|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Increases critical-hit ratio when HP is low.
+
+|drop1={{DropLoot|dive=y|friend=y|heal=y|level=y|wing=y}}
+}}

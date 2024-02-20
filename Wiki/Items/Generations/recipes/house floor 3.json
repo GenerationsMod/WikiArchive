@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "#": {
-      "item": "generations_core:ruins_sand"
+      "item": "ruins sand"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "##"
   ],
   "result": {
-    "item": "generations_core:house_floor_3"
+    "item": "house floor 3"
   },
-  "show_notification": true
+  "show notification": true
 }

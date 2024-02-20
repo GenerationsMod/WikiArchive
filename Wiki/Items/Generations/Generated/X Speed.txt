@@ -1,0 +1,9 @@
+{{ItemInfobox|item=X Speed|id=x_speed|left=y
+
+}}
+{{DescBox|
+
+Raises Speed of a Pokémon in battle.
+
+|drop1={{DropLoot|beast=y|moon=y|net=y|repeat=y|wing=y}}
+}}

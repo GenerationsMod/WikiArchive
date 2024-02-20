@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Normalium Z|id=normalium_z|left=y
+
+}}
+{{DescBox|
+
+Allows the use of Breakneck Blitz, the Normal type Z-Move.
+
+|drop1=None
+}}

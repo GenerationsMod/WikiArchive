@@ -1,15 +1,15 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "X": {
-      "item": "generations_core:ghost_planks"
+      "item": "ghost planks"
     },
     "Y": {
-      "item": "minecraft:glowstone_dust"
+      "item": "glowstone dust"
     },
     "Z": {
-      "item": "minecraft:redstone_lamp"
+      "item": "redstone lamp"
     }
   },
   "pattern": [
@@ -19,7 +19,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:ghost_lantern"
+    "item": "ghost lantern"
   },
-  "show_notification": true
+  "show notification": true
 }

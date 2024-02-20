@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Ghostium Z|id=ghostium_z|left=y
+
+}}
+{{DescBox|
+
+Allows the use of Never-Ending Nightmare, the Ghost type Z-Move.
+
+|drop1=None
+}}

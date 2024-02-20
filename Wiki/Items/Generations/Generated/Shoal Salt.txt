@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Shoal Salt|id=shoal_salt|left=y
+
+}}
+{{DescBox|
+
+Pure salt that can be discovered deep inside the Shoal Cave. A maniac will buy it for a high price.
+
+|drop1={{DropLoot|dive=y|luxury=y|sport=y}}
+}}

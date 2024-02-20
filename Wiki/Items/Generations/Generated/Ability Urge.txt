@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Ability Urge|id=ability_urge|left=y
+
+}}
+{{DescBox|
+
+When used, it activates the Ability of an ally Pokémon.
+
+|drop1={{DropLoot|fast=y|friend=y|love=y|timer=y}}
+}}

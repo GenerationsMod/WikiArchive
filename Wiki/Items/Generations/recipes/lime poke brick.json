@@ -1,25 +1,25 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "building",
   "ingredients": [
     {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     {
-      "item": "minecraft:bricks"
+      "item": "bricks"
     },
     {
-      "item": "minecraft:lime_dye"
+      "item": "lime dye"
     }
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:lime_poke_brick"
+    "item": "lime poke brick"
   }
 }

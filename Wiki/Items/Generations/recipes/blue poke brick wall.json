@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "blue_poke_brick_wall",
+  "group": "blue poke brick wall",
   "key": {
     "#": {
-      "item": "generations_core:blue_poke_brick"
+      "item": "blue poke brick"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:blue_poke_brick_wall"
+    "item": "blue poke brick wall"
   },
-  "show_notification": true
+  "show notification": true
 }

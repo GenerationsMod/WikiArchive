@@ -1,0 +1,13 @@
+{{ItemInfobox|item=Carbos|id=carbos|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Medicinal Brew|B1=Wheat|C1=Wheat|A2=Tamato Berry|B2=Tamato Berry|C2=Green Mint Leaf|A3=Green Mint Leaf|B3=|C3=|Output=Carbos|shapeless=y}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Increases Speed EVs by 10.
+
+|drop1={{DropLoot|fast=y|level=y|moon=y|premier=y}}
+}}

@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Focus Band|id=focus_band|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Red Wool|B1=Copper Ingot|C1=Red Wool
+|A2=Blaze Powder|B2=|C2=Copper Ingot
+|A3=Red Wool|B3=Blaze Powder|C3=Red Wool
+|Output=Focus Band|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP.
+
+|drop1={{DropLoot|leaden=y|poke=y|repeat=y|sport=y}}
+}}

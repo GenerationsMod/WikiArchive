@@ -1,0 +1,15 @@
+{{ItemInfobox|item=Hasty Mint|id=hasty_mint|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Green Mint Leaf|B1=Green Mint Leaf
+|A2=Green Mint Leaf|B2=Blue Mint Leaf
+|Output=Hasty Mint|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Changes the Pokémon's stats to match the Hasty nature.
+
+|drop1={{DropLoot|dusk=y|park=y}}
+}}

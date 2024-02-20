@@ -1,0 +1,30 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " t ",
+        "lcr",
+        " b "
+    ],
+    "key": {
+        "t": {
+            "item": "black apricorn"
+        },
+        "l": {
+            "item": "blue apricorn"
+        },
+        "c": {
+            "item": "iron ingot"
+        },
+        "r": {
+            "item": "blue apricorn"
+        },
+        "b": {
+            "item": "white apricorn"
+        }
+    },
+    "result":
+    {
+        "item": "net ball",
+        "count": 4
+    }
+}

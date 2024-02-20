@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "redstone",
-  "group": "lime_marble_button",
+  "group": "lime marble button",
   "ingredients": [
     {
-      "item": "generations_core:lime_marble"
+      "item": "lime marble"
     }
   ],
   "result": {
-    "item": "generations_core:lime_marble_button"
+    "item": "lime marble button"
   }
 }

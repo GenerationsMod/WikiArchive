@@ -1,0 +1,17 @@
+{
+  "type": "crafting shaped",
+  "category": "building",
+  "key": {
+    "A": {
+      "item": "black augurite"
+    }
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "result": {
+    "item": "obsidian"
+  },
+  "show notification": true
+}

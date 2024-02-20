@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Rare Bone|id=rare_bone|left=y
+
+}}
+{{DescBox|
+
+A bone that is extremely valuable for Pokémon archeology. It can be sold for a high price to shops.
+
+|drop1={{DropLoot|luxury=y|master=y|park=y}}
+}}

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Gigantamix|id=gigantamix|left=y
+
+}}
+{{DescBox|
+
+One of the many ingredients that can be used for cooking at your camp. A mysterious spice. Even a tiny sprinkle is sure to make a curry gigantic.
+
+|drop1={{DropLoot|beast=y|master=y|strange=y}}
+}}

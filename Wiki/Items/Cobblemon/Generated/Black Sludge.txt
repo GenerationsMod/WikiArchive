@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Black Sludge|id=black_sludge|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+A held item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.
+
+|drop1={{DropLoot|beast=y|dusk=y|heal=y|ultra=y}}
+}}

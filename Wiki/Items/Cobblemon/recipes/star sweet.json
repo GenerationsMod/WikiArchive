@@ -1,0 +1,17 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "yellow dye"
+        },
+        {
+            "item": "honey bottle"
+        },
+        {
+            "item": "sugar"
+        }
+    ],
+    "result": {
+        "item": "star sweet"
+    }
+}

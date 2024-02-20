@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Ability Patch|id=ability_patch|left=y
+
+}}
+{{DescBox|
+
+Changes a Pokémon's ability to its Hidden Ability.
+
+|drop1={{DropLoot|cherish=y|master=y|park=y}}
+}}

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=X Attack|id=x_attack|left=y
+
+}}
+{{DescBox|
+
+Raises Attack of a Pokémon in battle.
+
+|drop1={{DropLoot|fast=y|friend=y|poke=y|wing=y}}
+}}

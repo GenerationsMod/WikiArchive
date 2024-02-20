@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Metal Powder|id=metal_powder|left=y
+
+}}
+{{DescBox|
+
+Increases Defense when held by Ditto.
+
+|drop1={{DropLoot|gigaton=y|jet=y|lure=y|moon=y|poke=y|quick=y}}
+}}

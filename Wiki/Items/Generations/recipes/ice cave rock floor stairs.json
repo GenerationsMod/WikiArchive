@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "ice_cave_rock_floor_stairs",
+  "group": "ice cave rock floor stairs",
   "key": {
     "#": {
-      "item": "generations_core:ice_cave_rock_floor"
+      "item": "ice cave rock floor"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:ice_cave_rock_floor_stairs"
+    "item": "ice cave rock floor stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

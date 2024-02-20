@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Lone Earring|id=lone_earring|left=y
+
+}}
+{{DescBox|
+
+
+
+|drop1={{DropLoot|jet=y|lure=y|origin=y|park=y|repeat=y}}
+}}

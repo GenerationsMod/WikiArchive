@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Black Belt|id=black_belt|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Black Wool|B1=|C1=
+|A2=Dried Kelp|B2=Dried Kelp|C2=Dried Kelp
+|A3=|B3=|C3=Black Wool
+|Output=Black Belt|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Increases the power of Fighting-type moves.
+
+|drop1={{DropLoot|fast=y|level=y|sport=y|ultra=y}}
+}}

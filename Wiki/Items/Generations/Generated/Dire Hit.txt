@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Dire Hit|id=dire_hit|left=y
+
+}}
+{{DescBox|
+
+Raises critical-hit ratio of a Pokémon in battle.
+
+|drop1={{DropLoot|net=y|poke=y|ultra=y}}
+}}

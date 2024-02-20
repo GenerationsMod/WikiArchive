@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Max Revive|id=max_revive|left=y
+
+}}
+{{DescBox|
+
+Revives a fainted Pokémon, fully restoring its HP.
+
+|drop1={{DropLoot|heal=y|timer=y|ultra=y}}
+}}

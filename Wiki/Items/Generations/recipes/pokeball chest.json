@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "E": {
-      "item": "cobblemon:poke_ball"
+      "item": "poke ball"
     },
     "X": {
-      "item": "minecraft:chest"
+      "item": "chest"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     "EEE"
   ],
   "result": {
-    "item": "generations_core:pokeball_chest"
+    "item": "pokeball chest"
   },
-  "show_notification": true
+  "show notification": true
 }

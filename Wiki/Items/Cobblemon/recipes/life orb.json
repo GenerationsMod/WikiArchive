@@ -1,0 +1,25 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "GTA",
+        "TET",
+		"ATG"
+    ],
+    "key": {
+        "A": {
+            "item": "golden apple"
+        },
+        "T": {
+            "item": "tinted glass"
+        },
+        "E": {
+            "item": "ender pearl"
+        },
+        "G": {
+            "item": "ghast tear"
+        }
+    },
+    "result": {
+        "item": "life orb"
+    }
+}

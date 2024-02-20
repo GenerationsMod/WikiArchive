@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Max Potion|id=max_potion|left=y
+
+}}
+{{DescBox|
+
+Fully restores HP.
+
+|drop1={{DropLoot|dive=y|heal=y|jet=y|love=y|quick=y}}
+}}

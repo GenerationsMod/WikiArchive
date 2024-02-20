@@ -1,0 +1,18 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "I I",
+        "GIG"
+    ],
+    "key": {
+        "G": {
+            "item": "glass"
+        },
+        "I": {
+            "item": "iron ingot"
+        }
+    },
+    "result": {
+        "item": "wise glasses"
+    }
+}

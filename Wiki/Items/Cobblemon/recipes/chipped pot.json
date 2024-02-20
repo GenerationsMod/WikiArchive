@@ -1,0 +1,25 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "IT ",
+        "TBT",
+		"GGG"
+    ],
+    "key": {
+        "G": {
+            "item": "gold ingot"
+        },
+        "I": {
+            "item": "iron ingot"
+        },
+        "T": {
+            "item": "white glazed terracotta"
+        },
+        "B": {
+            "item": "glass bottle"
+        }
+    },
+    "result": {
+        "item": "chipped pot"
+    }
+}

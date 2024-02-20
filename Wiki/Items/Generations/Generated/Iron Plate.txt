@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Iron Plate|id=iron_plate|left=y
+
+}}
+{{DescBox|
+
+Increases power of Steel-type moves. Changes Arceus' type to Steel.
+
+|drop1={{DropLoot|gigaton=y|heavy=y|master=y}}
+}}

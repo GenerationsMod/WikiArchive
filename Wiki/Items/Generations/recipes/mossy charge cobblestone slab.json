@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "mossy_charge_cobblestone_slab",
+  "group": "mossy charge cobblestone slab",
   "key": {
     "#": {
-      "item": "generations_core:mossy_charge_cobblestone"
+      "item": "mossy charge cobblestone"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:mossy_charge_cobblestone_slab"
+    "item": "mossy charge cobblestone slab"
   },
-  "show_notification": true
+  "show notification": true
 }

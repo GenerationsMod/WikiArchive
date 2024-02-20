@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Mental Herb|id=mental_herb|left=y
+
+}}
+{{DescBox|
+
+An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.
+
+|drop1={{DropLoot|great=y|jet=y|nest=y|safari=y|wing=y}}
+}}

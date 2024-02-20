@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "#": {
-      "item": "minecraft:stick"
+      "item": "stick"
     },
     "X": {
-      "item": "cobblemon:ice_stone"
+      "item": "ice stone"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     " #"
   ],
   "result": {
-    "item": "generations_core:ice_stone_hoe"
+    "item": "ice stone hoe"
   },
-  "show_notification": true
+  "show notification": true
 }

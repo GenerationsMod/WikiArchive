@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "redstone",
-  "group": "red_marble_pressure_plate",
+  "group": "red marble pressure plate",
   "key": {
     "#": {
-      "item": "generations_core:red_marble"
+      "item": "red marble"
     }
   },
   "pattern": [
     "##"
   ],
   "result": {
-    "item": "generations_core:red_marble_pressure_plate"
+    "item": "red marble pressure plate"
   },
-  "show_notification": true
+  "show notification": true
 }

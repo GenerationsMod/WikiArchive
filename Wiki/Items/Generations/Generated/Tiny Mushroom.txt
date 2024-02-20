@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Tiny Mushroom|id=tiny_mushroom|left=y
+
+}}
+{{DescBox|
+
+A small and rare mushroom. It is sought after by collectors.
+
+|drop1={{DropLoot|lure=y|poke=y|premier=y|safari=y}}
+}}

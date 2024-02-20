@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "orange_shingles_stairs",
+  "group": "orange shingles stairs",
   "key": {
     "#": {
-      "item": "generations_core:orange_shingles"
+      "item": "orange shingles"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:orange_shingles_stairs"
+    "item": "orange shingles stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

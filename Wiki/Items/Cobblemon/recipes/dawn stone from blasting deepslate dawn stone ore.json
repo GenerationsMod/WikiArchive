@@ -1,0 +1,10 @@
+{
+  "type": "blasting",
+  "group": "dawn stone",
+  "ingredient": {
+    "item": "deepslate dawn stone ore"
+  },
+  "result": "dawn stone",
+  "experience": 0.1,
+  "cookingtime": 100
+}

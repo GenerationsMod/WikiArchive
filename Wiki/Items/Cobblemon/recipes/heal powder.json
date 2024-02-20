@@ -1,0 +1,10 @@
+{
+  "type": "smelting",
+  "group": "heal powder",
+  "ingredient": {
+    "item": "revival herb"
+  },
+  "result": "heal powder",
+  "experience": 0.2,
+  "cookingtime": 200
+}

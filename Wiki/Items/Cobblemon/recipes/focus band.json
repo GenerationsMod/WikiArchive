@@ -1,0 +1,22 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "WIW",
+        "D I",
+		"WDW"
+    ],
+    "key": {
+        "W": {
+            "item": "red wool"
+        },
+        "D": {
+            "item": "blaze powder"
+        },
+        "I": {
+            "item": "copper ingot"
+        }
+    },
+    "result": {
+        "item": "focus band"
+    }
+}

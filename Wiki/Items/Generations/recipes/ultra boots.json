@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "X": {
-      "item": "generations_core:z_ingot"
+      "item": "z ingot"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "X X"
   ],
   "result": {
-    "item": "generations_core:ultra_boots"
+    "item": "ultra boots"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,0 +1,10 @@
+{
+  "type": "blasting",
+  "group": "shiny stone",
+  "ingredient": {
+    "item": "shiny stone ore"
+  },
+  "result": "shiny stone",
+  "experience": 0.1,
+  "cookingtime": 100
+}

@@ -1,0 +1,22 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "GCG",
+        "CEC",
+		"GCG"
+    ],
+    "key": {
+        "G": {
+            "item": "glow ink sac"
+        },
+        "C": {
+            "item": "clay ball"
+        },
+        "E": {
+            "item": "ender pearl"
+        }
+    },
+    "result": {
+        "item": "light clay"
+    }
+}

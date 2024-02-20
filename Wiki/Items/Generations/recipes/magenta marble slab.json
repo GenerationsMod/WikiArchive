@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "magenta_marble_slab",
+  "group": "magenta marble slab",
   "key": {
     "#": {
-      "item": "generations_core:magenta_marble"
+      "item": "magenta marble"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:magenta_marble_slab"
+    "item": "magenta marble slab"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,0 +1,25 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " PG",
+        "PRP",
+		"WP "
+    ],
+    "key": {
+        "W": {
+            "item": "white dye"
+        },
+        "R": {
+            "item": "red dye"
+        },
+        "P": {
+            "item": "paper"
+        },
+        "G": {
+            "item": "gray dye"
+        }
+    },
+    "result": {
+        "item": "spell tag"
+    }
+}

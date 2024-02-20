@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Razor Fang|id=razor_fang|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+May cause opponent to flinch. Evolves Gligar when held at night.
+
+|drop1={{DropLoot|dream=y|dusk=y|level=y|origin=y}}
+}}

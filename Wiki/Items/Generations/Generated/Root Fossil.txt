@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Root Fossil|id=root_fossil|left=y
+
+}}
+{{DescBox|
+
+A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a plant root.
+
+|drop1=None
+}}

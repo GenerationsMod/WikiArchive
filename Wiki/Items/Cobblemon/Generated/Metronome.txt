@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Metronome|id=metronome|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Increases the power of moves used consecutively.
+
+|drop1={{DropLoot|cherish=y|gigaton=y|jet=y|leaden=y|moon=y|quick=y}}
+}}

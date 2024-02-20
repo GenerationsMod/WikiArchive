@@ -1,0 +1,20 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "bone meal"
+        },
+        {
+            "item": "rotten flesh"
+        },
+        {
+            "item": "dirt"
+        },
+        {
+            "item": "paper"
+        }
+    ],
+    "result": {
+        "item": "mulch base"
+    }
+}

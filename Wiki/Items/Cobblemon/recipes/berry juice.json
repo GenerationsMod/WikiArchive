@@ -1,0 +1,17 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "tag": "berries"
+        },
+        {
+            "tag": "berries"
+        },
+        {
+            "item": "bowl"
+        }
+    ],
+    "result": {
+        "item": "berry juice"
+    }
+}

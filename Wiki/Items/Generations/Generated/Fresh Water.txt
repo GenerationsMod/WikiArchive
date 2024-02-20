@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Fresh Water|id=fresh_water|left=y
+
+}}
+{{DescBox|
+
+Restores 30 HP.
+
+|drop1={{DropLoot|great=y|heal=y|love=y|safari=y|wing=y}}
+}}

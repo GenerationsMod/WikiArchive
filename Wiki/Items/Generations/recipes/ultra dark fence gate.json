@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "redstone",
-  "group": "wooden_fence_gate",
+  "group": "wooden fence gate",
   "key": {
     "#": {
-      "item": "minecraft:stick"
+      "item": "stick"
     },
     "W": {
-      "item": "generations_core:ultra_dark_planks"
+      "item": "ultra dark planks"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     "#W#"
   ],
   "result": {
-    "item": "generations_core:ultra_dark_fence_gate"
+    "item": "ultra dark fence gate"
   },
-  "show_notification": true
+  "show notification": true
 }

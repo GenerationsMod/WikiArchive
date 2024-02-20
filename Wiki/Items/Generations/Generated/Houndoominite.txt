@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Houndoominite|id=houndoominite|left=y
+
+}}
+{{DescBox|
+
+Enables Houndoom to Mega Evolve during battle.
+
+|drop1=None
+}}

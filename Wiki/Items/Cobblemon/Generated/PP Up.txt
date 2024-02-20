@@ -1,0 +1,13 @@
+{{ItemInfobox|item=PP Up|id=pp_up|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Medicinal Brew|B1=Pep Up Flower|C1=Pep Up Flower|A2=Leppa Berry|B2=Leppa Berry|C2=Vivichoke|A3=Vivichoke|B3=|C3=|Output=Pp Up|shapeless=y}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Raises the maximum PP of a move.
+
+|drop1={{DropLoot|premier=y|strange=y|ultra=y}}
+}}

@@ -1,0 +1,17 @@
+{
+  "type": "crafting shaped",
+  "group": "bark",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "stripped apricorn log"
+    }
+  },
+  "result": {
+    "item": "stripped apricorn wood",
+    "count": 3
+  }
+}

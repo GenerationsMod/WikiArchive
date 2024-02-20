@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Abomasite|id=abomasite|left=y
+
+}}
+{{DescBox|
+
+Enables Abomasnow to Mega Evolve during battle.
+
+|drop1=None
+}}

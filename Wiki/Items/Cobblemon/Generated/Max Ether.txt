@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Max Ether|id=max_ether|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Fully restores PP to one move of a Pokémon.
+
+|drop1={{DropLoot|dusk=y|great=y|heavy=y|leaden=y|moon=y}}
+}}

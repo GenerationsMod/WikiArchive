@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Soda Pop|id=soda_pop|left=y
+
+}}
+{{DescBox|
+
+Restores 50 HP.
+
+|drop1={{DropLoot|beast=y|dream=y|heal=y|wing=y}}
+}}

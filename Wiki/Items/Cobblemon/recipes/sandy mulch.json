@@ -1,0 +1,20 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "sand"
+        },
+        {
+            "item": "sand"
+        },
+        {
+            "item": "sand"
+        },
+        {
+            "item": "mulch base"
+        }
+    ],
+    "result": {
+        "item": "sandy mulch"
+    }
+}

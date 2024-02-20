@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Insect Plate|id=insect_plate|left=y
+
+}}
+{{DescBox|
+
+Increases power of Bug-type moves. Changes Arceus' type to Bug.
+
+|drop1={{DropLoot|master=y|net=y}}
+}}

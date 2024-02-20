@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Plasma Card|id=plasma_card|left=y
+
+}}
+{{DescBox|
+
+A card key needed to enter the password inside the Plasma Frigate.
+
+|drop1={{DropLoot|net=y|strange=y|timer=y|ultra=y}}
+}}

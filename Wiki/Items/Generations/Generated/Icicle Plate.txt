@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Icicle Plate|id=icicle_plate|left=y
+
+}}
+{{DescBox|
+
+Increases power of Ice-type moves. Changes Arceus' type to Ice.
+
+|drop1={{DropLoot|fast=y|master=y}}
+}}

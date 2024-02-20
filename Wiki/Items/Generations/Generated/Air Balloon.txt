@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Air Balloon|id=air_balloon|left=y
+
+}}
+{{DescBox|
+
+When held by a Pokémon, the Pokémon will float into the air. When the holder is attacked, this item will burst.
+
+|drop1={{DropLoot|heavy=y|leaden=y|love=y|moon=y|park=y|poke=y|repeat=y|wing=y}}
+}}

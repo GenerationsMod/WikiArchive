@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Sablenite|id=sablenite|left=y
+
+}}
+{{DescBox|
+
+Enables Sableye to Mega Evolve during battle.
+
+|drop1=None
+}}

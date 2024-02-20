@@ -1,0 +1,25 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "PIP",
+        "IBI",
+		"MIM"
+    ],
+    "key": {
+        "M": {
+            "item": "magma block"
+        },
+        "I": {
+            "item": "iron ingot"
+        },
+        "B": {
+            "item": "iron bars"
+        },
+        "P": {
+            "item": "blaze powder"
+        }
+    },
+    "result": {
+        "item": "magmarizer"
+    }
+}

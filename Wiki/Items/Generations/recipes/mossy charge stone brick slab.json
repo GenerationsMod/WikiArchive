@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "mossy_charge_stone_brick_slab",
+  "group": "mossy charge stone brick slab",
   "key": {
     "#": {
-      "item": "generations_core:mossy_charge_stone_bricks"
+      "item": "mossy charge stone bricks"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:mossy_charge_stone_brick_slab"
+    "item": "mossy charge stone brick slab"
   },
-  "show_notification": true
+  "show notification": true
 }

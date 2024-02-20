@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Alakazite|id=alakazite|left=y
+
+}}
+{{DescBox|
+
+Enables Alakazam to Mega Evolve during battle.
+
+|drop1=None
+}}

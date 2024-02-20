@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Heal Powder|id=heal_powder|left=y
+
+}}
+{{DescBox|
+
+Heals all status problems, but lowers Friendship.
+
+|drop1={{DropLoot|beast=y|friend=y|heal=y|jet=y|poke=y|timer=y}}
+}}

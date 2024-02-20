@@ -1,15 +1,15 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "misc",
   "ingredients": [
     {
-      "item": "minecraft:yellow_dye"
+      "item": "yellow dye"
     },
     {
-      "tag": "generations_core:vending_machine"
+      "tag": "vending machine"
     }
   ],
   "result": {
-    "item": "generations_core:yellow_vending_machine"
+    "item": "yellow vending machine"
   }
 }

@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Custap Berry|id=custap_berry|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Holder can move first when HP is low.
+
+|drop1={{DropLoot|heal=y|poke=y|quick=y|repeat=y}}
+}}

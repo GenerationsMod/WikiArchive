@@ -1,0 +1,14 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "heal powder"
+        },
+        {
+            "item": "honey bottle"
+        }
+    ],
+    "result": {
+        "item": "revive"
+    }
+}

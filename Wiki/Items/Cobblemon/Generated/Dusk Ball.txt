@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Dusk Ball|id=dusk_ball|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=|B1=Green Apricorn|C1=
+|A2=Black Apricorn|B2=Gold Ingot|C2=Black Apricorn
+|A3=|B3=Green Apricorn|C3=
+|Output=Dusk Ball|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Catches Pokémon at night or in caves with 3x the rate of a standard Poké Ball.
+
+|drop1={{DropLoot|dream=y|dusk=y|ultra=y}}
+}}

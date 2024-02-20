@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "black_poke_brick_slab",
+  "group": "black poke brick slab",
   "key": {
     "#": {
-      "item": "generations_core:black_poke_brick"
+      "item": "black poke brick"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:black_poke_brick_slab"
+    "item": "black poke brick slab"
   },
-  "show_notification": true
+  "show notification": true
 }

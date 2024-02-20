@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Packaged Curry|id=packaged_curry|left=y
+
+}}
+{{DescBox|
+
+One of the many ingredients that can be used for cooking at your camp. Using packaged curry helps make sure there are no slipups when cooking.
+
+|drop1={{DropLoot|friend=y|jet=y|nest=y|poke=y}}
+}}

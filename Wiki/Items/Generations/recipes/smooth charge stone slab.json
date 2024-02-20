@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "smooth_charge_stone_slab",
+  "group": "smooth charge stone slab",
   "key": {
     "#": {
-      "item": "generations_core:smooth_charge_stone"
+      "item": "smooth charge stone"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:smooth_charge_stone_slab"
+    "item": "smooth charge stone slab"
   },
-  "show_notification": true
+  "show notification": true
 }

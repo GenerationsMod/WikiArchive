@@ -1,0 +1,15 @@
+{{ItemInfobox|item=Impish Mint|id=impish_mint|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Blue Mint Leaf|B1=Blue Mint Leaf
+|A2=Blue Mint Leaf|B2=Cyan Mint Leaf
+|Output=Impish Mint|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Changes the Pokémon's stats to match the Impish nature.
+
+|drop1={{DropLoot|dream=y|park=y}}
+}}

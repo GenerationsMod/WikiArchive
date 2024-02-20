@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Swampertite|id=swampertite|left=y
+
+}}
+{{DescBox|
+
+Enables Swampert to Mega Evolve during battle.
+
+|drop1=None
+}}

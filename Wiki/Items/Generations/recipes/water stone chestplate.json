@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "X": {
-      "item": "cobblemon:water_stone"
+      "item": "water stone"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
     "XXX"
   ],
   "result": {
-    "item": "generations_core:water_stone_chestplate"
+    "item": "water stone chestplate"
   },
-  "show_notification": true
+  "show notification": true
 }

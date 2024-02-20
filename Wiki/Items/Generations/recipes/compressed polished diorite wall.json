@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "compressed_polished_diorite_wall",
+  "group": "compressed polished diorite wall",
   "key": {
     "#": {
-      "item": "generations_core:compressed_polished_diorite"
+      "item": "compressed polished diorite"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:compressed_polished_diorite_wall"
+    "item": "compressed polished diorite wall"
   },
-  "show_notification": true
+  "show notification": true
 }

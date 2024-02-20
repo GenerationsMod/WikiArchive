@@ -1,0 +1,22 @@
+{
+	"type": "crafting shaped",
+	"pattern": [
+		" WD",
+		"DSW",
+		"WD "
+	],
+	"key": {
+		"W": {
+			"item": "light blue wool"
+		},
+		"D": {
+			"item": "diamond"
+		},
+		"S": {
+			"item": "silk scarf"
+		}
+	},
+	"result": {
+		"item": "choice scarf"
+	}
+}

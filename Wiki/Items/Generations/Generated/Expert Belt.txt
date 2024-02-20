@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Expert Belt|id=expert_belt|left=y
+
+}}
+{{DescBox|
+
+Increases the power of super-effective moves.
+
+|drop1={{DropLoot|dusk=y|sport=y|ultra=y}}
+}}

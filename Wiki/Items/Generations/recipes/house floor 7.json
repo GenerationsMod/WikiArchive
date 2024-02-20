@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "#": {
-      "item": "generations_core:ice_pillar_top"
+      "item": "ice pillar top"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "##"
   ],
   "result": {
-    "item": "generations_core:house_floor_7"
+    "item": "house floor 7"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,0 +1,13 @@
+{{ItemInfobox|item=Ribbon Sweet|id=ribbon_sweet|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Purple Dye|B1=Honey Bottle|C1=Sugar|A2=|B2=|C2=|A3=|B3=|C3=|Output=Ribbon Sweet|shapeless=y}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Evolves Milcery into Ribbon Flavor Alcremie.
+
+|drop1={{DropLoot|level=y|love=y|origin=y|premier=y}}
+}}

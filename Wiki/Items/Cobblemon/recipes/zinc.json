@@ -1,0 +1,29 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "medicinal brew"
+        },
+        {
+            "tag": "zinc ingredients"
+        },
+        {
+            "tag": "zinc ingredients"
+        },
+        {
+            "item": "grepa berry"
+        },
+        {
+            "item": "grepa berry"
+        },
+        {
+            "item": "pink mint leaf"
+        },
+        {
+            "item": "pink mint leaf"
+        }
+    ],
+    "result": {
+        "item": "zinc"
+    }
+}

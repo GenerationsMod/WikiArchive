@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Dream Ball|id=dream_ball|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=|B1=Red Apricorn|C1=
+|A2=Pink Apricorn|B2=Diamond|C2=Pink Apricorn
+|A3=|B3=Blue Apricorn|C3=
+|Output=Dream Ball|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+A special Poké Ball that appears out of nowhere in a bag at the Entree Forest. It can catch any Pokémon.
+
+|drop1={{DropLoot|dream=y|heal=y|ultra=y}}
+}}

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=X Defense|id=x_defense|left=y
+
+}}
+{{DescBox|
+
+Raises Defense of a Pokémon in battle.
+
+|drop1={{DropLoot|nest=y|net=y|park=y}}
+}}

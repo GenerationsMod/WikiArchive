@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "castle_wall_3_stairs",
+  "group": "castle wall 3 stairs",
   "key": {
     "#": {
-      "item": "generations_core:castle_wall_3"
+      "item": "castle wall 3"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:castle_wall_3_stairs"
+    "item": "castle wall 3 stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

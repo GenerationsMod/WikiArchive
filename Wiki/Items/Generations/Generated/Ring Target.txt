@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Ring Target|id=ring_target|left=y
+
+}}
+{{DescBox|
+
+Moves that would otherwise have no effect will land on the Pokémon that holds it.
+
+|drop1={{DropLoot|dusk=y|friend=y|leaden=y|moon=y}}
+}}

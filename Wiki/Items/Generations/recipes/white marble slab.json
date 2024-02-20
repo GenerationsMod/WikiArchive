@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "white_marble_slab",
+  "group": "white marble slab",
   "key": {
     "#": {
-      "item": "generations_core:white_marble"
+      "item": "white marble"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:white_marble_slab"
+    "item": "white marble slab"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Fancy Apple|id=fancy_apple|left=y
+
+}}
+{{DescBox|
+
+One of the many ingredients that can be used for cooking at your camp. An apple chosen above others. It has spectacular form and a brilliant sheen.
+
+|drop1={{DropLoot|great=y|jet=y|love=y|premier=y|safari=y}}
+}}

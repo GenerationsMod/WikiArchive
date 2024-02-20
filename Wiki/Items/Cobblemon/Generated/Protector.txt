@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Protector|id=protector|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=|B1=Polished Granite|C1=
+|A2=|B2=Copper Block|C2=
+|A3=Polished Granite|B3=|C3=Polished Granite
+|Output=Protector|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Evolves Rhydon when traded holding the item.
+
+|drop1={{DropLoot|jet=y|level=y|moon=y|origin=y|quick=y}}
+}}

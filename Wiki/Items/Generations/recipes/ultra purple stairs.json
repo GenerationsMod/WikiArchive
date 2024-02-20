@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "ultra_purple_stairs",
+  "group": "ultra purple stairs",
   "key": {
     "#": {
-      "item": "generations_core:ultra_purple"
+      "item": "ultra purple"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:ultra_purple_stairs"
+    "item": "ultra purple stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

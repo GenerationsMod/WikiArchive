@@ -1,0 +1,15 @@
+{{ItemInfobox|item=Rash Mint|id=rash_mint|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Cyan Mint Leaf|B1=Cyan Mint Leaf
+|A2=Cyan Mint Leaf|B2=Pink Mint Leaf
+|Output=Rash Mint|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Changes the Pokémon's stats to match the Rash nature.
+
+|drop1={{DropLoot|level=y|park=y}}
+}}

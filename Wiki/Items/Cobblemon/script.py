@@ -1,9 +1,8 @@
 import csv
 import json
 import os
-import re
 
-#For me: php maintenance/importTextFiles.php --overwrite --use-timestamp ImportPages/*.txt
+
 def read_template():
     with open("template.txt", "r", encoding="utf-8") as file:
         return file.read()
@@ -34,32 +33,65 @@ def find_loot_matches(item_id):
     return loot_matches
 
 
+def generate_crafting_recipe(item_id):
+    recipe_folder = "recipes"
+    recipe_file = os.path.join(recipe_folder, f"{item_id}.json")
+
+    if not os.path.exists(recipe_file):
+        print(f"Recipe file not found for '{item_id}'. Skipping...")
+        return ""
+
+    with open(recipe_file, "r", encoding="utf-8") as file:
+        recipe_data = json.load(file)
+        recipe_type = recipe_data.get("type", "")
+        if recipe_type == "crafting shaped":
+            pattern = recipe_data.get("pattern", [])
+            key = recipe_data.get("key", {})
+            crafted_item = recipe_data.get("result", {}).get("item", "")
+            crafted_item = crafted_item.title()  # Capitalize each word in the crafted item name
+            recipe_grid = "|recipe=\n{{Grid/Crafting Table\n"
+            for row_idx, row in enumerate(pattern):
+                row_data = ""
+                for col_idx, char in enumerate(row):
+                    grid_pos = f"{chr(65 + col_idx)}{row_idx + 1}"  # Convert 0-based indices to A1, B2, etc.
+                    if char in key:
+                        item_name = key[char].get("item", "").title()  # Capitalize each word in the item name
+                        row_data += f"|{grid_pos}={item_name}"
+                    else:
+                        row_data += f"|{grid_pos}="
+                recipe_grid += row_data + "\n"
+            recipe_grid += f"|Output={crafted_item}|shapeless=n}}}}"
+            return recipe_grid
+        elif recipe_type == "crafting shapeless":
+            ingredients = recipe_data.get("ingredients", [])
+            crafted_item = recipe_data.get("result", {}).get("item", "")
+            crafted_item = crafted_item.title()  # Capitalize each word in the crafted item name
+            recipe_grid = "|recipe=\n{{Grid/Crafting Table\n"
+            grid_pos = ["A1", "B1", "C1", "A2", "B2", "C2", "A3", "B3", "C3"]
+            for idx, ingredient in enumerate(ingredients):
+                if idx >= len(grid_pos):
+                    print(f"Too many ingredients for '{item_id}'. Skipping...")
+                    return ""
+                item_name = ingredient.get("item", "").title()  # Capitalize each word in the item name
+                recipe_grid += f"|{grid_pos[idx]}={item_name}"
+            # Fill the rest of the grid with empty slots
+            for idx in range(len(ingredients), len(grid_pos)):
+                recipe_grid += f"|{grid_pos[idx]}="
+            recipe_grid += f"|Output={crafted_item}|shapeless=y}}}}"
+            return recipe_grid
+        else:
+            print(f"Unknown recipe type for '{item_id}'. Skipping...")
+            return ""
 
 
 
 
 
-def find_pokemon_drops(item_id):
-    pokemon_drops = []
-    for filename in os.listdir("Pokemon"):
-        if filename.endswith(".json"):
-            with open(os.path.join("Pokemon", filename), "r", encoding="utf-8") as file:
-                data = json.load(file)
-                for drop in data.get("drops", {}).get("entries", []):
-                    if drop.get("item", "").lower() == item_id.lower():
-                        pokemon_name = data.get("name", "")
-                        if pokemon_name:
-                            pokemon_drops.append("[[{}]]".format(pokemon_name))
-                            print(f"Found match in {filename}: {pokemon_name}")
-                        break  # No need to continue checking drops
-    return pokemon_drops
 
 
-def generate_item_text(item_name, item_id, description, loot_matches):
+def generate_item_text(item_name, item_id, description, loot_matches, crafting_recipe):
     drop_loot_info = "{{{{DropLoot|{}}}}}".format('|'.join(filename.replace('.json', '=y') for filename in loot_matches)) if loot_matches else ""
-    pokemon_drops = find_pokemon_drops(item_id)
-    drop_info = f"{drop_loot_info} {', '.join(pokemon_drops)}" if loot_matches or pokemon_drops else ""
-    return read_template().replace("Item Name", item_name).replace("item_name", item_id.lower().replace(" ", "_")).replace("Description", description).replace("drop1=drop_loot_info pokemon_drops", f"drop1={drop_info}")
+    return read_template().replace("Item Name", item_name).replace("item_name", item_id.lower().replace(" ", "_")).replace("Description", description).replace("drop1=drop_loot_info pokemon_drops", f"drop1={drop_loot_info}").replace("recipe_here", crafting_recipe)
 
 
 def main():
@@ -83,7 +115,8 @@ def main():
                 continue
             description = find_item_description(item_name, items_csv_path)
             loot_matches = find_loot_matches(item_id)
-            item_text = generate_item_text(item_name, item_id, description, loot_matches)
+            crafting_recipe = generate_crafting_recipe(item_id)
+            item_text = generate_item_text(item_name, item_id, description, loot_matches, crafting_recipe)
             with open(os.path.join(output_folder, f"{item_name}.txt"), "w", encoding="utf-8") as output_file:
                 output_file.write(item_text)
 

@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "crafting shapeless",
   "category": "redstone",
-  "group": "gray_marble_button",
+  "group": "gray marble button",
   "ingredients": [
     {
-      "item": "generations_core:gray_marble"
+      "item": "gray marble"
     }
   ],
   "result": {
-    "item": "generations_core:gray_marble_button"
+    "item": "gray marble button"
   }
 }

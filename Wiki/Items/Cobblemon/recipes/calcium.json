@@ -1,0 +1,29 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "medicinal brew"
+        },
+        {
+            "item": "bone meal"
+        },
+        {
+            "item": "bone meal"
+        },
+        {
+            "item": "hondew berry"
+        },
+        {
+            "item": "hondew berry"
+        },
+        {
+            "item": "cyan mint leaf"
+        },
+        {
+            "item": "cyan mint leaf"
+        }
+    ],
+    "result": {
+        "item": "calcium"
+    }
+}

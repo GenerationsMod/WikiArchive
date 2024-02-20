@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Health Candy|id=health_candy|left=y
+
+}}
+{{DescBox|
+
+Increases a Pokémon's HP stat by 1.
+
+|drop1={{DropLoot|dive=y|fast=y|master=y|poke=y|wing=y}}
+}}

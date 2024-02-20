@@ -1,0 +1,22 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        " G ",
+        "TCT",
+		"G G"
+    ],
+    "key": {
+        "G": {
+            "item": "polished granite"
+        },
+        "T": {
+            "tag": "terracotta"
+        },
+        "C": {
+            "item": "copper block"
+        }
+    },
+    "result": {
+        "item": "protector"
+    }
+}

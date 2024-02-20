@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Mixed Mushrooms|id=mixed_mushrooms|left=y
+
+}}
+{{DescBox|
+
+One of the many ingredients that can be used for cooking at your camp. The chewy texture of the mushrooms transforms any dish they’re added to.
+
+|drop1={{DropLoot|dusk=y|great=y|nest=y|strange=y}}
+}}

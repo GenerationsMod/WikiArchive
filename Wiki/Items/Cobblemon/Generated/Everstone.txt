@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Everstone|id=everstone|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.
+
+|drop1={{DropLoot|cherish=y|level=y|love=y|moon=y}}
+}}

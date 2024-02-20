@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Full Restore|id=full_restore|left=y
+
+}}
+{{DescBox|
+
+Fully restores HP and cures any status condition of a Pokémon.
+
+|drop1={{DropLoot|heal=y|master=y|timer=y|ultra=y}}
+}}

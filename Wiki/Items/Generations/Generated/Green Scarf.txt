@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Green Scarf|id=green_scarf|left=y
+
+}}
+{{DescBox|
+
+Raises holder's Smart aspect in a Contest.
+
+|drop1={{DropLoot|friend=y|luxury=y|park=y}}
+}}

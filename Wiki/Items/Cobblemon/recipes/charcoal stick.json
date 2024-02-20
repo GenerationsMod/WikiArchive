@@ -1,0 +1,19 @@
+{
+  "type": "crafting shaped",
+  "pattern": [
+    "C",
+    "S",
+    "C"
+  ],
+  "key": {
+    "C": {
+      "item": "charcoal"
+    },
+	"S": {
+		"item": "fire stone"
+	}
+  },
+  "result": {
+    "item": "charcoal stick"
+  }
+}

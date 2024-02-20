@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Booster Energy|id=booster_energy|left=y
+
+}}
+{{DescBox|
+
+An item to be held by Pokémon with certain Abilities. The energy that fills this capsule boosts the strength of the Pokémon.
+
+|drop1=None
+}}

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "bridge_block_wall",
+  "group": "bridge block wall",
   "key": {
     "#": {
-      "item": "generations_core:bridge_block"
+      "item": "bridge block"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:bridge_block_wall"
+    "item": "bridge block wall"
   },
-  "show_notification": true
+  "show notification": true
 }

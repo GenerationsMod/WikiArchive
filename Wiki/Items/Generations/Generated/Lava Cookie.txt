@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Lava Cookie|id=lava_cookie|left=y
+
+}}
+{{DescBox|
+
+Heals all major status conditions.
+
+|drop1={{DropLoot|beast=y|heavy=y|leaden=y|sport=y|timer=y}}
+}}

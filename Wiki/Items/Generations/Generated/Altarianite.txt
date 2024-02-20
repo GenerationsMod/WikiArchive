@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Altarianite|id=altarianite|left=y
+
+}}
+{{DescBox|
+
+Enables Altaria to Mega Evolve during battle.
+
+|drop1=None
+}}

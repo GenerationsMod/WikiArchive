@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Intriguing Stone|id=intriguing_stone|left=y
+
+}}
+{{DescBox|
+
+A rather curious stone that might appear to be valuable to some. It's all in the eye of the beholder.
+
+|drop1=None
+}}

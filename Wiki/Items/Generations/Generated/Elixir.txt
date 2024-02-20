@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Elixir|id=elixir|left=y
+
+}}
+{{DescBox|
+
+Restores 10 PP to all moves of a Pokémon.
+
+|drop1={{DropLoot|heal=y|net=y|poke=y}}
+}}

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "red_shingles_stairs",
+  "group": "red shingles stairs",
   "key": {
     "#": {
-      "item": "generations_core:red_shingles"
+      "item": "red shingles"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:red_shingles_stairs"
+    "item": "red shingles stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

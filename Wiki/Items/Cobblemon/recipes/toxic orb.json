@@ -1,0 +1,25 @@
+{
+    "type": "crafting shaped",
+    "pattern": [
+        "STB",
+        "TET",
+		"BTS"
+    ],
+    "key": {
+        "S": {
+            "item": "fermented spider eye"
+        },
+        "T": {
+            "item": "tinted glass"
+        },
+        "E": {
+            "item": "ender pearl"
+        },
+        "B": {
+            "item": "black sludge"
+        }
+    },
+    "result": {
+        "item": "toxic orb"
+    }
+}

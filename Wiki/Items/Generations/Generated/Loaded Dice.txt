@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Loaded Dice|id=loaded_dice|left=y
+
+}}
+{{DescBox|
+
+Makes multi-strike moves more likely to hit more times.
+
+|drop1=None
+}}

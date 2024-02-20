@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
-  "group": "light_blue_shingles_wall",
+  "group": "light blue shingles wall",
   "key": {
     "#": {
-      "item": "generations_core:light_blue_shingles"
+      "item": "light blue shingles"
     }
   },
   "pattern": [
@@ -13,7 +13,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:light_blue_shingles_wall"
+    "item": "light blue shingles wall"
   },
-  "show_notification": true
+  "show notification": true
 }

@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "yellow_poke_brick_slab",
+  "group": "yellow poke brick slab",
   "key": {
     "#": {
-      "item": "generations_core:yellow_poke_brick"
+      "item": "yellow poke brick"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:yellow_poke_brick_slab"
+    "item": "yellow poke brick slab"
   },
-  "show_notification": true
+  "show notification": true
 }

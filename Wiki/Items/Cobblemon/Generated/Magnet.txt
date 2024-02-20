@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Magnet|id=magnet|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Iron Ingot|B1=Iron Ingot|C1=Iron Ingot
+|A2=Iron Ingot|B2=|C2=Iron Ingot
+|A3=Redstone|B3=|C3=Blue Dye
+|Output=Magnet|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Increases the power of Electric-type moves.
+
+|drop1={{DropLoot|fast=y|moon=y|ultra=y}}
+}}

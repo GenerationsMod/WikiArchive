@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Stretchy Spring|id=stretchy_spring|left=y
+
+}}
+{{DescBox|
+
+
+
+|drop1={{DropLoot|cherish=y|dive=y|gigaton=y|heavy=y}}
+}}

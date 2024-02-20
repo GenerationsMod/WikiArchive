@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "equipment",
   "key": {
     "#": {
-      "item": "minecraft:stick"
+      "item": "stick"
     },
     "X": {
-      "item": "cobblemon:dusk_stone"
+      "item": "dusk stone"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     "#"
   ],
   "result": {
-    "item": "generations_core:dusk_stone_sword"
+    "item": "dusk stone sword"
   },
-  "show_notification": true
+  "show notification": true
 }

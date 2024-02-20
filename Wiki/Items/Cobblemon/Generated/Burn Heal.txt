@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Burn Heal|id=burn_heal|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Cures a Pokémon of a burn.
+
+|drop1={{DropLoot|heal=y|love=y|master=y|origin=y|poke=y|ultra=y}}
+}}

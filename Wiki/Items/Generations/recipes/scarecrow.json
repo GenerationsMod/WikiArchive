@@ -1,15 +1,15 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "misc",
   "key": {
     "#": {
-      "item": "minecraft:melon"
+      "item": "melon"
     },
     "A": {
-      "item": "minecraft:hay_block"
+      "item": "hay block"
     },
     "B": {
-      "item": "minecraft:stick"
+      "item": "stick"
     }
   },
   "pattern": [
@@ -18,7 +18,7 @@
     " B "
   ],
   "result": {
-    "item": "generations_core:scarecrow"
+    "item": "scarecrow"
   },
-  "show_notification": true
+  "show notification": true
 }

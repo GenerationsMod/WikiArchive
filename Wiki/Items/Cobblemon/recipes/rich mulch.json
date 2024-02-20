@@ -1,0 +1,20 @@
+{
+    "type": "crafting shapeless",
+    "ingredients": [
+        {
+            "item": "blaze powder"
+        },
+        {
+            "item": "blaze powder"
+        },
+        {
+            "item": "blaze powder"
+        },
+        {
+            "item": "mulch base"
+        }
+    ],
+    "result": {
+        "item": "rich mulch"
+    }
+}

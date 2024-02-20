@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "gray_castle_brick_slab",
+  "group": "gray castle brick slab",
   "key": {
     "#": {
-      "item": "generations_core:gray_castle_brick"
+      "item": "gray castle brick"
     }
   },
   "pattern": [
@@ -12,7 +12,7 @@
   ],
   "result": {
     "count": 6,
-    "item": "generations_core:gray_castle_brick_slab"
+    "item": "gray castle brick slab"
   },
-  "show_notification": true
+  "show notification": true
 }

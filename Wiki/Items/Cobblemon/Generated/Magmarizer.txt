@@ -1,0 +1,16 @@
+{{ItemInfobox|item=Magmarizer|id=magmarizer|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Blaze Powder|B1=Iron Ingot|C1=Blaze Powder
+|A2=Iron Ingot|B2=Iron Bars|C2=Iron Ingot
+|A3=Magma Block|B3=Iron Ingot|C3=Magma Block
+|Output=Magmarizer|shapeless=n}}
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Evolves Magmar when traded holding the item.
+
+|drop1={{DropLoot|fast=y|heavy=y|leaden=y|level=y|origin=y}}
+}}

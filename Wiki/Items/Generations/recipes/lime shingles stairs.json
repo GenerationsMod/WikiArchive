@@ -1,10 +1,10 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
-  "group": "lime_shingles_stairs",
+  "group": "lime shingles stairs",
   "key": {
     "#": {
-      "item": "generations_core:lime_shingles"
+      "item": "lime shingles"
     }
   },
   "pattern": [
@@ -14,7 +14,7 @@
   ],
   "result": {
     "count": 4,
-    "item": "generations_core:lime_shingles_stairs"
+    "item": "lime shingles stairs"
   },
-  "show_notification": true
+  "show notification": true
 }

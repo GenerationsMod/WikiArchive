@@ -1,0 +1,10 @@
+{
+  "type": "blasting",
+  "group": "moon stone",
+  "ingredient": {
+    "item": "deepslate moon stone ore"
+  },
+  "result": "moon stone",
+  "experience": 0.1,
+  "cookingtime": 100
+}

@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "crafting shaped",
   "category": "building",
   "key": {
     "X": {
-      "item": "generations_core:ghost_bricks"
+      "item": "ghost bricks"
     }
   },
   "pattern": [
@@ -11,7 +11,7 @@
     "XX"
   ],
   "result": {
-    "item": "generations_core:ghost_obelisk"
+    "item": "ghost obelisk"
   },
-  "show_notification": true
+  "show notification": true
 }

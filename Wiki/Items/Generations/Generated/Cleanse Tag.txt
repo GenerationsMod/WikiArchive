@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Cleanse Tag|id=cleanse_tag|left=y
+
+}}
+{{DescBox|
+
+An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.
+
+|drop1={{DropLoot|dusk=y|great=y|heal=y|lure=y|nest=y}}
+}}

@@ -1,0 +1,11 @@
+{{ItemInfobox|item=Revival Herb|id=revival_herb|left=y
+
+}}
+{{DescBox|
+'''This item is a Cobblemon item. For potentially updated information, please visit the [https://wiki.cobblemon.com/index.php Cobblemon Wiki]'''
+
+
+Revives a Pokémon to max HP, but lowers Friendship.
+
+|drop1={{DropLoot|friend=y|great=y|net=y}}
+}}

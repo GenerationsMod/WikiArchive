@@ -1,0 +1,9 @@
+{{ItemInfobox|item=White Herb|id=white_herb|left=y
+
+}}
+{{DescBox|
+
+An item to be held by a POKéMON. It restores any lowered stat in battle. It can be used only once.
+
+|drop1={{DropLoot|jet=y|love=y|nest=y|premier=y|wing=y}}
+}}

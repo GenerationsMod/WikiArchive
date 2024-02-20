@@ -1,0 +1,9 @@
+{{ItemInfobox|item=X Defense 3|id=x_defense_3|left=y
+
+}}
+{{DescBox|
+
+Drastically raises Defense of a Pokémon in battle.
+
+|drop1={{DropLoot|fast=y|love=y|sport=y}}
+}}

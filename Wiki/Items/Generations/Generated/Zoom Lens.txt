@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Zoom Lens|id=zoom_lens|left=y
+
+}}
+{{DescBox|
+
+Raises a move's accuracy if the holder moves after its target.
+
+|drop1={{DropLoot|beast=y|leaden=y|net=y|quick=y}}
+}}

@@ -1,0 +1,9 @@
+{{ItemInfobox|item=Lustrous Orb|id=lustrous_orb|left=y
+
+}}
+{{DescBox|
+
+Increases the power of Dragon- and Water-type moves when held by Palkia.
+
+|drop1={{DropLoot|jet=y|master=y|moon=y|origin=y|park=y}}
+}}
