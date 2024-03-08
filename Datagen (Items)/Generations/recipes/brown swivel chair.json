@@ -1,0 +1,27 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "brown dye"
+    },
+    "I": {
+      "item": "iron ingot"
+    },
+    "S": {
+      "item": "silicon"
+    },
+    "X": {
+      "item": "white wool"
+    }
+  },
+  "pattern": [
+    "EXX",
+    "XXX",
+    "SIS"
+  ],
+  "result": {
+    "item": "brown swivel chair"
+  },
+  "show notification": true
+}

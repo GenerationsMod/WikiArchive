@@ -1,0 +1,24 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "lime dye"
+    },
+    "P": {
+      "item": "dark oak planks"
+    },
+    "W": {
+      "item": "white wool"
+    }
+  },
+  "pattern": [
+    "EEE",
+    "WWW",
+    "P P"
+  ],
+  "result": {
+    "item": "lime couch ottoman"
+  },
+  "show notification": true
+}

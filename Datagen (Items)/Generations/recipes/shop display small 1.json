@@ -1,0 +1,23 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "potion"
+    },
+    "R": {
+      "item": "rare candy"
+    },
+    "W": {
+      "item": "white marble"
+    }
+  },
+  "pattern": [
+    "PRP",
+    "WWW"
+  ],
+  "result": {
+    "item": "shop display small 1"
+  },
+  "show notification": true
+}

@@ -1,0 +1,14 @@
+{{ItemInfobox|item=Yellow Couch Ottoman|id=yellow_couch_ottoman|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Yellow Dye|B1=Yellow Dye|C1=Yellow Dye
+|A2=White Wool|B2=White Wool|C2=White Wool
+|A3=Dark Oak Planks|B3=|C3=Dark Oak Planks
+|Output=Yellow Couch Ottoman|shapeless=n}}
+}}
+{{DescBox|
+
+A decorative block used for decorating your builds. 
+
+|drop1=None
+}}

@@ -1,0 +1,14 @@
+{{ItemInfobox|item=House Lamp|id=house_lamp|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=White Wool|B1=Redstone Lamp|C1=White Wool
+|A2=White Wool|B2=Iron Ingot|C2=White Wool
+|A3=Iron Ingot|B3=Iron Ingot|C3=Iron Ingot
+|Output=House Lamp|shapeless=n}}
+}}
+{{DescBox|
+
+A decorative block used for decorating your builds. 
+
+|drop1=None
+}}

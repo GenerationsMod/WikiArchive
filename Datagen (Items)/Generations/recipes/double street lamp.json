@@ -1,0 +1,24 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "copper ingot"
+    },
+    "G": {
+      "item": "glass"
+    },
+    "L": {
+      "item": "redstone lamp"
+    }
+  },
+  "pattern": [
+    "LCL",
+    "GCG",
+    " C "
+  ],
+  "result": {
+    "item": "double street lamp"
+  },
+  "show notification": true
+}

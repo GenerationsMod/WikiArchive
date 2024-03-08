@@ -1,0 +1,24 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "bone meal"
+    },
+    "I": {
+      "item": "iron ingot"
+    },
+    "O": {
+      "item": "oak sapling"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "IOI",
+    "III"
+  ],
+  "result": {
+    "item": "bush"
+  },
+  "show notification": true
+}

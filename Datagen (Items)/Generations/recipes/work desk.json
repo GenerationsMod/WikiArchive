@@ -1,0 +1,20 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "blue marble"
+    },
+    "G": {
+      "item": "gray marble"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GBG"
+  ],
+  "result": {
+    "item": "work desk"
+  },
+  "show notification": true
+}

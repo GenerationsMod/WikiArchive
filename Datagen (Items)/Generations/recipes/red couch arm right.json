@@ -1,0 +1,24 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "red dye"
+    },
+    "P": {
+      "item": "dark oak planks"
+    },
+    "W": {
+      "item": "white wool"
+    }
+  },
+  "pattern": [
+    "EEW",
+    "WWW",
+    "P P"
+  ],
+  "result": {
+    "item": "red couch arm right"
+  },
+  "show notification": true
+}

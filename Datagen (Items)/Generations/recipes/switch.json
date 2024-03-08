@@ -1,0 +1,30 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "blue dye"
+    },
+    "C": {
+      "item": "copper ingot"
+    },
+    "D": {
+      "item": "red dye"
+    },
+    "R": {
+      "item": "redstone"
+    },
+    "S": {
+      "item": "silicon"
+    }
+  },
+  "pattern": [
+    "SRS",
+    "SRS",
+    "BCD"
+  ],
+  "result": {
+    "item": "switch"
+  },
+  "show notification": true
+}

@@ -1,0 +1,14 @@
+{{ItemInfobox|item=Couch|id=couch|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Green Wool|B1=Green Wool|C1=Green Wool
+|A2=Yellow Wool|B2=Green Wool|C2=Green Wool
+|A3=Oak Planks|B3=Oak Planks|C3=Oak Planks
+|Output=Couch|shapeless=n}}
+}}
+{{DescBox|
+
+A decorative block used for decorating your builds. 
+
+|drop1=None
+}}

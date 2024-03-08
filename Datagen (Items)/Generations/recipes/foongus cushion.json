@@ -1,0 +1,27 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "black wool"
+    },
+    "M": {
+      "item": "brown mushroom"
+    },
+    "R": {
+      "item": "red wool"
+    },
+    "W": {
+      "item": "white wool"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "BMB",
+    "WWW"
+  ],
+  "result": {
+    "item": "foongus cushion"
+  },
+  "show notification": true
+}

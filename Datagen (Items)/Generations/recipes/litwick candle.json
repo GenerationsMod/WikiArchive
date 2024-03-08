@@ -1,0 +1,20 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "white candle"
+    },
+    "Y": {
+      "item": "yellow candle"
+    }
+  },
+  "pattern": [
+    "CYC",
+    "CCC"
+  ],
+  "result": {
+    "item": "litwick candle"
+  },
+  "show notification": true
+}

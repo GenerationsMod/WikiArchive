@@ -1,0 +1,14 @@
+{{ItemInfobox|item=Pokeball Pillar|id=pokeball_pillar|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Stone|B1=Poke Ball|C1=Stone
+|A2=Stone|B2=Copper Ingot|C2=Stone
+|A3=Stone|B3=Stone|C3=Stone
+|Output=Pokeball Pillar|shapeless=n}}
+}}
+{{DescBox|
+
+A decorative block used for decorating your builds. 
+
+|drop1=None
+}}

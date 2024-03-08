@@ -1,0 +1,17 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "key": {
+    "W": {
+      "item": "white marble"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "W W"
+  ],
+  "result": {
+    "item": "desk"
+  },
+  "show notification": true
+}

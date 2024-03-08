@@ -1,0 +1,20 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "glass"
+    },
+    "W": {
+      "item": "white marble"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "GGG"
+  ],
+  "result": {
+    "item": "shop display case 2"
+  },
+  "show notification": true
+}

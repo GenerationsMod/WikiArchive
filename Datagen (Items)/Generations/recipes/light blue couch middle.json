@@ -1,0 +1,24 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "light blue dye"
+    },
+    "P": {
+      "item": "dark oak planks"
+    },
+    "W": {
+      "item": "white wool"
+    }
+  },
+  "pattern": [
+    "EWE",
+    "WWW",
+    "P P"
+  ],
+  "result": {
+    "item": "light blue couch middle"
+  },
+  "show notification": true
+}

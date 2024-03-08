@@ -1,0 +1,13 @@
+{{ItemInfobox|item=Snorlax Bean Bag|id=snorlax_bean_bag|left=y
+|recipe=
+{{Grid/Crafting Table
+|A1=Blue Wool|B1=Yellow Wool|C1=Blue Wool
+|A2=Blue Wool|B2=White Wool|C2=Blue Wool
+|Output=Snorlax Bean Bag|shapeless=n}}
+}}
+{{DescBox|
+
+A decorative block used for decorating your builds. 
+
+|drop1=None
+}}

@@ -1,0 +1,18 @@
+{
+  "type": "crafting shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "litwick candle"
+    },
+    {
+      "item": "litwick candle"
+    },
+    {
+      "item": "litwick candle"
+    }
+  ],
+  "result": {
+    "item": "litwick candles"
+  }
+}

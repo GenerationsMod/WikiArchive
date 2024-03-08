@@ -1,0 +1,20 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "iron ingot"
+    },
+    "O": {
+      "item": "oak planks"
+    }
+  },
+  "pattern": [
+    "OOO",
+    "I I"
+  ],
+  "result": {
+    "item": "bench"
+  },
+  "show notification": true
+}

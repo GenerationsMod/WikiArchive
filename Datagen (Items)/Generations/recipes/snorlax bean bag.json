@@ -1,0 +1,23 @@
+{
+  "type": "crafting shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "blue wool"
+    },
+    "W": {
+      "item": "white wool"
+    },
+    "Y": {
+      "item": "yellow wool"
+    }
+  },
+  "pattern": [
+    "BYB",
+    "BWB"
+  ],
+  "result": {
+    "item": "snorlax bean bag"
+  },
+  "show notification": true
+}
