@@ -1,0 +1,113 @@
+{{Loot|Poke Ball}}
+{{Loot|Ability Capsule}}
+{{Loot|Amulet Coin}}
+{{Loot|Belue Berry}}
+{{Loot|Big Nugget}}
+{{Span}}
+{{Loot|Black Flute}}
+{{Loot|Blue Scarf}}
+{{Loot|Bluk Berry}}
+{{Loot|Coconut Milk}}
+{{Loot|Courage Candy L}}
+{{Span}}
+{{Loot|Cracked Pot}}
+{{Loot|Dawn Stone}}
+{{Loot|Deep Sea Tooth}}
+{{Loot|Dragon Fang}}
+{{Loot|Dusk Stone}}
+{{Span}}
+{{Loot|Elevator Key}}
+{{Loot|Exp Candy M}}
+{{Loot|Exp Share}}
+{{Loot|Festival Ticket}}
+{{Loot|Flower Sweet}}
+{{Span}}
+{{Loot|Full Heal}}
+{{Loot|Fiery Wing}}
+{{Loot|Great Ball}}
+{{Loot|Green Scarf}}
+{{Loot|Grepa Berry}}
+{{Span}}
+{{Loot|Health Candy L}}
+{{Loot|Ice Heal}}
+{{Loot|Ice Stone}}
+{{Loot|Love Sweet}}
+{{Loot|Luck Incense}}
+{{Span}}
+{{Loot|Lucky Egg}}
+{{Loot|Lumiose Galette}}
+{{Loot|Lure}}
+{{Loot|Luxury Ball}}
+{{Loot|Marble}}
+{{Span}}
+{{Loot|Max Lure}}
+{{Loot|Mighty Candy Xl}}
+{{Loot|Nomel Berry}}
+{{Loot|Odd Keystone}}
+{{Loot|Pamtre Berry}}
+{{Span}}
+{{Loot|Pearl}}
+{{Loot|Permit}}
+{{Loot|Pewter Crunchies}}
+{{Loot|Power Band}}
+{{Loot|Premier Ball}}
+{{Span}}
+{{Loot|Psychic Seed}}
+{{Loot|Quick Candy Xl}}
+{{Loot|Rare Bone}}
+{{Loot|Red Flute}}
+{{Loot|Room Service}}
+{{Span}}
+{{Loot|Shoal Salt}}
+{{Loot|Silk Scarf}}
+{{Loot|Smart Candy Xl}}
+{{Loot|Soothe Bell}}
+{{Loot|Sweet Heart}}
+{{Span}}
+{{Loot|Tough Candy}}
+{{Loot|Tropical Shell}}
+{{Loot|X Defense 6}}
+{{Loot|Yellow Flute}}
+{{Loot|Quartz Block}}
+{{Span}}
+{{Loot|Diamond}}
+{{Loot|Leather}}
+{{Loot|Elegant Wing}}
+{{Loot|Music Disc Chirp}}
+{{Loot|Netherite Scrap}}
+{{Span}}
+{{Loot|Iris Disc}}
+{{Loot|Nessa Disc}}
+{{Loot|Team Rocket Disc}}
+{{Loot|Sada And Turo Disc}}
+{{Loot|South Province Disc}}
+{{Span}}
+{{Loot|Rival Disc}}
+{{Loot|Lusamine Disc}}
+{{Loot|Xy Legendary Disc}}
+{{Loot|Kanto Disc}}
+{{Loot|Ultra Necrozma Disc}}
+{{Span}}
+{{Loot|Crystal}}
+{{Loot|Sapphire}}
+{{Loot|Silicon}}
+{{Loot|Sparkling Shard}}
+{{Loot|Exp Candy L}}
+{{Span}}
+{{Loot|Poison Candy}}
+{{Loot|Dragon Candy}}
+{{LootTm|Poison|13}}
+{{LootTm|Poison|26}}
+{{LootTm|Poison|45}}
+{{Span}}
+{{LootTm|Poison|83}}
+{{LootTm|Poison|91}}
+{{LootTm|Poison|102}}
+{{LootTm|Poison|148}}
+{{LootTm|Dragon|44}}
+{{Span}}
+{{LootTm|Dragon|78}}
+{{LootTm|Dragon|100}}
+{{LootTm|Dragon|115}}
+{{LootTm|Dragon|156}}
+{{LootTm|Dragon|169}}

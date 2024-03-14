@@ -1,0 +1,149 @@
+{{Loot|Poke Ball}}
+{{Loot|Absorb Bulb}}
+{{Loot|Amulet Coin}}
+{{Loot|Black Belt}}
+{{Loot|Blue Shard}}
+{{Span}}
+{{Loot|Bobs Food Tin}}
+{{Loot|Carbos}}
+{{Loot|Electirizer}}
+{{Loot|Ether}}
+{{Loot|Everstone}}
+{{Span}}
+{{Loot|Exp Candy Xl}}
+{{Loot|Exp Share}}
+{{Loot|Fire Stone}}
+{{Loot|Grass Gem}}
+{{Loot|Grassy Seed}}
+{{Span}}
+{{Loot|Hard Stone}}
+{{Loot|Heat Rock}}
+{{Loot|Heavy Duty Boots}}
+{{Loot|Hondew Berry}}
+{{Loot|Icy Rock}}
+{{Span}}
+{{Loot|Instant Noodles}}
+{{Loot|Iron Ball}}
+{{Loot|Item Urge}}
+{{Loot|Kelpsy Berry}}
+{{Loot|Lagging Tail}}
+{{Span}}
+{{Loot|Lansat Berry}}
+{{Loot|Large Leek}}
+{{Loot|Leaf Letter}}
+{{Loot|Level Ball}}
+{{Loot|Lucky Egg}}
+{{Span}}
+{{Loot|Lum Berry}}
+{{Loot|Lure Ball}}
+{{Loot|Magmarizer}}
+{{Loot|Max Lure}}
+{{Loot|Metal Coat}}
+{{Span}}
+{{Loot|Mighty Candy Xl}}
+{{Loot|Oran Berry}}
+{{Loot|Oval Stone}}
+{{Loot|Pasta}}
+{{Loot|Pearl String}}
+{{Span}}
+{{Loot|Power Bracer}}
+{{Loot|Prism Scale}}
+{{Loot|Protector}}
+{{Loot|Quick Powder}}
+{{Loot|Rare Candy}}
+{{Span}}
+{{Loot|Razor Claw}}
+{{Loot|Razor Fang}}
+{{Loot|Reaper Cloth}}
+{{Loot|Ribbon Sweet}}
+{{Loot|Rindo Berry}}
+{{Span}}
+{{Loot|Rock Gem}}
+{{Loot|Rock Incense}}
+{{Loot|Sachet}}
+{{Loot|Safari Ball}}
+{{Loot|Shiny Stone}}
+{{Span}}
+{{Loot|Small Bouquet}}
+{{Loot|Smart Candy L}}
+{{Loot|Soothe Bell}}
+{{Loot|Spell Tag}}
+{{Loot|Spice Mix}}
+{{Span}}
+{{Loot|Strawberry Sweet}}
+{{Loot|Sun Stone}}
+{{Loot|Sweet Apple}}
+{{Loot|Static Wing}}
+{{Loot|Tamato Berry}}
+{{Span}}
+{{Loot|Tart Apple}}
+{{Loot|Thick Club}}
+{{Loot|Thunder Stone}}
+{{Loot|Tough Candy Xl}}
+{{Loot|Ultra Ball}}
+{{Span}}
+{{Loot|Upgrade}}
+{{Loot|Utility Umbrella}}
+{{Loot|Water Gem}}
+{{Loot|Water Stone}}
+{{Loot|Whipped Dream}}
+{{Span}}
+{{Loot|Zinc}}
+{{Loot|Gunpowder}}
+{{Loot|Porkchop}}
+{{Loot|Slime Ball}}
+{{Loot|Warped Fungus}}
+{{Span}}
+{{Loot|Music Disc Ward}}
+{{Loot|Purple Juice}}
+{{Loot|Red Juice}}
+{{Loot|Yellow Juice}}
+{{Loot|Blue Juice}}
+{{Span}}
+{{Loot|Green Juice}}
+{{Loot|Pink Juice}}
+{{Loot|Exp Charm}}
+{{Loot|Berry Sweet}}
+{{Loot|Crumbled Rock Key 1}}
+{{Span}}
+{{Loot|Crumbled Rock Key 2}}
+{{Loot|Crumbled Rock Key 3}}
+{{Loot|Crumbled Rock Key 4}}
+{{Loot|Rockstar Costume}}
+{{Loot|Belle Costume}}
+{{Span}}
+{{Loot|Popstar Costume}}
+{{Loot|Phd Costume}}
+{{Loot|Libre Costume}}
+{{Loot|Orb}}
+{{Loot|Rainbow Wing}}
+{{Span}}
+{{Loot|Exp Candy Xs}}
+{{Loot|Exp Candy S}}
+{{Loot|Exp Candy M}}
+{{Loot|Exp Candy L}}
+{{Loot|Exp Candy Xl}}
+{{Span}}
+{{Loot|Quiet Mint}}
+{{Loot|Rash Mint}}
+{{Loot|Mild Mint}}
+{{Loot|Calm Mint}}
+{{Loot|Fighting Candy}}
+{{Span}}
+{{LootTm|Normal|1}}
+{{LootTm|Normal|6}}
+{{LootTm|Normal|7}}
+{{LootTm|Normal|25}}
+{{LootTm|Normal|32}}
+{{Span}}
+{{LootTm|Normal|47}}
+{{LootTm|Fighting|58}}
+{{LootTm|Fighting|64}}
+{{LootTm|Fighting|73}}
+{{LootTm|Fighting|89}}
+{{Span}}
+{{LootTm|Fighting|112}}
+{{LootTm|Fighting|134}}
+{{LootTm|Fighting|158}}
+{{LootTm|Fighting|167}}
+{{Loot|Dynite Ore}}

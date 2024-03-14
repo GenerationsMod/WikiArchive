@@ -1,0 +1,154 @@
+{{Loot|Poke Ball}}
+{{Loot|Awakening}}
+{{Loot|Big Root}}
+{{Loot|Cell Battery}}
+{{Loot|Chalky Stone}}
+{{Span}}
+{{Loot|Chesto Berry}}
+{{Loot|Clover Sweet}}
+{{Loot|Courage Candy}}
+{{Loot|Cracked Pot}}
+{{Loot|Dragon Gem}}
+{{Span}}
+{{Loot|Dream Ball}}
+{{Loot|Dusk Ball}}
+{{Loot|Exp Candy L}}
+{{Loot|Fairy Gem}}
+{{Loot|Fresh Cream}}
+{{Span}}
+{{Loot|Fried Food}}
+{{Loot|Iapapa Berry}}
+{{Loot|Kebia Berry}}
+{{Loot|Large Leek}}
+{{Loot|Leek}}
+{{Span}}
+{{Loot|Lemonade}}
+{{Loot|Light Ball}}
+{{Loot|Looker Ticket}}
+{{Loot|Marble}}
+{{Loot|Mystic Water}}
+{{Span}}
+{{Loot|Normal Gem}}
+{{Loot|Odd Incense}}
+{{Loot|Odd Keystone}}
+{{Loot|Paralyze Heal}}
+{{Loot|Payapa Berry}}
+{{Span}}
+{{Loot|Persim Berry}}
+{{Loot|Poison Gem}}
+{{Loot|Polished Mud Ball}}
+{{Loot|Power Lens}}
+{{Loot|Psychic Gem}}
+{{Span}}
+{{Loot|Rage Candy Bar}}
+{{Loot|Razor Claw}}
+{{Loot|Razor Fang}}
+{{Loot|Red Card}}
+{{Loot|Red Nectar}}
+{{Span}}
+{{Loot|Red Scarf}}
+{{Loot|Red Shard}}
+{{Loot|Relic Band}}
+{{Loot|Icy Wing}}
+{{Loot|Room Service}}
+{{Span}}
+{{Loot|Roseli Berry}}
+{{Loot|Scope Lens}}
+{{Loot|Silk Scarf}}
+{{Loot|Sitrus Berry}}
+{{Loot|Smart Candy Xl}}
+{{Span}}
+{{Loot|Snowball}}
+{{Loot|Soda Pop}}
+{{Loot|Soul Dew}}
+{{Loot|Star Piece}}
+{{Loot|Stardust}}
+{{Span}}
+{{Loot|Throat Spray}}
+{{Loot|Thunder Stone}}
+{{Loot|Twisted Spoon}}
+{{Loot|Upgrade}}
+{{Loot|Whipped Dream}}
+{{Span}}
+{{Loot|Wide Lens}}
+{{Loot|X Accuracy}}
+{{Loot|X Defense 6}}
+{{Loot|X Special Attack 2}}
+{{Loot|Purpur Block}}
+{{Span}}
+{{Loot|Slime Ball}}
+{{Loot|Ghast Tear}}
+{{Loot|Crimson Fungus}}
+{{Loot|Music Disc Blocks}}
+{{Loot|Mark Charm}}
+{{Span}}
+{{Loot|Dynite Ore}}
+{{Loot|Rusty Iron Key 2}}
+{{Loot|Shattered Ice Key 2}}
+{{Loot|Crumbled Rock Key 2}}
+{{Loot|Fragmented Drago Key 2}}
+{{Span}}
+{{Loot|Discharged Eleki Key 2}}
+{{Loot|Shattered Relic Song 2}}
+{{Loot|Lava Crystal}}
+{{Loot|Lugia Disc}}
+{{Loot|Lavender Town Disc}}
+{{Span}}
+{{Loot|Mt Pyre Disc}}
+{{Loot|Relaxed Mint}}
+{{Loot|Impish Mint}}
+{{Loot|Gentle Mint}}
+{{Loot|Pokemail Air}}
+{{Span}}
+{{Loot|Pokemail Bloom}}
+{{Loot|Pokemail Brick}}
+{{Loot|Pokemail Bridge D}}
+{{Loot|Pokemail Bridge M}}
+{{Loot|Pokemail Bridge S}}
+{{Span}}
+{{Loot|Pokemail Bridge T}}
+{{Loot|Pokemail Bridge V}}
+{{Loot|Pokemail Bubble}}
+{{Loot|Pokemail Dream}}
+{{Loot|Pokemail Fab}}
+{{Span}}
+{{Loot|Pokemail Favored}}
+{{Loot|Fire Candy}}
+{{Loot|Ice Candy}}
+{{Loot|Psychic Candy}}
+{{LootTm|Fire|8}}
+{{Span}}
+{{LootTm|Fire|24}}
+{{LootTm|Fire|38}}
+{{LootTm|Fire|49}}
+{{LootTm|Fire|67}}
+{{LootTm|Fire|107}}
+{{Span}}
+{{LootTm|Fire|118}}
+{{LootTm|Fire|125}}
+{{LootTm|Fire|141}}
+{{LootTm|Fire|144}}
+{{LootTm|Fire|153}}
+{{Span}}
+{{LootTm|Fire|157}}
+{{LootTm|Fire|165}}
+{{LootTm|Ice|10}}
+{{LootTm|Ice|34}}
+{{LootTm|Ice|46}}
+{{Span}}
+{{LootTm|Ice|52}}
+{{LootTm|Psychic|59}}
+{{LootTm|Psychic|63}}
+{{LootTm|Psychic|74}}
+{{LootTm|Psychic|75}}
+{{Span}}
+{{LootTm|Psychic|85}}
+{{LootTm|Psychic|92}}
+{{LootTm|Psychic|98}}
+{{LootTm|Psychic|109}}
+{{LootTm|Psychic|120}}
+{{Span}}
+{{LootTm|Psychic|128}}
+{{LootTm|Psychic|129}}
+{{LootTm|Psychic|138}}
+{{LootTm|Psychic|161}}

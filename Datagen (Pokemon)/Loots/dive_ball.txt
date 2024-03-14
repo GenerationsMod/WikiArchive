@@ -1,0 +1,124 @@
+{{Loot|Poke Ball}}
+{{Loot|Absorb Bulb}}
+{{Loot|Beach Glass}}
+{{Loot|Blue Shard}}
+{{Loot|Damp Rock}}
+{{Span}}
+{{Loot|Deep Sea Scale}}
+{{Loot|Deep Sea Tooth}}
+{{Loot|Dive Ball}}
+{{Loot|Health Candy}}
+{{Loot|Ice Gem}}
+{{Span}}
+{{Loot|Ice Heal}}
+{{Loot|Ice Stone}}
+{{Loot|Icy Rock}}
+{{Loot|Lansat Berry}}
+{{Loot|Large Leek}}
+{{Span}}
+{{Loot|Lax Incense}}
+{{Loot|Leppa Berry}}
+{{Loot|Level Ball}}
+{{Loot|Light Clay}}
+{{Loot|Lucky Punch}}
+{{Span}}
+{{Loot|Lum Berry}}
+{{Loot|Luminous Moss}}
+{{Loot|Lumiose Galette}}
+{{Loot|Lure}}
+{{Loot|Lure Ball}}
+{{Span}}
+{{Loot|Luxury Ball}}
+{{Loot|Mago Berry}}
+{{Loot|Marble}}
+{{Loot|Max Lure}}
+{{Loot|Max Potion}}
+{{Span}}
+{{Loot|Mighty Candy L}}
+{{Loot|Moon Stone}}
+{{Loot|Mystic Water}}
+{{Loot|Net Ball}}
+{{Loot|Paralyze Heal}}
+{{Span}}
+{{Loot|Pass Orb}}
+{{Loot|Passho Berry}}
+{{Loot|Persim Berry}}
+{{Loot|Pinap Berry}}
+{{Loot|Poke Doll}}
+{{Span}}
+{{Loot|Potion}}
+{{Loot|Power Belt}}
+{{Loot|Prism Scale}}
+{{Loot|Pungent Root}}
+{{Loot|Pure Incense}}
+{{Span}}
+{{Loot|Rabuta Berry}}
+{{Loot|Relic Gold}}
+{{Loot|Sea Incense}}
+{{Loot|Shoal Salt}}
+{{Loot|Shoal Shell}}
+{{Span}}
+{{Loot|Smoked Poke Tail}}
+{{Loot|Smooth Rock}}
+{{Loot|Soft Sand}}
+{{Loot|Sprink Lotad}}
+{{Loot|Stretchy Spring}}
+{{Span}}
+{{Loot|Super Lure}}
+{{Loot|Tanga Berry}}
+{{Loot|Tough Candy Xl}}
+{{Loot|Tropical Shell}}
+{{Loot|Wacan Berry}}
+{{Span}}
+{{Loot|Water Gem}}
+{{LootTm|Unknown|berry}}
+{{Loot|Wave Incense}}
+{{Loot|Yache Berry}}
+{{Loot|Sponge}}
+{{Span}}
+{{Loot|Prismarine}}
+{{Loot|Scute}}
+{{Loot|Ink Sac}}
+{{Loot|Prismarine Shard}}
+{{Loot|Prismarine Crystals}}
+{{Span}}
+{{Loot|Music Disc Blocks}}
+{{Loot|Dynite Ore}}
+{{Loot|Old Rod}}
+{{Loot|Good Rod}}
+{{Loot|Super Rod}}
+{{Span}}
+{{Loot|Wailmer Pail}}
+{{Loot|Lava Crystal}}
+{{Loot|Adamant Mint}}
+{{Loot|Naughty Mint}}
+{{Loot|Bold Mint}}
+{{Span}}
+{{Loot|Water Memory Drive}}
+{{Loot|Splash Plate}}
+{{Loot|Pokemail Air}}
+{{Loot|Pokemail Bloom}}
+{{Loot|Pokemail Brick}}
+{{Span}}
+{{Loot|Pokemail Bridge D}}
+{{Loot|Pokemail Bridge M}}
+{{Loot|Pokemail Bridge S}}
+{{Loot|Pokemail Bridge T}}
+{{Loot|Pokemail Bridge V}}
+{{Span}}
+{{Loot|Water Candy}}
+{{Loot|Shattered Ice Key 1}}
+{{Loot|Shattered Ice Key 2}}
+{{Loot|Shattered Ice Key 3}}
+{{Loot|Shattered Ice Key 4}}
+{{Span}}
+{{LootTm|Water|11}}
+{{LootTm|Water|22}}
+{{LootTm|Water|50}}
+{{LootTm|Water|77}}
+{{LootTm|Water|110}}
+{{Span}}
+{{LootTm|Water|123}}
+{{LootTm|Water|142}}
+{{LootTm|Water|145}}
+{{LootTm|Water|154}}

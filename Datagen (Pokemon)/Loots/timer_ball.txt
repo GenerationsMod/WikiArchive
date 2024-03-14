@@ -1,0 +1,112 @@
+{{Loot|Poke Ball}}
+{{Loot|Ability Urge}}
+{{Loot|Blunder Policy}}
+{{Loot|Bright Powder}}
+{{Loot|Coba Berry}}
+{{Span}}
+{{Loot|Coconut Milk}}
+{{Loot|Cornn Berry}}
+{{Loot|Damp Rock}}
+{{Loot|Dire Hit 2}}
+{{Loot|Dubious Disc}}
+{{Span}}
+{{Loot|Electric Seed}}
+{{Loot|Escape Rope}}
+{{Loot|Fast Ball}}
+{{Loot|Festival Ticket}}
+{{Loot|Fluffy Tail}}
+{{Span}}
+{{Loot|Fresh Cream}}
+{{Loot|Full Restore}}
+{{Loot|Grip Claw}}
+{{Loot|Grubby Hanky}}
+{{Loot|Heal Powder}}
+{{Span}}
+{{Loot|Health Candy L}}
+{{Loot|Heat Rock}}
+{{Loot|Iapapa Berry}}
+{{Loot|Icy Rock}}
+{{Loot|Kasib Berry}}
+{{Span}}
+{{Loot|Kings Rock}}
+{{Loot|Lava Cookie}}
+{{Loot|Life Orb}}
+{{Loot|Light Clay}}
+{{Loot|Lucky Egg}}
+{{Span}}
+{{Loot|Magost Berry}}
+{{Loot|Max Revive}}
+{{Loot|Muscle Band}}
+{{Loot|Nanab Berry}}
+{{Loot|Nomel Berry}}
+{{Span}}
+{{Loot|Pewter Crunchies}}
+{{Loot|Plasma Card}}
+{{Loot|Pomeg Berry}}
+{{Loot|Power Herb}}
+{{Loot|Quick Claw}}
+{{Span}}
+{{Loot|Rabuta Berry}}
+{{Loot|Revive}}
+{{Loot|Salac Berry}}
+{{Loot|Salad Mix}}
+{{Loot|Sharp Beak}}
+{{Span}}
+{{Loot|Silver Leaf}}
+{{Loot|Orb}}
+{{Loot|Rotom Catalog}}
+{{Loot|Cerulean City Disc}}
+{{Loot|Icirrus City Disc}}
+{{Span}}
+{{Loot|Laverre City Disc}}
+{{Loot|Surf Disc}}
+{{Loot|Lake Of Rage Disc}}
+{{Loot|Penny Disc}}
+{{Loot|Nemona Disc}}
+{{Span}}
+{{Loot|Zinnia Disc}}
+{{Loot|Cynthia Disc}}
+{{Loot|Deoxys Disc}}
+{{Loot|Sport Ball}}
+{{Loot|Terrain Extender}}
+{{Span}}
+{{Loot|Timer Ball}}
+{{Loot|Tin Of Beans}}
+{{Loot|Wiki Berry}}
+{{Loot|Wise Glasses}}
+{{Loot|Ice Candy}}
+{{Span}}
+{{Loot|X Accuracy 2}}
+{{Loot|X Attack 6}}
+{{Loot|X Special Attack 3}}
+{{Loot|Saddle}}
+{{Loot|Leather}}
+{{Span}}
+{{Loot|Blaze Powder}}
+{{Loot|Music Disc Wait}}
+{{Loot|Basic Sweet Poke Puff}}
+{{Loot|Basic Mint Poke Puff}}
+{{Loot|Basic Citrus Poke Puff}}
+{{Span}}
+{{Loot|Basic Mocha Poke Puff}}
+{{Loot|Basic Spice Poke Puff}}
+{{Loot|Amethyst Shard}}
+{{Loot|Ruby}}
+{{Loot|Pokemail Orange}}
+{{Span}}
+{{Loot|Pokemail Reply}}
+{{Loot|Pokemail Retro}}
+{{Loot|Pokemail Rsvp}}
+{{Loot|Pokemail Shadow}}
+{{Loot|Pokemail Snow}}
+{{Span}}
+{{Loot|Pokemail Space}}
+{{Loot|Pokemail Steel}}
+{{Loot|Pokemail Thanks}}
+{{Loot|Pokemail Tropic}}
+{{Loot|Pokemail Tunnel}}
+{{Span}}
+{{Loot|Pokemail Wave}}
+{{Loot|Pokemail Wood}}
+{{Loot|Surprise Mulch}}
+{{Loot|Growth Mulch}}

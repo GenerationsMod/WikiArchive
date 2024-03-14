@@ -1,0 +1,130 @@
+{{Loot|Poke Ball}}
+{{Loot|Absorb Bulb}}
+{{Loot|Adrenaline Orb}}
+{{Loot|Awakening}}
+{{Loot|Balm Mushroom}}
+{{Span}}
+{{Loot|Berry Sweet}}
+{{Loot|Black Belt}}
+{{Loot|Black Sludge}}
+{{Loot|Iris Disc}}
+{{Loot|Nessa Disc}}
+{{Span}}
+{{Loot|Team Rocket Disc}}
+{{Loot|Sada And Turo Disc}}
+{{Loot|South Province Disc}}
+{{Loot|Rival Disc}}
+{{Loot|Lusamine Disc}}
+{{Span}}
+{{Loot|Xy Legendary Disc}}
+{{Loot|Kanto Disc}}
+{{Loot|Ultra Necrozma Disc}}
+{{Loot|Bluk Berry}}
+{{Loot|Blunder Policy}}
+{{Span}}
+{{Loot|Burn Heal}}
+{{Loot|Calcium}}
+{{Loot|Cell Battery}}
+{{Loot|Charcoal Stick}}
+{{Loot|Cheri Berry}}
+{{Span}}
+{{Loot|Cheri Berry}}
+{{Loot|Chipped Pot}}
+{{Loot|Choice Band}}
+{{Loot|Clover Sweet}}
+{{Loot|Cornn Berry}}
+{{Span}}
+{{Loot|Courage Candy L}}
+{{Loot|Deep Sea Tooth}}
+{{Loot|Dire Hit}}
+{{Loot|Dragon Fang}}
+{{Loot|Dream Ball}}
+{{Span}}
+{{Loot|Dusk Ball}}
+{{Loot|Eject Pack}}
+{{Loot|Exp Candy L}}
+{{Loot|Expert Belt}}
+{{Loot|Fast Ball}}
+{{Span}}
+{{Loot|Flame Orb}}
+{{Loot|Fruit Bunch}}
+{{Loot|Full Heal}}
+{{Loot|Full Restore}}
+{{Loot|Fiery Wing}}
+{{Span}}
+{{Loot|Ghost Gem}}
+{{Loot|Grip Claw}}
+{{Loot|Grubby Hanky}}
+{{Loot|Heal Ball}}
+{{Loot|Health Candy Xl}}
+{{Span}}
+{{Loot|Heavy Duty Boots}}
+{{Loot|Kee Berry}}
+{{Loot|Kelpsy Berry}}
+{{Loot|Looker Ticket}}
+{{Loot|Magnet}}
+{{Span}}
+{{Loot|Max Elixir}}
+{{Loot|Max Revive}}
+{{Loot|Mighty Candy Xl}}
+{{Loot|Never Melt Ice}}
+{{Loot|Normal Gem}}
+{{Span}}
+{{Loot|Permit}}
+{{Loot|Plasma Card}}
+{{Loot|Poke Ball}}
+{{Loot|Power Weight}}
+{{Loot|Pp Up}}
+{{Span}}
+{{Loot|Rare Candy}}
+{{Loot|Reset Urge}}
+{{Loot|Roller Skates}}
+{{Loot|Room Service}}
+{{Loot|Shalour Sable}}
+{{Span}}
+{{Loot|Sharp Beak}}
+{{Loot|Soft Sand}}
+{{Loot|Soul Dew}}
+{{Loot|Stardust}}
+{{Loot|Super Potion}}
+{{Span}}
+{{Loot|Throat Spray}}
+{{Loot|Tough Candy L}}
+{{Loot|Ultra Ball}}
+{{Loot|Weakness Policy}}
+{{Loot|White Flute}}
+{{Span}}
+{{Loot|X Accuracy 6}}
+{{Loot|X Special Attack 6}}
+{{Loot|X Special Defense 2}}
+{{Loot|Saddle}}
+{{Loot|Leather}}
+{{Span}}
+{{Loot|Blaze Powder}}
+{{Loot|Music Disc Wait}}
+{{Loot|Basic Sweet Poke Puff}}
+{{Loot|Basic Mint Poke Puff}}
+{{Loot|Basic Citrus Poke Puff}}
+{{Span}}
+{{Loot|Basic Mocha Poke Puff}}
+{{Loot|Basic Spice Poke Puff}}
+{{Loot|Amethyst Shard}}
+{{Loot|Ruby}}
+{{Loot|Pokemail Orange}}
+{{Span}}
+{{Loot|Pokemail Reply}}
+{{Loot|Pokemail Retro}}
+{{Loot|Pokemail Rsvp}}
+{{Loot|Pokemail Shadow}}
+{{Loot|Pokemail Snow}}
+{{Span}}
+{{Loot|Pokemail Space}}
+{{Loot|Pokemail Steel}}
+{{Loot|Pokemail Thanks}}
+{{Loot|Pokemail Tropic}}
+{{Loot|Pokemail Tunnel}}
+{{Span}}
+{{Loot|Pokemail Wave}}
+{{Loot|Pokemail Wood}}
+{{Loot|Surprise Mulch}}
+{{Loot|Growth Mulch}}

@@ -41,6 +41,8 @@
 |antitime=Any
 |rarity=Rare
 |levelrange=44-55
+}}
+{{Statbox|type1=Ice|
 |hp=110
 |atk=80
 |def=90

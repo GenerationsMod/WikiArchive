@@ -1,0 +1,97 @@
+{{Loot|Poke Ball}}
+{{Loot|Antidote}}
+{{Loot|Assault Vest}}
+{{Loot|Babiri Berry}}
+{{Loot|Beast Ball}}
+{{Span}}
+{{Loot|Big Nugget}}
+{{Loot|Black Sludge}}
+{{Loot|Bright Powder}}
+{{Loot|Brittle Bones}}
+{{Loot|Cell Battery}}
+{{Span}}
+{{Loot|Chalky Stone}}
+{{Loot|Charcoal Stick}}
+{{Loot|Charti Berry}}
+{{Loot|Choice Band}}
+{{Loot|Choice Specs}}
+{{Span}}
+{{Loot|Chople Berry}}
+{{Loot|Colbur Berry}}
+{{Loot|Comet Shard}}
+{{Loot|Courage Candy Xl}}
+{{Loot|Dna Splicers}}
+{{Span}}
+{{Loot|Dragon Gem}}
+{{Loot|Dynamax Candy}}
+{{Loot|Enigma Berry}}
+{{Loot|Exp Candy Xl}}
+{{Loot|Fairy Gem}}
+{{Span}}
+{{Loot|Fire Gem}}
+{{Loot|Flame Orb}}
+{{Loot|Full Heal}}
+{{Loot|Ganlon Berry}}
+{{Loot|Gigantamix}}
+{{Span}}
+{{Loot|Heal Powder}}
+{{Loot|Jaboca Berry}}
+{{Loot|Lava Cookie}}
+{{Loot|Permit}}
+{{Loot|Pomeg Berry}}
+{{Span}}
+{{Loot|Power Belt}}
+{{Loot|Rawst Berry}}
+{{Loot|Rock Incense}}
+{{Loot|Sea Incense}}
+{{Loot|Smart Candy L}}
+{{Span}}
+{{Loot|Soda Pop}}
+{{Loot|Strange Souvenir}}
+{{Loot|Weakness Policy}}
+{{Loot|Wepear Berry}}
+{{Loot|Wide Lens}}
+{{Span}}
+{{Loot|X Special Defense 2}}
+{{Loot|X Speed}}
+{{Loot|X Speed 6}}
+{{Loot|Yache Berry}}
+{{Loot|Yellow Nectar}}
+{{Span}}
+{{Loot|Dragon Candy}}
+{{Loot|Yellow Shard}}
+{{Loot|Zinc}}
+{{Loot|Zoom Lens}}
+{{Loot|Purpur Block}}
+{{Span}}
+{{Loot|End Stone}}
+{{Loot|Prismarine}}
+{{Loot|Glowstone Dust}}
+{{Loot|Nether Wart}}
+{{Loot|Spider Eye}}
+{{Span}}
+{{Loot|Warped Fungus}}
+{{Loot|Music Disc Cat}}
+{{Loot|Z Ingot}}
+{{Loot|Amethyst Shard}}
+{{Loot|Ruby}}
+{{Span}}
+{{Loot|Lava Crystal}}
+{{Loot|Belligerent Wing}}
+{{Loot|Lugia Disc}}
+{{Loot|Lavender Town Disc}}
+{{Loot|Mt Pyre Disc}}
+{{Span}}
+{{LootTm|Dragon|44}}
+{{LootTm|Dragon|78}}
+{{LootTm|Dragon|100}}
+{{LootTm|Dragon|115}}
+{{LootTm|Dragon|156}}
+{{Span}}
+{{LootTm|Dragon|169}}
+{{Loot|Surprise Mulch}}
+{{Loot|Growth Mulch}}
+{{Loot|Netherite Scrap}}
+{{Loot|Rich Mulch}}
+{{Span}}
+{{Loot|Dynite Ore}}

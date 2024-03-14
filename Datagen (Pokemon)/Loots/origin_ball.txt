@@ -1,0 +1,119 @@
+{{Loot|Poke Ball}}
+{{Loot|Scroll Page}}
+{{Loot|Mew Dna Fiber}}
+{{Loot|Legend Plate}}
+{{Loot|Black Apricorn}}
+{{Span}}
+{{Loot|Blue Apricorn}}
+{{Loot|Green Apricorn}}
+{{Loot|Pink Apricorn}}
+{{Loot|Red Apricorn}}
+{{Loot|White Apricorn}}
+{{Span}}
+{{Loot|Yellow Apricorn}}
+{{Loot|Health Candy Xl}}
+{{Loot|Honey}}
+{{Loot|Leek}}
+{{Loot|Leftovers}}
+{{Span}}
+{{Loot|Lone Earring}}
+{{Loot|Lustrous Orb}}
+{{Loot|Griseous Orb}}
+{{Loot|Adamant Orb}}
+{{Loot|Lustrous Globe}}
+{{Span}}
+{{Loot|Griseous Core}}
+{{Loot|Adamant Crystal}}
+{{Loot|Gracidea}}
+{{Loot|Iris Disc}}
+{{Loot|Nessa Disc}}
+{{Span}}
+{{Loot|Team Rocket Disc}}
+{{Loot|Sada And Turo Disc}}
+{{Loot|South Province Disc}}
+{{Loot|Rival Disc}}
+{{Loot|Lusamine Disc}}
+{{Span}}
+{{Loot|Xy Legendary Disc}}
+{{Loot|Kanto Disc}}
+{{Loot|Ultra Necrozma Disc}}
+{{Loot|Ruby}}
+{{Loot|Relic Band}}
+{{Span}}
+{{Loot|Relic Crown}}
+{{Loot|Relic Statue}}
+{{Loot|Relic Vase}}
+{{Loot|Fruit Bunch}}
+{{Loot|Coconut Milk}}
+{{Span}}
+{{Loot|Instant Noodles}}
+{{Loot|Fresh Cream}}
+{{Loot|Exp Charm}}
+{{Loot|Antidote}}
+{{Loot|Apicot Berry}}
+{{Span}}
+{{Loot|Aspear Berry}}
+{{Loot|Babiri Berry}}
+{{Loot|Berry Juice}}
+{{Loot|Burn Heal}}
+{{Loot|Growth Mulch}}
+{{Span}}
+{{Loot|Rich Mulch}}
+{{Loot|Surprise Mulch}}
+{{Loot|Berry Sweet}}
+{{Loot|Clover Sweet}}
+{{Loot|Flower Sweet}}
+{{Span}}
+{{Loot|Love Sweet}}
+{{Loot|Ribbon Sweet}}
+{{Loot|Star Sweet}}
+{{Loot|Strawberry Sweet}}
+{{Loot|Deep Sea Scale}}
+{{Span}}
+{{Loot|Deep Sea Tooth}}
+{{Loot|Dragon Scale}}
+{{Loot|Dubious Disc}}
+{{Loot|Electirizer}}
+{{Loot|Kings Rock}}
+{{Span}}
+{{Loot|Magmarizer}}
+{{Loot|Metal Coat}}
+{{Loot|Oval Stone}}
+{{Loot|Prism Scale}}
+{{Loot|Protector}}
+{{Span}}
+{{Loot|Razor Claw}}
+{{Loot|Razor Fang}}
+{{Loot|Reaper Cloth}}
+{{Loot|Sachet}}
+{{Loot|Upgrade}}
+{{Span}}
+{{Loot|Whipped Dream}}
+{{Loot|Chipped Pot}}
+{{Loot|Cracked Pot}}
+{{Loot|Galarica Cuff}}
+{{Loot|Galarica Wreath}}
+{{Span}}
+{{Loot|Sweet Apple}}
+{{Loot|Tart Apple}}
+{{LootTm|Electric|9}}
+{{LootTm|Electric|23}}
+{{LootTm|Electric|48}}
+{{Span}}
+{{LootTm|Electric|68}}
+{{LootTm|Electric|72}}
+{{LootTm|Electric|82}}
+{{LootTm|Electric|96}}
+{{LootTm|Electric|126}}
+{{Span}}
+{{LootTm|Electric|136}}
+{{LootTm|Electric|147}}
+{{LootTm|Electric|166}}
+{{LootTm|Dragon|44}}
+{{LootTm|Dragon|78}}
+{{Span}}
+{{LootTm|Dragon|100}}
+{{LootTm|Dragon|115}}
+{{LootTm|Dragon|156}}
+{{LootTm|Dragon|169}}
+{{Loot|Mew Fossil}}

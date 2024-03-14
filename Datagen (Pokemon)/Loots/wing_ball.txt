@@ -1,0 +1,113 @@
+{{Loot|Poke Ball}}
+{{Loot|Icy Wing}}
+{{Loot|Elegant Wing}}
+{{Loot|Health Feather}}
+{{Loot|Static Wing}}
+{{Span}}
+{{Loot|Belligerent Wing}}
+{{Loot|Fiery Wing}}
+{{Loot|Sinister Wing}}
+{{Loot|Silver Wing}}
+{{Loot|Rainbow Wing}}
+{{Span}}
+{{Loot|Coba Berry}}
+{{Loot|Flying Gem}}
+{{Loot|Flying Memory Drive}}
+{{Loot|Cerulean City Disc}}
+{{Loot|Icirrus City Disc}}
+{{Span}}
+{{Loot|Laverre City Disc}}
+{{Loot|Surf Disc}}
+{{Loot|Lake Of Rage Disc}}
+{{Loot|Penny Disc}}
+{{Loot|Nemona Disc}}
+{{Span}}
+{{Loot|Zinnia Disc}}
+{{Loot|Cynthia Disc}}
+{{Loot|Deoxys Disc}}
+{{Loot|Iron Ball}}
+{{Loot|Sharp Beak}}
+{{Span}}
+{{Loot|Sky Plate}}
+{{Loot|Utility Umbrella}}
+{{Loot|Air Balloon}}
+{{Loot|Grepa Berry}}
+{{Loot|Lansat Berry}}
+{{Span}}
+{{Loot|Lum Berry}}
+{{Loot|Light Ball}}
+{{Loot|Pink Nectar}}
+{{Loot|Purple Nectar}}
+{{Loot|Red Nectar}}
+{{Span}}
+{{Loot|Yellow Nectar}}
+{{Loot|Power Herb}}
+{{Loot|Mental Herb}}
+{{Loot|Mirror Herb}}
+{{Loot|White Herb}}
+{{Span}}
+{{Loot|Icy Rock}}
+{{Loot|Heat Rock}}
+{{Loot|Assault Vest}}
+{{Loot|Electric Seed}}
+{{Loot|Grassy Seed}}
+{{Span}}
+{{Loot|Misty Seed}}
+{{Loot|Psychic Seed}}
+{{Loot|Miracle Seed}}
+{{Loot|Antidote}}
+{{Loot|Max Elixir}}
+{{Span}}
+{{Loot|Hyper Potion}}
+{{Loot|Moomoo Milk}}
+{{Loot|Great Ball}}
+{{Loot|Fresh Water}}
+{{Loot|Soda Pop}}
+{{Span}}
+{{Loot|Potion}}
+{{Loot|Calcium}}
+{{Loot|Health Candy}}
+{{Loot|Quick Candy}}
+{{Loot|Smart Candy}}
+{{Span}}
+{{Loot|Silver Leaf}}
+{{Loot|Gold Leaf}}
+{{Loot|Heart Scale}}
+{{Loot|Stardust}}
+{{Loot|Pokemail Harbor}}
+{{Span}}
+{{Loot|Pokemail Inquiry}}
+{{Loot|Pokemail Tropic}}
+{{Loot|Pokemail Air}}
+{{Loot|Pokemail Reply}}
+{{Loot|Pokemail Space}}
+{{Span}}
+{{Loot|Choice Band}}
+{{Loot|Comet Shard}}
+{{Loot|Destiny Knot}}
+{{Loot|Boiled Egg}}
+{{Loot|Sausages}}
+{{Span}}
+{{Loot|Bobs Food Tin}}
+{{Loot|Bachs Food Tin}}
+{{Loot|Grip Claw}}
+{{Loot|Repel}}
+{{Loot|Super Repel}}
+{{Span}}
+{{Loot|Exp Candy Xs}}
+{{Loot|Exp Candy S}}
+{{Loot|Flying Candy}}
+{{Loot|X Speed 2}}
+{{Loot|X Speed}}
+{{Span}}
+{{Loot|X Accuracy 6}}
+{{Loot|X Attack}}
+{{LootTm|Flying|14}}
+{{LootTm|Flying|27}}
+{{LootTm|Flying|40}}
+{{Span}}
+{{LootTm|Flying|65}}
+{{LootTm|Flying|97}}
+{{LootTm|Flying|113}}
+{{LootTm|Flying|160}}
+{{LootTm|Flying|164}}

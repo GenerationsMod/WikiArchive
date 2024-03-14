@@ -1,0 +1,124 @@
+{{Loot|Poke Ball}}
+{{Loot|Adrenaline Orb}}
+{{Loot|Babiri Berry}}
+{{Loot|Big Root}}
+{{Loot|Blue Shard}}
+{{Span}}
+{{Loot|Bluk Berry}}
+{{Loot|Bobs Food Tin}}
+{{Loot|Charcoal Stick}}
+{{Loot|Charti Berry}}
+{{Loot|Cleanse Tag}}
+{{Span}}
+{{Loot|Coba Berry}}
+{{Loot|Exp Candy Xs}}
+{{Loot|Green Shard}}
+{{Loot|Growth Mulch}}
+{{Loot|Heat Rock}}
+{{Span}}
+{{Loot|Honey}}
+{{Loot|Ice Heal}}
+{{Loot|Jaboca Berry}}
+{{Loot|Kasib Berry}}
+{{Loot|Kebia Berry}}
+{{Span}}
+{{Loot|Lagging Tail}}
+{{Loot|Lax Incense}}
+{{Loot|Leaf Letter}}
+{{Loot|Lemonade}}
+{{Loot|Lone Earring}}
+{{Span}}
+{{Loot|Luck Incense}}
+{{Loot|Lucky Punch}}
+{{Loot|Lure}}
+{{Loot|Lure Ball}}
+{{Loot|Mago Berry}}
+{{Span}}
+{{Loot|Max Lure}}
+{{Loot|Max Repel}}
+{{Loot|Metal Powder}}
+{{Loot|Old Gateau}}
+{{Loot|Pamtre Berry}}
+{{Span}}
+{{Loot|Pass Orb}}
+{{Loot|Pasta}}
+{{Loot|Pinap Berry}}
+{{Loot|Poke Doll}}
+{{Loot|Poke Toy}}
+{{Span}}
+{{Loot|Power Herb}}
+{{Loot|Power Plant Pass}}
+{{Loot|Pure Incense}}
+{{Loot|Purple Nectar}}
+{{Loot|Rawst Berry}}
+{{Span}}
+{{Loot|Red Card}}
+{{Loot|Repel}}
+{{Loot|Rock Incense}}
+{{Loot|Rocky Helmet}}
+{{Loot|Rose Incense}}
+{{Span}}
+{{Loot|Rowap Berry}}
+{{Loot|Salad Mix}}
+{{Loot|Sea Incense}}
+{{Loot|Smoke Ball}}
+{{Loot|Spelon Berry}}
+{{Span}}
+{{Loot|Sprink Lotad}}
+{{Loot|Starf Berry}}
+{{Loot|Super Lure}}
+{{Loot|Super Repel}}
+{{Loot|Sweet Heart}}
+{{Span}}
+{{Loot|Tiny Mushroom}}
+{{Loot|Tough Candy L}}
+{{Loot|Wacan Berry}}
+{{Loot|Wave Incense}}
+{{Loot|X Accuracy 3}}
+{{Span}}
+{{Loot|X Speed 2}}
+{{Loot|Prismarine}}
+{{Loot|Feather}}
+{{Loot|Bone}}
+{{Loot|Ghast Tear}}
+{{Span}}
+{{Loot|Z Ingot}}
+{{Loot|Prismarine Crystals}}
+{{Loot|Music Disc Chirp}}
+{{Loot|Mark Charm}}
+{{Loot|Film}}
+{{Span}}
+{{Loot|Camera}}
+{{Loot|Wailmer Pail}}
+{{Loot|Rusty Iron Key 1}}
+{{Loot|Rusty Iron Key 2}}
+{{Loot|Rusty Iron Key 3}}
+{{Span}}
+{{Loot|Rusty Iron Key 4}}
+{{Loot|Exp Candy S}}
+{{Loot|Grass Candy}}
+{{LootTm|Grass|20}}
+{{LootTm|Grass|33}}
+{{Span}}
+{{LootTm|Grass|56}}
+{{LootTm|Grass|71}}
+{{LootTm|Grass|81}}
+{{LootTm|Grass|111}}
+{{LootTm|Grass|119}}
+{{Span}}
+{{LootTm|Grass|137}}
+{{LootTm|Grass|146}}
+{{LootTm|Grass|155}}
+{{LootTm|Grass|159}}
+{{LootTm|Grass|168}}
+{{Span}}
+{{LootTm|Ground|5}}
+{{LootTm|Ground|28}}
+{{LootTm|Ground|35}}
+{{LootTm|Ground|55}}
+{{LootTm|Ground|84}}
+{{Span}}
+{{LootTm|Ground|90}}
+{{LootTm|Ground|106}}
+{{LootTm|Ground|133}}
+{{LootTm|Ground|149}}

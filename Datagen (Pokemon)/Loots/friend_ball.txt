@@ -1,0 +1,142 @@
+{{Loot|Poke Ball}}
+{{Loot|Ability Urge}}
+{{Loot|Adrenaline Orb}}
+{{Loot|Apicot Berry}}
+{{Loot|Bachs Food Tin}}
+{{Span}}
+{{Loot|Berry Sweet}}
+{{Loot|Big Malasada}}
+{{Loot|Bobs Food Tin}}
+{{Loot|Bright Powder}}
+{{Loot|Calcium}}
+{{Span}}
+{{Loot|Choice Specs}}
+{{Loot|Chople Berry}}
+{{Loot|Eject Button}}
+{{Loot|Eject Pack}}
+{{Loot|Electirizer}}
+{{Span}}
+{{Loot|Energy Powder}}
+{{Loot|Enigma Berry}}
+{{Loot|Eviolite}}
+{{Loot|Exp Candy S}}
+{{Loot|Fire Stone}}
+{{Span}}
+{{Loot|Flower Sweet}}
+{{Loot|Focus Sash}}
+{{Loot|Fresh Cream}}
+{{Loot|Fried Food}}
+{{Loot|Friend Ball}}
+{{Span}}
+{{Loot|Full Incense}}
+{{Loot|Galarica Cuff}}
+{{Loot|Galarica Twig}}
+{{Loot|Green Scarf}}
+{{Loot|Grepa Berry}}
+{{Span}}
+{{Loot|Growth Mulch}}
+{{Loot|Heal Powder}}
+{{Loot|Health Candy Xl}}
+{{Loot|Heart Scale}}
+{{Loot|Rotom Catalog}}
+{{Span}}
+{{Loot|Lustrous Globe}}
+{{Loot|Griseous Core}}
+{{Loot|Adamant Crystal}}
+{{Loot|Hi Tech Earbuds}}
+{{Loot|Hondew Berry}}
+{{Span}}
+{{Loot|Item Drop}}
+{{Loot|Kings Rock}}
+{{Loot|Lansat Berry}}
+{{Loot|Leftovers}}
+{{Loot|Light Ball}}
+{{Span}}
+{{Loot|Luxury Ball}}
+{{Loot|Max Elixir}}
+{{Loot|Moomoo Cheese}}
+{{Loot|Occa Berry}}
+{{Loot|Oval Stone}}
+{{Span}}
+{{Loot|Packaged Curry}}
+{{Loot|Pasta}}
+{{Loot|Pink Nectar}}
+{{Loot|Poke Toy}}
+{{Loot|Pomeg Berry}}
+{{Span}}
+{{Loot|Power Weight}}
+{{Loot|Precooked Burger}}
+{{Loot|Protective Pads}}
+{{Loot|Qualot Berry}}
+{{Loot|Quick Candy L}}
+{{Span}}
+{{Loot|Quick Powder}}
+{{Loot|Rawst Berry}}
+{{Loot|Razor Claw}}
+{{Loot|Repel}}
+{{Loot|Revival Herb}}
+{{Span}}
+{{Loot|Ring Target}}
+{{Loot|Sachet}}
+{{Loot|Sausages}}
+{{Loot|Shed Shell}}
+{{Loot|Silver Powder}}
+{{Span}}
+{{Loot|Star Sweet}}
+{{Loot|Static Wing}}
+{{Loot|Tanga Berry}}
+{{Loot|Throat Spray}}
+{{Loot|Tin Of Beans}}
+{{Span}}
+{{Loot|Twisted Spoon}}
+{{Loot|Wacan Berry}}
+{{Loot|Weakness Policy}}
+{{Loot|Whipped Dream}}
+{{Loot|X Attack}}
+{{Span}}
+{{Loot|Shattered Relic Song 1}}
+{{Loot|Shattered Ice Key 2}}
+{{Loot|Shattered Ice Key 3}}
+{{Loot|Shattered Ice Key 4}}
+{{Loot|Porkchop}}
+{{Span}}
+{{Loot|Milk Bucket}}
+{{Loot|Rabbit Foot}}
+{{Loot|Music Disc Strad}}
+{{Loot|Bug Candy}}
+{{Loot|Rock Candy}}
+{{Span}}
+{{Loot|Purple Juice}}
+{{Loot|Blue Juice}}
+{{Loot|Green Juice}}
+{{Loot|Pink Juice}}
+{{Loot|Basic Sweet Poke Puff}}
+{{Span}}
+{{Loot|Basic Mint Poke Puff}}
+{{Loot|Basic Citrus Poke Puff}}
+{{Loot|Basic Mocha Poke Puff}}
+{{Loot|Basic Spice Poke Puff}}
+{{Loot|Sun Flute}}
+{{Span}}
+{{Loot|Moon Flute}}
+{{Loot|N Solarizer}}
+{{Loot|N Lunarizer}}
+{{Loot|Melody Flute}}
+{{LootTm|Bug|15}}
+{{Span}}
+{{LootTm|Bug|21}}
+{{LootTm|Bug|60}}
+{{LootTm|Bug|95}}
+{{LootTm|Bug|105}}
+{{LootTm|Bug|131}}
+{{Span}}
+{{LootTm|Bug|162}}
+{{LootTm|Rock|36}}
+{{LootTm|Rock|51}}
+{{LootTm|Rock|76}}
+{{LootTm|Rock|86}}
+{{Span}}
+{{LootTm|Rock|101}}
+{{LootTm|Rock|116}}
+{{LootTm|Bug|105}}
+{{Loot|Dynite Ore}}

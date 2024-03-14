@@ -1,0 +1,100 @@
+{{Loot|Poke Ball}}
+{{Loot|Heavy Ball}}
+{{Loot|Heavy Duty Boots}}
+{{Loot|Hyper Potion}}
+{{Loot|Iron}}
+{{Span}}
+{{Loot|Iron Ball}}
+{{Loot|Dragon Soul}}
+{{Loot|Meteorite Shard}}
+{{Loot|Legend Plate}}
+{{Loot|Rock Gem}}
+{{Span}}
+{{Loot|Rocky Helmet}}
+{{Loot|Safety Goggles}}
+{{Loot|Sprink Lotad}}
+{{Loot|Steel Gem}}
+{{Loot|Sticky Barb}}
+{{Span}}
+{{Loot|Strange Souvenir}}
+{{Loot|Stretchy Spring}}
+{{Loot|Timer Ball}}
+{{Loot|Tough Candy Xl}}
+{{Loot|Upgrade}}
+{{Span}}
+{{Loot|Steel Candy}}
+{{Loot|Exp Candy Xl}}
+{{Loot|Tin Of Beans}}
+{{Loot|Smoked Poke Tail}}
+{{Loot|Large Leek}}
+{{Span}}
+{{Loot|Pack Of Potatoes}}
+{{Loot|Bottle Cap}}
+{{Loot|Eject Button}}
+{{Loot|Assault Vest}}
+{{Loot|Kings Rock}}
+{{Span}}
+{{Loot|Metal Powder}}
+{{Loot|Metronome}}
+{{Loot|Soothe Bell}}
+{{Loot|Babiri Berry}}
+{{Loot|Iron Plate}}
+{{Span}}
+{{Loot|Metal Coat}}
+{{Loot|Steel Memory Drive}}
+{{Loot|Enigma Berry}}
+{{Loot|Sitrus Berry}}
+{{Loot|Oran Berry}}
+{{Span}}
+{{Loot|Figy Berry}}
+{{Loot|Absorb Bulb}}
+{{Loot|Damp Rock}}
+{{Loot|Crumbled Rock Key 1}}
+{{Loot|Crumbled Rock Key 2}}
+{{Span}}
+{{Loot|Crumbled Rock Key 3}}
+{{Loot|Crumbled Rock Key 4}}
+{{Loot|Lustrous Globe}}
+{{Loot|Griseous Core}}
+{{Loot|Adamant Crystal}}
+{{Span}}
+{{Loot|Cascarrafa City Disc}}
+{{Loot|Slumbering Weald Disc}}
+{{Loot|Pokemon Center Disc}}
+{{Loot|Azalea Town Disc}}
+{{Loot|Lillie Disc}}
+{{Span}}
+{{Loot|Route 228 Disc}}
+{{Loot|Jubilife Village Disc}}
+{{Loot|Goldenrod City Disc}}
+{{Loot|Eterna City Disc}}
+{{Loot|Vermilion City Disc}}
+{{Span}}
+{{Loot|Eviolite}}
+{{Loot|Hard Stone}}
+{{Loot|Lucky Egg}}
+{{Loot|Power Anklet}}
+{{Loot|Power Band}}
+{{Span}}
+{{Loot|Power Belt}}
+{{Loot|Power Bracer}}
+{{Loot|Power Lens}}
+{{Loot|Power Weight}}
+{{Loot|Rocky Helmet}}
+{{Span}}
+{{Loot|Room Service}}
+{{Loot|Soft Sand}}
+{{Loot|Thick Club}}
+{{Loot|Wide Lens}}
+{{Loot|Dynite Ore}}
+{{Span}}
+{{Loot|Z Ingot}}
+{{LootTm|Steel|31}}
+{{LootTm|Steel|53}}
+{{LootTm|Steel|93}}
+{{LootTm|Dark|43}}
+{{Span}}
+{{LootTm|Steel|99}}
+{{LootTm|Steel|104}}
+{{LootTm|Steel|121}}
+{{LootTm|Steel|170}}

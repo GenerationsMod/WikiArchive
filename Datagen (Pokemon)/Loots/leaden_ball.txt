@@ -1,0 +1,111 @@
+{{Loot|Poke Ball}}
+{{Loot|Rusty Fragment}}
+{{Loot|Rusty Iron Key 1}}
+{{Loot|Rusty Iron Key 2}}
+{{Loot|Rusty Iron Key 3}}
+{{Span}}
+{{Loot|Rusty Iron Key 4}}
+{{Loot|Cerulean City Disc}}
+{{Loot|Icirrus City Disc}}
+{{Loot|Laverre City Disc}}
+{{Loot|Surf Disc}}
+{{Span}}
+{{Loot|Lake Of Rage Disc}}
+{{Loot|Penny Disc}}
+{{Loot|Nemona Disc}}
+{{Loot|Zinnia Disc}}
+{{Loot|Cynthia Disc}}
+{{Span}}
+{{Loot|Deoxys Disc}}
+{{Loot|Mirror}}
+{{Loot|Meteorite Shard}}
+{{Loot|Rock Gem}}
+{{Loot|Rocky Helmet}}
+{{Span}}
+{{Loot|Safety Goggles}}
+{{Loot|Sprink Lotad}}
+{{Loot|Steel Gem}}
+{{Loot|Air Balloon}}
+{{Loot|Babiri Berry}}
+{{Span}}
+{{Loot|Big Pearl}}
+{{Loot|Binding Band}}
+{{Loot|Chesto Berry}}
+{{Loot|Chilan Berry}}
+{{Loot|Choice Band}}
+{{Span}}
+{{Loot|Iron}}
+{{Loot|Iron Ball}}
+{{Loot|Item Drop}}
+{{Loot|Kee Berry}}
+{{Loot|Lagging Tail}}
+{{Span}}
+{{Loot|Lava Cookie}}
+{{Loot|Life Orb}}
+{{Loot|Macho Brace}}
+{{Loot|Magmarizer}}
+{{Loot|Maranga Berry}}
+{{Span}}
+{{Loot|Max Ether}}
+{{Loot|Metal Coat}}
+{{Loot|Fire Candy}}
+{{Loot|Rock Candy}}
+{{Loot|Steel Candy}}
+{{Span}}
+{{Loot|Brittle Bones}}
+{{Loot|Salad Mix}}
+{{Loot|Fried Food}}
+{{Loot|Moomoo Cheese}}
+{{Loot|Eject Pack}}
+{{Span}}
+{{Loot|Ganlon Berry}}
+{{Loot|Apicot Berry}}
+{{Loot|Kee Berry}}
+{{Loot|Maranga Berry}}
+{{Loot|Float Stone}}
+{{Span}}
+{{Loot|Focus Band}}
+{{Loot|Focus Sash}}
+{{Loot|Lagging Tail}}
+{{Loot|Grip Claw}}
+{{Loot|Deep Sea Tooth}}
+{{Span}}
+{{Loot|Metronome}}
+{{Loot|Ring Target}}
+{{Loot|Shed Shell}}
+{{Loot|Shell Bell}}
+{{Loot|Rock Incense}}
+{{Span}}
+{{Loot|Pure Incense}}
+{{Loot|Weakness Policy}}
+{{Loot|Zoom Lens}}
+{{Loot|Crystal}}
+{{Loot|Ruby}}
+{{Span}}
+{{Loot|Sapphire}}
+{{Loot|Silicon}}
+{{Loot|Exp Candy L}}
+{{LootTm|Fire|8}}
+{{LootTm|Fire|24}}
+{{Span}}
+{{LootTm|Fire|38}}
+{{LootTm|Fire|49}}
+{{LootTm|Fire|67}}
+{{LootTm|Fire|107}}
+{{LootTm|Fire|118}}
+{{Span}}
+{{LootTm|Fire|125}}
+{{LootTm|Fire|141}}
+{{LootTm|Fire|144}}
+{{LootTm|Fire|153}}
+{{LootTm|Fire|157}}
+{{Span}}
+{{LootTm|Fire|165}}
+{{LootTm|Rock|36}}
+{{LootTm|Rock|51}}
+{{LootTm|Rock|76}}
+{{LootTm|Rock|86}}
+{{Span}}
+{{LootTm|Rock|101}}
+{{LootTm|Rock|116}}
+{{LootTm|Rock|150}}
