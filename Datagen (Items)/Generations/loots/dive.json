@@ -1,423 +1,335 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "absorb bulb"
         },
         {
-
           "name": "beach glass"
         },
         {
-
           "name": "blue shard"
         },
         {
-
           "name": "damp rock"
         },
         {
-
           "name": "deep sea scale"
         },
         {
-
           "name": "deep sea tooth"
         },
         {
-
           "name": "dive ball"
         },
         {
-
           "name": "health candy"
         },
         {
-
           "name": "ice gem"
         },
         {
-
           "name": "ice heal"
         },
         {
-
           "name": "ice stone"
         },
         {
-
           "name": "icy rock"
         },
         {
-
           "name": "lansat berry"
         },
         {
-
           "name": "large leek"
         },
         {
-
           "name": "lax incense"
         },
         {
-
           "name": "leppa berry"
         },
         {
-
           "name": "level ball"
         },
         {
-
           "name": "light clay"
         },
         {
-
           "name": "lucky punch"
         },
         {
-
           "name": "lum berry"
         },
         {
-
           "name": "luminous moss"
         },
         {
-
           "name": "lumiose galette"
         },
         {
-
           "name": "lure"
         },
         {
-
           "name": "lure ball"
         },
         {
-
           "name": "luxury ball"
         },
         {
-
           "name": "mago berry"
         },
         {
-
           "name": "marble"
         },
         {
-
           "name": "max lure"
         },
         {
-
           "name": "max potion"
         },
         {
-
           "name": "mighty candy l"
         },
         {
-
           "name": "moon stone"
         },
         {
-
           "name": "mystic water"
         },
         {
-
           "name": "net ball"
         },
         {
-
           "name": "paralyze heal"
         },
         {
-
           "name": "pass orb"
         },
         {
-
           "name": "passho berry"
         },
         {
-
           "name": "persim berry"
         },
         {
-
           "name": "pinap berry"
         },
         {
-
           "name": "poke doll"
         },
         {
-
           "name": "potion"
         },
         {
-
           "name": "power belt"
         },
         {
-
           "name": "prism scale"
         },
         {
-
           "name": "pungent root"
         },
         {
-
           "name": "pure incense"
         },
         {
-
           "name": "rabuta berry"
         },
         {
-
           "name": "relic gold"
         },
         {
-
           "name": "sea incense"
         },
         {
-
           "name": "shoal salt"
         },
         {
-
           "name": "shoal shell"
         },
         {
-
           "name": "smoked poke tail"
         },
         {
-
           "name": "smooth rock"
         },
         {
-
           "name": "soft sand"
         },
         {
-
           "name": "sprink lotad"
         },
         {
-
           "name": "stretchy spring"
         },
         {
-
           "name": "super lure"
         },
         {
-
           "name": "tanga berry"
         },
         {
-
           "name": "tough candy xl"
         },
         {
-
           "name": "tropical shell"
         },
         {
-
           "name": "wacan berry"
         },
         {
-
           "name": "water gem"
         },
         {
-
           "name": "watmel berry"
         },
         {
-
           "name": "wave incense"
         },
         {
-
           "name": "yache berry"
         },
         {
-
-          "name": "minecraft:sponge"
+          "name": "sponge"
         },
         {
-
-          "name": "minecraft:prismarine"
+          "name": "prismarine"
         },
         {
-
-          "name": "minecraft:scute"
+          "name": "scute"
         },
         {
-
-          "name": "minecraft:ink sac"
+          "name": "ink sac"
         },
         {
-
-          "name": "minecraft:prismarine shard"
+          "name": "prismarine shard"
         },
         {
-
-          "name": "minecraft:prismarine crystals"
+          "name": "prismarine crystals"
         },
         {
-
-          "name": "minecraft:music disc blocks"
+          "name": "music disc blocks"
         },
         {
-
+          "name": "dynite ore"
+        },
+        {
           "name": "old rod"
         },
         {
-
           "name": "good rod"
         },
         {
-
           "name": "super rod"
         },
         {
-
           "name": "wailmer pail"
         },
         {
-
           "name": "lava crystal"
         },
         {
-
           "name": "adamant mint"
         },
         {
-
           "name": "naughty mint"
         },
         {
-
           "name": "bold mint"
         },
         {
-
           "name": "water memory drive"
         },
         {
-
           "name": "splash plate"
         },
         {
-
           "name": "pokemail air"
         },
         {
-
           "name": "pokemail bloom"
         },
         {
-
           "name": "pokemail brick"
         },
         {
-
           "name": "pokemail bridge d"
         },
         {
-
           "name": "pokemail bridge m"
         },
         {
-
           "name": "pokemail bridge s"
         },
         {
-
           "name": "pokemail bridge t"
         },
         {
-
           "name": "pokemail bridge v"
         },
         {
-
           "name": "water candy"
         },
         {
-
           "name": "shattered ice key 1"
         },
         {
-
           "name": "shattered ice key 2"
         },
         {
-
           "name": "shattered ice key 3"
         },
         {
-
           "name": "shattered ice key 4"
         },
         {
-
           "name": "tm 11"
         },
         {
-
           "name": "tm 22"
         },
         {
-
           "name": "tm 50"
         },
         {
-
           "name": "tm 77"
         },
         {
-
           "name": "tm 110"
         },
         {
-
           "name": "tm 123"
         },
         {
-
           "name": "tm 142"
         },
         {
-
           "name": "tm 145"
         },
         {
-
           "name": "tm 154"
+        },
+        {
+          "name": "tm 188"
+        },
+        {
+          "name": "tm 196"
+        },
+        {
+          "name": "tm 208"
+        },
+        {
+          "name": "tm 209"
         }
       ],
       "rolls": {
-        "type": "minecraft:uniform",
+        "type": "uniform",
         "max": 2.0,
         "min": 1.0
       }

@@ -1,367 +1,278 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "big malasada"
         },
         {
-
           "name": "big mushroom"
         },
         {
-
           "name": "black glasses"
         },
         {
-
           "name": "blue flute"
         },
         {
-
           "name": "bottle cap"
         },
         {
-
           "name": "carbos"
         },
         {
-
           "name": "casteliacone"
         },
         {
-
           "name": "chipped pot"
         },
         {
-
           "name": "cornn berry"
         },
         {
-
           "name": "dark gem"
         },
         {
-
           "name": "deep sea scale"
         },
         {
-
           "name": "destiny knot"
         },
         {
-
           "name": "dire hit 3"
         },
         {
-
           "name": "discount coupon"
         },
         {
-
           "name": "dragon gem"
         },
         {
-
           "name": "dragon scale"
         },
         {
-
           "name": "durin berry"
         },
         {
-
           "name": "dynamax candy"
         },
         {
-
           "name": "electric gem"
         },
         {
-
           "name": "exp candy l"
         },
         {
-
           "name": "fancy apple"
         },
         {
-
           "name": "fruit bunch"
         },
         {
-
           "name": "galarica wreath"
         },
         {
-
           "name": "guard spec"
         },
         {
-
           "name": "health candy xl"
         },
         {
-
           "name": "heart scale"
         },
         {
-
           "name": "elegant wing"
         },
         {
-
           "name": "iris disc"
         },
         {
-
           "name": "nessa disc"
         },
         {
-
           "name": "team rocket disc"
         },
         {
-
           "name": "sada and turo disc"
         },
         {
-
           "name": "south province disc"
         },
         {
-
           "name": "rival disc"
         },
         {
-
           "name": "lusamine disc"
         },
         {
-
           "name": "xy legendary disc"
         },
         {
-
           "name": "kanto disc"
         },
         {
-
           "name": "ultra necrozma disc"
         },
         {
-
           "name": "heavy ball"
         },
         {
-
           "name": "hi tech earbuds"
         },
         {
-
           "name": "ice gem"
         },
         {
-
           "name": "item drop"
         },
         {
-
           "name": "looker ticket"
         },
         {
-
           "name": "magost berry"
         },
         {
-
           "name": "moomoo milk"
         },
         {
-
           "name": "muscle band"
         },
         {
-
           "name": "normal gem"
         },
         {
-
           "name": "nugget"
         },
         {
-
           "name": "poison gem"
         },
         {
-
           "name": "pp up"
         },
         {
-
           "name": "premier ball"
         },
         {
-
           "name": "prism scale"
         },
         {
-
           "name": "protein"
         },
         {
-
           "name": "ribbon sweet"
         },
         {
-
           "name": "rindo berry"
         },
         {
-
           "name": "rocky helmet"
         },
         {
-
           "name": "rowap berry"
         },
         {
-
           "name": "scope lens"
         },
         {
-
           "name": "steel gem"
         },
         {
-
           "name": "tiny mushroom"
         },
         {
-
           "name": "ultra ball"
         },
         {
-
           "name": "utility umbrella"
         },
         {
-
           "name": "white herb"
         },
         {
-
           "name": "ghost candy"
         },
         {
-
           "name": "x attack 2"
         },
         {
-
-          "name": "minecraft:gold ingot"
+          "name": "gold ingot"
         },
         {
-
-          "name": "minecraft:ink sac"
+          "name": "ink sac"
         },
         {
-
-          "name": "minecraft:blaze powder"
+          "name": "blaze powder"
         },
         {
-
-          "name": "minecraft:quartz"
+          "name": "quartz"
         },
         {
-
-          "name": "minecraft:music disc stal"
+          "name": "music disc stal"
         },
         {
-
           "name": "exp charm"
         },
         {
-
           "name": "sparkling shard"
         },
         {
-
           "name": "electric memory drive"
         },
         {
-
           "name": "zap plate"
         },
         {
-
           "name": "tm 17"
         },
         {
-
           "name": "tm 29"
         },
         {
-
           "name": "tm 42"
         },
         {
-
           "name": "tm 61"
         },
         {
-
           "name": "tm 114"
         },
         {
-
           "name": "tm 151"
         },
         {
-
           "name": "tm 3"
         },
         {
-
           "name": "tm 18"
         },
         {
-
           "name": "tm 30"
         },
         {
-
           "name": "tm 43"
         },
         {
-
           "name": "tm 62"
         },
         {
-
           "name": "tm 87"
         },
         {
-
           "name": "tm 94"
         },
         {
-
           "name": "tm 108"
         },
         {
-
           "name": "tm 140"
         }
       ],
       "rolls": {
-        "type": "minecraft:uniform",
+        "type": "uniform",
         "max": 2.0,
         "min": 1.0
       }

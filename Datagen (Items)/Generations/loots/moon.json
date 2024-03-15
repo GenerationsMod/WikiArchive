@@ -1,467 +1,353 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "air balloon"
         },
         {
-
           "name": "beach glass"
         },
         {
-
           "name": "big pearl"
         },
         {
-
           "name": "blue scarf"
         },
         {
-
           "name": "bluk berry"
         },
         {
-
           "name": "calcium"
         },
         {
-
           "name": "carbos"
         },
         {
-
           "name": "casteliacone"
         },
         {
-
           "name": "chalky stone"
         },
         {
-
           "name": "charti berry"
         },
         {
-
           "name": "colbur berry"
         },
         {
-
           "name": "dawn stone"
         },
         {
-
           "name": "dusk stone"
         },
         {
-
           "name": "everstone"
         },
         {
-
           "name": "eviolite"
         },
         {
-
           "name": "exp candy m"
         },
         {
-
           "name": "fairy gem"
         },
         {
-
           "name": "friend ball"
         },
         {
-
           "name": "galarica twig"
         },
         {
-
           "name": "ganlon berry"
         },
         {
-
           "name": "ghost gem"
         },
         {
-
           "name": "green shard"
         },
         {
-
           "name": "ground gem"
         },
         {
-
           "name": "heavy ball"
         },
         {
-
           "name": "hi tech earbuds"
         },
         {
-
           "name": "hyper potion"
         },
         {
-
           "name": "icy rock"
         },
         {
-
           "name": "iron"
         },
         {
-
           "name": "item urge"
         },
         {
-
           "name": "kebia berry"
         },
         {
-
           "name": "kings rock"
         },
         {
-
           "name": "leppa berry"
         },
         {
-
           "name": "light clay"
         },
         {
-
           "name": "lure"
         },
         {
-
           "name": "lustrous orb"
         },
         {
-
           "name": "magnet"
         },
         {
-
           "name": "max ether"
         },
         {
-
           "name": "metal coat"
         },
         {
-
           "name": "metal powder"
         },
         {
-
           "name": "metronome"
         },
         {
-
           "name": "misty seed"
         },
         {
-
           "name": "moon ball"
         },
         {
-
           "name": "moon stone"
         },
         {
-
           "name": "never melt ice"
         },
         {
-
           "name": "payapa berry"
         },
         {
-
           "name": "poison gem"
         },
         {
-
           "name": "power weight"
         },
         {
-
           "name": "protector"
         },
         {
-
           "name": "psychic gem"
         },
         {
-
           "name": "quick candy l"
         },
         {
-
           "name": "reaper cloth"
         },
         {
-
           "name": "red scarf"
         },
         {
-
           "name": "red shard"
         },
         {
-
           "name": "relic vase"
         },
         {
-
           "name": "ring target"
         },
         {
-
           "name": "roseli berry"
         },
         {
-
           "name": "shiny stone"
         },
         {
-
           "name": "shoal shell"
         },
         {
-
           "name": "sitrus berry"
         },
         {
-
           "name": "small bouquet"
         },
         {
-
           "name": "smooth rock"
         },
         {
-
           "name": "spell tag"
         },
         {
-
           "name": "star piece"
         },
         {
-
           "name": "star sweet"
         },
         {
-
           "name": "stardust"
         },
         {
-
           "name": "steel gem"
         },
         {
-
           "name": "sun stone"
         },
         {
-
           "name": "thunder stone"
         },
         {
-
           "name": "tough candy l"
         },
         {
-
           "name": "water stone"
         },
         {
-
           "name": "wepear berry"
         },
         {
-
           "name": "wishing piece"
         },
         {
-
           "name": "x speed"
         },
         {
-
-          "name": "minecraft:purpur block"
+          "name": "purpur block"
         },
         {
-
-          "name": "minecraft:glowstone dust"
+          "name": "glowstone dust"
         },
         {
-
-          "name": "minecraft:nether wart"
+          "name": "nether wart"
         },
         {
-
-          "name": "minecraft:prismarine crystals"
+          "name": "prismarine crystals"
         },
         {
-
-          "name": "minecraft:crimson fungus"
+          "name": "crimson fungus"
         },
         {
-
-          "name": "minecraft:music disc 11"
+          "name": "music disc 11"
         },
         {
-
           "name": "wishing star"
         },
         {
-
-          "name": "minecraft:amethyst shard"
+          "name": "amethyst shard"
         },
         {
-
           "name": "ruby"
         },
         {
-
           "name": "mewtwo armor"
         },
         {
-
           "name": "meteorite shard"
         },
         {
-
           "name": "psychic memory drive"
         },
         {
-
           "name": "fairy memory drive"
         },
         {
-
           "name": "mind plate"
         },
         {
-
           "name": "pixie plate"
         },
         {
-
           "name": "psychic candy"
         },
         {
-
           "name": "fairy candy"
         },
         {
-
           "name": "tm 4"
         },
         {
-
           "name": "tm 16"
         },
         {
-
           "name": "tm 41"
         },
         {
-
           "name": "tm 54"
         },
         {
-
           "name": "tm 59"
         },
         {
-
           "name": "tm 63"
         },
         {
-
           "name": "tm 74"
         },
         {
-
           "name": "tm 75"
         },
         {
-
           "name": "tm 85"
         },
         {
-
           "name": "tm 92"
         },
         {
-
           "name": "tm 98"
         },
         {
-
           "name": "tm 109"
         },
         {
-
           "name": "tm 120"
         },
         {
-
           "name": "tm 128"
         },
         {
-
           "name": "tm 129"
         },
         {
-
           "name": "tm 138"
         },
         {
-
           "name": "tm 161"
         },
         {
-
           "name": "tm 2"
         },
         {
-
           "name": "tm 19"
         },
         {
-
           "name": "tm 37"
         },
         {
-
           "name": "tm 79"
         },
         {
-
           "name": "tm 127"
         },
         {
-
           "name": "tm 139"
         }
       ],
       "rolls": {
-        "type": "minecraft:uniform",
+        "type": "uniform",
         "max": 2.0,
         "min": 1.0
       }

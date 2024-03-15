@@ -1,447 +1,389 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "absorb bulb"
         },
         {
-
           "name": "adrenaline orb"
         },
         {
-
           "name": "awakening"
         },
         {
-
           "name": "balm mushroom"
         },
         {
-
           "name": "berry sweet"
         },
         {
-
           "name": "black belt"
         },
         {
-
           "name": "black sludge"
         },
         {
-
           "name": "iris disc"
         },
         {
-
           "name": "nessa disc"
         },
         {
-
           "name": "team rocket disc"
         },
         {
-
           "name": "sada and turo disc"
         },
         {
-
           "name": "south province disc"
         },
         {
-
           "name": "rival disc"
         },
         {
-
           "name": "lusamine disc"
         },
         {
-
           "name": "xy legendary disc"
         },
         {
-
           "name": "kanto disc"
         },
         {
-
           "name": "ultra necrozma disc"
         },
         {
-
           "name": "bluk berry"
         },
         {
-
           "name": "blunder policy"
         },
         {
-
           "name": "burn heal"
         },
         {
-
           "name": "calcium"
         },
         {
-
           "name": "cell battery"
         },
         {
-
-          "name": "charcoal"
+          "name": "charcoal stick"
         },
         {
-
           "name": "cheri berry"
         },
         {
-
           "name": "cheri berry"
         },
         {
-
           "name": "chipped pot"
         },
         {
-
           "name": "choice band"
         },
         {
-
           "name": "clover sweet"
         },
         {
-
           "name": "cornn berry"
         },
         {
-
           "name": "courage candy l"
         },
         {
-
           "name": "deep sea tooth"
         },
         {
-
           "name": "dire hit"
         },
         {
-
           "name": "dragon fang"
         },
         {
-
           "name": "dream ball"
         },
         {
-
           "name": "dusk ball"
         },
         {
-
           "name": "eject pack"
         },
         {
-
           "name": "exp candy l"
         },
         {
-
           "name": "expert belt"
         },
         {
-
           "name": "fast ball"
         },
         {
-
           "name": "flame orb"
         },
         {
-
           "name": "fruit bunch"
         },
         {
-
           "name": "full heal"
         },
         {
-
           "name": "full restore"
         },
         {
-
           "name": "fiery wing"
         },
         {
-
           "name": "ghost gem"
         },
         {
-
           "name": "grip claw"
         },
         {
-
           "name": "grubby hanky"
         },
         {
-
           "name": "heal ball"
         },
         {
-
           "name": "health candy xl"
         },
         {
-
           "name": "heavy duty boots"
         },
         {
-
           "name": "kee berry"
         },
         {
-
           "name": "kelpsy berry"
         },
         {
-
           "name": "looker ticket"
         },
         {
-
           "name": "magnet"
         },
         {
-
           "name": "max elixir"
         },
         {
-
           "name": "max revive"
         },
         {
-
           "name": "mighty candy xl"
         },
         {
-
           "name": "never melt ice"
         },
         {
-
           "name": "normal gem"
         },
         {
-
           "name": "permit"
         },
         {
-
           "name": "plasma card"
         },
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "power weight"
         },
         {
-
           "name": "pp up"
         },
         {
-
           "name": "rare candy"
         },
         {
-
           "name": "reset urge"
         },
         {
-
           "name": "roller skates"
         },
         {
-
           "name": "room service"
         },
         {
-
           "name": "shalour sable"
         },
         {
-
           "name": "sharp beak"
         },
         {
-
           "name": "soft sand"
         },
         {
-
           "name": "soul dew"
         },
         {
-
           "name": "stardust"
         },
         {
-
           "name": "super potion"
         },
         {
-
           "name": "throat spray"
         },
         {
-
           "name": "tough candy l"
         },
         {
-
           "name": "ultra ball"
         },
         {
-
           "name": "weakness policy"
         },
         {
-
           "name": "white flute"
         },
         {
-
           "name": "x accuracy 6"
         },
         {
-
           "name": "x special attack 6"
         },
         {
-
           "name": "x special defense 2"
         },
         {
-
-          "name": "minecraft:saddle"
+          "name": "saddle"
         },
         {
-
-          "name": "minecraft:leather"
+          "name": "leather"
         },
         {
-
-          "name": "minecraft:blaze powder"
+          "name": "blaze powder"
         },
         {
-
-          "name": "minecraft:music disc wait"
+          "name": "music disc wait"
         },
         {
-
           "name": "basic sweet poke puff"
         },
         {
-
           "name": "basic mint poke puff"
         },
         {
-
           "name": "basic citrus poke puff"
         },
         {
-
           "name": "basic mocha poke puff"
         },
         {
-
           "name": "basic spice poke puff"
         },
         {
-
-          "name": "minecraft:amethyst shard"
+          "name": "amethyst shard"
         },
         {
-
           "name": "ruby"
         },
         {
-
           "name": "pokemail orange"
         },
         {
-
           "name": "pokemail reply"
         },
         {
-
           "name": "pokemail retro"
         },
         {
-
           "name": "pokemail rsvp"
         },
         {
-
           "name": "pokemail shadow"
         },
         {
-
           "name": "pokemail snow"
         },
         {
-
           "name": "pokemail space"
         },
         {
-
           "name": "pokemail steel"
         },
         {
-
           "name": "pokemail thanks"
         },
         {
-
           "name": "pokemail tropic"
         },
         {
-
           "name": "pokemail tunnel"
         },
         {
-
           "name": "pokemail wave"
         },
         {
-
           "name": "pokemail wood"
         },
         {
-
           "name": "surprise mulch"
         },
         {
-
           "name": "growth mulch"
+        },
+        {
+          "name": "tm 173"
+        },
+        {
+          "name": "tm 210"
+        },
+        {
+          "name": "tm 211"
+        },
+        {
+          "name": "tm 188"
+        },
+        {
+          "name": "tm 196"
+        },
+        {
+          "name": "tm 208"
+        },
+        {
+          "name": "tm 209"
+        },
+        {
+          "name": "tm 197"
+        },
+        {
+          "name": "tm 216"
+        },
+        {
+          "name": "tm 181"
+        },
+        {
+          "name": "tm 199"
+        },
+        {
+          "name": "tm 221"
+        },
+        {
+          "name": "tm 175"
+        },
+        {
+          "name": "tm 214"
+        },
+        {
+          "name": "tm 200"
+        },
+        {
+          "name": "tm 222"
+        },
+        {
+          "name": "tm 226"
         }
       ],
       "rolls": {
-        "type": "minecraft:uniform",
+        "type": "uniform",
         "max": 3.0,
         "min": 1.0
       }

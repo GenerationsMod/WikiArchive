@@ -1,507 +1,395 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "absorb bulb"
         },
         {
-
           "name": "amulet coin"
         },
         {
-
           "name": "black belt"
         },
         {
-
           "name": "blue shard"
         },
         {
-
           "name": "bobs food tin"
         },
         {
-
           "name": "carbos"
         },
         {
-
           "name": "electirizer"
         },
         {
-
           "name": "ether"
         },
         {
-
           "name": "everstone"
         },
         {
-
           "name": "exp candy xl"
         },
         {
-
           "name": "exp share"
         },
         {
-
           "name": "fire stone"
         },
         {
-
           "name": "grass gem"
         },
         {
-
           "name": "grassy seed"
         },
         {
-
           "name": "hard stone"
         },
         {
-
           "name": "heat rock"
         },
         {
-
           "name": "heavy duty boots"
         },
         {
-
           "name": "hondew berry"
         },
         {
-
           "name": "icy rock"
         },
         {
-
           "name": "instant noodles"
         },
         {
-
           "name": "iron ball"
         },
         {
-
           "name": "item urge"
         },
         {
-
           "name": "kelpsy berry"
         },
         {
-
           "name": "lagging tail"
         },
         {
-
           "name": "lansat berry"
         },
         {
-
           "name": "large leek"
         },
         {
-
           "name": "leaf letter"
         },
         {
-
           "name": "level ball"
         },
         {
-
           "name": "lucky egg"
         },
         {
-
           "name": "lum berry"
         },
         {
-
           "name": "lure ball"
         },
         {
-
           "name": "magmarizer"
         },
         {
-
           "name": "max lure"
         },
         {
-
           "name": "metal coat"
         },
         {
-
           "name": "mighty candy xl"
         },
         {
-
           "name": "oran berry"
         },
         {
-
           "name": "oval stone"
         },
         {
-
           "name": "pasta"
         },
         {
-
           "name": "pearl string"
         },
         {
-
           "name": "power bracer"
         },
         {
-
           "name": "prism scale"
         },
         {
-
           "name": "protector"
         },
         {
-
           "name": "quick powder"
         },
         {
-
           "name": "rare candy"
         },
         {
-
           "name": "razor claw"
         },
         {
-
           "name": "razor fang"
         },
         {
-
           "name": "reaper cloth"
         },
         {
-
           "name": "ribbon sweet"
         },
         {
-
           "name": "rindo berry"
         },
         {
-
           "name": "rock gem"
         },
         {
-
           "name": "rock incense"
         },
         {
-
           "name": "sachet"
         },
         {
-
           "name": "safari ball"
         },
         {
-
           "name": "shiny stone"
         },
         {
-
           "name": "small bouquet"
         },
         {
-
           "name": "smart candy l"
         },
         {
-
           "name": "soothe bell"
         },
         {
-
           "name": "spell tag"
         },
         {
-
           "name": "spice mix"
         },
         {
-
           "name": "strawberry sweet"
         },
         {
-
           "name": "sun stone"
         },
         {
-
           "name": "sweet apple"
         },
         {
-
           "name": "static wing"
         },
         {
-
           "name": "tamato berry"
         },
         {
-
           "name": "tart apple"
         },
         {
-
           "name": "thick club"
         },
         {
-
           "name": "thunder stone"
         },
         {
-
           "name": "tough candy xl"
         },
         {
-
           "name": "ultra ball"
         },
         {
-
           "name": "upgrade"
         },
         {
-
           "name": "utility umbrella"
         },
         {
-
           "name": "water gem"
         },
         {
-
           "name": "water stone"
         },
         {
-
           "name": "whipped dream"
         },
         {
-
           "name": "zinc"
         },
         {
-
-          "name": "minecraft:gunpowder"
+          "name": "gunpowder"
         },
         {
-
-          "name": "minecraft:porkchop"
+          "name": "porkchop"
         },
         {
-
-          "name": "minecraft:slime ball"
+          "name": "slime ball"
         },
         {
-
-          "name": "minecraft:warped fungus"
+          "name": "warped fungus"
         },
         {
-
-          "name": "minecraft:music disc ward"
+          "name": "music disc ward"
         },
         {
-
           "name": "purple juice"
         },
         {
-
           "name": "red juice"
         },
         {
-
           "name": "yellow juice"
         },
         {
-
           "name": "blue juice"
         },
         {
-
           "name": "green juice"
         },
         {
-
           "name": "pink juice"
         },
         {
-
           "name": "exp charm"
         },
         {
-
           "name": "berry sweet"
         },
         {
-
           "name": "crumbled rock key 1"
         },
         {
-
           "name": "crumbled rock key 2"
         },
         {
-
           "name": "crumbled rock key 3"
         },
         {
-
           "name": "crumbled rock key 4"
         },
         {
-
           "name": "rockstar costume"
         },
         {
-
           "name": "belle costume"
         },
         {
-
           "name": "popstar costume"
         },
         {
-
           "name": "phd costume"
         },
         {
-
           "name": "libre costume"
         },
         {
-
           "name": "orb"
         },
         {
-
           "name": "rainbow wing"
         },
         {
-
           "name": "exp candy xs"
         },
         {
-
           "name": "exp candy s"
         },
         {
-
           "name": "exp candy m"
         },
         {
-
           "name": "exp candy l"
         },
         {
-
           "name": "exp candy xl"
         },
         {
-
           "name": "quiet mint"
         },
         {
-
           "name": "rash mint"
         },
         {
-
           "name": "mild mint"
         },
         {
-
           "name": "calm mint"
         },
         {
-
           "name": "fighting candy"
         },
         {
-
           "name": "tm 1"
         },
         {
-
           "name": "tm 6"
         },
         {
-
           "name": "tm 7"
         },
         {
-
           "name": "tm 25"
         },
         {
-
           "name": "tm 32"
         },
         {
-
           "name": "tm 47"
         },
         {
-
           "name": "tm 58"
         },
         {
-
           "name": "tm 64"
         },
         {
-
           "name": "tm 73"
         },
         {
-
           "name": "tm 89"
         },
         {
-
           "name": "tm 112"
         },
         {
-
           "name": "tm 134"
         },
         {
-
           "name": "tm 158"
         },
         {
-
           "name": "tm 167"
+        },
+        {
+          "name": "tm 190"
+        },
+        {
+          "name": "tm 194"
+        },
+        {
+          "name": "tm 206"
+        },
+        {
+          "name": "dynite ore"
         }
       ],
       "rolls": {
-        "type": "minecraft:uniform",
+        "type": "uniform",
         "max": 2.0,
         "min": 1.0
       }

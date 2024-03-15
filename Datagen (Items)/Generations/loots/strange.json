@@ -1,335 +1,286 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "surprise mulch"
         },
         {
-
           "name": "growth mulch"
         },
         {
-
           "name": "rich mulch"
         },
         {
-
           "name": "scroll page"
         },
         {
-
           "name": "rusty fragment"
         },
         {
-
           "name": "sparkling shard"
         },
         {
-
           "name": "hoopa ring"
         },
         {
-
           "name": "dragon soul"
         },
         {
-
           "name": "legend plate"
         },
         {
-
           "name": "ghost candy"
         },
         {
-
           "name": "lugia disc"
         },
         {
-
           "name": "lavender town disc"
         },
         {
-
           "name": "mt pyre disc"
         },
         {
-
           "name": "permit"
         },
         {
-
           "name": "plasma card"
         },
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "power weight"
         },
         {
-
           "name": "pp up"
         },
         {
-
           "name": "rare candy"
         },
         {
-
           "name": "reset urge"
         },
         {
-
           "name": "roller skates"
         },
         {
-
           "name": "room service"
         },
         {
-
           "name": "shalour sable"
         },
         {
-
           "name": "precooked burger"
         },
         {
-
           "name": "pungent root"
         },
         {
-
           "name": "orb"
         },
         {
-
           "name": "mixed mushrooms"
         },
         {
-
           "name": "gigantamix"
         },
         {
-
           "name": "z ingot"
         },
         {
-
           "name": "pokemail retro"
         },
         {
-
           "name": "pokemail rsvp"
         },
         {
-
           "name": "pokemail space"
         },
         {
-
           "name": "enigma berry"
         },
         {
-
           "name": "pomeg berry"
         },
         {
-
           "name": "yache berry"
         },
         {
-
           "name": "hondew berry"
         },
         {
-
           "name": "rockstar costume"
         },
         {
-
           "name": "belle costume"
         },
         {
-
           "name": "popstar costume"
         },
         {
-
           "name": "phd costume"
         },
         {
-
           "name": "libre costume"
         },
         {
-
           "name": "mewtwo armor"
         },
         {
-
           "name": "rotom catalog"
         },
         {
-
           "name": "pink nectar"
         },
         {
-
           "name": "purple nectar"
         },
         {
-
           "name": "red nectar"
         },
         {
-
           "name": "yellow nectar"
         },
         {
-
           "name": "old rod"
         },
         {
-
           "name": "good rod"
         },
         {
-
           "name": "super rod"
         },
         {
-
           "name": "wailmer pail"
         },
         {
-
           "name": "sprink lotad"
         },
         {
-
           "name": "repel"
         },
         {
-
           "name": "super repel"
         },
         {
-
           "name": "max repel"
         },
         {
-
           "name": "camera"
         },
         {
-
           "name": "film"
         },
         {
-
           "name": "snap camera"
         },
         {
-
           "name": "full incense"
         },
         {
-
           "name": "lax incense"
         },
         {
-
           "name": "odd incense"
         },
         {
-
           "name": "pure incense"
         },
         {
-
           "name": "rock incense"
         },
         {
-
           "name": "rose incense"
         },
         {
-
           "name": "sea incense"
         },
         {
-
           "name": "wave incense"
         },
         {
-
           "name": "tm 17"
         },
         {
-
           "name": "tm 29"
         },
         {
-
           "name": "tm 42"
         },
         {
-
           "name": "tm 61"
         },
         {
-
           "name": "tm 114"
         },
         {
-
           "name": "tm 151"
         },
         {
-
           "name": "tm 3"
         },
         {
-
           "name": "tm 18"
         },
         {
-
           "name": "tm 30"
         },
         {
-
           "name": "tm 43"
         },
         {
-
           "name": "tm 62"
         },
         {
-
           "name": "tm 87"
         },
         {
-
           "name": "tm 94"
         },
         {
-
           "name": "tm 108"
         },
         {
-
           "name": "tm 140"
+        },
+        {
+          "name": "tm 189"
+        },
+        {
+          "name": "tm 195"
+        },
+        {
+          "name": "tm 207"
+        },
+        {
+          "name": "totem of undying"
+        },
+        {
+          "name": "enigma fragment"
+        },
+        {
+          "name": "mew fossil"
+        },
+        {
+          "name": "tm 175"
+        },
+        {
+          "name": "tm 214"
+        },
+        {
+          "name": "tm 200"
+        },
+        {
+          "name": "tm 222"
+        },
+        {
+          "name": "tm 226"
         }
       ],
       "rolls": 1.0

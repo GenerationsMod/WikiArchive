@@ -1,387 +1,329 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "aguav berry"
         },
         {
-
           "name": "air balloon"
         },
         {
-
           "name": "antidote"
         },
         {
-
           "name": "apicot berry"
         },
         {
-
           "name": "aspear berry"
         },
         {
-
           "name": "babiri berry"
         },
         {
-
           "name": "bachs food tin"
         },
         {
-
           "name": "bobs food tin"
         },
         {
-
           "name": "boiled egg"
         },
         {
-
           "name": "bread"
         },
         {
-
           "name": "burn heal"
         },
         {
-
           "name": "cell battery"
         },
         {
-
           "name": "charti berry"
         },
         {
-
           "name": "chesto berry"
         },
         {
-
           "name": "custap berry"
         },
         {
-
           "name": "dire hit"
         },
         {
-
           "name": "elixir"
         },
         {
-
           "name": "energy powder"
         },
         {
-
           "name": "energy root"
         },
         {
-
           "name": "escape rope"
         },
         {
-
           "name": "float stone"
         },
         {
-
           "name": "fluffy tail"
         },
         {
-
           "name": "focus band"
         },
         {
-
           "name": "friend ball"
         },
         {
-
           "name": "galarica cuff"
         },
         {
-
           "name": "great ball"
         },
         {
-
           "name": "guard spec"
         },
         {
-
           "name": "heal powder"
         },
         {
-
           "name": "health candy"
         },
         {
-
           "name": "iapapa berry"
         },
         {
-
           "name": "instant noodles"
         },
         {
-
           "name": "level ball"
         },
         {
-
           "name": "love ball"
         },
         {
-
           "name": "lure ball"
         },
         {
-
           "name": "maranga berry"
         },
         {
-
           "name": "metal powder"
         },
         {
-
           "name": "micle berry"
         },
         {
-
           "name": "moomoo cheese"
         },
         {
-
           "name": "oran berry"
         },
         {
-
           "name": "packaged curry"
         },
         {
-
           "name": "petaya berry"
         },
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "precooked burger"
         },
         {
-
           "name": "pretty feather"
         },
         {
-
           "name": "qualot berry"
         },
         {
-
           "name": "quick candy"
         },
         {
-
           "name": "repeat ball"
         },
         {
-
           "name": "rotom catalog"
         },
         {
-
           "name": "repel"
         },
         {
-
           "name": "shed shell"
         },
         {
-
           "name": "smart candy"
         },
         {
-
           "name": "smoke ball"
         },
         {
-
           "name": "timer ball"
         },
         {
-
           "name": "tiny mushroom"
         },
         {
-
           "name": "tough candy"
         },
         {
-
           "name": "x attack"
         },
         {
-
           "name": "x special attack 3"
         },
         {
-
           "name": "black apricorn"
         },
         {
-
           "name": "blue apricorn"
         },
         {
-
           "name": "green apricorn"
         },
         {
-
           "name": "pink apricorn"
         },
         {
-
           "name": "red apricorn"
         },
         {
-
           "name": "white apricorn"
         },
         {
-
           "name": "yellow apricorn"
         },
         {
-
-          "name": "minecraft:iron ingot"
+          "name": "iron ingot"
         },
         {
-
-          "name": "minecraft:leather"
+          "name": "leather"
         },
         {
-
-          "name": "minecraft:ink sac"
+          "name": "ink sac"
         },
         {
-
-          "name": "minecraft:music disc 13"
+          "name": "music disc 13"
         },
         {
-
           "name": "film"
         },
         {
-
           "name": "camera"
         },
         {
-
           "name": "crystal"
         },
         {
-
           "name": "sapphire"
         },
         {
-
           "name": "silicon"
         },
         {
-
           "name": "rusty iron key 2"
         },
         {
-
           "name": "shattered ice key 2"
         },
         {
-
           "name": "crumbled rock key 2"
         },
         {
-
           "name": "fragmented drago key 2"
         },
         {
-
           "name": "discharged eleki key 2"
         },
         {
-
           "name": "shattered relic song 2"
         },
         {
-
           "name": "exp candy xs"
         },
         {
-
           "name": "pokemail orange"
         },
         {
-
           "name": "pokemail reply"
         },
         {
-
           "name": "pokemail retro"
         },
         {
-
           "name": "pokemail rsvp"
         },
         {
-
           "name": "pokemail shadow"
         },
         {
-
           "name": "pokemail snow"
         },
         {
-
           "name": "pokemail space"
         },
         {
-
           "name": "pokemail steel"
         },
         {
-
           "name": "pokemail thanks"
         },
         {
-
           "name": "pokemail tropic"
         },
         {
-
           "name": "pokemail tunnel"
         },
         {
-
           "name": "pokemail wave"
         },
         {
-
           "name": "pokemail wood"
+        },
+        {
+          "name": "dynite ore"
+        },
+        {
+          "name": "tm 172"
+        },
+        {
+          "name": "tm 183"
+        },
+        {
+          "name": "tm 191"
+        },
+        {
+          "name": "tm 193"
+        },
+        {
+          "name": "tm 202"
+        },
+        {
+          "name": "tm 203"
+        },
+        {
+          "name": "tm 204"
+        },
+        {
+          "name": "tm 205"
+        },
+        {
+          "name": "tm 182"
+        },
+        {
+          "name": "tm 185"
+        },
+        {
+          "name": "tm 219"
         }
       ],
       "rolls": {
-        "type": "minecraft:uniform",
+        "type": "uniform",
         "max": 3.0,
         "min": 1.0
       }

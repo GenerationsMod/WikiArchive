@@ -1,423 +1,323 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "adrenaline orb"
         },
         {
-
           "name": "babiri berry"
         },
         {
-
           "name": "big root"
         },
         {
-
           "name": "blue shard"
         },
         {
-
           "name": "bluk berry"
         },
         {
-
           "name": "bobs food tin"
         },
         {
-
-          "name": "charcoal"
+          "name": "charcoal stick"
         },
         {
-
           "name": "charti berry"
         },
         {
-
           "name": "cleanse tag"
         },
         {
-
           "name": "coba berry"
         },
         {
-
           "name": "exp candy xs"
         },
         {
-
           "name": "green shard"
         },
         {
-
           "name": "growth mulch"
         },
         {
-
           "name": "heat rock"
         },
         {
-
           "name": "honey"
         },
         {
-
           "name": "ice heal"
         },
         {
-
           "name": "jaboca berry"
         },
         {
-
           "name": "kasib berry"
         },
         {
-
           "name": "kebia berry"
         },
         {
-
           "name": "lagging tail"
         },
         {
-
           "name": "lax incense"
         },
         {
-
           "name": "leaf letter"
         },
         {
-
           "name": "lemonade"
         },
         {
-
           "name": "lone earring"
         },
         {
-
           "name": "luck incense"
         },
         {
-
           "name": "lucky punch"
         },
         {
-
           "name": "lure"
         },
         {
-
           "name": "lure ball"
         },
         {
-
           "name": "mago berry"
         },
         {
-
           "name": "max lure"
         },
         {
-
           "name": "max repel"
         },
         {
-
           "name": "metal powder"
         },
         {
-
           "name": "old gateau"
         },
         {
-
           "name": "pamtre berry"
         },
         {
-
           "name": "pass orb"
         },
         {
-
           "name": "pasta"
         },
         {
-
           "name": "pinap berry"
         },
         {
-
           "name": "poke doll"
         },
         {
-
           "name": "poke toy"
         },
         {
-
           "name": "power herb"
         },
         {
-
           "name": "power plant pass"
         },
         {
-
           "name": "pure incense"
         },
         {
-
           "name": "purple nectar"
         },
         {
-
           "name": "rawst berry"
         },
         {
-
           "name": "red card"
         },
         {
-
           "name": "repel"
         },
         {
-
           "name": "rock incense"
         },
         {
-
           "name": "rocky helmet"
         },
         {
-
           "name": "rose incense"
         },
         {
-
           "name": "rowap berry"
         },
         {
-
           "name": "salad mix"
         },
         {
-
           "name": "sea incense"
         },
         {
-
           "name": "smoke ball"
         },
         {
-
           "name": "spelon berry"
         },
         {
-
           "name": "sprink lotad"
         },
         {
-
           "name": "starf berry"
         },
         {
-
           "name": "super lure"
         },
         {
-
           "name": "super repel"
         },
         {
-
           "name": "sweet heart"
         },
         {
-
           "name": "tiny mushroom"
         },
         {
-
           "name": "tough candy l"
         },
         {
-
           "name": "wacan berry"
         },
         {
-
           "name": "wave incense"
         },
         {
-
           "name": "x accuracy 3"
         },
         {
-
           "name": "x speed 2"
         },
         {
-
-          "name": "minecraft:prismarine"
+          "name": "prismarine"
         },
         {
-
-          "name": "minecraft:feather"
+          "name": "feather"
         },
         {
-
-          "name": "minecraft:bone"
+          "name": "bone"
         },
         {
-
-          "name": "minecraft:ghast tear"
+          "name": "ghast tear"
         },
         {
-
-          "name": "minecraft:prismarine crystals"
+          "name": "z ingot"
         },
         {
-
-          "name": "minecraft:music disc chirp"
+          "name": "prismarine crystals"
         },
         {
-
+          "name": "music disc chirp"
+        },
+        {
           "name": "mark charm"
         },
         {
-
           "name": "film"
         },
         {
-
           "name": "camera"
         },
         {
-
           "name": "wailmer pail"
         },
         {
-
           "name": "rusty iron key 1"
         },
         {
-
           "name": "rusty iron key 2"
         },
         {
-
           "name": "rusty iron key 3"
         },
         {
-
           "name": "rusty iron key 4"
         },
         {
-
           "name": "exp candy s"
         },
         {
-
           "name": "grass candy"
         },
         {
-
           "name": "tm 20"
         },
         {
-
           "name": "tm 33"
         },
         {
-
           "name": "tm 56"
         },
         {
-
           "name": "tm 71"
         },
         {
-
           "name": "tm 81"
         },
         {
-
           "name": "tm 111"
         },
         {
-
           "name": "tm 119"
         },
         {
-
           "name": "tm 137"
         },
         {
-
           "name": "tm 146"
         },
         {
-
           "name": "tm 155"
         },
         {
-
           "name": "tm 159"
         },
         {
-
           "name": "tm 168"
         },
         {
-
           "name": "tm 5"
         },
         {
-
           "name": "tm 28"
         },
         {
-
           "name": "tm 35"
         },
         {
-
           "name": "tm 55"
         },
         {
-
           "name": "tm 84"
         },
         {
-
           "name": "tm 90"
         },
         {
-
           "name": "tm 106"
         },
         {
-
           "name": "tm 133"
         },
         {
-
           "name": "tm 149"
         }
       ],
       "rolls": {
-        "type": "minecraft:uniform",
+        "type": "uniform",
         "max": 2.0,
         "min": 1.0
       }

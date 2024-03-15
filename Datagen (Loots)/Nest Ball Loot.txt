@@ -1,0 +1,129 @@
+{{Pokeloot Table|Nest|max=2}}
+{{Loot|Poke Ball}}
+{{Loot|Bug Gem}}
+{{Loot|Choice Specs}}
+{{Loot|Cleanse Tag}}
+{{Loot|Clever Feather}}
+{{Span}}
+{{Loot|Coba Berry}}
+{{Loot|Courage Candy L}}
+{{Loot|Dire Hit 2}}
+{{Loot|Exp Candy S}}
+{{Loot|Fluffy Tail}}
+{{Span}}
+{{Loot|Flying Gem}}
+{{Loot|Fruit Bunch}}
+{{Loot|Galarica Twig}}
+{{Loot|Genius Feather}}
+{{Loot|Grassy Seed}}
+{{Span}}
+{{Loot|Grepa Berry}}
+{{Loot|Haban Berry}}
+{{Loot|Health Feather}}
+{{Loot|Kebia Berry}}
+{{Loot|Leaf Stone}}
+{{Span}}
+{{Loot|Leek}}
+{{Loot|Liechi Berry}}
+{{Loot|Lum Berry}}
+{{Loot|Mental Herb}}
+{{Loot|Mighty Candy Xl}}
+{{Span}}
+{{Loot|Mixed Mushrooms}}
+{{Loot|Muscle Feather}}
+{{Loot|Nanab Berry}}
+{{Loot|Nest Ball}}
+{{Loot|Packaged Curry}}
+{{Span}}
+{{Loot|Pearl String}}
+{{Loot|Pink Nectar}}
+{{Loot|Poison Barb}}
+{{Loot|Poke Toy}}
+{{Loot|Power Herb}}
+{{Span}}
+{{Loot|Pretty Feather}}
+{{Loot|Purple Nectar}}
+{{Loot|Repeat Ball}}
+{{Loot|Resist Feather}}
+{{Loot|Salad Mix}}
+{{Span}}
+{{Loot|Sharp Beak}}
+{{Loot|Silver Leaf}}
+{{Loot|Super Repel}}
+{{Loot|Sweet Apple}}
+{{Loot|Swift Feather}}
+{{Span}}
+{{Loot|White Herb}}
+{{Loot|Wiki Berry}}
+{{Loot|X Accuracy}}
+{{Loot|X Attack 2}}
+{{Loot|X Defence}}
+{{Span}}
+{{Loot|X Special Attack}}
+{{Loot|X Special Defence}}
+{{Loot|Cobweb}}
+{{Loot|Feather}}
+{{Loot|Music Disc 11}}
+{{Span}}
+{{Loot|Cerulean City Disc}}
+{{Loot|Icirrus City Disc}}
+{{Loot|Laverre City Disc}}
+{{Loot|Surf Disc}}
+{{Loot|Lake Of Rage Disc}}
+{{Span}}
+{{Loot|Penny Disc}}
+{{Loot|Nemona Disc}}
+{{Loot|Zinnia Disc}}
+{{Loot|Cynthia Disc}}
+{{Loot|Deoxys Disc}}
+{{Span}}
+{{Loot|Crystal}}
+{{Loot|Sapphire}}
+{{Loot|Silicon}}
+{{Loot|Flying Memory Drive}}
+{{Loot|Sky Plate}}
+{{Span}}
+{{Loot|Pokemail Orange}}
+{{Loot|Pokemail Reply}}
+{{Loot|Pokemail Retro}}
+{{Loot|Pokemail Rsvp}}
+{{Loot|Pokemail Shadow}}
+{{Span}}
+{{Loot|Pokemail Snow}}
+{{Loot|Pokemail Space}}
+{{Loot|Pokemail Steel}}
+{{Loot|Pokemail Thanks}}
+{{Loot|Pokemail Tropic}}
+{{Span}}
+{{Loot|Pokemail Tunnel}}
+{{Loot|Pokemail Wave}}
+{{Loot|Pokemail Wood}}
+{{Loot|Flying Candy}}
+{{Loot|Bug Candy}}
+{{Span}}
+{{LootTm|Flying|14}}
+{{LootTm|Flying|27}}
+{{LootTm|Flying|40}}
+{{LootTm|Flying|65}}
+{{LootTm|Flying|97}}
+{{Span}}
+{{LootTm|Bug|105}}
+{{LootTm|Grass|190}}
+{{LootTm|Grass|194}}
+{{LootTm|Grass|206}}
+{{LootTm|Bug|131}}
+{{Span}}
+{{LootTm|Bug|162}}
+{{LootTm|Rock|179}}
+{{LootTm|Rock|220}}
+{{LootTm|Fighting|184}}
+{{LootTm|Fighting|192}}
+{{Span}}
+{{LootTm|Fighting|213}}
+{{LootTm|Fighting|229}}
+{{Loot}}
+{{Loot}}
+{{Loot}}
+{{Pokeloot Table Bottom
+|locations=
+|Mostly found in the wild and [[structures]]. Exact data is expected to be added to these pages soon.}}

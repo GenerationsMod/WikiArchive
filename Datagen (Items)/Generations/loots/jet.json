@@ -1,379 +1,296 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "coba berry"
         },
         {
-
           "name": "flying gem"
         },
         {
-
           "name": "flying memory drive"
         },
         {
-
           "name": "sharp beak"
         },
         {
-
           "name": "iron ball"
         },
         {
-
           "name": "sky plate"
         },
         {
-
           "name": "clever feather"
         },
         {
-
           "name": "genius feather"
         },
         {
-
           "name": "health feather"
         },
         {
-
           "name": "muscle feather"
         },
         {
-
           "name": "pretty feather"
         },
         {
-
           "name": "resist feather"
         },
         {
-
           "name": "swift feather"
         },
         {
-
           "name": "eject pack"
         },
         {
-
           "name": "cell battery"
         },
         {
-
           "name": "eject button"
         },
         {
-
           "name": "miracle seed"
         },
         {
-
           "name": "light ball"
         },
         {
-
           "name": "power herb"
         },
         {
-
           "name": "mental herb"
         },
         {
-
           "name": "mirror herb"
         },
         {
-
           "name": "white herb"
         },
         {
-
           "name": "silk scarf"
         },
         {
-
           "name": "max potion"
         },
         {
-
           "name": "max repel"
         },
         {
-
           "name": "metal powder"
         },
         {
-
           "name": "metronome"
         },
         {
-
           "name": "nanab berry"
         },
         {
-
           "name": "pomeg berry"
         },
         {
-
           "name": "power anklet"
         },
         {
-
           "name": "power band"
         },
         {
-
           "name": "precooked burger"
         },
         {
-
           "name": "premier ball"
         },
         {
-
           "name": "protector"
         },
         {
-
           "name": "quick ball"
         },
         {
-
           "name": "chesto berry"
         },
         {
-
           "name": "choice scarf"
         },
         {
-
           "name": "terrain extender"
         },
         {
-
           "name": "awakening"
         },
         {
-
           "name": "energy root"
         },
         {
-
           "name": "heal powder"
         },
         {
-
           "name": "courage candy"
         },
         {
-
           "name": "quick candy"
         },
         {
-
           "name": "lemonade"
         },
         {
-
           "name": "paralyze heal"
         },
         {
-
           "name": "zinc"
         },
         {
-
           "name": "relic silver"
         },
         {
-
           "name": "relic copper"
         },
         {
-
           "name": "relic gold"
         },
         {
-
           "name": "odd keystone"
         },
         {
-
           "name": "pokemail bridge d"
         },
         {
-
           "name": "pokemail bridge m"
         },
         {
-
           "name": "pokemail bridge s"
         },
         {
-
           "name": "pokemail bridge t"
         },
         {
-
           "name": "pokemail bridge v"
         },
         {
-
           "name": "flying candy"
         },
         {
-
           "name": "health candy xl"
         },
         {
-
           "name": "honey"
         },
         {
-
           "name": "leek"
         },
         {
-
+          "name": "enigma fragment"
+        },
+        {
           "name": "leftovers"
         },
         {
-
           "name": "cascarrafa city disc"
         },
         {
-
           "name": "slumbering weald disc"
         },
         {
-
           "name": "pokemon center disc"
         },
         {
-
           "name": "azalea town disc"
         },
         {
-
           "name": "lillie disc"
         },
         {
-
           "name": "route 228 disc"
         },
         {
-
           "name": "jubilife village disc"
         },
         {
-
           "name": "goldenrod city disc"
         },
         {
-
           "name": "eterna city disc"
         },
         {
-
           "name": "vermilion city disc"
         },
         {
-
           "name": "lone earring"
         },
         {
-
           "name": "lustrous orb"
         },
         {
-
           "name": "bread"
         },
         {
-
           "name": "pasta"
         },
         {
-
           "name": "fancy apple"
         },
         {
-
           "name": "spice mix"
         },
         {
-
           "name": "packaged curry"
         },
         {
-
           "name": "x speed 6"
         },
         {
-
           "name": "x accuracy"
         },
         {
-
           "name": "x attack 3"
         },
         {
-
           "name": "exp candy m"
         },
         {
-
           "name": "exp candy xs"
         },
         {
-
           "name": "orb"
         },
         {
-
           "name": "tm 14"
         },
         {
-
           "name": "tm 27"
         },
         {
-
           "name": "tm 40"
         },
         {
-
           "name": "tm 65"
         },
         {
-
           "name": "tm 97"
         },
         {
-
           "name": "tm 113"
         },
         {
-
           "name": "tm 160"
         },
         {
-
           "name": "tm 164"
+        },
+        {
+          "name": "tm 197"
+        },
+        {
+          "name": "tm 216"
         }
       ],
       "rolls": {
-        "type": "minecraft:uniform",
+        "type": "uniform",
         "max": 2.0,
         "min": 1.0
       }

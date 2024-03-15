@@ -1,0 +1,111 @@
+{{Pokeloot Table|Heal|max=2}}
+{{Loot|Poke Ball}}
+{{Loot|Aguav Berry}}
+{{Loot|Antidote}}
+{{Loot|Aspear Berry}}
+{{Loot|Awakening}}
+{{Span}}
+{{Loot|Berry Juice}}
+{{Loot|Big Root}}
+{{Loot|Black Sludge}}
+{{Loot|Blue Scarf}}
+{{Loot|Brittle Bones}}
+{{Span}}
+{{Loot|Burn Heal}}
+{{Loot|Casteliacone}}
+{{Loot|Cheri Berry}}
+{{Loot|Chesto Berry}}
+{{Loot|Cleanse Tag}}
+{{Span}}
+{{Loot|Coconut Milk}}
+{{Loot|Courage Candy}}
+{{Loot|Custap Berry}}
+{{Loot|Dream Ball}}
+{{Loot|Eject Pack}}
+{{Span}}
+{{Loot|Elixir}}
+{{Loot|Energy Powder}}
+{{Loot|Enigma Berry}}
+{{Loot|Figy Berry}}
+{{Loot|Fresh Water}}
+{{Span}}
+{{Loot|Full Heal}}
+{{Loot|Full Restore}}
+{{Loot|Great Ball}}
+{{Loot|Guard Spec}}
+{{Loot|Heal Ball}}
+{{Span}}
+{{Loot|Heal Powder}}
+{{Loot|Hp Up}}
+{{Loot|Hyper Potion}}
+{{Loot|Ice Heal}}
+{{Loot|Lansat Berry}}
+{{Span}}
+{{Loot|Lemonade}}
+{{Loot|Leppa Berry}}
+{{Loot|Lum Berry}}
+{{Loot|Mago Berry}}
+{{Loot|Max Potion}}
+{{Span}}
+{{Loot|Max Revive}}
+{{Loot|Moomoo Milk}}
+{{Loot|Old Gateau}}
+{{Loot|Paralyze Heal}}
+{{Loot|Pinap Berry}}
+{{Span}}
+{{Loot|Purple Nectar}}
+{{Loot|Rage Candy Bar}}
+{{Loot|Revive}}
+{{Loot|Salac Berry}}
+{{Loot|Shalour Sable}}
+{{Span}}
+{{Loot|Shed Shell}}
+{{Loot|Soda Pop}}
+{{Loot|Super Potion}}
+{{Loot|Tamato Berry}}
+{{Loot|Poison Candy}}
+{{Span}}
+{{Loot|Fairy Candy}}
+{{Loot|X Special Defense 2}}
+{{Loot|X Speed 2}}
+{{Loot|Milk Bucket}}
+{{Loot|Music Disc Mellohi}}
+{{Span}}
+{{Loot|Totem Of Undying}}
+{{Loot|Hoopa Ring}}
+{{Loot|Gracidea}}
+{{Loot|Exp Candy S}}
+{{Loot|Cascarrafa City Disc}}
+{{Span}}
+{{Loot|Slumbering Weald Disc}}
+{{Loot|Pokemon Center Disc}}
+{{Loot|Azalea Town Disc}}
+{{Loot|Lillie Disc}}
+{{Loot|Route 228 Disc}}
+{{Span}}
+{{Loot|Jubilife Village Disc}}
+{{Loot|Goldenrod City Disc}}
+{{Loot|Eterna City Disc}}
+{{Loot|Vermilion City Disc}}
+{{LootTm|Poison|13}}
+{{Span}}
+{{LootTm|Poison|26}}
+{{LootTm|Poison|45}}
+{{LootTm|Poison|83}}
+{{LootTm|Poison|91}}
+{{LootTm|Poison|102}}
+{{Span}}
+{{LootTm|Poison|148}}
+{{LootTm|Fairy|2}}
+{{LootTm|Fairy|19}}
+{{LootTm|Fairy|37}}
+{{LootTm|Fairy|79}}
+{{Span}}
+{{LootTm|Fairy|127}}
+{{LootTm|Fairy|139}}
+{{LootTm|Fairy|201}}
+{{LootTm|Fairy|227}}
+{{Loot}}
+{{Pokeloot Table Bottom
+|locations=
+|Mostly found in the wild and [[structures]]. Exact data is expected to be added to these pages soon.}}

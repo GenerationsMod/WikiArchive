@@ -1,523 +1,398 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "awakening"
         },
         {
-
           "name": "big root"
         },
         {
-
           "name": "cell battery"
         },
         {
-
           "name": "chalky stone"
         },
         {
-
           "name": "chesto berry"
         },
         {
-
           "name": "clover sweet"
         },
         {
-
           "name": "courage candy"
         },
         {
-
           "name": "cracked pot"
         },
         {
-
           "name": "dragon gem"
         },
         {
-
           "name": "dream ball"
         },
         {
-
           "name": "dusk ball"
         },
         {
-
           "name": "exp candy l"
         },
         {
-
           "name": "fairy gem"
         },
         {
-
           "name": "fresh cream"
         },
         {
-
           "name": "fried food"
         },
         {
-
           "name": "iapapa berry"
         },
         {
-
           "name": "kebia berry"
         },
         {
-
           "name": "large leek"
         },
         {
-
           "name": "leek"
         },
         {
-
           "name": "lemonade"
         },
         {
-
           "name": "light ball"
         },
         {
-
           "name": "looker ticket"
         },
         {
-
           "name": "marble"
         },
         {
-
           "name": "mystic water"
         },
         {
-
           "name": "normal gem"
         },
         {
-
           "name": "odd incense"
         },
         {
-
           "name": "odd keystone"
         },
         {
-
           "name": "paralyze heal"
         },
         {
-
           "name": "payapa berry"
         },
         {
-
           "name": "persim berry"
         },
         {
-
           "name": "poison gem"
         },
         {
-
           "name": "polished mud ball"
         },
         {
-
           "name": "power lens"
         },
         {
-
           "name": "psychic gem"
         },
         {
-
           "name": "rage candy bar"
         },
         {
-
           "name": "razor claw"
         },
         {
-
           "name": "razor fang"
         },
         {
-
           "name": "red card"
         },
         {
-
           "name": "red nectar"
         },
         {
-
           "name": "red scarf"
         },
         {
-
           "name": "red shard"
         },
         {
-
           "name": "relic band"
         },
         {
-
           "name": "icy wing"
         },
         {
-
           "name": "room service"
         },
         {
-
           "name": "roseli berry"
         },
         {
-
           "name": "scope lens"
         },
         {
-
           "name": "silk scarf"
         },
         {
-
           "name": "sitrus berry"
         },
         {
-
           "name": "smart candy xl"
         },
         {
-
           "name": "snowball"
         },
         {
-
           "name": "soda pop"
         },
         {
-
           "name": "soul dew"
         },
         {
-
           "name": "star piece"
         },
         {
-
           "name": "stardust"
         },
         {
-
           "name": "throat spray"
         },
         {
-
           "name": "thunder stone"
         },
         {
-
           "name": "twisted spoon"
         },
         {
-
           "name": "upgrade"
         },
         {
-
           "name": "whipped dream"
         },
         {
-
           "name": "wide lens"
         },
         {
-
           "name": "x accuracy"
         },
         {
-
           "name": "x defense 6"
         },
         {
-
           "name": "x special attack 2"
         },
         {
-
-          "name": "minecraft:purpur block"
+          "name": "purpur block"
         },
         {
-
-          "name": "minecraft:slime ball"
+          "name": "slime ball"
         },
         {
-
-          "name": "minecraft:ghast tear"
+          "name": "ghast tear"
         },
         {
-
-          "name": "minecraft:crimson fungus"
+          "name": "crimson fungus"
         },
         {
-
-          "name": "minecraft:music disc blocks"
+          "name": "music disc blocks"
         },
         {
-
           "name": "mark charm"
         },
         {
-
+          "name": "dynite ore"
+        },
+        {
           "name": "rusty iron key 2"
         },
         {
-
           "name": "shattered ice key 2"
         },
         {
-
           "name": "crumbled rock key 2"
         },
         {
-
           "name": "fragmented drago key 2"
         },
         {
-
           "name": "discharged eleki key 2"
         },
         {
-
           "name": "shattered relic song 2"
         },
         {
-
           "name": "lava crystal"
         },
         {
-
           "name": "lugia disc"
         },
         {
-
           "name": "lavender town disc"
         },
         {
-
           "name": "mt pyre disc"
         },
         {
-
           "name": "relaxed mint"
         },
         {
-
           "name": "impish mint"
         },
         {
-
           "name": "gentle mint"
         },
         {
-
           "name": "pokemail air"
         },
         {
-
           "name": "pokemail bloom"
         },
         {
-
           "name": "pokemail brick"
         },
         {
-
           "name": "pokemail bridge d"
         },
         {
-
           "name": "pokemail bridge m"
         },
         {
-
           "name": "pokemail bridge s"
         },
         {
-
           "name": "pokemail bridge t"
         },
         {
-
           "name": "pokemail bridge v"
         },
         {
-
           "name": "pokemail bubble"
         },
         {
-
           "name": "pokemail dream"
         },
         {
-
           "name": "pokemail fab"
         },
         {
-
           "name": "pokemail favored"
         },
         {
-
           "name": "fire candy"
         },
         {
-
           "name": "ice candy"
         },
         {
-
           "name": "psychic candy"
         },
         {
-
           "name": "tm 8"
         },
         {
-
           "name": "tm 24"
         },
         {
-
           "name": "tm 38"
         },
         {
-
           "name": "tm 49"
         },
         {
-
           "name": "tm 67"
         },
         {
-
           "name": "tm 107"
         },
         {
-
           "name": "tm 118"
         },
         {
-
           "name": "tm 125"
         },
         {
-
           "name": "tm 141"
         },
         {
-
           "name": "tm 144"
         },
         {
-
           "name": "tm 153"
         },
         {
-
           "name": "tm 157"
         },
         {
-
           "name": "tm 165"
         },
         {
-
           "name": "tm 10"
         },
         {
-
           "name": "tm 34"
         },
         {
-
           "name": "tm 46"
         },
         {
-
           "name": "tm 52"
         },
         {
-
           "name": "tm 59"
         },
         {
-
           "name": "tm 63"
         },
         {
-
           "name": "tm 74"
         },
         {
-
           "name": "tm 75"
         },
         {
-
           "name": "tm 85"
         },
         {
-
           "name": "tm 92"
         },
         {
-
           "name": "tm 98"
         },
         {
-
           "name": "tm 109"
         },
         {
-
           "name": "tm 120"
         },
         {
-
           "name": "tm 128"
         },
         {
-
           "name": "tm 129"
         },
         {
-
           "name": "tm 138"
         },
         {
-
           "name": "tm 161"
         }
       ],
       "rolls": {
-        "type": "minecraft:uniform",
+        "type": "uniform",
         "max": 2.0,
         "min": 1.0
       }

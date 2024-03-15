@@ -1,0 +1,129 @@
+{{Pokeloot Table|Fast|max=2}}
+{{Loot|Poke Ball}}
+{{Loot|Ability Urge}}
+{{Loot|Aguav Berry}}
+{{Loot|Belue Berry}}
+{{Loot|Black Belt}}
+{{Span}}
+{{Loot|Blunder Policy}}
+{{Loot|Carbos}}
+{{Loot|Chesto Berry}}
+{{Loot|Choice Scarf}}
+{{Loot|Eject Button}}
+{{Span}}
+{{Loot|Electric Seed}}
+{{Loot|Escape Rope}}
+{{Loot|Exp Candy Xs}}
+{{Loot|Fast Ball}}
+{{Loot|Growth Mulch}}
+{{Span}}
+{{Loot|Health Candy}}
+{{Loot|Iapapa Berry}}
+{{Loot|Ice Gem}}
+{{Loot|Instant Noodles}}
+{{Loot|Kelpsy Berry}}
+{{Span}}
+{{Loot|Liechi Berry}}
+{{Loot|Macho Brace}}
+{{Loot|Magmarizer}}
+{{Loot|Magnet}}
+{{Loot|Miracle Seed}}
+{{Span}}
+{{Loot|Moomoo Cheese}}
+{{Loot|Moon Ball}}
+{{Loot|Moon Stone}}
+{{Loot|Belligerent Wing}}
+{{Loot|Nest Ball}}
+{{Span}}
+{{Loot|Net Ball}}
+{{Loot|Pack Of Potatoes}}
+{{Loot|Payapa Berry}}
+{{Loot|Pink Nectar}}
+{{Loot|Polished Mud Ball}}
+{{Span}}
+{{Loot|Power Anklet}}
+{{Loot|Qualot Berry}}
+{{Loot|Quick Ball}}
+{{Loot|Quick Candy L}}
+{{Loot|Quick Powder}}
+{{Span}}
+{{Loot|Relic Crown}}
+{{Loot|Repel}}
+{{Loot|Roller Skates}}
+{{Loot|Salac Berry}}
+{{Loot|Snowball}}
+{{Span}}
+{{Loot|Tamato Berry}}
+{{Loot|Throat Spray}}
+{{Loot|Tough Candy L}}
+{{Loot|Ultra Ball}}
+{{LootTm|Unknown|berry}}
+{{Span}}
+{{Loot|Electric Candy}}
+{{Loot|X Accuracy 6}}
+{{Loot|X Attack}}
+{{Loot|X Defense 3}}
+{{Loot|Fiery Wing}}
+{{Span}}
+{{Loot|Glowstone Dust}}
+{{Loot|Nether Wart}}
+{{Loot|Prismarine Shard}}
+{{Loot|Warped Fungus}}
+{{Loot|Music Disc Far}}
+{{Span}}
+{{Loot|Rusty Iron Key 3}}
+{{Loot|Shattered Ice Key 3}}
+{{Loot|Crumbled Rock Key 3}}
+{{Loot|Fragmented Drago Key 3}}
+{{Loot|Discharged Eleki Key 3}}
+{{Span}}
+{{Loot|Shattered Relic Song 3}}
+{{Loot|Exp Candy S}}
+{{Loot|Ice Memory Drive}}
+{{Loot|Icicle Plate}}
+{{Loot|Pokemail Air}}
+{{Span}}
+{{Loot|Pokemail Bloom}}
+{{Loot|Pokemail Brick}}
+{{Loot|Pokemail Bridge D}}
+{{Loot|Pokemail Bridge M}}
+{{Loot|Pokemail Bridge S}}
+{{Span}}
+{{Loot|Pokemail Bridge T}}
+{{Loot|Pokemail Bridge V}}
+{{Loot|Pokemail Bubble}}
+{{Loot|Pokemail Dream}}
+{{Loot|Pokemail Fab}}
+{{Span}}
+{{Loot|Pokemail Favored}}
+{{Loot|Pokemail Flame}}
+{{Loot|Pokemail Glitter}}
+{{Loot|Pokemail Grass}}
+{{Loot|Pokemail Greet}}
+{{Span}}
+{{Loot|Pokemail Harbor}}
+{{Loot|Pokemail Heart}}
+{{Loot|Pokemail Inquiry}}
+{{Loot|Pokemail Like}}
+{{Loot|Pokemail Mech}}
+{{Span}}
+{{Loot|Pokemail Mosaic}}
+{{LootTm|Electric|9}}
+{{LootTm|Electric|23}}
+{{LootTm|Electric|48}}
+{{LootTm|Electric|68}}
+{{Span}}
+{{LootTm|Electric|72}}
+{{LootTm|Electric|82}}
+{{LootTm|Electric|96}}
+{{LootTm|Electric|126}}
+{{LootTm|Electric|136}}
+{{Span}}
+{{LootTm|Electric|147}}
+{{LootTm|Electric|166}}
+{{Loot}}
+{{Loot}}
+{{Loot}}
+{{Pokeloot Table Bottom
+|locations=
+|Mostly found in the wild and [[structures]]. Exact data is expected to be added to these pages soon.}}

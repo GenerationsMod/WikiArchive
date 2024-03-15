@@ -3,7 +3,7 @@ recipe_here
 }}
 {{DescBox|
 
-A decorative block used for decorating your builds. Description
+Description
 
 |drop1=drop_loot_info pokemon_drops
 }}

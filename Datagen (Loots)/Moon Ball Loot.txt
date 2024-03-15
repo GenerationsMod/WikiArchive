@@ -1,0 +1,141 @@
+{{Pokeloot Table|Moon|max=2}}
+{{Loot|Poke Ball}}
+{{Loot|Air Balloon}}
+{{Loot|Beach Glass}}
+{{Loot|Big Pearl}}
+{{Loot|Blue Scarf}}
+{{Span}}
+{{Loot|Bluk Berry}}
+{{Loot|Calcium}}
+{{Loot|Carbos}}
+{{Loot|Casteliacone}}
+{{Loot|Chalky Stone}}
+{{Span}}
+{{Loot|Charti Berry}}
+{{Loot|Colbur Berry}}
+{{Loot|Dawn Stone}}
+{{Loot|Dusk Stone}}
+{{Loot|Everstone}}
+{{Span}}
+{{Loot|Eviolite}}
+{{Loot|Exp Candy M}}
+{{Loot|Fairy Gem}}
+{{Loot|Friend Ball}}
+{{Loot|Galarica Twig}}
+{{Span}}
+{{Loot|Ganlon Berry}}
+{{Loot|Ghost Gem}}
+{{Loot|Green Shard}}
+{{Loot|Ground Gem}}
+{{Loot|Heavy Ball}}
+{{Span}}
+{{Loot|Hi Tech Earbuds}}
+{{Loot|Hyper Potion}}
+{{Loot|Icy Rock}}
+{{Loot|Iron}}
+{{Loot|Item Urge}}
+{{Span}}
+{{Loot|Kebia Berry}}
+{{Loot|Kings Rock}}
+{{Loot|Leppa Berry}}
+{{Loot|Light Clay}}
+{{Loot|Lure}}
+{{Span}}
+{{Loot|Lustrous Orb}}
+{{Loot|Magnet}}
+{{Loot|Max Ether}}
+{{Loot|Metal Coat}}
+{{Loot|Metal Powder}}
+{{Span}}
+{{Loot|Metronome}}
+{{Loot|Misty Seed}}
+{{Loot|Moon Ball}}
+{{Loot|Moon Stone}}
+{{Loot|Never Melt Ice}}
+{{Span}}
+{{Loot|Payapa Berry}}
+{{Loot|Poison Gem}}
+{{Loot|Power Weight}}
+{{Loot|Protector}}
+{{Loot|Psychic Gem}}
+{{Span}}
+{{Loot|Quick Candy L}}
+{{Loot|Reaper Cloth}}
+{{Loot|Red Scarf}}
+{{Loot|Red Shard}}
+{{Loot|Relic Vase}}
+{{Span}}
+{{Loot|Ring Target}}
+{{Loot|Roseli Berry}}
+{{Loot|Shiny Stone}}
+{{Loot|Shoal Shell}}
+{{Loot|Sitrus Berry}}
+{{Span}}
+{{Loot|Small Bouquet}}
+{{Loot|Smooth Rock}}
+{{Loot|Spell Tag}}
+{{Loot|Star Piece}}
+{{Loot|Star Sweet}}
+{{Span}}
+{{Loot|Stardust}}
+{{Loot|Steel Gem}}
+{{Loot|Sun Stone}}
+{{Loot|Thunder Stone}}
+{{Loot|Tough Candy L}}
+{{Span}}
+{{Loot|Water Stone}}
+{{Loot|Wepear Berry}}
+{{Loot|Wishing Piece}}
+{{Loot|X Speed}}
+{{Loot|Purpur Block}}
+{{Span}}
+{{Loot|Glowstone Dust}}
+{{Loot|Nether Wart}}
+{{Loot|Prismarine Crystals}}
+{{Loot|Crimson Fungus}}
+{{Loot|Music Disc 11}}
+{{Span}}
+{{Loot|Wishing Star}}
+{{Loot|Amethyst Shard}}
+{{Loot|Ruby}}
+{{Loot|Mewtwo Armor}}
+{{Loot|Meteorite Shard}}
+{{Span}}
+{{Loot|Psychic Memory Drive}}
+{{Loot|Fairy Memory Drive}}
+{{Loot|Mind Plate}}
+{{Loot|Pixie Plate}}
+{{Loot|Psychic Candy}}
+{{Span}}
+{{Loot|Fairy Candy}}
+{{LootTm|Psychic|4}}
+{{LootTm|Psychic|16}}
+{{LootTm|Psychic|41}}
+{{LootTm|Psychic|54}}
+{{Span}}
+{{LootTm|Psychic|59}}
+{{LootTm|Psychic|63}}
+{{LootTm|Psychic|74}}
+{{LootTm|Psychic|75}}
+{{LootTm|Psychic|85}}
+{{Span}}
+{{LootTm|Psychic|92}}
+{{LootTm|Psychic|98}}
+{{LootTm|Psychic|109}}
+{{LootTm|Psychic|120}}
+{{LootTm|Psychic|128}}
+{{Span}}
+{{LootTm|Psychic|129}}
+{{LootTm|Psychic|138}}
+{{LootTm|Psychic|161}}
+{{LootTm|Fairy|2}}
+{{LootTm|Fairy|19}}
+{{Span}}
+{{LootTm|Fairy|37}}
+{{LootTm|Fairy|79}}
+{{LootTm|Fairy|127}}
+{{LootTm|Fairy|139}}
+{{Loot}}
+{{Pokeloot Table Bottom
+|locations=
+|Mostly found in the wild and [[structures]]. Exact data is expected to be added to these pages soon.}}

@@ -1,403 +1,322 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "scroll page"
         },
         {
-
           "name": "mew dna fiber"
         },
         {
-
           "name": "legend plate"
         },
         {
-
           "name": "black apricorn"
         },
         {
-
           "name": "blue apricorn"
         },
         {
-
           "name": "green apricorn"
         },
         {
-
           "name": "pink apricorn"
         },
         {
-
           "name": "red apricorn"
         },
         {
-
           "name": "white apricorn"
         },
         {
-
           "name": "yellow apricorn"
         },
         {
-
           "name": "health candy xl"
         },
         {
-
           "name": "honey"
         },
         {
-
           "name": "leek"
         },
         {
-
           "name": "leftovers"
         },
         {
-
           "name": "lone earring"
         },
         {
-
           "name": "lustrous orb"
         },
         {
-
           "name": "griseous orb"
         },
         {
-
           "name": "adamant orb"
         },
         {
-
           "name": "lustrous globe"
         },
         {
-
           "name": "griseous core"
         },
         {
-
           "name": "adamant crystal"
         },
         {
-
           "name": "gracidea"
         },
         {
-
           "name": "iris disc"
         },
         {
-
           "name": "nessa disc"
         },
         {
-
           "name": "team rocket disc"
         },
         {
-
           "name": "sada and turo disc"
         },
         {
-
           "name": "south province disc"
         },
         {
-
           "name": "rival disc"
         },
         {
-
           "name": "lusamine disc"
         },
         {
-
           "name": "xy legendary disc"
         },
         {
-
           "name": "kanto disc"
         },
         {
-
           "name": "ultra necrozma disc"
         },
         {
-
           "name": "ruby"
         },
         {
-
           "name": "relic band"
         },
         {
-
           "name": "relic crown"
         },
         {
-
           "name": "relic statue"
         },
         {
-
           "name": "relic vase"
         },
         {
-
           "name": "fruit bunch"
         },
         {
-
           "name": "coconut milk"
         },
         {
-
           "name": "instant noodles"
         },
         {
-
           "name": "fresh cream"
         },
         {
-
           "name": "exp charm"
         },
         {
-
           "name": "antidote"
         },
         {
-
           "name": "apicot berry"
         },
         {
-
           "name": "aspear berry"
         },
         {
-
           "name": "babiri berry"
         },
         {
-
           "name": "berry juice"
         },
         {
-
           "name": "burn heal"
         },
         {
-
           "name": "growth mulch"
         },
         {
-
           "name": "rich mulch"
         },
         {
-
           "name": "surprise mulch"
         },
         {
-
           "name": "berry sweet"
         },
         {
-
           "name": "clover sweet"
         },
         {
-
           "name": "flower sweet"
         },
         {
-
           "name": "love sweet"
         },
         {
-
           "name": "ribbon sweet"
         },
         {
-
           "name": "star sweet"
         },
         {
-
           "name": "strawberry sweet"
         },
         {
-
           "name": "deep sea scale"
         },
         {
-
           "name": "deep sea tooth"
         },
         {
-
           "name": "dragon scale"
         },
         {
-
           "name": "dubious disc"
         },
         {
-
           "name": "electirizer"
         },
         {
-
           "name": "kings rock"
         },
         {
-
           "name": "magmarizer"
         },
         {
-
           "name": "metal coat"
         },
         {
-
           "name": "oval stone"
         },
         {
-
           "name": "prism scale"
         },
         {
-
           "name": "protector"
         },
         {
-
           "name": "razor claw"
         },
         {
-
           "name": "razor fang"
         },
         {
-
           "name": "reaper cloth"
         },
         {
-
           "name": "sachet"
         },
         {
-
           "name": "upgrade"
         },
         {
-
           "name": "whipped dream"
         },
         {
-
           "name": "chipped pot"
         },
         {
-
           "name": "cracked pot"
         },
         {
-
           "name": "galarica cuff"
         },
         {
-
           "name": "galarica wreath"
         },
         {
-
           "name": "sweet apple"
         },
         {
-
           "name": "tart apple"
         },
         {
-
           "name": "tm 9"
         },
         {
-
           "name": "tm 23"
         },
         {
-
           "name": "tm 48"
         },
         {
-
           "name": "tm 68"
         },
         {
-
           "name": "tm 72"
         },
         {
-
           "name": "tm 82"
         },
         {
-
           "name": "tm 96"
         },
         {
-
           "name": "tm 126"
         },
         {
-
           "name": "tm 136"
         },
         {
-
           "name": "tm 147"
         },
         {
-
           "name": "tm 166"
         },
         {
-
           "name": "tm 44"
         },
         {
-
           "name": "tm 78"
         },
         {
-
           "name": "tm 100"
         },
         {
-
           "name": "tm 115"
         },
         {
-
           "name": "tm 156"
         },
         {
-
           "name": "tm 169"
+        },
+        {
+          "name": "mew fossil"
+        },
+        {
+          "name": "tm 175"
+        },
+        {
+          "name": "tm 214"
+        },
+        {
+          "name": "tm 200"
+        },
+        {
+          "name": "tm 222"
+        },
+        {
+          "name": "tm 226"
         }
       ],
       "rolls": 1.0

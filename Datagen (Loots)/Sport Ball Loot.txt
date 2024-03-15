@@ -1,0 +1,129 @@
+{{Pokeloot Table|Sport|max=2}}
+{{Loot|Poke Ball}}
+{{Loot|Apicot Berry}}
+{{Loot|Aspear Berry}}
+{{Loot|Assault Vest}}
+{{Loot|Black Belt}}
+{{Span}}
+{{Loot|Black Glasses}}
+{{Loot|Blue Flute}}
+{{Loot|Bread}}
+{{Loot|Bright Powder}}
+{{Loot|Charcoal Stick}}
+{{Span}}
+{{Loot|Chilan Berry}}
+{{Loot|Chople Berry}}
+{{Loot|Dire Hit 3}}
+{{Loot|Dive Ball}}
+{{Loot|Energy Root}}
+{{Span}}
+{{Loot|Expert Belt}}
+{{Loot|Fighting Gem}}
+{{Loot|Fire Stone}}
+{{Loot|Focus Band}}
+{{Loot|Focus Sash}}
+{{Span}}
+{{Loot|Hard Stone}}
+{{Loot|Heal Ball}}
+{{Loot|Heavy Duty Boots}}
+{{Loot|Iron}}
+{{Loot|Kelpsy Berry}}
+{{Span}}
+{{Loot|Kings Rock}}
+{{Loot|Lava Cookie}}
+{{Loot|Level Ball}}
+{{Loot|Liechi Berry}}
+{{Loot|Lucky Punch}}
+{{Span}}
+{{Loot|Macho Brace}}
+{{Loot|Mighty Candy}}
+{{Loot|Muscle Band}}
+{{Loot|Belligerent Wing}}
+{{Loot|Occa Berry}}
+{{Span}}
+{{Loot|Pink Scarf}}
+{{Loot|Power Anklet}}
+{{Loot|Power Bracer}}
+{{Loot|Elegant Wing}}
+{{Loot|Protective Pads}}
+{{Span}}
+{{Loot|Protein}}
+{{Loot|Pungent Root}}
+{{Loot|Quick Claw}}
+{{Loot|Safety Goggles}}
+{{Loot|Shoal Salt}}
+{{Span}}
+{{Loot|Smart Candy}}
+{{Loot|Soft Sand}}
+{{Loot|Spice Mix}}
+{{Loot|Sport Ball}}
+{{Loot|Sticky Barb}}
+{{Span}}
+{{Loot|Super Potion}}
+{{Loot|Terrain Extender}}
+{{Loot|Utility Umbrella}}
+{{Loot|White Flute}}
+{{Loot|Wide Lens}}
+{{Span}}
+{{Loot|Fighting Candy}}
+{{Loot|X Defense 3}}
+{{Loot|X Special Defence}}
+{{Loot|String}}
+{{Loot|Gunpowder}}
+{{Span}}
+{{Loot|Saddle}}
+{{Loot|Rabbit Foot}}
+{{Loot|Rabbit Hide}}
+{{Loot|Music Disc Wait}}
+{{Loot|Mark Charm}}
+{{Span}}
+{{Loot|Rockstar Costume}}
+{{Loot|Belle Costume}}
+{{Loot|Popstar Costume}}
+{{Loot|Phd Costume}}
+{{Loot|Libre Costume}}
+{{Span}}
+{{Loot|Old Rod}}
+{{Loot|Good Rod}}
+{{Loot|Super Rod}}
+{{Loot|Rusty Iron Key 4}}
+{{Loot|Shattered Ice Key 4}}
+{{Span}}
+{{Loot|Crumbled Rock Key 4}}
+{{Loot|Fragmented Drago Key 4}}
+{{Loot|Discharged Eleki Key 4}}
+{{Loot|Shattered Relic Song 4}}
+{{Loot|Fire Memory Drive}}
+{{Span}}
+{{Loot|Fighting Memory Drive}}
+{{Loot|Flame Plate}}
+{{Loot|Fist Plate}}
+{{LootTm|Fighting|12}}
+{{LootTm|Fighting|39}}
+{{Span}}
+{{LootTm|Fighting|58}}
+{{LootTm|Fighting|64}}
+{{LootTm|Fighting|73}}
+{{LootTm|Fighting|89}}
+{{LootTm|Fighting|112}}
+{{Span}}
+{{LootTm|Fighting|134}}
+{{LootTm|Fighting|158}}
+{{LootTm|Fighting|167}}
+{{LootTm|Fire|189}}
+{{LootTm|Fire|195}}
+{{Span}}
+{{LootTm|Fire|207}}
+{{LootTm|Rock|179}}
+{{LootTm|Rock|220}}
+{{LootTm|Fighting|184}}
+{{LootTm|Fighting|192}}
+{{Span}}
+{{LootTm|Fighting|213}}
+{{LootTm|Fighting|229}}
+{{Loot}}
+{{Loot}}
+{{Loot}}
+{{Pokeloot Table Bottom
+|locations=
+|Mostly found in the wild and [[structures]]. Exact data is expected to be added to these pages soon.}}

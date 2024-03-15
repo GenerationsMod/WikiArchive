@@ -1,387 +1,326 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "ability capsule"
         },
         {
-
           "name": "amulet coin"
         },
         {
-
           "name": "belue berry"
         },
         {
-
           "name": "big nugget"
         },
         {
-
           "name": "black flute"
         },
         {
-
           "name": "blue scarf"
         },
         {
-
           "name": "bluk berry"
         },
         {
-
           "name": "coconut milk"
         },
         {
-
           "name": "courage candy l"
         },
         {
-
           "name": "cracked pot"
         },
         {
-
           "name": "dawn stone"
         },
         {
-
           "name": "deep sea tooth"
         },
         {
-
           "name": "dragon fang"
         },
         {
-
           "name": "dusk stone"
         },
         {
-
           "name": "elevator key"
         },
         {
-
           "name": "exp candy m"
         },
         {
-
           "name": "exp share"
         },
         {
-
           "name": "festival ticket"
         },
         {
-
           "name": "flower sweet"
         },
         {
-
           "name": "full heal"
         },
         {
-
           "name": "fiery wing"
         },
         {
-
           "name": "great ball"
         },
         {
-
           "name": "green scarf"
         },
         {
-
           "name": "grepa berry"
         },
         {
-
           "name": "health candy l"
         },
         {
-
           "name": "ice heal"
         },
         {
-
           "name": "ice stone"
         },
         {
-
           "name": "love sweet"
         },
         {
-
           "name": "luck incense"
         },
         {
-
           "name": "lucky egg"
         },
         {
-
           "name": "lumiose galette"
         },
         {
-
           "name": "lure"
         },
         {
-
           "name": "luxury ball"
         },
         {
-
           "name": "marble"
         },
         {
-
           "name": "max lure"
         },
         {
-
           "name": "mighty candy xl"
         },
         {
-
           "name": "nomel berry"
         },
         {
-
           "name": "odd keystone"
         },
         {
-
           "name": "pamtre berry"
         },
         {
-
           "name": "pearl"
         },
         {
-
           "name": "permit"
         },
         {
-
           "name": "pewter crunchies"
         },
         {
-
           "name": "power band"
         },
         {
-
           "name": "premier ball"
         },
         {
-
           "name": "psychic seed"
         },
         {
-
           "name": "quick candy xl"
         },
         {
-
           "name": "rare bone"
         },
         {
-
           "name": "red flute"
         },
         {
-
           "name": "room service"
         },
         {
-
           "name": "shoal salt"
         },
         {
-
           "name": "silk scarf"
         },
         {
-
           "name": "smart candy xl"
         },
         {
-
           "name": "soothe bell"
         },
         {
-
           "name": "sweet heart"
         },
         {
-
           "name": "tough candy"
         },
         {
-
           "name": "tropical shell"
         },
         {
-
           "name": "x defense 6"
         },
         {
-
           "name": "yellow flute"
         },
         {
-
-          "name": "minecraft:quartz block"
+          "name": "quartz block"
         },
         {
-
-          "name": "minecraft:diamond"
+          "name": "diamond"
         },
         {
-
-          "name": "minecraft:leather"
+          "name": "leather"
         },
         {
-
           "name": "elegant wing"
         },
         {
-
-          "name": "minecraft:music disc chirp"
+          "name": "music disc chirp"
         },
         {
-
+          "name": "netherite scrap"
+        },
+        {
           "name": "iris disc"
         },
         {
-
           "name": "nessa disc"
         },
         {
-
           "name": "team rocket disc"
         },
         {
-
           "name": "sada and turo disc"
         },
         {
-
           "name": "south province disc"
         },
         {
-
           "name": "rival disc"
         },
         {
-
           "name": "lusamine disc"
         },
         {
-
           "name": "xy legendary disc"
         },
         {
-
           "name": "kanto disc"
         },
         {
-
           "name": "ultra necrozma disc"
         },
         {
-
           "name": "crystal"
         },
         {
-
           "name": "sapphire"
         },
         {
-
           "name": "silicon"
         },
         {
-
           "name": "sparkling shard"
         },
         {
-
           "name": "exp candy l"
         },
         {
-
           "name": "poison candy"
         },
         {
-
           "name": "dragon candy"
         },
         {
-
           "name": "tm 13"
         },
         {
-
           "name": "tm 26"
         },
         {
-
           "name": "tm 45"
         },
         {
-
           "name": "tm 83"
         },
         {
-
           "name": "tm 91"
         },
         {
-
           "name": "tm 102"
         },
         {
-
           "name": "tm 148"
         },
         {
-
           "name": "tm 44"
         },
         {
-
           "name": "tm 78"
         },
         {
-
           "name": "tm 100"
         },
         {
-
           "name": "tm 115"
         },
         {
-
           "name": "tm 156"
         },
         {
-
           "name": "tm 169"
+        },
+        {
+          "name": "tm 178"
+        },
+        {
+          "name": "tm 217"
+        },
+        {
+          "name": "tm 218"
+        },
+        {
+          "name": "tm 228"
+        },
+        {
+          "name": "tm 174"
+        },
+        {
+          "name": "tm 187"
+        },
+        {
+          "name": "tm 212"
+        },
+        {
+          "name": "tm 177"
+        },
+        {
+          "name": "tm 198"
+        },
+        {
+          "name": "tm 224"
         }
       ],
       "rolls": {
-        "type": "minecraft:uniform",
+        "type": "uniform",
         "max": 2.0,
         "min": 1.0
       }

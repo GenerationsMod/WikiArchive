@@ -1,363 +1,317 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "air balloon"
         },
         {
-
           "name": "binding band"
         },
         {
-
           "name": "cell battery"
         },
         {
-
           "name": "chople berry"
         },
         {
-
           "name": "sinister wing"
         },
         {
-
           "name": "colbur berry"
         },
         {
-
           "name": "custap berry"
         },
         {
-
           "name": "eject button"
         },
         {
-
           "name": "electric seed"
         },
         {
-
           "name": "fast ball"
         },
         {
-
           "name": "focus band"
         },
         {
-
           "name": "focus sash"
         },
         {
-
           "name": "fried food"
         },
         {
-
           "name": "grassy seed"
         },
         {
-
           "name": "guard spec"
         },
         {
-
           "name": "heavy ball"
         },
         {
-
           "name": "hyper potion"
         },
         {
-
           "name": "item urge"
         },
         {
-
           "name": "lone earring"
         },
         {
-
           "name": "max repel"
         },
         {
-
           "name": "misty seed"
         },
         {
-
           "name": "old gateau"
         },
         {
-
           "name": "passho berry"
         },
         {
-
           "name": "power plant pass"
         },
         {
-
           "name": "protein"
         },
         {
-
           "name": "psychic seed"
         },
         {
-
           "name": "red card"
         },
         {
-
           "name": "repeat ball"
         },
         {
-
           "name": "revive"
         },
         {
-
           "name": "smoke ball"
         },
         {
-
           "name": "tin of beans"
         },
         {
-
           "name": "x attack 6"
         },
         {
-
           "name": "x defense 2"
         },
         {
-
           "name": "x special attack"
         },
         {
-
           "name": "x special defense 3"
         },
         {
-
           "name": "x speed"
         },
         {
-
           "name": "yellow shard"
         },
         {
-
           "name": "zinc"
         },
         {
-
           "name": "black apricorn"
         },
         {
-
           "name": "blue apricorn"
         },
         {
-
           "name": "green apricorn"
         },
         {
-
           "name": "pink apricorn"
         },
         {
-
           "name": "red apricorn"
         },
         {
-
           "name": "white apricorn"
         },
         {
-
           "name": "yellow apricorn"
         },
         {
-
-          "name": "minecraft:string"
+          "name": "string"
         },
         {
-
-          "name": "minecraft:music disc mall"
+          "name": "music disc mall"
         },
         {
-
           "name": "cascarrafa city disc"
         },
         {
-
           "name": "slumbering weald disc"
         },
         {
-
           "name": "pokemon center disc"
         },
         {
-
           "name": "azalea town disc"
         },
         {
-
           "name": "lillie disc"
         },
         {
-
           "name": "route 228 disc"
         },
         {
-
           "name": "jubilife village disc"
         },
         {
-
           "name": "goldenrod city disc"
         },
         {
-
           "name": "eterna city disc"
         },
         {
-
           "name": "vermilion city disc"
         },
         {
-
           "name": "fragmented drago key 1"
         },
         {
-
           "name": "fragmented drago key 2"
         },
         {
-
           "name": "fragmented drago key 3"
         },
         {
-
           "name": "fragmented drago key 4"
         },
         {
-
           "name": "fighting candy"
         },
         {
-
           "name": "film"
         },
         {
-
           "name": "camera"
         },
         {
-
           "name": "pokemail orange"
         },
         {
-
           "name": "pokemail reply"
         },
         {
-
           "name": "pokemail retro"
         },
         {
-
           "name": "pokemail rsvp"
         },
         {
-
           "name": "pokemail shadow"
         },
         {
-
           "name": "pokemail snow"
         },
         {
-
           "name": "pokemail space"
         },
         {
-
           "name": "pokemail steel"
         },
         {
-
           "name": "pokemail thanks"
         },
         {
-
           "name": "pokemail tropic"
         },
         {
-
           "name": "pokemail tunnel"
         },
         {
-
           "name": "pokemail wave"
         },
         {
-
           "name": "pokemail wood"
         },
         {
-
           "name": "tm 12"
         },
         {
-
           "name": "tm 39"
         },
         {
-
           "name": "tm 58"
         },
         {
-
           "name": "tm 64"
         },
         {
-
           "name": "tm 73"
         },
         {
-
           "name": "tm 89"
         },
         {
-
           "name": "tm 112"
         },
         {
-
           "name": "tm 134"
         },
         {
-
           "name": "tm 158"
         },
         {
-
           "name": "tm 167"
+        },
+        {
+          "name": "tm 172"
+        },
+        {
+          "name": "tm 183"
+        },
+        {
+          "name": "tm 191"
+        },
+        {
+          "name": "tm 193"
+        },
+        {
+          "name": "tm 202"
+        },
+        {
+          "name": "tm 203"
+        },
+        {
+          "name": "tm 204"
+        },
+        {
+          "name": "tm 205"
+        },
+        {
+          "name": "tm 173"
+        },
+        {
+          "name": "tm 210"
+        },
+        {
+          "name": "tm 211"
+        },
+        {
+          "name": "tm 182"
+        },
+        {
+          "name": "tm 185"
+        },
+        {
+          "name": "tm 219"
         }
       ],
       "rolls": {
-        "type": "minecraft:uniform",
+        "type": "uniform",
         "max": 3.0,
         "min": 1.0
       }

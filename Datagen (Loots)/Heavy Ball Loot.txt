@@ -1,0 +1,129 @@
+{{Pokeloot Table|Heavy|max=1}}
+{{Loot|Poke Ball}}
+{{Loot|Adamant Orb}}
+{{Loot|Air Balloon}}
+{{Loot|Babiri Berry}}
+{{Loot|Big Pearl}}
+{{Span}}
+{{Loot|Binding Band}}
+{{Loot|Chesto Berry}}
+{{Loot|Chilan Berry}}
+{{Loot|Choice Band}}
+{{Loot|Coba Berry}}
+{{Span}}
+{{Loot|Courage Candy}}
+{{Loot|Courage Candy Xl}}
+{{Loot|Dire Hit 3}}
+{{Loot|Dragon Fang}}
+{{Loot|Dubious Disc}}
+{{Span}}
+{{Loot|Fighting Gem}}
+{{Loot|Figy Berry}}
+{{Loot|Float Stone}}
+{{Loot|Full Incense}}
+{{Loot|Ganlon Berry}}
+{{Span}}
+{{Loot|Green Shard}}
+{{Loot|Ground Gem}}
+{{Loot|Haban Berry}}
+{{Loot|Hard Stone}}
+{{Loot|Health Candy L}}
+{{Span}}
+{{Loot|Heavy Ball}}
+{{Loot|Heavy Duty Boots}}
+{{Loot|Hyper Potion}}
+{{Loot|Iron}}
+{{Loot|Iron Ball}}
+{{Span}}
+{{Loot|Item Drop}}
+{{Loot|Kee Berry}}
+{{Loot|Lagging Tail}}
+{{Loot|Lava Cookie}}
+{{Loot|Life Orb}}
+{{Span}}
+{{Loot|Macho Brace}}
+{{Loot|Magmarizer}}
+{{Loot|Maranga Berry}}
+{{Loot|Max Ether}}
+{{Loot|Metal Coat}}
+{{Span}}
+{{Loot|Pecha Berry}}
+{{Loot|Poke Toy}}
+{{Loot|Power Band}}
+{{Loot|Protective Pads}}
+{{Loot|Quick Candy}}
+{{Span}}
+{{Loot|Red Shard}}
+{{Loot|Relic Copper}}
+{{Loot|Repeat Ball}}
+{{Loot|Icy Wing}}
+{{Loot|Rock Gem}}
+{{Span}}
+{{Loot|Rocky Helmet}}
+{{Loot|Safety Goggles}}
+{{Loot|Sprink Lotad}}
+{{Loot|Steel Gem}}
+{{Loot|Sticky Barb}}
+{{Span}}
+{{Loot|Strange Souvenir}}
+{{Loot|Stretchy Spring}}
+{{Loot|Timer Ball}}
+{{Loot|Tough Candy Xl}}
+{{Loot|Upgrade}}
+{{Span}}
+{{Loot|X Attack 2}}
+{{Loot|X Defense 6}}
+{{Loot|X Special Defense 6}}
+{{Loot|Iron Ingot}}
+{{Loot|Gunpowder}}
+{{Span}}
+{{Loot|Quartz}}
+{{Loot|Music Disc Mellohi}}
+{{Loot|Netherite Scrap}}
+{{Loot|Mewtwo Armor}}
+{{Loot|Exp Candy L}}
+{{Span}}
+{{Loot|Rock Memory Drive}}
+{{Loot|Steel Memory Drive}}
+{{Loot|Stone Plate}}
+{{Loot|Iron Plate}}
+{{Loot|Fragmented Drago Key 1}}
+{{Span}}
+{{Loot|Fragmented Drago Key 2}}
+{{Loot|Fragmented Drago Key 3}}
+{{Loot|Fragmented Drago Key 4}}
+{{Loot|Rock Candy}}
+{{Loot|Steel Candy}}
+{{Span}}
+{{LootTm|Rock|36}}
+{{LootTm|Rock|51}}
+{{LootTm|Rock|76}}
+{{LootTm|Rock|86}}
+{{LootTm|Rock|101}}
+{{Span}}
+{{LootTm|Rock|116}}
+{{LootTm|Rock|150}}
+{{LootTm|Steel|31}}
+{{LootTm|Steel|53}}
+{{LootTm|Steel|93}}
+{{Span}}
+{{LootTm|Dark|43}}
+{{LootTm|Steel|99}}
+{{LootTm|Steel|104}}
+{{LootTm|Steel|121}}
+{{LootTm|Steel|180}}
+{{Span}}
+{{LootTm|Steel|223}}
+{{LootTm|Steel|225}}
+{{Loot|Z Ingot}}
+{{LootTm|Ground|176}}
+{{LootTm|Ground|186}}
+{{Span}}
+{{LootTm|Ground|215}}
+{{Loot}}
+{{Loot}}
+{{Loot}}
+{{Loot}}
+{{Pokeloot Table Bottom
+|locations=
+|Mostly found in the wild and [[structures]]. Exact data is expected to be added to these pages soon.}}

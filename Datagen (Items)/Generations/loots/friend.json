@@ -1,483 +1,374 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "ability urge"
         },
         {
-
           "name": "adrenaline orb"
         },
         {
-
           "name": "apicot berry"
         },
         {
-
           "name": "bachs food tin"
         },
         {
-
           "name": "berry sweet"
         },
         {
-
           "name": "big malasada"
         },
         {
-
           "name": "bobs food tin"
         },
         {
-
           "name": "bright powder"
         },
         {
-
           "name": "calcium"
         },
         {
-
           "name": "choice specs"
         },
         {
-
           "name": "chople berry"
         },
         {
-
           "name": "eject button"
         },
         {
-
           "name": "eject pack"
         },
         {
-
           "name": "electirizer"
         },
         {
-
           "name": "energy powder"
         },
         {
-
           "name": "enigma berry"
         },
         {
-
           "name": "eviolite"
         },
         {
-
           "name": "exp candy s"
         },
         {
-
           "name": "fire stone"
         },
         {
-
           "name": "flower sweet"
         },
         {
-
           "name": "focus sash"
         },
         {
-
           "name": "fresh cream"
         },
         {
-
           "name": "fried food"
         },
         {
-
           "name": "friend ball"
         },
         {
-
           "name": "full incense"
         },
         {
-
           "name": "galarica cuff"
         },
         {
-
           "name": "galarica twig"
         },
         {
-
           "name": "green scarf"
         },
         {
-
           "name": "grepa berry"
         },
         {
-
           "name": "growth mulch"
         },
         {
-
           "name": "heal powder"
         },
         {
-
           "name": "health candy xl"
         },
         {
-
           "name": "heart scale"
         },
         {
-
           "name": "rotom catalog"
         },
         {
-
           "name": "lustrous globe"
         },
         {
-
           "name": "griseous core"
         },
         {
-
           "name": "adamant crystal"
         },
         {
-
           "name": "hi tech earbuds"
         },
         {
-
           "name": "hondew berry"
         },
         {
-
           "name": "item drop"
         },
         {
-
           "name": "kings rock"
         },
         {
-
           "name": "lansat berry"
         },
         {
-
           "name": "leftovers"
         },
         {
-
           "name": "light ball"
         },
         {
-
           "name": "luxury ball"
         },
         {
-
           "name": "max elixir"
         },
         {
-
           "name": "moomoo cheese"
         },
         {
-
           "name": "occa berry"
         },
         {
-
           "name": "oval stone"
         },
         {
-
           "name": "packaged curry"
         },
         {
-
           "name": "pasta"
         },
         {
-
           "name": "pink nectar"
         },
         {
-
           "name": "poke toy"
         },
         {
-
           "name": "pomeg berry"
         },
         {
-
           "name": "power weight"
         },
         {
-
           "name": "precooked burger"
         },
         {
-
           "name": "protective pads"
         },
         {
-
           "name": "qualot berry"
         },
         {
-
           "name": "quick candy l"
         },
         {
-
           "name": "quick powder"
         },
         {
-
           "name": "rawst berry"
         },
         {
-
           "name": "razor claw"
         },
         {
-
           "name": "repel"
         },
         {
-
           "name": "revival herb"
         },
         {
-
           "name": "ring target"
         },
         {
-
           "name": "sachet"
         },
         {
-
           "name": "sausages"
         },
         {
-
           "name": "shed shell"
         },
         {
-
           "name": "silver powder"
         },
         {
-
           "name": "star sweet"
         },
         {
-
           "name": "static wing"
         },
         {
-
           "name": "tanga berry"
         },
         {
-
           "name": "throat spray"
         },
         {
-
           "name": "tin of beans"
         },
         {
-
           "name": "twisted spoon"
         },
         {
-
           "name": "wacan berry"
         },
         {
-
           "name": "weakness policy"
         },
         {
-
           "name": "whipped dream"
         },
         {
-
           "name": "x attack"
         },
         {
-
           "name": "shattered relic song 1"
         },
         {
-
           "name": "shattered ice key 2"
         },
         {
-
           "name": "shattered ice key 3"
         },
         {
-
           "name": "shattered ice key 4"
         },
         {
-
-          "name": "minecraft:porkchop"
+          "name": "porkchop"
         },
         {
-
-          "name": "minecraft:milk bucket"
+          "name": "milk bucket"
         },
         {
-
-          "name": "minecraft:rabbit foot"
+          "name": "rabbit foot"
         },
         {
-
-          "name": "minecraft:music disc strad"
+          "name": "music disc strad"
         },
         {
-
           "name": "bug candy"
         },
         {
-
           "name": "rock candy"
         },
         {
-
           "name": "purple juice"
         },
         {
-
           "name": "blue juice"
         },
         {
-
           "name": "green juice"
         },
         {
-
           "name": "pink juice"
         },
         {
-
           "name": "basic sweet poke puff"
         },
         {
-
           "name": "basic mint poke puff"
         },
         {
-
           "name": "basic citrus poke puff"
         },
         {
-
           "name": "basic mocha poke puff"
         },
         {
-
           "name": "basic spice poke puff"
         },
         {
-
           "name": "sun flute"
         },
         {
-
           "name": "moon flute"
         },
         {
-
           "name": "n solarizer"
         },
         {
-
           "name": "n lunarizer"
         },
         {
-
           "name": "melody flute"
         },
         {
-
           "name": "tm 15"
         },
         {
-
           "name": "tm 21"
         },
         {
-
           "name": "tm 60"
         },
         {
-
           "name": "tm 95"
         },
         {
-
           "name": "tm 105"
         },
         {
-
           "name": "tm 131"
         },
         {
-
           "name": "tm 162"
         },
         {
-
           "name": "tm 36"
         },
         {
-
           "name": "tm 51"
         },
         {
-
           "name": "tm 76"
         },
         {
-
           "name": "tm 86"
         },
         {
-
           "name": "tm 101"
         },
         {
-
           "name": "tm 116"
         },
         {
-
           "name": "tm 105"
+        },
+        {
+          "name": "dynite ore"
+        },
+        {
+          "name": "tm 201"
+        },
+        {
+          "name": "tm 227"
         }
       ],
       "rolls": {
-        "type": "minecraft:uniform",
+        "type": "uniform",
         "max": 2.0,
         "min": 1.0
       }

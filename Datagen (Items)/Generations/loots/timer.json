@@ -1,387 +1,347 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "ability urge"
         },
         {
-
           "name": "blunder policy"
         },
         {
-
           "name": "bright powder"
         },
         {
-
           "name": "coba berry"
         },
         {
-
           "name": "coconut milk"
         },
         {
-
           "name": "cornn berry"
         },
         {
-
           "name": "damp rock"
         },
         {
-
           "name": "dire hit 2"
         },
         {
-
           "name": "dubious disc"
         },
         {
-
           "name": "electric seed"
         },
         {
-
           "name": "escape rope"
         },
         {
-
           "name": "fast ball"
         },
         {
-
           "name": "festival ticket"
         },
         {
-
           "name": "fluffy tail"
         },
         {
-
           "name": "fresh cream"
         },
         {
-
           "name": "full restore"
         },
         {
-
           "name": "grip claw"
         },
         {
-
           "name": "grubby hanky"
         },
         {
-
           "name": "heal powder"
         },
         {
-
           "name": "health candy l"
         },
         {
-
           "name": "heat rock"
         },
         {
-
           "name": "iapapa berry"
         },
         {
-
           "name": "icy rock"
         },
         {
-
           "name": "kasib berry"
         },
         {
-
           "name": "kings rock"
         },
         {
-
           "name": "lava cookie"
         },
         {
-
           "name": "life orb"
         },
         {
-
           "name": "light clay"
         },
         {
-
           "name": "lucky egg"
         },
         {
-
           "name": "magost berry"
         },
         {
-
           "name": "max revive"
         },
         {
-
           "name": "muscle band"
         },
         {
-
           "name": "nanab berry"
         },
         {
-
           "name": "nomel berry"
         },
         {
-
           "name": "pewter crunchies"
         },
         {
-
           "name": "plasma card"
         },
         {
-
           "name": "pomeg berry"
         },
         {
-
           "name": "power herb"
         },
         {
-
           "name": "quick claw"
         },
         {
-
           "name": "rabuta berry"
         },
         {
-
           "name": "revive"
         },
         {
-
           "name": "salac berry"
         },
         {
-
           "name": "salad mix"
         },
         {
-
           "name": "sharp beak"
         },
         {
-
           "name": "silver leaf"
         },
         {
-
           "name": "orb"
         },
         {
-
           "name": "rotom catalog"
         },
         {
-
           "name": "cerulean city disc"
         },
         {
-
           "name": "icirrus city disc"
         },
         {
-
           "name": "laverre city disc"
         },
         {
-
           "name": "surf disc"
         },
         {
-
           "name": "lake of rage disc"
         },
         {
-
           "name": "penny disc"
         },
         {
-
           "name": "nemona disc"
         },
         {
-
           "name": "zinnia disc"
         },
         {
-
           "name": "cynthia disc"
         },
         {
-
           "name": "deoxys disc"
         },
         {
-
           "name": "sport ball"
         },
         {
-
           "name": "terrain extender"
         },
         {
-
           "name": "timer ball"
         },
         {
-
           "name": "tin of beans"
         },
         {
-
           "name": "wiki berry"
         },
         {
-
           "name": "wise glasses"
         },
         {
-
           "name": "ice candy"
         },
         {
-
           "name": "x accuracy 2"
         },
         {
-
           "name": "x attack 6"
         },
         {
-
           "name": "x special attack 3"
         },
         {
-
-          "name": "minecraft:saddle"
+          "name": "saddle"
         },
         {
-
-          "name": "minecraft:leather"
+          "name": "leather"
         },
         {
-
-          "name": "minecraft:blaze powder"
+          "name": "blaze powder"
         },
         {
-
-          "name": "minecraft:music disc wait"
+          "name": "music disc wait"
         },
         {
-
           "name": "basic sweet poke puff"
         },
         {
-
           "name": "basic mint poke puff"
         },
         {
-
           "name": "basic citrus poke puff"
         },
         {
-
           "name": "basic mocha poke puff"
         },
         {
-
           "name": "basic spice poke puff"
         },
         {
-
-          "name": "minecraft:amethyst shard"
+          "name": "amethyst shard"
         },
         {
-
           "name": "ruby"
         },
         {
-
           "name": "pokemail orange"
         },
         {
-
           "name": "pokemail reply"
         },
         {
-
           "name": "pokemail retro"
         },
         {
-
           "name": "pokemail rsvp"
         },
         {
-
           "name": "pokemail shadow"
         },
         {
-
           "name": "pokemail snow"
         },
         {
-
           "name": "pokemail space"
         },
         {
-
           "name": "pokemail steel"
         },
         {
-
           "name": "pokemail thanks"
         },
         {
-
           "name": "pokemail tropic"
         },
         {
-
           "name": "pokemail tunnel"
         },
         {
-
           "name": "pokemail wave"
         },
         {
-
           "name": "pokemail wood"
         },
         {
-
           "name": "surprise mulch"
         },
         {
-
           "name": "growth mulch"
+        },
+        {
+          "name": "tm 172"
+        },
+        {
+          "name": "tm 183"
+        },
+        {
+          "name": "tm 191"
+        },
+        {
+          "name": "tm 193"
+        },
+        {
+          "name": "tm 202"
+        },
+        {
+          "name": "tm 203"
+        },
+        {
+          "name": "tm 204"
+        },
+        {
+          "name": "tm 205"
+        },
+        {
+          "name": "tm 173"
+        },
+        {
+          "name": "tm 210"
+        },
+        {
+          "name": "tm 211"
+        },
+        {
+          "name": "tm 181"
+        },
+        {
+          "name": "tm 199"
+        },
+        {
+          "name": "tm 221"
+        },
+        {
+          "name": "tm 178"
+        },
+        {
+          "name": "tm 217"
+        },
+        {
+          "name": "tm 218"
+        },
+        {
+          "name": "tm 228"
         }
       ],
       "rolls": {
-        "type": "minecraft:uniform",
+        "type": "uniform",
         "max": 3.0,
         "min": 1.0
       }

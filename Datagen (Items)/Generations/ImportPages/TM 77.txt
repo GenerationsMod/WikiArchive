@@ -1,0 +1,9 @@
+{{ItemInfobox|item=TM 77|id=tm_77|left=y
+
+}}
+{{DescBox|
+
+Teaches the move Waterfall. The move is permanently learned and may be found in the move selection UI in the Pokemon Summary page. You may forget and relearn this move as many times as you wish without needing an identical TM for the Pokemon who received this TM. When used on a Pokemon with all 4 move slots
+
+|drop1={{DropLoot|dive=y|net=y}}
+}}

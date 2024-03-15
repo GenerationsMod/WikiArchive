@@ -1,411 +1,329 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "belue berry"
         },
         {
-
           "name": "big root"
         },
         {
-
           "name": "black glasses"
         },
         {
-
           "name": "black sludge"
         },
         {
-
           "name": "brittle bones"
         },
         {
-
           "name": "cleanse tag"
         },
         {
-
           "name": "colbur berry"
         },
         {
-
           "name": "dark gem"
         },
         {
-
           "name": "dusk ball"
         },
         {
-
           "name": "dusk stone"
         },
         {
-
           "name": "eviolite"
         },
         {
-
           "name": "expert belt"
         },
         {
-
           "name": "ghost gem"
         },
         {
-
           "name": "griseous orb"
         },
         {
-
           "name": "health feather"
         },
         {
-
           "name": "heat rock"
         },
         {
-
           "name": "kasib berry"
         },
         {
-
           "name": "max ether"
         },
         {
-
           "name": "mighty candy l"
         },
         {
-
           "name": "mixed mushrooms"
         },
         {
-
           "name": "moon stone"
         },
         {
-
           "name": "mystic water"
         },
         {
-
           "name": "never melt ice"
         },
         {
-
           "name": "nomel berry"
         },
         {
-
           "name": "nugget"
         },
         {
-
           "name": "occa berry"
         },
         {
-
           "name": "odd incense"
         },
         {
-
           "name": "pack of potatoes"
         },
         {
-
           "name": "pearl"
         },
         {
-
           "name": "pecha berry"
         },
         {
-
           "name": "poison barb"
         },
         {
-
           "name": "power lens"
         },
         {
-
           "name": "rabuta berry"
         },
         {
-
           "name": "razor fang"
         },
         {
-
           "name": "reaper cloth"
         },
         {
-
           "name": "relic statue"
         },
         {
-
           "name": "ring target"
         },
         {
-
           "name": "safety goggles"
         },
         {
-
           "name": "scope lens"
         },
         {
-
           "name": "shiny stone"
         },
         {
-
           "name": "smart candy xl"
         },
         {
-
           "name": "snowball"
         },
         {
-
           "name": "spell tag"
         },
         {
-
           "name": "star sweet"
         },
         {
-
           "name": "sun stone"
         },
         {
-
           "name": "thick club"
         },
         {
-
           "name": "toxic orb"
         },
         {
-
           "name": "twisted spoon"
         },
         {
-
           "name": "wide lens"
         },
         {
-
           "name": "wise glasses"
         },
         {
-
           "name": "wishing piece"
         },
         {
-
           "name": "x accuracy"
         },
         {
-
           "name": "x attack 3"
         },
         {
-
           "name": "x special attack 2"
         },
         {
-
           "name": "x special defense 6"
         },
         {
-
           "name": "sinister wing"
         },
         {
-
           "name": "iris disc"
         },
         {
-
           "name": "nessa disc"
         },
         {
-
           "name": "team rocket disc"
         },
         {
-
           "name": "sada and turo disc"
         },
         {
-
           "name": "south province disc"
         },
         {
-
           "name": "rival disc"
         },
         {
-
           "name": "lusamine disc"
         },
         {
-
           "name": "xy legendary disc"
         },
         {
-
           "name": "kanto disc"
         },
         {
-
           "name": "ultra necrozma disc"
         },
         {
-
           "name": "x speed 2"
         },
         {
-
-          "name": "minecraft:cobweb"
+          "name": "cobweb"
         },
         {
-
-          "name": "minecraft:end stone"
+          "name": "end stone"
         },
         {
-
-          "name": "minecraft:bone"
+          "name": "bone"
         },
         {
-
-          "name": "minecraft:spider eye"
+          "name": "spider eye"
         },
         {
-
-          "name": "minecraft:phantom membrane"
+          "name": "phantom membrane"
         },
         {
-
-          "name": "minecraft:music disc far"
+          "name": "music disc far"
         },
         {
-
           "name": "dark soul"
         },
         {
-
           "name": "dragon soul"
         },
         {
-
           "name": "lax mint"
         },
         {
-
           "name": "timid mint"
         },
         {
-
           "name": "hasty mint"
         },
         {
-
           "name": "poison memory drive"
         },
         {
-
           "name": "ghost memory drive"
         },
         {
-
           "name": "toxic plate"
         },
         {
-
           "name": "spooky plate"
         },
         {
-
           "name": "ghost candy"
         },
         {
-
           "name": "dark candy"
         },
         {
-
           "name": "tm 17"
         },
         {
-
           "name": "tm 29"
         },
         {
-
           "name": "tm 42"
         },
         {
-
           "name": "tm 61"
         },
         {
-
           "name": "tm 114"
         },
         {
-
           "name": "tm 151"
         },
         {
-
           "name": "tm 3"
         },
         {
-
           "name": "tm 18"
         },
         {
-
           "name": "tm 30"
         },
         {
-
           "name": "tm 43"
         },
         {
-
           "name": "tm 62"
         },
         {
-
           "name": "tm 87"
         },
         {
-
           "name": "tm 94"
         },
         {
-
           "name": "tm 108"
         },
         {
-
           "name": "tm 140"
+        },
+        {
+          "name": "tm 174"
+        },
+        {
+          "name": "tm 187"
+        },
+        {
+          "name": "tm 212"
+        },
+        {
+          "name": "tm 177"
+        },
+        {
+          "name": "tm 198"
+        },
+        {
+          "name": "tm 224"
         }
       ],
       "rolls": {
-        "type": "minecraft:uniform",
+        "type": "uniform",
         "max": 2.0,
         "min": 1.0
       }

@@ -1,0 +1,153 @@
+{{Pokeloot Table|Cherish|max=2}}
+{{Loot|Poke Ball}}
+{{Loot|Ability Patch}}
+{{Loot|Amulet Coin}}
+{{Loot|Antidote}}
+{{Loot|Bachs Food Tin}}
+{{Span}}
+{{Loot|Beach Glass}}
+{{Loot|Berry Juice}}
+{{Loot|Berry Sweet}}
+{{Loot|Black Flute}}
+{{Loot|Boiled Egg}}
+{{Span}}
+{{Loot|Bread}}
+{{Loot|Calcium}}
+{{Loot|Cherish Ball}}
+{{Loot|Chipped Pot}}
+{{Loot|Dark Gem}}
+{{Span}}
+{{Loot|Discount Coupon}}
+{{Loot|Electirizer}}
+{{Loot|Electric Gem}}
+{{Loot|Everstone}}
+{{Loot|Exp Candy M}}
+{{Span}}
+{{Loot|Fire Gem}}
+{{Loot|Flame Orb}}
+{{Loot|Flower Sweet}}
+{{Loot|Fried Food}}
+{{Loot|Friend Ball}}
+{{Span}}
+{{Loot|Fruit Bunch}}
+{{Loot|Galarica Twig}}
+{{Loot|Galarica Wreath}}
+{{Loot|Heart Scale}}
+{{Loot|Hondew Berry}}
+{{Span}}
+{{Loot|Honey}}
+{{Loot|Hp Up}}
+{{Loot|Ice Gem}}
+{{Loot|Jaboca Berry}}
+{{Loot|Lax Incense}}
+{{Span}}
+{{Loot|Light Ball}}
+{{Loot|Love Ball}}
+{{Loot|Love Sweet}}
+{{Loot|Metronome}}
+{{Loot|Mighty Candy L}}
+{{Span}}
+{{Loot|Moon Ball}}
+{{Loot|Pecha Berry}}
+{{Loot|Persim Berry}}
+{{Loot|Pink Scarf}}
+{{Loot|Poke Ball}}
+{{Span}}
+{{Loot|Potion}}
+{{Loot|Power Belt}}
+{{Loot|Pure Incense}}
+{{Loot|Red Flute}}
+{{Loot|Relic Silver}}
+{{Span}}
+{{Loot|Reset Urge}}
+{{Loot|Rose Incense}}
+{{Loot|Sachet}}
+{{Loot|Sausages}}
+{{Loot|Shalour Sable}}
+{{Span}}
+{{Loot|Sharp Beak}}
+{{Loot|Silk Scarf}}
+{{Loot|Small Bouquet}}
+{{Loot|Smart Candy}}
+{{Loot|Spice Mix}}
+{{Span}}
+{{Loot|Starf Berry}}
+{{Loot|Sticky Barb}}
+{{Loot|Stretchy Spring}}
+{{Loot|Sweet Apple}}
+{{Loot|Sweet Heart}}
+{{Span}}
+{{Loot|Tart Apple}}
+{{Loot|Toxic Orb}}
+{{Loot|Tropical Shell}}
+{{Loot|Wave Incense}}
+{{Loot|X Special Attack 6}}
+{{Span}}
+{{Loot|Rotom Catalog}}
+{{Loot|Gold Ingot}}
+{{Loot|Saddle}}
+{{Loot|Quartz}}
+{{Loot|Prismarine Shard}}
+{{Span}}
+{{Loot|Rabbit Hide}}
+{{Loot|Music Disc Cat}}
+{{Loot|Exp Charm}}
+{{Loot|Rockstar Costume}}
+{{Loot|Belle Costume}}
+{{Span}}
+{{Loot|Popstar Costume}}
+{{Loot|Phd Costume}}
+{{Loot|Libre Costume}}
+{{Loot|Rusty Iron Key 1}}
+{{Loot|Shattered Ice Key 1}}
+{{Span}}
+{{Loot|Crumbled Rock Key 1}}
+{{Loot|Fragmented Drago Key 1}}
+{{Loot|Discharged Eleki Key 1}}
+{{Loot|Shattered Relic Song 1}}
+{{Loot|Serious Mint}}
+{{Span}}
+{{Loot|Lonely Mint}}
+{{Loot|Brave Mint}}
+{{Loot|Dragon Memory Drive}}
+{{Loot|Draco Plate}}
+{{Loot|Ice Candy}}
+{{Span}}
+{{Loot|Psychic Candy}}
+{{LootTm|Ice|10}}
+{{LootTm|Ice|34}}
+{{LootTm|Ice|46}}
+{{LootTm|Ice|52}}
+{{Span}}
+{{LootTm|Ice|69}}
+{{LootTm|Ice|124}}
+{{LootTm|Ice|135}}
+{{LootTm|Ice|143}}
+{{LootTm|Psychic|4}}
+{{Span}}
+{{LootTm|Psychic|16}}
+{{LootTm|Psychic|41}}
+{{LootTm|Psychic|54}}
+{{LootTm|Psychic|59}}
+{{LootTm|Psychic|63}}
+{{Span}}
+{{LootTm|Psychic|74}}
+{{LootTm|Psychic|75}}
+{{LootTm|Psychic|85}}
+{{LootTm|Psychic|92}}
+{{LootTm|Psychic|98}}
+{{Span}}
+{{LootTm|Psychic|109}}
+{{LootTm|Psychic|120}}
+{{LootTm|Psychic|128}}
+{{LootTm|Psychic|129}}
+{{LootTm|Psychic|138}}
+{{Span}}
+{{LootTm|Psychic|161}}
+{{LootTm|Fairy|201}}
+{{LootTm|Fairy|227}}
+{{Loot}}
+{{Loot}}
+{{Pokeloot Table Bottom
+|locations=
+|Mostly found in the wild and [[structures]]. Exact data is expected to be added to these pages soon.}}

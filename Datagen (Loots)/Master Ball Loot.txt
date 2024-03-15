@@ -1,0 +1,141 @@
+{{Pokeloot Table|Master|max=1}}
+{{Loot|Poke Ball}}
+{{Loot|Ability Capsule}}
+{{Loot|Ability Patch}}
+{{Loot|Amulet Coin}}
+{{Loot|Assault Vest}}
+{{Span}}
+{{Loot|Beast Ball}}
+{{Loot|Black Flute}}
+{{Loot|Blue Shard}}
+{{Loot|Bottle Cap}}
+{{Loot|Burn Heal}}
+{{Span}}
+{{Loot|Cheri Berry}}
+{{Loot|Chesto Berry}}
+{{Loot|Choice Scarf}}
+{{Loot|Chople Berry}}
+{{Loot|Courage Candy Xl}}
+{{Span}}
+{{Loot|Cracked Pot}}
+{{Loot|Damp Rock}}
+{{Loot|Dawn Stone}}
+{{Loot|Dire Hit 3}}
+{{Loot|Discount Coupon}}
+{{Span}}
+{{Loot|Dna Splicers}}
+{{Loot|Dynamax Candy}}
+{{Loot|Electric Gem}}
+{{Loot|Elevator Key}}
+{{Loot|Exp Candy Xl}}
+{{Span}}
+{{Loot|Full Restore}}
+{{Loot|Gigantamix}}
+{{Loot|Gold Bottle Cap}}
+{{Loot|Griseous Orb}}
+{{Loot|Health Candy}}
+{{Span}}
+{{Loot|Iron}}
+{{Loot|Leftovers}}
+{{Loot|Life Orb}}
+{{Loot|Lucky Egg}}
+{{Loot|Lustrous Orb}}
+{{Span}}
+{{Loot|Master Ball}}
+{{Loot|Max Honey}}
+{{Loot|Never Melt Ice}}
+{{Loot|Odd Keystone}}
+{{Loot|Park Ball}}
+{{Span}}
+{{Loot|Pewter Crunchies}}
+{{Loot|Poison Barb}}
+{{Loot|Pp Max}}
+{{Loot|Psychic Gem}}
+{{Loot|Quick Candy Xl}}
+{{Span}}
+{{Loot|Rare Bone}}
+{{Loot|Rare Candy}}
+{{Loot|Red Card}}
+{{Loot|Relic Band}}
+{{Loot|Relic Crown}}
+{{Span}}
+{{Loot|Relic Statue}}
+{{Loot|Relic Vase}}
+{{Loot|Rocky Helmet}}
+{{Loot|Soul Dew}}
+{{Loot|Toxic Orb}}
+{{Span}}
+{{Loot|Wishing Piece}}
+{{Loot|X Accuracy 6}}
+{{Loot|Nether Star}}
+{{Loot|Trident}}
+{{Loot|Nautilus Shell}}
+{{Span}}
+{{Loot|Netherite Scrap}}
+{{Loot|Music Disc Otherside}}
+{{Loot|Rusty Fragment}}
+{{Loot|Scroll Page}}
+{{Loot|Orb}}
+{{Span}}
+{{Loot|Rainbow Wing}}
+{{Loot|Sinister Wing}}
+{{Loot|Fiery Wing}}
+{{Loot|Health Feather}}
+{{Loot|Belligerent Wing}}
+{{Span}}
+{{Loot|Elegant Wing}}
+{{Loot|Icy Wing}}
+{{Loot|Static Wing}}
+{{Loot|Silver Wing}}
+{{Loot|Lava Crystal}}
+{{Span}}
+{{Loot|Exp Candy Xl}}
+{{Loot|Draco Plate}}
+{{Loot|Dread Plate}}
+{{Loot|Earth Plate}}
+{{Loot|Fist Plate}}
+{{Span}}
+{{Loot|Flame Plate}}
+{{Loot|Icicle Plate}}
+{{Loot|Insect Plate}}
+{{Loot|Iron Plate}}
+{{Loot|Meadow Plate}}
+{{Span}}
+{{Loot|Mind Plate}}
+{{Loot|Pixie Plate}}
+{{Loot|Sky Plate}}
+{{Loot|Splash Plate}}
+{{Loot|Spooky Plate}}
+{{Span}}
+{{Loot|Stone Plate}}
+{{Loot|Toxic Plate}}
+{{Loot|Zap Plate}}
+{{Loot|Legend Plate}}
+{{Loot|Sparkling Shard}}
+{{Span}}
+{{Loot|Mirror}}
+{{Loot|Dark Soul}}
+{{Loot|Light Soul}}
+{{Loot|Meteorite Shard}}
+{{Loot|Mew Dna Fiber}}
+{{Span}}
+{{Loot|Lustrous Globe}}
+{{Loot|Griseous Core}}
+{{Loot|Adamant Crystal}}
+{{LootTm|Electric|9}}
+{{LootTm|Electric|23}}
+{{Span}}
+{{LootTm|Electric|48}}
+{{LootTm|Electric|68}}
+{{LootTm|Electric|72}}
+{{LootTm|Electric|82}}
+{{LootTm|Electric|96}}
+{{Span}}
+{{LootTm|Electric|126}}
+{{LootTm|Electric|136}}
+{{LootTm|Electric|147}}
+{{LootTm|Electric|166}}
+{{Loot|Mew Fossil}}
+{{Pokeloot Table Bottom
+|locations=
+|Mostly found in the wild and [[structures]]. Exact data is expected to be added to these pages soon.}}

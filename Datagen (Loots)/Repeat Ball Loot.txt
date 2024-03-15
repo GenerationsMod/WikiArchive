@@ -1,0 +1,129 @@
+{{Pokeloot Table|Repeat|max=3}}
+{{Loot|Poke Ball}}
+{{Loot|Air Balloon}}
+{{Loot|Binding Band}}
+{{Loot|Cell Battery}}
+{{Loot|Chople Berry}}
+{{Span}}
+{{Loot|Sinister Wing}}
+{{Loot|Colbur Berry}}
+{{Loot|Custap Berry}}
+{{Loot|Eject Button}}
+{{Loot|Electric Seed}}
+{{Span}}
+{{Loot|Fast Ball}}
+{{Loot|Focus Band}}
+{{Loot|Focus Sash}}
+{{Loot|Fried Food}}
+{{Loot|Grassy Seed}}
+{{Span}}
+{{Loot|Guard Spec}}
+{{Loot|Heavy Ball}}
+{{Loot|Hyper Potion}}
+{{Loot|Item Urge}}
+{{Loot|Lone Earring}}
+{{Span}}
+{{Loot|Max Repel}}
+{{Loot|Misty Seed}}
+{{Loot|Old Gateau}}
+{{Loot|Passho Berry}}
+{{Loot|Power Plant Pass}}
+{{Span}}
+{{Loot|Protein}}
+{{Loot|Psychic Seed}}
+{{Loot|Red Card}}
+{{Loot|Repeat Ball}}
+{{Loot|Revive}}
+{{Span}}
+{{Loot|Smoke Ball}}
+{{Loot|Tin Of Beans}}
+{{Loot|X Attack 6}}
+{{Loot|X Defense 2}}
+{{Loot|X Special Attack}}
+{{Span}}
+{{Loot|X Special Defense 3}}
+{{Loot|X Speed}}
+{{Loot|Yellow Shard}}
+{{Loot|Zinc}}
+{{Loot|Black Apricorn}}
+{{Span}}
+{{Loot|Blue Apricorn}}
+{{Loot|Green Apricorn}}
+{{Loot|Pink Apricorn}}
+{{Loot|Red Apricorn}}
+{{Loot|White Apricorn}}
+{{Span}}
+{{Loot|Yellow Apricorn}}
+{{Loot|String}}
+{{Loot|Music Disc Mall}}
+{{Loot|Cascarrafa City Disc}}
+{{Loot|Slumbering Weald Disc}}
+{{Span}}
+{{Loot|Pokemon Center Disc}}
+{{Loot|Azalea Town Disc}}
+{{Loot|Lillie Disc}}
+{{Loot|Route 228 Disc}}
+{{Loot|Jubilife Village Disc}}
+{{Span}}
+{{Loot|Goldenrod City Disc}}
+{{Loot|Eterna City Disc}}
+{{Loot|Vermilion City Disc}}
+{{Loot|Fragmented Drago Key 1}}
+{{Loot|Fragmented Drago Key 2}}
+{{Span}}
+{{Loot|Fragmented Drago Key 3}}
+{{Loot|Fragmented Drago Key 4}}
+{{Loot|Fighting Candy}}
+{{Loot|Film}}
+{{Loot|Camera}}
+{{Span}}
+{{Loot|Pokemail Orange}}
+{{Loot|Pokemail Reply}}
+{{Loot|Pokemail Retro}}
+{{Loot|Pokemail Rsvp}}
+{{Loot|Pokemail Shadow}}
+{{Span}}
+{{Loot|Pokemail Snow}}
+{{Loot|Pokemail Space}}
+{{Loot|Pokemail Steel}}
+{{Loot|Pokemail Thanks}}
+{{Loot|Pokemail Tropic}}
+{{Span}}
+{{Loot|Pokemail Tunnel}}
+{{Loot|Pokemail Wave}}
+{{Loot|Pokemail Wood}}
+{{LootTm|Fighting|12}}
+{{LootTm|Fighting|39}}
+{{Span}}
+{{LootTm|Fighting|58}}
+{{LootTm|Fighting|64}}
+{{LootTm|Fighting|73}}
+{{LootTm|Fighting|89}}
+{{LootTm|Fighting|112}}
+{{Span}}
+{{LootTm|Fighting|134}}
+{{LootTm|Fighting|158}}
+{{LootTm|Fighting|167}}
+{{LootTm|Normal|172}}
+{{LootTm|Normal|183}}
+{{Span}}
+{{LootTm|Normal|191}}
+{{LootTm|Normal|193}}
+{{LootTm|Normal|202}}
+{{LootTm|Normal|203}}
+{{LootTm|Normal|204}}
+{{Span}}
+{{LootTm|Normal|205}}
+{{LootTm|Electric|173}}
+{{LootTm|Electric|210}}
+{{LootTm|Electric|211}}
+{{LootTm|Bug|182}}
+{{Span}}
+{{LootTm|Bug|185}}
+{{LootTm|Bug|219}}
+{{Loot}}
+{{Loot}}
+{{Loot}}
+{{Pokeloot Table Bottom
+|locations=
+|Mostly found in the wild and [[structures]]. Exact data is expected to be added to these pages soon.}}

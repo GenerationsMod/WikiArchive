@@ -1,0 +1,9 @@
+{{ItemInfobox|item=TM 24|id=tm_24|left=y
+
+}}
+{{DescBox|
+
+Teaches the move Fire Spin
+
+|drop1={{DropLoot|dream=y|leaden=y|park=y}}
+}}

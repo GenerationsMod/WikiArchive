@@ -1,355 +1,278 @@
 {
   "pools": [
     {
-
+      "bonus rolls": 0.0,
       "entries": [
         {
-
           "name": "poke ball"
         },
         {
-
           "name": "aguav berry"
         },
         {
-
           "name": "antidote"
         },
         {
-
           "name": "aspear berry"
         },
         {
-
           "name": "awakening"
         },
         {
-
           "name": "berry juice"
         },
         {
-
           "name": "big root"
         },
         {
-
           "name": "black sludge"
         },
         {
-
           "name": "blue scarf"
         },
         {
-
           "name": "brittle bones"
         },
         {
-
           "name": "burn heal"
         },
         {
-
           "name": "casteliacone"
         },
         {
-
           "name": "cheri berry"
         },
         {
-
           "name": "chesto berry"
         },
         {
-
           "name": "cleanse tag"
         },
         {
-
           "name": "coconut milk"
         },
         {
-
           "name": "courage candy"
         },
         {
-
           "name": "custap berry"
         },
         {
-
           "name": "dream ball"
         },
         {
-
           "name": "eject pack"
         },
         {
-
           "name": "elixir"
         },
         {
-
           "name": "energy powder"
         },
         {
-
           "name": "enigma berry"
         },
         {
-
           "name": "figy berry"
         },
         {
-
           "name": "fresh water"
         },
         {
-
           "name": "full heal"
         },
         {
-
           "name": "full restore"
         },
         {
-
           "name": "great ball"
         },
         {
-
           "name": "guard spec"
         },
         {
-
           "name": "heal ball"
         },
         {
-
           "name": "heal powder"
         },
         {
-
           "name": "hp up"
         },
         {
-
           "name": "hyper potion"
         },
         {
-
           "name": "ice heal"
         },
         {
-
           "name": "lansat berry"
         },
         {
-
           "name": "lemonade"
         },
         {
-
           "name": "leppa berry"
         },
         {
-
           "name": "lum berry"
         },
         {
-
           "name": "mago berry"
         },
         {
-
           "name": "max potion"
         },
         {
-
           "name": "max revive"
         },
         {
-
           "name": "moomoo milk"
         },
         {
-
           "name": "old gateau"
         },
         {
-
           "name": "paralyze heal"
         },
         {
-
           "name": "pinap berry"
         },
         {
-
           "name": "purple nectar"
         },
         {
-
           "name": "rage candy bar"
         },
         {
-
           "name": "revive"
         },
         {
-
           "name": "salac berry"
         },
         {
-
           "name": "shalour sable"
         },
         {
-
           "name": "shed shell"
         },
         {
-
           "name": "soda pop"
         },
         {
-
           "name": "super potion"
         },
         {
-
           "name": "tamato berry"
         },
         {
-
           "name": "poison candy"
         },
         {
-
           "name": "fairy candy"
         },
         {
-
           "name": "x special defense 2"
         },
         {
-
           "name": "x speed 2"
         },
         {
-
-          "name": "minecraft:milk bucket"
+          "name": "milk bucket"
         },
         {
-
-          "name": "minecraft:music disc mellohi"
+          "name": "music disc mellohi"
         },
         {
-
+          "name": "totem of undying"
+        },
+        {
           "name": "hoopa ring"
         },
         {
-
           "name": "gracidea"
         },
         {
-
           "name": "exp candy s"
         },
         {
-
           "name": "cascarrafa city disc"
         },
         {
-
           "name": "slumbering weald disc"
         },
         {
-
           "name": "pokemon center disc"
         },
         {
-
           "name": "azalea town disc"
         },
         {
-
           "name": "lillie disc"
         },
         {
-
           "name": "route 228 disc"
         },
         {
-
           "name": "jubilife village disc"
         },
         {
-
           "name": "goldenrod city disc"
         },
         {
-
           "name": "eterna city disc"
         },
         {
-
           "name": "vermilion city disc"
         },
         {
-
           "name": "tm 13"
         },
         {
-
           "name": "tm 26"
         },
         {
-
           "name": "tm 45"
         },
         {
-
           "name": "tm 83"
         },
         {
-
           "name": "tm 91"
         },
         {
-
           "name": "tm 102"
         },
         {
-
           "name": "tm 148"
         },
         {
-
           "name": "tm 2"
         },
         {
-
           "name": "tm 19"
         },
         {
-
           "name": "tm 37"
         },
         {
-
           "name": "tm 79"
         },
         {
-
           "name": "tm 127"
         },
         {
-
           "name": "tm 139"
+        },
+        {
+          "name": "tm 201"
+        },
+        {
+          "name": "tm 227"
         }
       ],
       "rolls": {
-        "type": "minecraft:uniform",
+        "type": "uniform",
         "max": 2.0,
         "min": 1.0
       }

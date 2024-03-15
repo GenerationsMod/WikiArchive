@@ -1,0 +1,9 @@
+{{ItemInfobox|item=TM 90|id=tm_90|left=y
+
+}}
+{{DescBox|
+
+Teaches the move Spikes/
+
+|drop1={{DropLoot|great=y|lure=y|safari=y}}
+}}
