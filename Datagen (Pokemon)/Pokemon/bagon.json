@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Bagon",
   "nationalPokedexNumber": 371,
   "primaryType": "dragon",
@@ -58,8 +57,10 @@
     "tm:confide",
     "tm:crunch",
     "tm:cut",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragondance",
     "tm:dragonpulse",
@@ -189,5 +190,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

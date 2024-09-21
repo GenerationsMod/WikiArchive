@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Dipplin",
   "nationalPokedexNumber": 1011,
   "primaryType": "grass",
@@ -55,6 +54,7 @@
     "tm:bugbite",
     "tm:bulletseed",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonpulse",
     "tm:dragontail",
     "tm:endure",
@@ -89,6 +89,19 @@
   "height": 4,
   "weight": 44,
   "preEvolution": "applin",
-  "evolutions": [],
-  "cannotDynamax": false
+  "evolutions": [
+    {
+      "id": "dipplin_hydrapple",
+      "variant": "item_interact",
+      "result": "hydrapple",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "ficklebeam"
+      ],
+      "requirements": [],
+      "requiredContext": "minecraft:golden_apple"
+    }
+  ],
+  "cannotDynamax": false,
+  "implemented": true
 }

@@ -7,17 +7,37 @@
             "id": "carracosta-1",
             "pokemon": "carracosta",
             "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "37-57",
+            "weight": 1.0,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "#cobblemon:is_lush"
+                ]
+            }
+        },
+        {
+            "id": "carracosta-2",
+            "pokemon": "carracosta",
+            "presets": [
                 "underwater"
             ],
             "type": "pokemon",
-            "context": "seafloor",
-            "bucket": "rare",
-            "level": "40-55",
-            "weight": 9.9,
+            "context": "submerged",
+            "bucket": "ultra-rare",
+            "level": "37-57",
+            "weight": 1.0,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
                 "biomes": [
-                    "#minecraft:is_ocean"
+                    "#cobblemon:is_lush"
                 ]
             }
         }

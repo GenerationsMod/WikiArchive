@@ -49,10 +49,6 @@
       {
         "item": "cobblemon:chesto_berry",
         "percentage": 2.5
-      },
-      {
-        "item": "generations_core:wailmer_doll",
-        "percentage": 1.0
       }
     ]
   },

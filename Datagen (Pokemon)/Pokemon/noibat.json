@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Noibat",
   "nationalPokedexNumber": 714,
   "primaryType": "flying",
@@ -67,6 +66,7 @@
     "tm:dragonclaw",
     "tm:dragonpulse",
     "tm:dreameater",
+    "tm:dualwingbeat",
     "tm:echoedvoice",
     "tm:endure",
     "tm:facade",
@@ -95,6 +95,7 @@
     "tm:steelwing",
     "tm:substitute",
     "tm:sunnyday",
+    "tm:superfang",
     "tm:swagger",
     "tm:swift",
     "tm:tailwind",
@@ -167,12 +168,17 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 1,
+    "amount": 2,
     "entries": [
+      {
+        "item": "minecraft:phantom_membrane",
+        "percentage": 2.5
+      },
       {
         "item": "cobblemon:yache_berry",
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

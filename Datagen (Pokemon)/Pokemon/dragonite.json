@@ -29,11 +29,15 @@
   "behaviour": {
     "moving": {
       "swim": {
+        "canWalkOnWater": true,
         "canSwimInWater": true,
         "canBreatheUnderwater": true
       },
       "fly": {
         "canFly": true
+      },
+      "walk": {
+        "walkSpeed": 0.2
       }
     }
   },
@@ -55,10 +59,6 @@
       {
         "item": "cobblemon:yache_berry",
         "percentage": 10.0
-      },
-      {
-        "item": "generations_core:dragon_soul",
-        "percentage": 5.0
       }
     ]
   },
@@ -104,6 +104,7 @@
     "tm:dive",
     "tm:doubleteam",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragondance",
     "tm:dragonpulse",
@@ -123,6 +124,7 @@
     "tm:frustration",
     "tm:gigaimpact",
     "tm:hail",
+    "tm:haze",
     "tm:heatwave",
     "tm:helpinghand",
     "tm:hiddenpower",
@@ -157,6 +159,7 @@
     "tm:round",
     "tm:safeguard",
     "tm:sandstorm",
+    "tm:scaleshot",
     "tm:scaryface",
     "tm:secretpower",
     "tm:shockwave",
@@ -184,6 +187,7 @@
     "tm:toxic",
     "tm:waterfall",
     "tm:waterpulse",
+    "tm:weatherball",
     "tm:whirlpool",
     "tutor:agility",
     "tutor:aircutter",

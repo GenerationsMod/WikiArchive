@@ -8,7 +8,7 @@
     "h:waterabsorb"
   ],
   "drops": {
-    "amount": 3,
+    "amount": 4,
     "entries": [
       {
         "item": "minecraft:cactus",
@@ -20,6 +20,10 @@
       },
       {
         "item": "cobblemon:tanga_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:sticky_barb",
         "percentage": 2.5
       }
     ]
@@ -100,12 +104,14 @@
     "tm:bulletseed",
     "tm:captivate",
     "tm:confide",
+    "tm:curse",
     "tm:cut",
     "tm:darkpulse",
     "tm:dig",
     "tm:doubleteam",
     "tm:drainpunch",
     "tm:encore",
+    "tm:endeavor",
     "tm:endure",
     "tm:energyball",
     "tm:facade",
@@ -116,6 +122,7 @@
     "tm:frustration",
     "tm:gigadrain",
     "tm:grassknot",
+    "tm:grassyglide",
     "tm:grassyterrain",
     "tm:helpinghand",
     "tm:hiddenpower",
@@ -137,9 +144,11 @@
     "tm:scaryface",
     "tm:secretpower",
     "tm:seedbomb",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:solarbeam",
     "tm:spikes",
+    "tm:spite",
     "tm:substitute",
     "tm:sunnyday",
     "tm:swagger",
@@ -148,6 +157,7 @@
     "tm:takedown",
     "tm:terablast",
     "tm:thief",
+    "tm:throatchop",
     "tm:thunderpunch",
     "tm:toxic",
     "tm:toxicspikes",
@@ -213,8 +223,8 @@
   ],
   "baseScale": 0.7,
   "hitbox": {
-    "width": 0.9,
-    "height": 0.9,
+    "width": 0.65,
+    "height": 0.75,
     "fixed": false
   },
   "baseFriendship": 35,

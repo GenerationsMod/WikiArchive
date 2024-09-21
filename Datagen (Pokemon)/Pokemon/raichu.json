@@ -8,8 +8,12 @@
     "h:lightningrod"
   ],
   "drops": {
-    "amount": 2,
+    "amount": 3,
     "entries": [
+      {
+        "item": "cobblemon:light_ball",
+        "percentage": 10.0
+      },
       {
         "item": "cobblemon:thunder_stone",
         "percentage": 10.0
@@ -43,9 +47,6 @@
   "maleRatio": 0.5,
   "shoulderMountable": false,
   "forms": [
-    {
-      "name": "base"
-    },
     {
       "name": "Alola",
       "primaryType": "electric",
@@ -104,11 +105,13 @@
         "1:thunderwave",
         "5:thunderbolt",
         "tm:agility",
+        "tm:alluringvoice",
         "tm:allyswitch",
         "tm:attract",
         "tm:bodyslam",
         "tm:brickbreak",
         "tm:calmmind",
+        "tm:charge",
         "tm:chargebeam",
         "tm:charm",
         "tm:confide",
@@ -121,10 +124,14 @@
         "tm:electroball",
         "tm:electroweb",
         "tm:encore",
+        "tm:endeavor",
         "tm:endure",
+        "tm:expandingforce",
         "tm:facade",
+        "tm:faketears",
         "tm:fling",
         "tm:focusblast",
+        "tm:focuspunch",
         "tm:frustration",
         "tm:futuresight",
         "tm:gigaimpact",
@@ -133,6 +140,7 @@
         "tm:hiddenpower",
         "tm:hyperbeam",
         "tm:irontail",
+        "tm:knockoff",
         "tm:lightscreen",
         "tm:magicroom",
         "tm:megakick",
@@ -142,6 +150,7 @@
         "tm:playrough",
         "tm:protect",
         "tm:psychic",
+        "tm:psychicnoise",
         "tm:psychicterrain",
         "tm:psyshock",
         "tm:raindance",
@@ -169,6 +178,7 @@
         "tm:thunderwave",
         "tm:toxic",
         "tm:trailblaze",
+        "tm:upperhand",
         "tm:uproar",
         "tm:voltswitch",
         "tm:wildcharge",
@@ -226,8 +236,7 @@
       ],
       "height": 7,
       "weight": 210,
-      "preEvolution": "pikachu alolan",
-      "evolutions": [],
+      "preEvolution": "pikachu region_bias=alola",
       "baseScale": 0.75,
       "hitbox": {
         "width": 0.8,
@@ -235,7 +244,24 @@
         "fixed": false
       },
       "cannotDynamax": false,
-      "battleOnly": false
+      "battleOnly": false,
+      "drops": {
+        "amount": 3,
+        "entries": [
+          {
+            "item": "cobblemon:light_ball",
+            "percentage": 10.0
+          },
+          {
+            "item": "cobblemon:thunder_stone",
+            "percentage": 10.0
+          },
+          {
+            "item": "cobblemon:oran_berry",
+            "percentage": 10.0
+          }
+        ]
+      }
     }
   ],
   "baseExperienceYield": 243,
@@ -268,11 +294,13 @@
     "1:thunderwave",
     "5:thunderbolt",
     "tm:agility",
+    "tm:alluringvoice",
     "tm:attract",
     "tm:bodyslam",
     "tm:brickbreak",
     "tm:brutalswing",
     "tm:captivate",
+    "tm:charge",
     "tm:chargebeam",
     "tm:charm",
     "tm:confide",
@@ -286,8 +314,10 @@
     "tm:electroball",
     "tm:electroweb",
     "tm:encore",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
+    "tm:faketears",
     "tm:flash",
     "tm:fling",
     "tm:focusblast",
@@ -299,6 +329,7 @@
     "tm:hiddenpower",
     "tm:hyperbeam",
     "tm:irontail",
+    "tm:knockoff",
     "tm:lightscreen",
     "tm:megakick",
     "tm:megapunch",
@@ -334,6 +365,7 @@
     "tm:thunderwave",
     "tm:toxic",
     "tm:trailblaze",
+    "tm:upperhand",
     "tm:uproar",
     "tm:voltswitch",
     "tm:wildcharge",

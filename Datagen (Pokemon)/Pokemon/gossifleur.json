@@ -91,10 +91,10 @@
       ]
     }
   ],
-  "baseScale": 1,
+  "baseScale": 0.5,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 0.6,
+    "height": 0.9,
     "fixed": false
   },
   "baseFriendship": 50,
@@ -111,23 +111,11 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 2,
+    "amount": 1,
     "entries": [
       {
         "item": "cobblemon:coba_berry",
         "percentage": 2.5
-      },
-      {
-        "item": "generations_core:orange_petal",
-        "percentage": 10.0
-      },
-      {
-        "item": "generations_core:yellow_petal",
-        "percentage": 10.0
-      },
-      {
-        "item": "generations_core:red_petal",
-        "percentage": 10.0
       }
     ]
   }

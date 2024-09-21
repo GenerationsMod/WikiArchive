@@ -19,24 +19,6 @@
                     "#cobblemon:is_sandy"
                 ]
             }
-        },
-        {
-            "id": "sandslash-alolan-1",
-            "pokemon": "sandslash alolan",
-            "presets": [
-                "natural"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "common",
-            "level": "22-45",
-            "weight": 9.0,
-            "condition": {
-                "canSeeSky": true,
-                "biomes": [
-                    "#cobblemon:is_cold"
-                ]
-            }
         }
     ]
 }

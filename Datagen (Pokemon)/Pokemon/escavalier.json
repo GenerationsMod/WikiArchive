@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Escavalier",
   "nationalPokedexNumber": 589,
   "primaryType": "bug",
@@ -150,5 +149,6 @@
   "height": 10,
   "weight": 330,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

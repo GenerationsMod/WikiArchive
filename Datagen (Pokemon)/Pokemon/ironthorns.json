@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Iron Thorns",
   "nationalPokedexNumber": 995,
   "primaryType": "rock",
@@ -54,11 +53,15 @@
     "tm:blizzard",
     "tm:bodypress",
     "tm:bodyslam",
+    "tm:breakingswipe",
     "tm:brickbreak",
     "tm:bulldoze",
+    "tm:charge",
     "tm:chargebeam",
     "tm:crunch",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:dragonclaw",
     "tm:dragondance",
     "tm:dragontail",
@@ -67,6 +70,7 @@
     "tm:eerieimpulse",
     "tm:electricterrain",
     "tm:electroball",
+    "tm:electroweb",
     "tm:endure",
     "tm:facade",
     "tm:fireblast",
@@ -77,6 +81,7 @@
     "tm:focusblast",
     "tm:gigaimpact",
     "tm:heavyslam",
+    "tm:highhorsepower",
     "tm:hyperbeam",
     "tm:icebeam",
     "tm:icefang",
@@ -85,6 +90,7 @@
     "tm:ironhead",
     "tm:lowkick",
     "tm:metalclaw",
+    "tm:meteorbeam",
     "tm:powergem",
     "tm:protect",
     "tm:raindance",
@@ -93,7 +99,10 @@
     "tm:rockslide",
     "tm:rocktomb",
     "tm:sandstorm",
+    "tm:sandtomb",
     "tm:scaryface",
+    "tm:sleeptalk",
+    "tm:smackdown",
     "tm:snarl",
     "tm:spikes",
     "tm:stealthrock",
@@ -101,6 +110,7 @@
     "tm:stoneedge",
     "tm:substitute",
     "tm:sunnyday",
+    "tm:supercellslam",
     "tm:swordsdance",
     "tm:takedown",
     "tm:taunt",
@@ -111,11 +121,7 @@
     "tm:thunderpunch",
     "tm:thunderwave",
     "tm:voltswitch",
-    "tm:wildcharge",
-    "tutor:bite",
-    "tutor:charge",
-    "tutor:rockslide",
-    "tutor:sandstorm"
+    "tm:wildcharge"
   ],
   "labels": [
     "gen9",
@@ -128,5 +134,6 @@
   "cannotDynamax": false,
   "pokedex": [
     "cobblemon.species.ironthorns.desc"
-  ]
+  ],
+  "implemented": true
 }

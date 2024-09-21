@@ -7,16 +7,49 @@
             "id": "morgrem-1",
             "pokemon": "morgrem",
             "presets": [
-                "natural"
+                "natural",
+                "wild"
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "rare",
-            "level": "32-48",
-            "weight": 4.0,
+            "bucket": "common",
+            "level": "32-37",
+            "weight": 0.54,
+            "weightMultiplier": {
+                "multiplier": 1.5,
+                "condition": {
+                    "timeRange": "night"
+                }
+            },
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#cobblemon:is_magical"
+                ]
+            }
+        },
+        {
+            "id": "morgrem-2",
+            "pokemon": "morgrem",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "32-37",
+            "weight": 0.54,
             "condition": {
                 "biomes": [
-                    "#cobblemon:is_spooky"
+                    "#cobblemon:nether/is_forest",
+                    "#cobblemon:nether/is_warped"
+                ]
+            },
+            "anticondition": {
+                "biomes": [
+                    "#cobblemon:nether/is_desert"
                 ]
             }
         }

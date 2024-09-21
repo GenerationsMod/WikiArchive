@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Sunkern",
   "nationalPokedexNumber": 191,
   "primaryType": "grass",
@@ -60,10 +59,13 @@
     "tm:bulletseed",
     "tm:captivate",
     "tm:confide",
+    "tm:curse",
     "tm:cut",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthpower",
     "tm:encore",
+    "tm:endeavor",
     "tm:endure",
     "tm:energyball",
     "tm:facade",
@@ -98,6 +100,7 @@
     "tm:terablast",
     "tm:toxic",
     "tm:trailblaze",
+    "tm:weatherball",
     "tutor:absorb",
     "tutor:afteryou",
     "tutor:attract",
@@ -181,5 +184,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

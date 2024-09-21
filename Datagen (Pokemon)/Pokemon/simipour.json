@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Simipour",
   "nationalPokedexNumber": 516,
   "primaryType": "water",
@@ -138,5 +137,6 @@
   "height": 10,
   "weight": 290,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

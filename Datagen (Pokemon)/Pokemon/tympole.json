@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Tympole",
   "nationalPokedexNumber": 535,
   "primaryType": "water",
@@ -153,5 +152,6 @@
   "height": 5,
   "weight": 45,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

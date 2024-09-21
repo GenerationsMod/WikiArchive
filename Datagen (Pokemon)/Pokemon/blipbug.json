@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Blipbug",
   "nationalPokedexNumber": 824,
   "primaryType": "bug",
@@ -84,5 +83,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

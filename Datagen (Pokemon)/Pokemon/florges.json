@@ -15,6 +15,19 @@
     "special_defence": 154,
     "speed": 75
   },
+  "behaviour": {
+    "moving": {
+      "fly": {
+        "canFly": true
+      }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  },
   "catchRate": 45,
   "maleRatio": 0,
   "shoulderMountable": false,
@@ -40,16 +53,19 @@
     "1:synthesis",
     "1:wish",
     "5:moonblast",
+    "tm:alluringvoice",
     "tm:attract",
     "tm:batonpass",
     "tm:calmmind",
     "tm:charm",
+    "tm:chillingwater",
     "tm:confide",
     "tm:dazzlinggleam",
     "tm:disarmingvoice",
     "tm:doubleteam",
     "tm:drainingkiss",
     "tm:echoedvoice",
+    "tm:endeavor",
     "tm:endure",
     "tm:energyball",
     "tm:facade",
@@ -65,11 +81,14 @@
     "tm:lightscreen",
     "tm:magicalleaf",
     "tm:metronome",
+    "tm:mistyexplosion",
     "tm:mistyterrain",
     "tm:naturepower",
+    "tm:petalblizzard",
     "tm:pollenpuff",
     "tm:protect",
     "tm:psychic",
+    "tm:psychicnoise",
     "tm:raindance",
     "tm:rest",
     "tm:return",
@@ -111,10 +130,10 @@
   ],
   "preEvolution": "floette",
   "evolutions": [],
-  "baseScale": 1,
+  "baseScale": 0.7,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 1.3,
+    "height": 2.6,
     "fixed": false
   },
   "baseFriendship": 70,
@@ -131,26 +150,14 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 2,
+    "amount": 4,
     "entries": [
       {
+        "item": "minecraft:poppy",
+        "quantityRange": "0-3"
+      },
+      {
         "item": "cobblemon:kebia_berry",
-        "percentage": 10.0
-      },
-      {
-        "item": "generations_core:blue_petal",
-        "percentage": 10.0
-      },
-      {
-        "item": "generations_core:red_petal",
-        "percentage": 10.0
-      },
-      {
-        "item": "generations_core:orange_petal",
-        "percentage": 10.0
-      },
-      {
-        "item": "generations_core:yellow_petal",
         "percentage": 10.0
       }
     ]

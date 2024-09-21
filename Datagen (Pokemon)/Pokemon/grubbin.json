@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Grubbin",
   "nationalPokedexNumber": 736,
   "primaryType": "bug",
@@ -42,29 +41,40 @@
     "egg:mudshot",
     "tm:acrobatics",
     "tm:attract",
+    "tm:batonpass",
+    "tm:bugbite",
+    "tm:charge",
     "tm:chargebeam",
     "tm:confide",
     "tm:crunch",
     "tm:dig",
     "tm:doubleteam",
+    "tm:electricterrain",
     "tm:electroweb",
     "tm:endure",
     "tm:facade",
     "tm:frustration",
     "tm:hiddenpower",
     "tm:lightscreen",
+    "tm:lunge",
     "tm:mudshot",
+    "tm:mudslap",
     "tm:poisonjab",
+    "tm:pounce",
     "tm:protect",
     "tm:raindance",
     "tm:rest",
     "tm:return",
     "tm:round",
     "tm:screech",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:snore",
+    "tm:strugglebug",
     "tm:substitute",
     "tm:swagger",
+    "tm:takedown",
+    "tm:terablast",
     "tm:thunderbolt",
     "tm:thunderwave",
     "tm:toxic",
@@ -122,7 +132,7 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 2,
+    "amount": 3,
     "entries": [
       {
         "item": "minecraft:string",
@@ -131,7 +141,12 @@
       {
         "item": "cobblemon:wepear_berry",
         "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:cell_battery",
+        "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Haxorus",
   "nationalPokedexNumber": 612,
   "primaryType": "dragon",
@@ -74,13 +73,16 @@
     "tm:crunch",
     "tm:cut",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragondance",
     "tm:dragonpulse",
     "tm:dragontail",
     "tm:earthquake",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:falseswipe",
@@ -112,6 +114,7 @@
     "tm:rocksmash",
     "tm:rocktomb",
     "tm:round",
+    "tm:scaleshot",
     "tm:scaryface",
     "tm:secretpower",
     "tm:shadowclaw",
@@ -178,5 +181,6 @@
   "height": 18,
   "weight": 1055,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

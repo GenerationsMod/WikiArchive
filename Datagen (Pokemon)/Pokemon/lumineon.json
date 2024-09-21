@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Lumineon",
   "nationalPokedexNumber": 457,
   "primaryType": "water",
@@ -9,7 +8,7 @@
     "h:waterveil"
   ],
   "drops": {
-    "amount": 3,
+    "amount": 4,
     "entries": [
       {
         "item": "minecraft:cod"
@@ -20,6 +19,10 @@
       },
       {
         "item": "cobblemon:rindo_berry",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:prism_scale",
         "percentage": 5.0
       }
     ]
@@ -64,6 +67,7 @@
     "tm:agility",
     "tm:aircutter",
     "tm:airslash",
+    "tm:alluringvoice",
     "tm:attract",
     "tm:blizzard",
     "tm:brine",
@@ -80,6 +84,7 @@
     "tm:endure",
     "tm:facade",
     "tm:flash",
+    "tm:flipturn",
     "tm:frustration",
     "tm:gigaimpact",
     "tm:hail",
@@ -157,5 +162,6 @@
   "height": 12,
   "weight": 240,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

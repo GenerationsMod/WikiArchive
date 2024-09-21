@@ -82,6 +82,7 @@
         "egg:meanlook",
         "egg:poweruppunch",
         "egg:pursuit",
+        "egg:recycle",
         "egg:scaryface",
         "egg:shadowsneak",
         "egg:spite",
@@ -95,6 +96,7 @@
         "tm:brutalswing",
         "tm:confide",
         "tm:crunch",
+        "tm:curse",
         "tm:darkpulse",
         "tm:dig",
         "tm:doubleteam",
@@ -118,9 +120,11 @@
         "tm:icepunch",
         "tm:imprison",
         "tm:infestation",
+        "tm:knockoff",
         "tm:metronome",
         "tm:mudshot",
         "tm:mudslap",
+        "tm:painsplit",
         "tm:payback",
         "tm:poisonjab",
         "tm:protect",
@@ -139,6 +143,7 @@
         "tm:sludgebomb",
         "tm:sludgewave",
         "tm:snarl",
+        "tm:spite",
         "tm:stoneedge",
         "tm:substitute",
         "tm:sunnyday",
@@ -206,7 +211,7 @@
         {
           "id": "grimer_muk",
           "variant": "level_up",
-          "result": "muk form=alola",
+          "result": "muk alolan",
           "consumeHeldItem": false,
           "learnableMoves": [],
           "requirements": [
@@ -218,7 +223,24 @@
         }
       ],
       "cannotDynamax": false,
-      "battleOnly": false
+      "battleOnly": false,
+      "drops": {
+        "amount": 3,
+        "entries": [
+          {
+            "item": "minecraft:slime_ball",
+            "quantityRange": "0-1"
+          },
+          {
+            "item": "cobblemon:black_sludge",
+            "percentage": 2.5
+          },
+          {
+            "item": "cobblemon:toxic_orb",
+            "percentage": 2.5
+          }
+        ]
+      }
     }
   ],
   "baseExperienceYield": 65,
@@ -235,7 +257,7 @@
     }
   },
   "drops": {
-    "amount": 2,
+    "amount": 3,
     "entries": [
       {
         "item": "minecraft:slime_ball",
@@ -243,6 +265,10 @@
       },
       {
         "item": "cobblemon:black_sludge",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:toxic_orb",
         "percentage": 2.5
       }
     ]
@@ -286,6 +312,7 @@
     "tm:captivate",
     "tm:confide",
     "tm:confuseray",
+    "tm:curse",
     "tm:dig",
     "tm:doubleteam",
     "tm:drainpunch",
@@ -299,6 +326,7 @@
     "tm:frustration",
     "tm:gigadrain",
     "tm:gunkshot",
+    "tm:haze",
     "tm:helpinghand",
     "tm:hex",
     "tm:hiddenpower",
@@ -310,6 +338,7 @@
     "tm:mudshot",
     "tm:mudslap",
     "tm:naturalgift",
+    "tm:painsplit",
     "tm:payback",
     "tm:poisonjab",
     "tm:poweruppunch",

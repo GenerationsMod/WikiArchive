@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Sandygast",
   "nationalPokedexNumber": 769,
   "primaryType": "ghost",
@@ -54,6 +53,7 @@
     "tm:chillingwater",
     "tm:confide",
     "tm:confuseray",
+    "tm:curse",
     "tm:doubleteam",
     "tm:earthpower",
     "tm:earthquake",
@@ -64,6 +64,7 @@
     "tm:fling",
     "tm:frustration",
     "tm:gigadrain",
+    "tm:gravity",
     "tm:hex",
     "tm:hiddenpower",
     "tm:imprison",
@@ -72,6 +73,8 @@
     "tm:mudshot",
     "tm:mudslap",
     "tm:nightshade",
+    "tm:painsplit",
+    "tm:poltergeist",
     "tm:protect",
     "tm:psychic",
     "tm:raindance",
@@ -84,11 +87,13 @@
     "tm:sandstorm",
     "tm:sandtomb",
     "tm:scaryface",
+    "tm:scorchingsands",
     "tm:shadowball",
     "tm:skillswap",
     "tm:sleeptalk",
     "tm:sludgebomb",
     "tm:snore",
+    "tm:spite",
     "tm:stealthrock",
     "tm:stoneedge",
     "tm:substitute",
@@ -166,5 +171,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

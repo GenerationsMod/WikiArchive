@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Guzzlord",
   "nationalPokedexNumber": 799,
   "primaryType": "dark",
@@ -163,5 +162,6 @@
         "quantityRange": "1-3"
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Registeel",
   "nationalPokedexNumber": 379,
   "primaryType": "steel",
@@ -50,6 +49,8 @@
     "tm:bulldoze",
     "tm:chargebeam",
     "tm:confide",
+    "tm:curse",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthquake",
     "tm:endure",
@@ -61,15 +62,21 @@
     "tm:focuspunch",
     "tm:frustration",
     "tm:gigaimpact",
+    "tm:gravity",
+    "tm:hardpress",
     "tm:heavyslam",
     "tm:hiddenpower",
     "tm:honeclaws",
     "tm:hyperbeam",
     "tm:icepunch",
+    "tm:icespinner",
     "tm:irondefense",
     "tm:ironhead",
     "tm:megakick",
     "tm:megapunch",
+    "tm:metalclaw",
+    "tm:metalsound",
+    "tm:meteorbeam",
     "tm:naturalgift",
     "tm:poweruppunch",
     "tm:protect",
@@ -93,12 +100,15 @@
     "tm:sleeptalk",
     "tm:snore",
     "tm:stealthrock",
+    "tm:steelbeam",
     "tm:stompingtantrum",
     "tm:strength",
     "tm:substitute",
     "tm:sunnyday",
     "tm:superpower",
     "tm:swagger",
+    "tm:takedown",
+    "tm:terablast",
     "tm:thunder",
     "tm:thunderbolt",
     "tm:thunderpunch",
@@ -185,9 +195,9 @@
     "amount": 1,
     "entries": [
       {
-        "item": "generations_core:registeel_doll",
-        "percentage": 100.0
+        "item": "cobblemon:metal_coat"
       }
     ]
-  }
+  },
+  "implemented": true
 }

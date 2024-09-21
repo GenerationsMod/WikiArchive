@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Salamence",
   "nationalPokedexNumber": 373,
   "primaryType": "dragon",
@@ -62,7 +61,6 @@
       ],
       "height": 18,
       "weight": 1126,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     }
@@ -108,12 +106,15 @@
     "tm:crunch",
     "tm:cut",
     "tm:defog",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragondance",
     "tm:dragonpulse",
     "tm:dragontail",
+    "tm:dualwingbeat",
     "tm:earthquake",
     "tm:endure",
     "tm:facade",
@@ -165,6 +166,7 @@
     "tm:swift",
     "tm:tailwind",
     "tm:takedown",
+    "tm:temperflare",
     "tm:terablast",
     "tm:thunderfang",
     "tm:toxic",
@@ -254,11 +256,8 @@
       {
         "item": "cobblemon:yache_berry",
         "percentage": 10.0
-      },
-      {
-        "item": "generations_core:dragon_soul",
-        "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

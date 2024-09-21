@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Silcoon",
   "nationalPokedexNumber": 266,
   "primaryType": "bug",
@@ -95,5 +94,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -201,8 +201,7 @@
       ],
       "height": 7,
       "weight": 255,
-      "preEvolution": "rattata form=alola",
-      "evolutions": [],
+      "preEvolution": "rattata alolan",
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -319,7 +318,6 @@
       ],
       "height": 14,
       "weight": 1050,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }

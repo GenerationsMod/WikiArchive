@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Palafin",
   "nationalPokedexNumber": 964,
   "primaryType": "water",
@@ -63,12 +62,17 @@
     "tm:drainingkiss",
     "tm:drainpunch",
     "tm:encore",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:fling",
+    "tm:flipturn",
     "tm:focusblast",
+    "tm:focuspunch",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:hardpress",
+    "tm:haze",
     "tm:helpinghand",
     "tm:hydropump",
     "tm:hyperbeam",
@@ -80,6 +84,7 @@
     "tm:liquidation",
     "tm:outrage",
     "tm:protect",
+    "tm:psychup",
     "tm:raindance",
     "tm:rest",
     "tm:reversal",
@@ -90,8 +95,10 @@
     "tm:takedown",
     "tm:taunt",
     "tm:terablast",
+    "tm:throatchop",
     "tm:waterfall",
     "tm:waterpulse",
+    "tm:whirlpool",
     "tm:zenheadbutt"
   ],
   "labels": [
@@ -120,6 +127,7 @@
       },
       "catchRate": 45,
       "maleRatio": 0.5,
+      "baseExperienceYield": 160,
       "baseFriendship": 50,
       "evYield": {
         "hp": 2,
@@ -135,7 +143,6 @@
         "field",
         "water_2"
       ],
-      "moves": [],
       "labels": [
         "gen9"
       ],
@@ -144,7 +151,6 @@
       ],
       "height": 18,
       "weight": 974,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     }
@@ -160,5 +166,6 @@
         "quantityRange": "0-2"
       }
     ]
-  }
+  },
+  "implemented": true
 }

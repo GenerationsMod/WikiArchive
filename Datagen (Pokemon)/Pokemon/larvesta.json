@@ -75,9 +75,11 @@
     "tm:amnesia",
     "tm:attract",
     "tm:bodyslam",
+    "tm:bugbite",
     "tm:bugbuzz",
     "tm:calmmind",
     "tm:confide",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:endure",
     "tm:facade",
@@ -93,6 +95,7 @@
     "tm:incinerate",
     "tm:leechlife",
     "tm:lightscreen",
+    "tm:lunge",
     "tm:overheat",
     "tm:pounce",
     "tm:protect",
@@ -103,6 +106,7 @@
     "tm:safeguard",
     "tm:screech",
     "tm:secretpower",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:snore",
     "tm:solarbeam",
@@ -151,10 +155,10 @@
       ]
     }
   ],
-  "baseScale": 1,
+  "baseScale": 0.8,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 1.2,
+    "height": 0.85,
     "fixed": false
   },
   "baseFriendship": 50,

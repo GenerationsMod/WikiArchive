@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Swirlix",
   "nationalPokedexNumber": 684,
   "primaryType": "fairy",
@@ -151,5 +150,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

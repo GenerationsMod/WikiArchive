@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Simisage",
   "nationalPokedexNumber": 512,
   "primaryType": "grass",
@@ -135,5 +134,6 @@
   "height": 11,
   "weight": 305,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

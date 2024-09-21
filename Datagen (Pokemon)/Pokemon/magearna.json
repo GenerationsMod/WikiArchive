@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Magearna",
   "nationalPokedexNumber": 801,
   "primaryType": "steel",
@@ -95,6 +94,7 @@
         "tm:focusblast",
         "tm:gigaimpact",
         "tm:grassknot",
+        "tm:gravity",
         "tm:guardswap",
         "tm:gyroball",
         "tm:heavyslam",
@@ -106,7 +106,10 @@
         "tm:irondefense",
         "tm:ironhead",
         "tm:lightscreen",
+        "tm:metalsound",
+        "tm:mistyexplosion",
         "tm:mistyterrain",
+        "tm:painsplit",
         "tm:playrough",
         "tm:powerswap",
         "tm:protect",
@@ -157,7 +160,6 @@
       ],
       "height": 10,
       "weight": 805,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -224,6 +226,7 @@
     "tm:frustration",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:gravity",
     "tm:guardswap",
     "tm:gyroball",
     "tm:heavyslam",
@@ -236,7 +239,10 @@
     "tm:irondefense",
     "tm:ironhead",
     "tm:lightscreen",
+    "tm:metalsound",
+    "tm:mistyexplosion",
     "tm:mistyterrain",
+    "tm:painsplit",
     "tm:playrough",
     "tm:powerswap",
     "tm:protect",
@@ -317,5 +323,6 @@
   "height": 10,
   "weight": 805,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

@@ -62,7 +62,6 @@
       ],
       "height": 5,
       "weight": 1610,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     }
@@ -91,10 +90,6 @@
       {
         "item": "cobblemon:roseli_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:sableye_doll",
-        "percentage": 1.0
       }
     ]
   },
@@ -163,6 +158,7 @@
     "tm:frustration",
     "tm:gigadrain",
     "tm:gigaimpact",
+    "tm:gravity",
     "tm:gyroball",
     "tm:helpinghand",
     "tm:hex",
@@ -173,6 +169,8 @@
     "tm:icywind",
     "tm:imprison",
     "tm:incinerate",
+    "tm:knockoff",
+    "tm:lashout",
     "tm:lightscreen",
     "tm:lowkick",
     "tm:lowsweep",
@@ -185,9 +183,11 @@
     "tm:nastyplot",
     "tm:naturalgift",
     "tm:nightshade",
+    "tm:painsplit",
     "tm:payback",
     "tm:phantomforce",
     "tm:poisonjab",
+    "tm:poltergeist",
     "tm:powergem",
     "tm:poweruppunch",
     "tm:protect",
@@ -208,10 +208,12 @@
     "tm:shadowclaw",
     "tm:shockwave",
     "tm:skillswap",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:snarl",
     "tm:snatch",
     "tm:snore",
+    "tm:spite",
     "tm:substitute",
     "tm:sunnyday",
     "tm:swagger",
@@ -220,6 +222,7 @@
     "tm:telekinesis",
     "tm:terablast",
     "tm:thief",
+    "tm:throatchop",
     "tm:thunderpunch",
     "tm:thunderwave",
     "tm:torment",

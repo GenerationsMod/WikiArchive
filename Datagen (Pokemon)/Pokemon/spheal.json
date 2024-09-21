@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Spheal",
   "nationalPokedexNumber": 363,
   "primaryType": "ice",
@@ -180,5 +179,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

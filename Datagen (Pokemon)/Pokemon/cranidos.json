@@ -33,16 +33,31 @@
   "eggGroups": [
     "monster"
   ],
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    },
+    "moving" : {
+      "walk": {
+        "walkSpeed": 0.18
+      }
+    }
+  },
   "moves": [
     "1:headbutt",
     "1:leer",
     "6:focusenergy",
     "10:pursuit",
+    "10:rocksmash",
     "15:takedown",
     "19:scaryface",
     "24:assurance",
     "28:ancientpower",
     "28:chipaway",
+    "28:slam",
     "33:ancientpower",
     "33:zenheadbutt",
     "37:screech",
@@ -63,23 +78,33 @@
     "egg:whirlwind",
     "tm:attract",
     "tm:blizzard",
+    "tm:bodyslam",
     "tm:bulldoze",
     "tm:captivate",
     "tm:confide",
+    "tm:crunch",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
+    "tm:dragoncheer",
     "tm:dragonpulse",
+    "tm:earthpower",
     "tm:earthquake",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:fireblast",
+    "tm:firepunch",
     "tm:flamethrower",
     "tm:fling",
     "tm:frustration",
     "tm:hiddenpower",
     "tm:icebeam",
     "tm:incinerate",
+    "tm:ironhead",
     "tm:irontail",
+    "tm:mudslap",
     "tm:naturalgift",
     "tm:payback",
     "tm:poweruppunch",
@@ -88,6 +113,7 @@
     "tm:rest",
     "tm:return",
     "tm:roar",
+    "tm:rockblast",
     "tm:rockclimb",
     "tm:rockpolish",
     "tm:rockslide",
@@ -95,21 +121,29 @@
     "tm:rocktomb",
     "tm:round",
     "tm:sandstorm",
+    "tm:scaryface",
     "tm:secretpower",
     "tm:shockwave",
     "tm:sleeptalk",
     "tm:smackdown",
     "tm:stealthrock",
+    "tm:stompingtantrum",
     "tm:stoneedge",
     "tm:strength",
     "tm:substitute",
     "tm:sunnyday",
     "tm:swagger",
     "tm:swordsdance",
+    "tm:takedown",
+    "tm:terablast",
     "tm:thief",
     "tm:thunder",
     "tm:thunderbolt",
+    "tm:thunderpunch",
     "tm:toxic",
+    "tm:trailblaze",
+    "tm:uproar",
+    "tm:zenheadbutt",
     "tutor:ancientpower",
     "tutor:crunch",
     "tutor:dragonpulse",
@@ -144,7 +178,9 @@
       "variant": "level_up",
       "result": "rampardos",
       "consumeHeldItem": false,
-      "learnableMoves": [],
+      "learnableMoves": [
+        "endeavor"
+      ],
       "requirements": [
         {
           "variant": "level",
@@ -153,10 +189,10 @@
       ]
     }
   ],
-  "baseScale": 1,
+  "baseScale": 0.8,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 0.7,
+    "height": 1.15,
     "fixed": false
   },
   "baseFriendship": 70,

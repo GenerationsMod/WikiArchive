@@ -102,10 +102,12 @@
         "tm:bulldoze",
         "tm:calmmind",
         "tm:chillingwater",
+        "tm:curse",
         "tm:dig",
         "tm:dive",
         "tm:earthquake",
         "tm:endure",
+        "tm:expandingforce",
         "tm:facade",
         "tm:fireblast",
         "tm:flamethrower",
@@ -127,6 +129,7 @@
         "tm:psybeam",
         "tm:psychic",
         "tm:psychicterrain",
+        "tm:psychup",
         "tm:psyshock",
         "tm:raindance",
         "tm:rest",
@@ -170,7 +173,7 @@
         {
           "id": "slowpoke_slowbro",
           "variant": "item_interact",
-          "result": "slowbro form=galar",
+          "result": "slowbro galarian",
           "consumeHeldItem": false,
           "learnableMoves": [
             "shellsidearm"
@@ -181,7 +184,7 @@
         {
           "id": "slowpoke_slowking",
           "variant": "item_interact",
-          "result": "slowking form=galar",
+          "result": "slowking galarian",
           "consumeHeldItem": false,
           "learnableMoves": [],
           "requirements": [],
@@ -195,10 +198,6 @@
         "entries": [
           {
             "item": "cobblemon:chesto_berry",
-            "percentage": 2.5
-          },
-          {
-            "item": "generations_core:light_soul",
             "percentage": 2.5
           }
         ]
@@ -271,6 +270,7 @@
     "tm:captivate",
     "tm:chillingwater",
     "tm:confide",
+    "tm:curse",
     "tm:dig",
     "tm:dive",
     "tm:doubleteam",
@@ -278,6 +278,7 @@
     "tm:earthquake",
     "tm:echoedvoice",
     "tm:endure",
+    "tm:expandingforce",
     "tm:facade",
     "tm:fireblast",
     "tm:flamethrower",

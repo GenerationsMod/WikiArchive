@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Ting-Lu",
   "nationalPokedexNumber": 1003,
   "primaryType": "dark",
@@ -56,6 +55,7 @@
     "tm:bulldoze",
     "tm:darkpulse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:earthpower",
     "tm:earthquake",
     "tm:endure",
@@ -64,6 +64,7 @@
     "tm:heavyslam",
     "tm:hex",
     "tm:hyperbeam",
+    "tm:lashout",
     "tm:mudshot",
     "tm:mudslap",
     "tm:protect",
@@ -71,10 +72,12 @@
     "tm:rockslide",
     "tm:rocktomb",
     "tm:sandstorm",
+    "tm:sandtomb",
     "tm:scaryface",
     "tm:sleeptalk",
     "tm:snarl",
     "tm:spikes",
+    "tm:spite",
     "tm:stealthrock",
     "tm:stompingtantrum",
     "tm:stoneedge",
@@ -83,11 +86,8 @@
     "tm:takedown",
     "tm:taunt",
     "tm:terablast",
-    "tm:zenheadbutt",
-    "tutor:rockslide",
-    "tutor:ruination",
-    "tutor:stompingtantrum",
-    "tutor:throatchop"
+    "tm:throatchop",
+    "tm:zenheadbutt"
   ],
   "labels": [
     "gen9",
@@ -100,5 +100,6 @@
   "cannotDynamax": false,
   "pokedex": [
     "cobblemon.species.tinglu.desc"
-  ]
+  ],
+  "implemented": true
 }

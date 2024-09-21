@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Spidops",
   "nationalPokedexNumber": 918,
   "primaryType": "bug",
@@ -51,8 +50,10 @@
     "tm:aerialace",
     "tm:bodyslam",
     "tm:brickbreak",
+    "tm:bugbite",
     "tm:bugbuzz",
     "tm:bulletseed",
+    "tm:electroweb",
     "tm:endure",
     "tm:facade",
     "tm:falseswipe",
@@ -60,8 +61,11 @@
     "tm:gigadrain",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:knockoff",
     "tm:leechlife",
     "tm:lowkick",
+    "tm:lunge",
+    "tm:painsplit",
     "tm:poisonjab",
     "tm:pounce",
     "tm:protect",
@@ -71,6 +75,7 @@
     "tm:rocktomb",
     "tm:scaryface",
     "tm:shadowclaw",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:spikes",
     "tm:strugglebug",
@@ -80,8 +85,10 @@
     "tm:taunt",
     "tm:terablast",
     "tm:thief",
+    "tm:throatchop",
     "tm:toxicspikes",
     "tm:trailblaze",
+    "tm:upperhand",
     "tm:uturn",
     "tm:xscissor"
   ],
@@ -109,5 +116,6 @@
         "quantityRange": "0-2"
       }
     ]
-  }
+  },
+  "implemented": true
 }

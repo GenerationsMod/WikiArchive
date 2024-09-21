@@ -41,6 +41,7 @@
     "10:sweetscent",
     "15:drainingkiss",
     "20:aromatherapy",
+    "20:charm",
     "25:attract",
     "30:acidarmor",
     "35:dazzlinggleam",
@@ -65,6 +66,7 @@
     "tm:snore",
     "tm:storedpower",
     "tm:substitute",
+    "tm:terablast",
     "tutor:attract",
     "tutor:celebrate",
     "tutor:entrainment",
@@ -82,6 +84,7 @@
       "variant": "level_up",
       "result": "alcremie s decoration=strawberry",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -105,6 +108,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=strawberry cream=caramel_swirl",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -128,6 +132,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=strawberry cream=lemon",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -151,6 +156,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=strawberry cream=matcha",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -174,6 +180,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=strawberry cream=mint",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -197,6 +204,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=strawberry cream=rainbow_swirl",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -220,6 +228,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=strawberry cream=ruby",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -243,6 +252,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=strawberry cream=ruby_swirl",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -266,6 +276,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=strawberry cream=salted",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -289,6 +300,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=strawberry cream=vanilla",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -312,6 +324,7 @@
       "variant": "level_up",
       "result": "alcremie s decoration=love",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -335,6 +348,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=love cream=caramel_swirl",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -358,6 +372,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=love cream=lemon",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -381,6 +396,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=love cream=matcha",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -404,6 +420,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=love cream=mint",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -427,6 +444,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=love cream=rainbow_swirl",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -450,6 +468,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=love cream=ruby",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -473,6 +492,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=love cream=ruby_swirl",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -496,6 +516,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=love cream=salted",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -519,6 +540,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=love cream=vanilla",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -542,6 +564,7 @@
       "variant": "level_up",
       "result": "alcremie s decoration=berry",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -565,6 +588,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=berry cream=caramel_swirl",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -588,6 +612,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=berry cream=lemon",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -611,6 +636,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=berry cream=matcha",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -634,6 +660,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=berry cream=mint",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -657,6 +684,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=berry cream=rainbow_swirl",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -680,6 +708,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=berry cream=ruby",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -703,6 +732,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=berry cream=ruby_swirl",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -726,6 +756,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=berry cream=salted",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -749,6 +780,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=berry cream=vanilla",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -772,6 +804,7 @@
       "variant": "level_up",
       "result": "alcremie s decoration=clover",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -795,6 +828,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=clover cream=caramel_swirl",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -818,6 +852,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=clover cream=lemon",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -841,6 +876,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=clover cream=matcha",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -864,6 +900,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=clover cream=mint",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -887,6 +924,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=clover cream=rainbow_swirl",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -910,6 +948,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=clover cream=ruby",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -933,6 +972,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=clover cream=ruby_swirl",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -956,6 +996,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=clover cream=salted",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -979,6 +1020,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=clover cream=vanilla",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1002,6 +1044,7 @@
       "variant": "level_up",
       "result": "alcremie s decoration=flower",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1025,6 +1068,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=flower cream=caramel_swirl",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1048,6 +1092,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=flower cream=lemon",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1071,6 +1116,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=flower cream=matcha",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1094,6 +1140,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=flower cream=mint",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1117,6 +1164,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=flower cream=rainbow_swirl",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1140,6 +1188,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=flower cream=ruby",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1163,6 +1212,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=flower cream=ruby_swirl",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1186,6 +1236,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=flower cream=salted",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1209,6 +1260,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=flower cream=vanilla",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1232,6 +1284,7 @@
       "variant": "level_up",
       "result": "alcremie s decoration=star",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1255,6 +1308,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=star cream=caramel_swirl",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1278,6 +1332,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=star cream=lemon",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1301,6 +1356,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=star cream=matcha",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1324,6 +1380,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=star cream=mint",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1347,6 +1404,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=star cream=rainbow_swirl",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1370,6 +1428,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=star cream=ruby",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1393,6 +1452,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=star cream=ruby_swirl",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1416,6 +1476,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=star cream=salted",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1439,6 +1500,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=star cream=vanilla",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1462,6 +1524,7 @@
       "variant": "level_up",
       "result": "alcremie s decoration=ribbon",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1485,6 +1548,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=ribbon cream=caramel_swirl",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1508,6 +1572,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=ribbon cream=lemon",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1531,6 +1596,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=ribbon cream=matcha",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1554,6 +1620,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=ribbon cream=mint",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1577,6 +1644,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=ribbon cream=rainbow_swirl",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1600,6 +1668,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=ribbon cream=ruby",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1623,6 +1692,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=ribbon cream=ruby_swirl",
       "consumeHeldItem": false,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1646,6 +1716,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=ribbon cream=salted",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],
@@ -1669,6 +1740,7 @@
       "variant": "level_up",
       "result": "alcremie decoration=ribbon cream=vanilla",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [
         "decorate"
       ],

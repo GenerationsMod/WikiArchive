@@ -96,9 +96,12 @@
     "tm:crunch",
     "tm:cut",
     "tm:dive",
+    "tm:doubleedge",
     "tm:doubleteam",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
+    "tm:flipturn",
     "tm:frustration",
     "tm:gigaimpact",
     "tm:hail",
@@ -120,6 +123,7 @@
     "tm:reversal",
     "tm:round",
     "tm:scald",
+    "tm:scaleshot",
     "tm:scaryface",
     "tm:secretpower",
     "tm:sleeptalk",
@@ -163,8 +167,8 @@
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {
-    "width": 1.1,
-    "height": 0.8,
+    "width": 1.18,
+    "height": 0.95,
     "fixed": false
   },
   "baseFriendship": 50,
@@ -220,7 +224,6 @@
       ],
       "height": 10,
       "weight": 180,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -280,18 +283,23 @@
         "tm:blizzard",
         "tm:chillingwater",
         "tm:crunch",
+        "tm:doubleedge",
+        "tm:endeavor",
         "tm:endure",
         "tm:facade",
+        "tm:flipturn",
         "tm:hydropump",
         "tm:icebeam",
         "tm:icefang",
         "tm:icywind",
         "tm:liquidation",
+        "tm:muddywater",
         "tm:mudshot",
         "tm:protect",
         "tm:psychicfangs",
         "tm:raindance",
         "tm:rest",
+        "tm:scaleshot",
         "tm:scaryface",
         "tm:sleeptalk",
         "tm:snowscape",
@@ -300,8 +308,10 @@
         "tm:swift",
         "tm:takedown",
         "tm:terablast",
+        "tm:uproar",
         "tm:waterfall",
         "tm:waterpulse",
+        "tm:whirlpool",
         "tm:zenheadbutt"
       ],
       "labels": [
@@ -317,19 +327,6 @@
           "id": "basculin_basculegion",
           "variant": "level_up",
           "result": "basculegion",
-          "consumeHeldItem": false,
-          "learnableMoves": [],
-          "requirements": [
-            {
-              "variant": "recoil",
-              "amount": 294
-            }
-          ]
-        },
-        {
-          "id": "basculin_basculegion",
-          "variant": "level_up",
-          "result": "basculegion form=f",
           "consumeHeldItem": false,
           "learnableMoves": [],
           "requirements": [

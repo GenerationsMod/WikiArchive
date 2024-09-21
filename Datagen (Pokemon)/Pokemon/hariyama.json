@@ -58,8 +58,11 @@
     "tm:captivate",
     "tm:chillingwater",
     "tm:closecombat",
+    "tm:coaching",
     "tm:confide",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:drainpunch",
     "tm:earthquake",
@@ -77,6 +80,8 @@
     "tm:hyperbeam",
     "tm:icepunch",
     "tm:ironhead",
+    "tm:knockoff",
+    "tm:lashout",
     "tm:lowkick",
     "tm:lowsweep",
     "tm:metronome",
@@ -113,8 +118,11 @@
     "tm:taunt",
     "tm:terablast",
     "tm:thief",
+    "tm:throatchop",
     "tm:thunderpunch",
     "tm:toxic",
+    "tm:upperhand",
+    "tm:vacuumwave",
     "tm:whirlpool",
     "tm:workup",
     "tm:zenheadbutt",
@@ -157,10 +165,10 @@
   ],
   "preEvolution": "makuhita",
   "evolutions": [],
-  "baseScale": 1,
+  "baseScale": 1.3,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 2.2,
+    "height": 2.05,
     "fixed": false
   },
   "baseFriendship": 70,
@@ -190,10 +198,6 @@
       {
         "item": "cobblemon:payapa_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:scroll_page",
-        "percentage": 1.0
       }
     ]
   }

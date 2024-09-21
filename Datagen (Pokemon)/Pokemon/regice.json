@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Regice",
   "nationalPokedexNumber": 378,
   "primaryType": "ice",
@@ -44,11 +43,13 @@
     "tm:auroraveil",
     "tm:avalanche",
     "tm:blizzard",
+    "tm:bodypress",
     "tm:bodyslam",
     "tm:brickbreak",
     "tm:bulldoze",
     "tm:chargebeam",
     "tm:confide",
+    "tm:curse",
     "tm:doubleteam",
     "tm:earthquake",
     "tm:endure",
@@ -61,12 +62,14 @@
     "tm:frostbreath",
     "tm:frustration",
     "tm:gigaimpact",
+    "tm:gravity",
     "tm:hail",
     "tm:heavyslam",
     "tm:hiddenpower",
     "tm:hyperbeam",
     "tm:icebeam",
     "tm:icepunch",
+    "tm:icespinner",
     "tm:iciclespear",
     "tm:icywind",
     "tm:ironhead",
@@ -91,11 +94,13 @@
     "tm:shockwave",
     "tm:sleeptalk",
     "tm:snore",
+    "tm:snowscape",
     "tm:stompingtantrum",
     "tm:strength",
     "tm:substitute",
     "tm:superpower",
     "tm:swagger",
+    "tm:terablast",
     "tm:thunder",
     "tm:thunderbolt",
     "tm:thunderpunch",
@@ -179,9 +184,9 @@
     "amount": 1,
     "entries": [
       {
-        "item": "generations_core:regice_doll",
-        "percentage": 100.0
+        "item": "cobblemon:never_melt_ice"
       }
     ]
-  }
+  },
+  "implemented": true
 }

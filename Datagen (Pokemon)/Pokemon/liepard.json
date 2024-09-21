@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Liepard",
   "nationalPokedexNumber": 510,
   "primaryType": "dark",
@@ -18,10 +17,6 @@
       {
         "item": "cobblemon:bluk_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:dark_soul",
-        "percentage": 2.5
       }
     ]
   },
@@ -167,5 +162,6 @@
   "height": 11,
   "weight": 375,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

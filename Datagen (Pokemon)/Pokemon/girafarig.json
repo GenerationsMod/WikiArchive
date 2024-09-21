@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Girafarig",
   "nationalPokedexNumber": 203,
   "primaryType": "normal",
@@ -76,20 +75,26 @@
     "tm:confuseray",
     "tm:crunch",
     "tm:dazzlinggleam",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dreameater",
     "tm:earthquake",
     "tm:echoedvoice",
+    "tm:endeavor",
     "tm:endure",
     "tm:energyball",
+    "tm:expandingforce",
     "tm:facade",
     "tm:flash",
     "tm:foulplay",
     "tm:frustration",
+    "tm:futuresight",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:gravity",
     "tm:helpinghand",
     "tm:hiddenpower",
+    "tm:highhorsepower",
     "tm:hyperbeam",
     "tm:hypervoice",
     "tm:imprison",
@@ -102,6 +107,7 @@
     "tm:psybeam",
     "tm:psychic",
     "tm:psychicfangs",
+    "tm:psychicnoise",
     "tm:psychicterrain",
     "tm:psychup",
     "tm:psyshock",
@@ -136,6 +142,7 @@
     "tm:trailblaze",
     "tm:trick",
     "tm:trickroom",
+    "tm:uproar",
     "tm:workup",
     "tm:zenheadbutt",
     "tutor:agility",
@@ -258,5 +265,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

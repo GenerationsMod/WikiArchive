@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Celebi",
   "nationalPokedexNumber": 251,
   "primaryType": "psychic",
@@ -19,8 +18,7 @@
     "amount": 1,
     "entries": [
       {
-        "item": "generations_core:celebi_doll",
-        "percentage": 100.0
+        "item": "cobblemon:miracle_seed"
       }
     ]
   },
@@ -226,5 +224,6 @@
   "height": 6,
   "weight": 50,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

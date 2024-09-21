@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Mantine",
   "nationalPokedexNumber": 226,
   "primaryType": "water",
@@ -212,5 +211,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

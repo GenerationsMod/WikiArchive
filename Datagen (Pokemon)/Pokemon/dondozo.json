@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Dondozo",
   "nationalPokedexNumber": 977,
   "primaryType": "water",
@@ -61,6 +60,8 @@
     "tm:bulldoze",
     "tm:chillingwater",
     "tm:crunch",
+    "tm:curse",
+    "tm:doubleedge",
     "tm:earthquake",
     "tm:endure",
     "tm:facade",
@@ -108,5 +109,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

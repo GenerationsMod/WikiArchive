@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Iron Jugulis",
   "nationalPokedexNumber": 993,
   "primaryType": "dark",
@@ -57,8 +56,11 @@
     "tm:chargebeam",
     "tm:crunch",
     "tm:darkpulse",
+    "tm:doubleedge",
+    "tm:dragoncheer",
     "tm:dragonpulse",
     "tm:dragontail",
+    "tm:dualwingbeat",
     "tm:earthpower",
     "tm:electricterrain",
     "tm:endure",
@@ -76,10 +78,15 @@
     "tm:hyperbeam",
     "tm:hypervoice",
     "tm:ironhead",
+    "tm:knockoff",
+    "tm:lashout",
+    "tm:metalsound",
+    "tm:meteorbeam",
     "tm:outrage",
     "tm:protect",
     "tm:raindance",
     "tm:rest",
+    "tm:roar",
     "tm:rocktomb",
     "tm:scaryface",
     "tm:sleeptalk",
@@ -90,12 +97,9 @@
     "tm:takedown",
     "tm:taunt",
     "tm:terablast",
+    "tm:throatchop",
     "tm:uturn",
-    "tm:zenheadbutt",
-    "tutor:crunch",
-    "tutor:dragonbreath",
-    "tutor:hypervoice",
-    "tutor:snarl"
+    "tm:zenheadbutt"
   ],
   "labels": [
     "gen9",
@@ -108,5 +112,6 @@
   "cannotDynamax": false,
   "pokedex": [
     "cobblemon.species.ironjugulis.desc"
-  ]
+  ],
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Houndour",
   "nationalPokedexNumber": 228,
   "primaryType": "dark",
@@ -63,10 +62,12 @@
     "egg:willowisp",
     "tm:attract",
     "tm:bodyslam",
+    "tm:burningjealousy",
     "tm:captivate",
     "tm:confide",
     "tm:crunch",
     "tm:darkpulse",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dreameater",
     "tm:embargo",
@@ -86,11 +87,13 @@
     "tm:hypervoice",
     "tm:incinerate",
     "tm:irontail",
+    "tm:lashout",
     "tm:mudshot",
     "tm:mudslap",
     "tm:nastyplot",
     "tm:naturalgift",
     "tm:overheat",
+    "tm:painsplit",
     "tm:payback",
     "tm:protect",
     "tm:psychicfangs",
@@ -110,11 +113,14 @@
     "tm:snarl",
     "tm:snatch",
     "tm:solarbeam",
+    "tm:spite",
     "tm:substitute",
     "tm:sunnyday",
+    "tm:superfang",
     "tm:swagger",
     "tm:takedown",
     "tm:taunt",
+    "tm:temperflare",
     "tm:terablast",
     "tm:thief",
     "tm:thunderfang",
@@ -241,5 +247,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -62,7 +62,6 @@
       ],
       "height": 17,
       "weight": 625,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     }
@@ -73,6 +72,13 @@
   "eggGroups": [
     "bug"
   ],
+  "behaviour": {
+    "moving": {
+      "fly": {
+        "canFly": true
+      }
+    }
+  },
   "moves": [
     "1:armthrust",
     "1:bulletseed",
@@ -115,17 +121,22 @@
     "tm:bodyslam",
     "tm:brickbreak",
     "tm:brutalswing",
+    "tm:bugbite",
     "tm:bugbuzz",
     "tm:bulkup",
     "tm:bulldoze",
     "tm:bulletseed",
     "tm:captivate",
     "tm:closecombat",
+    "tm:coaching",
     "tm:confide",
+    "tm:curse",
     "tm:cut",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthquake",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:falseswipe",
@@ -139,7 +150,9 @@
     "tm:highhorsepower",
     "tm:hyperbeam",
     "tm:irondefense",
+    "tm:knockoff",
     "tm:lowkick",
+    "tm:lunge",
     "tm:megahorn",
     "tm:naturalgift",
     "tm:pinmissile",
@@ -158,6 +171,7 @@
     "tm:round",
     "tm:secretpower",
     "tm:shadowclaw",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:smackdown",
     "tm:smartstrike",
@@ -176,6 +190,8 @@
     "tm:throatchop",
     "tm:toxic",
     "tm:trailblaze",
+    "tm:upperhand",
+    "tm:vacuumwave",
     "tm:venoshock",
     "tm:workup",
     "tutor:attract",
@@ -241,8 +257,8 @@
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 1.05,
+    "height": 1.55,
     "fixed": false
   },
   "baseFriendship": 50,
@@ -259,15 +275,11 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 2,
+    "amount": 1,
     "entries": [
       {
         "item": "cobblemon:coba_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:heracross_doll",
-        "percentage": 1.0
       }
     ]
   }

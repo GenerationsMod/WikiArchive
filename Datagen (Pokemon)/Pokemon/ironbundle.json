@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Iron Bundle",
   "nationalPokedexNumber": 991,
   "primaryType": "ice",
@@ -60,6 +59,7 @@
     "tm:endure",
     "tm:facade",
     "tm:fling",
+    "tm:flipturn",
     "tm:gigaimpact",
     "tm:helpinghand",
     "tm:hydropump",
@@ -82,10 +82,7 @@
     "tm:thief",
     "tm:uturn",
     "tm:waterpulse",
-    "tutor:drillpeck",
-    "tutor:flipturn",
-    "tutor:freezedry",
-    "tutor:helpinghand"
+    "tm:whirlpool"
   ],
   "labels": [
     "gen9",
@@ -98,5 +95,6 @@
   "cannotDynamax": false,
   "pokedex": [
     "cobblemon.species.ironbundle.desc"
-  ]
+  ],
+  "implemented": true
 }

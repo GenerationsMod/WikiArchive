@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Zangoose",
   "nationalPokedexNumber": 335,
   "primaryType": "normal",
@@ -83,9 +82,12 @@
     "tm:captivate",
     "tm:closecombat",
     "tm:confide",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:embargo",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:falseswipe",
@@ -109,6 +111,7 @@
     "tm:icywind",
     "tm:incinerate",
     "tm:irontail",
+    "tm:knockoff",
     "tm:lowkick",
     "tm:lowsweep",
     "tm:metalclaw",
@@ -146,11 +149,13 @@
     "tm:taunt",
     "tm:terablast",
     "tm:thief",
+    "tm:throatchop",
     "tm:thunder",
     "tm:thunderbolt",
     "tm:thunderpunch",
     "tm:thunderwave",
     "tm:toxic",
+    "tm:upperhand",
     "tm:waterpulse",
     "tm:workup",
     "tm:xscissor",
@@ -241,5 +246,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

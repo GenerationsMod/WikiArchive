@@ -34,6 +34,9 @@
       },
       "fly": {
         "canFly": true
+      },
+      "walk": {
+        "walkSpeed": 0.3
       }
     }
   },
@@ -85,6 +88,7 @@
     "tm:confide",
     "tm:doubleteam",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragondance",
     "tm:dragonpulse",
     "tm:dragontail",
@@ -96,6 +100,7 @@
     "tm:frustration",
     "tm:gigaimpact",
     "tm:hail",
+    "tm:haze",
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:hydropump",
@@ -114,6 +119,7 @@
     "tm:return",
     "tm:round",
     "tm:safeguard",
+    "tm:scaleshot",
     "tm:secretpower",
     "tm:shockwave",
     "tm:sleeptalk",
@@ -131,6 +137,7 @@
     "tm:toxic",
     "tm:waterfall",
     "tm:waterpulse",
+    "tm:weatherball",
     "tm:whirlpool",
     "tutor:agility",
     "tutor:aquatail",

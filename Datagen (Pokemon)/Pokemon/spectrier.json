@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Spectrier",
   "nationalPokedexNumber": 897,
   "primaryType": "ghost",
@@ -45,19 +44,25 @@
     "tm:calmmind",
     "tm:confuseray",
     "tm:crunch",
+    "tm:curse",
     "tm:darkpulse",
+    "tm:doubleedge",
     "tm:drainingkiss",
     "tm:endure",
     "tm:facade",
     "tm:foulplay",
     "tm:gigaimpact",
+    "tm:haze",
     "tm:hex",
     "tm:hyperbeam",
+    "tm:lashout",
     "tm:mudshot",
     "tm:nastyplot",
     "tm:nightshade",
+    "tm:painsplit",
     "tm:payback",
     "tm:phantomforce",
+    "tm:poltergeist",
     "tm:protect",
     "tm:psychic",
     "tm:psychocut",
@@ -76,11 +81,8 @@
     "tm:terablast",
     "tm:uproar",
     "tm:willowisp",
-    "tutor:disable",
-    "tutor:doubleedge",
     "tutor:lashout",
-    "tutor:nastyplot",
-    "tutor:thrash"
+    "tutor:nastyplot"
   ],
   "labels": [
     "gen8",
@@ -108,5 +110,6 @@
   "height": 20,
   "weight": 445,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

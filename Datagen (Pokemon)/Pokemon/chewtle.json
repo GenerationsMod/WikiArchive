@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Chewtle",
   "nationalPokedexNumber": 833,
   "primaryType": "water",
@@ -62,6 +61,7 @@
     "tm:revenge",
     "tm:round",
     "tm:scaryface",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:snore",
     "tm:stompingtantrum",
@@ -129,5 +129,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

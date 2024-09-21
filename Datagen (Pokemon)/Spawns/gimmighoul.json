@@ -4,20 +4,40 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "gimmighoul-1",
-            "pokemon": "gimmighoul",
+            "id": "gimmighoul-roaming-1",
+            "pokemon": "gimmighoul roaming",
             "presets": [
-                "natural"
+                "ruins"
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "rare",
-            "level": "20-40",
-            "weight": 0.1,
+            "bucket": "uncommon",
+            "level": "5-30",
+            "weight": 100.0,
             "condition": {
                 "biomes": [
-                    "#cobblemon:is_badlands"
-                ]
+                    "#cobblemon:is_overworld"
+                ],
+                "minY": 48
+            }
+        },
+        {
+            "id": "gimmighoul-roaming-2",
+            "pokemon": "gimmighoul roaming",
+            "presets": [
+                "underground_ruins"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "5-30",
+            "weight": 100.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "minY": -37,
+                "maxY": 10
             }
         }
     ]

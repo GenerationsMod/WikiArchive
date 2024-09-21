@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Delcatty",
   "nationalPokedexNumber": 301,
   "primaryType": "normal",
@@ -152,5 +151,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Trumbeak",
   "nationalPokedexNumber": 732,
   "primaryType": "normal",
@@ -41,19 +40,35 @@
     "37:bulletseed",
     "40:featherdance",
     "45:hypervoice",
+    "tm:acrobatics",
     "tm:aerialace",
+    "tm:aircutter",
+    "tm:airslash",
     "tm:attract",
+    "tm:bravebird",
     "tm:brickbreak",
+    "tm:bulletseed",
     "tm:confide",
     "tm:doubleteam",
+    "tm:dualwingbeat",
     "tm:echoedvoice",
+    "tm:endeavor",
+    "tm:endure",
+    "tm:facade",
+    "tm:featherdance",
     "tm:flamecharge",
     "tm:fly",
     "tm:frustration",
+    "tm:gunkshot",
+    "tm:heatwave",
+    "tm:helpinghand",
     "tm:hiddenpower",
+    "tm:hypervoice",
+    "tm:knockoff",
     "tm:protect",
     "tm:rest",
     "tm:return",
+    "tm:rockblast",
     "tm:roost",
     "tm:round",
     "tm:sleeptalk",
@@ -62,9 +77,14 @@
     "tm:substitute",
     "tm:sunnyday",
     "tm:swagger",
+    "tm:swift",
     "tm:swordsdance",
+    "tm:tailwind",
+    "tm:takedown",
+    "tm:terablast",
     "tm:thief",
     "tm:toxic",
+    "tm:uproar",
     "tm:uturn",
     "tm:workup",
     "tutor:defog",
@@ -90,7 +110,9 @@
       "variant": "level_up",
       "result": "toucannon",
       "consumeHeldItem": false,
-      "learnableMoves": [],
+      "learnableMoves": [
+        "beakblast"
+      ],
       "requirements": [
         {
           "variant": "level",
@@ -133,5 +155,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

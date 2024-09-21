@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Skiddo",
   "nationalPokedexNumber": 672,
   "primaryType": "grass",
@@ -53,13 +52,16 @@
     "tm:bulletseed",
     "tm:confide",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
+    "tm:endeavor",
     "tm:endure",
     "tm:energyball",
     "tm:facade",
     "tm:frustration",
     "tm:gigadrain",
     "tm:grassknot",
+    "tm:grassyglide",
     "tm:grassyterrain",
     "tm:helpinghand",
     "tm:hiddenpower",
@@ -158,5 +160,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

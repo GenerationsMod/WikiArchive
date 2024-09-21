@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Sinistea",
   "nationalPokedexNumber": 854,
   "primaryType": "ghost",
@@ -67,6 +66,7 @@
         "tm:batonpass",
         "tm:calmmind",
         "tm:confuseray",
+        "tm:curse",
         "tm:darkpulse",
         "tm:endure",
         "tm:facade",
@@ -79,6 +79,7 @@
         "tm:nastyplot",
         "tm:nightshade",
         "tm:phantomforce",
+        "tm:poltergeist",
         "tm:protect",
         "tm:psybeam",
         "tm:psychic",
@@ -87,6 +88,7 @@
         "tm:shadowball",
         "tm:skillswap",
         "tm:sleeptalk",
+        "tm:spite",
         "tm:storedpower",
         "tm:substitute",
         "tm:terablast",
@@ -110,7 +112,7 @@
         {
           "id": "sinistea_polteageist",
           "variant": "item_interact",
-          "result": "polteageist form=antique",
+          "result": "polteageist antique",
           "consumeHeldItem": false,
           "learnableMoves": [],
           "requirements": [],
@@ -147,6 +149,7 @@
     "tm:batonpass",
     "tm:calmmind",
     "tm:confuseray",
+    "tm:curse",
     "tm:darkpulse",
     "tm:endure",
     "tm:facade",
@@ -160,6 +163,7 @@
     "tm:nightshade",
     "tm:payback",
     "tm:phantomforce",
+    "tm:poltergeist",
     "tm:protect",
     "tm:psybeam",
     "tm:psychic",
@@ -170,6 +174,7 @@
     "tm:skillswap",
     "tm:sleeptalk",
     "tm:snore",
+    "tm:spite",
     "tm:storedpower",
     "tm:substitute",
     "tm:terablast",
@@ -225,5 +230,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

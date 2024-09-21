@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Stunfisk",
   "nationalPokedexNumber": 618,
   "primaryType": "ground",
@@ -144,7 +143,6 @@
       ],
       "height": 7,
       "weight": 205,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -283,5 +281,6 @@
   "height": 7,
   "weight": 110,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

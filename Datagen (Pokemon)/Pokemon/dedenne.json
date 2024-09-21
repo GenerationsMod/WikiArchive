@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Dedenne",
   "nationalPokedexNumber": 702,
   "primaryType": "electric",
@@ -55,6 +54,7 @@
     "tm:agility",
     "tm:allyswitch",
     "tm:attract",
+    "tm:charge",
     "tm:chargebeam",
     "tm:charm",
     "tm:confide",
@@ -67,6 +67,7 @@
     "tm:electricterrain",
     "tm:electroball",
     "tm:electroweb",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:flash",
@@ -93,6 +94,7 @@
     "tm:snore",
     "tm:substitute",
     "tm:sunnyday",
+    "tm:superfang",
     "tm:swagger",
     "tm:swift",
     "tm:takedown",
@@ -156,5 +158,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

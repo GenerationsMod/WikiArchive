@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Walrein",
   "nationalPokedexNumber": 365,
   "primaryType": "ice",
@@ -171,5 +170,6 @@
         "percentage": 10.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

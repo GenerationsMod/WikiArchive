@@ -9,11 +9,17 @@
     "h:snowcloak"
   ],
   "drops": {
-    "amount": 1,
+    "amount": 6,
     "entries": [
       {
-        "item": "generations_core:articuno_doll",
-        "percentage": 100.0
+        "item": "minecraft:feather",
+        "quantityRange": "2-4"
+      },
+      {
+        "item": "minecraft:chicken"
+      },
+      {
+        "item": "cobblemon:never_melt_ice"
       }
     ]
   },
@@ -88,7 +94,9 @@
         "tm:allyswitch",
         "tm:bravebird",
         "tm:calmmind",
+        "tm:dualwingbeat",
         "tm:endure",
+        "tm:expandingforce",
         "tm:facade",
         "tm:fly",
         "tm:futuresight",
@@ -104,6 +112,7 @@
         "tm:protect",
         "tm:psybeam",
         "tm:psychic",
+        "tm:psychicnoise",
         "tm:psychocut",
         "tm:psyshock",
         "tm:raindance",
@@ -144,7 +153,6 @@
       ],
       "height": 17,
       "weight": 509,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false,
       "drops": {
@@ -206,14 +214,18 @@
     "tm:bravebird",
     "tm:confide",
     "tm:defog",
+    "tm:doubleedge",
     "tm:doubleteam",
+    "tm:dualwingbeat",
     "tm:endure",
     "tm:facade",
+    "tm:featherdance",
     "tm:fly",
     "tm:frostbreath",
     "tm:frustration",
     "tm:gigaimpact",
     "tm:hail",
+    "tm:haze",
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:hurricane",
@@ -249,6 +261,7 @@
     "tm:takedown",
     "tm:terablast",
     "tm:toxic",
+    "tm:tripleaxel",
     "tm:uturn",
     "tm:waterpulse",
     "tm:weatherball",
@@ -256,7 +269,6 @@
     "tutor:aircutter",
     "tutor:ancientpower",
     "tutor:bide",
-    "tutor:blizzard",
     "tutor:bubblebeam",
     "tutor:curse",
     "tutor:defog",
@@ -272,11 +284,9 @@
     "tutor:frustration",
     "tutor:gust",
     "tutor:hail",
-    "tutor:haze",
     "tutor:headbutt",
     "tutor:healbell",
     "tutor:hiddenpower",
-    "tutor:hurricane",
     "tutor:hyperbeam",
     "tutor:icebeam",
     "tutor:iceshard",

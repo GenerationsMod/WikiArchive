@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Rufflet",
   "nationalPokedexNumber": 627,
   "primaryType": "normal",
@@ -74,9 +73,12 @@
     "tm:closecombat",
     "tm:confide",
     "tm:cut",
+    "tm:doubleedge",
     "tm:doubleteam",
+    "tm:dualwingbeat",
     "tm:endure",
     "tm:facade",
+    "tm:featherdance",
     "tm:fly",
     "tm:frustration",
     "tm:heatwave",
@@ -149,7 +151,7 @@
     {
       "id": "rufflet_braviary",
       "variant": "level_up",
-      "result": "braviary form=hisui",
+      "result": "braviary hisuian",
       "consumeHeldItem": false,
       "learnableMoves": [
         "esperwing"
@@ -180,5 +182,6 @@
   "height": 5,
   "weight": 105,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

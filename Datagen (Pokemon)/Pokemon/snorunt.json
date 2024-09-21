@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Snorunt",
   "nationalPokedexNumber": 361,
   "primaryType": "ice",
@@ -77,6 +76,7 @@
     "tm:icebeam",
     "tm:icefang",
     "tm:icespinner",
+    "tm:iciclespear",
     "tm:icywind",
     "tm:lightscreen",
     "tm:naturalgift",
@@ -92,6 +92,7 @@
     "tm:snore",
     "tm:snowscape",
     "tm:spikes",
+    "tm:spite",
     "tm:substitute",
     "tm:swagger",
     "tm:takedown",
@@ -195,5 +196,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -28,7 +28,7 @@
     "field"
   ],
   "drops": {
-    "amount": 3,
+    "amount": 2,
     "entries": [
       {
         "item": "cobblemon:protector",
@@ -37,10 +37,6 @@
       {
         "item": "cobblemon:passho_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:rhydon_doll",
-        "percentage": 1.0
       }
     ]
   },
@@ -74,14 +70,17 @@
     "tm:captivate",
     "tm:confide",
     "tm:crunch",
+    "tm:curse",
     "tm:cut",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dragonpulse",
     "tm:dragontail",
     "tm:drillrun",
     "tm:earthpower",
     "tm:earthquake",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:fireblast",
@@ -110,7 +109,9 @@
     "tm:megahorn",
     "tm:megakick",
     "tm:megapunch",
+    "tm:meteorbeam",
     "tm:mudshot",
+    "tm:mudslap",
     "tm:naturalgift",
     "tm:outrage",
     "tm:payback",
@@ -132,6 +133,7 @@
     "tm:round",
     "tm:sandstorm",
     "tm:scaryface",
+    "tm:scorchingsands",
     "tm:secretpower",
     "tm:shadowclaw",
     "tm:shockwave",
@@ -145,10 +147,13 @@
     "tm:strength",
     "tm:substitute",
     "tm:sunnyday",
+    "tm:supercellslam",
     "tm:superpower",
     "tm:surf",
     "tm:swagger",
     "tm:swordsdance",
+    "tm:takedown",
+    "tm:terablast",
     "tm:thief",
     "tm:thunder",
     "tm:thunderbolt",

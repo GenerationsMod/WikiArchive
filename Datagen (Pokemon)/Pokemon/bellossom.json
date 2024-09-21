@@ -11,15 +11,11 @@
     "amount": 2,
     "entries": [
       {
+        "item": "cobblemon:absorb_bulb",
+        "percentage": 10.0
+      },
+      {
         "item": "cobblemon:pecha_berry",
-        "percentage": 10.0
-      },
-      {
-        "item": "generations_core:green_petal",
-        "percentage": 10.0
-      },
-      {
-        "item": "generations_core:yellow_petal",
         "percentage": 10.0
       }
     ]
@@ -66,6 +62,7 @@
     "1:toxic",
     "49:petalblizzard",
     "55:solarbeam",
+    "tm:acidspray",
     "tm:attract",
     "tm:batonpass",
     "tm:bulletseed",
@@ -76,6 +73,8 @@
     "tm:dazzlinggleam",
     "tm:doubleteam",
     "tm:drainpunch",
+    "tm:encore",
+    "tm:endeavor",
     "tm:endure",
     "tm:energyball",
     "tm:facade",
@@ -85,6 +84,7 @@
     "tm:gigadrain",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:grassyglide",
     "tm:grassyterrain",
     "tm:helpinghand",
     "tm:hiddenpower",
@@ -95,7 +95,9 @@
     "tm:magicalleaf",
     "tm:naturalgift",
     "tm:naturepower",
+    "tm:petalblizzard",
     "tm:playrough",
+    "tm:pollenpuff",
     "tm:protect",
     "tm:rest",
     "tm:return",
@@ -107,13 +109,18 @@
     "tm:sludgebomb",
     "tm:snore",
     "tm:solarbeam",
+    "tm:solarblade",
     "tm:substitute",
     "tm:sunnyday",
     "tm:swagger",
     "tm:swordsdance",
+    "tm:terablast",
     "tm:toxic",
+    "tm:trailblaze",
+    "tm:tripleaxel",
     "tm:uproar",
     "tm:venoshock",
+    "tm:weatherball",
     "tutor:absorb",
     "tutor:afteryou",
     "tutor:attract",

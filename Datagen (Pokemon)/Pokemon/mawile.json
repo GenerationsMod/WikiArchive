@@ -63,7 +63,6 @@
       ],
       "height": 10,
       "weight": 235,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     }
@@ -90,7 +89,7 @@
   },
   "behaviour": {
     "resting": {
-      "canSleep": true,
+      "canSleep": false,
       "willSleepOnBed": false,
       "depth": "normal",
       "light": "0-4"
@@ -262,7 +261,7 @@
     "cobblemon.species.mawile.desc"
   ],
   "evolutions": [],
-  "baseScale": 0.8,
+  "baseScale": 0.75,
   "hitbox": {
     "width": 0.5,
     "height": 0.9,

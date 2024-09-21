@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Tynamo",
   "nationalPokedexNumber": 602,
   "primaryType": "electric",
@@ -37,7 +36,9 @@
     "1:spark",
     "1:tackle",
     "1:thunderwave",
+    "tm:charge",
     "tm:chargebeam",
+    "tm:knockoff",
     "tm:terablast",
     "tm:thunderwave",
     "tutor:magnetrise"
@@ -83,5 +84,6 @@
   "height": 2,
   "weight": 3,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

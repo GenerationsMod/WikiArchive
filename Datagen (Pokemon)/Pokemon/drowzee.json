@@ -14,10 +14,6 @@
       {
         "item": "cobblemon:chesto_berry",
         "percentage": 2.5
-      },
-      {
-        "item": "generations_core:light_soul",
-        "percentage": 2.5
       }
     ]
   },
@@ -89,13 +85,17 @@
     "tm:calmmind",
     "tm:captivate",
     "tm:confide",
+    "tm:curse",
     "tm:dazzlinggleam",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:drainingkiss",
     "tm:drainpunch",
     "tm:dreameater",
     "tm:encore",
+    "tm:endeavor",
     "tm:endure",
+    "tm:expandingforce",
     "tm:facade",
     "tm:firepunch",
     "tm:flash",
@@ -104,11 +104,14 @@
     "tm:focuspunch",
     "tm:foulplay",
     "tm:frustration",
+    "tm:futuresight",
     "tm:grassknot",
+    "tm:haze",
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:icepunch",
     "tm:imprison",
+    "tm:knockoff",
     "tm:lightscreen",
     "tm:lowkick",
     "tm:lowsweep",
@@ -120,6 +123,7 @@
     "tm:protect",
     "tm:psybeam",
     "tm:psychic",
+    "tm:psychicnoise",
     "tm:psychicterrain",
     "tm:psychup",
     "tm:psyshock",

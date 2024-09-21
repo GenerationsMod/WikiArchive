@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Rockruff",
   "nationalPokedexNumber": 744,
   "primaryType": "rock",
@@ -56,9 +55,11 @@
     "tm:confide",
     "tm:crunch",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthpower",
     "tm:echoedvoice",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:firefang",
@@ -119,7 +120,7 @@
   ],
   "evolutions": [
     {
-      "id": "rockruff_lycanroc",
+      "id": "rockruff_lycanroc1",
       "variant": "level_up",
       "result": "lycanroc",
       "consumeHeldItem": false,
@@ -138,9 +139,9 @@
       ]
     },
     {
-      "id": "rockruff_lycanroc",
+      "id": "rockruff_lycanroc2",
       "variant": "level_up",
-      "result": "lycanroc form=midnight",
+      "result": "lycanroc midnight",
       "consumeHeldItem": false,
       "learnableMoves": [
         "counter"
@@ -157,9 +158,9 @@
       ]
     },
     {
-      "id": "rockruff_lycanroc",
+      "id": "rockruff_lycanroc3",
       "variant": "level_up",
-      "result": "lycanroc form=dusk",
+      "result": "lycanroc dusk",
       "consumeHeldItem": false,
       "learnableMoves": [
         "crushclaw"
@@ -215,5 +216,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

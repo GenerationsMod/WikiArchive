@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Marill",
   "nationalPokedexNumber": 183,
   "primaryType": "water",
@@ -66,6 +65,7 @@
     "egg:supersonic",
     "egg:tickle",
     "egg:watersport",
+    "tm:alluringvoice",
     "tm:amnesia",
     "tm:attract",
     "tm:blizzard",
@@ -81,6 +81,7 @@
     "tm:dig",
     "tm:disarmingvoice",
     "tm:dive",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:drainingkiss",
     "tm:encore",
@@ -102,11 +103,13 @@
     "tm:icespinner",
     "tm:icywind",
     "tm:irontail",
+    "tm:knockoff",
     "tm:lightscreen",
     "tm:liquidation",
     "tm:megakick",
     "tm:megapunch",
     "tm:metronome",
+    "tm:mistyexplosion",
     "tm:mistyterrain",
     "tm:muddywater",
     "tm:mudshot",
@@ -242,16 +245,13 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 2,
+    "amount": 1,
     "entries": [
       {
         "item": "cobblemon:kebia_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:marill_doll",
-        "percentage": 1.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

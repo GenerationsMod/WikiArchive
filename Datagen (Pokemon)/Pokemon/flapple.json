@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Flapple",
   "nationalPokedexNumber": 841,
   "primaryType": "grass",
@@ -65,7 +64,6 @@
       ],
       "height": 240,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -103,6 +101,8 @@
     "tm:dracometeor",
     "tm:dragondance",
     "tm:dragonpulse",
+    "tm:dualwingbeat",
+    "tm:endeavor",
     "tm:endure",
     "tm:energyball",
     "tm:facade",
@@ -111,6 +111,7 @@
     "tm:gigadrain",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:grassyglide",
     "tm:grassyterrain",
     "tm:heavyslam",
     "tm:hyperbeam",
@@ -173,11 +174,8 @@
       {
         "item": "cobblemon:yache_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:dynite_ore",
-        "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

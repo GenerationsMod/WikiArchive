@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Garbodor",
   "nationalPokedexNumber": 569,
   "primaryType": "poison",
@@ -25,10 +24,6 @@
       },
       {
         "item": "cobblemon:pecha_berry",
-        "percentage": 5.0
-      },
-      {
-        "item": "generations_core:dynite_ore",
         "percentage": 5.0
       }
     ]
@@ -87,7 +82,6 @@
       ],
       "height": 210,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -209,5 +203,6 @@
   "height": 19,
   "weight": 1073,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

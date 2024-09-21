@@ -43,6 +43,11 @@
       "willSleepOnBed": false,
       "depth": "normal",
       "light": "0-4"
+    },
+    "moving": {
+      "walk": {
+        "walkSpeed": 0.27
+      }
     }
   },
   "catchRate": 60,
@@ -77,9 +82,12 @@
     "tm:bulldoze",
     "tm:closecombat",
     "tm:confide",
+    "tm:curse",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthpower",
     "tm:earthquake",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:focusblast",
@@ -91,6 +99,7 @@
     "tm:hyperbeam",
     "tm:irondefense",
     "tm:ironhead",
+    "tm:lashout",
     "tm:lowkick",
     "tm:lowsweep",
     "tm:megakick",
@@ -109,6 +118,7 @@
     "tm:sandtomb",
     "tm:scaryface",
     "tm:sleeptalk",
+    "tm:smackdown",
     "tm:snore",
     "tm:stealthrock",
     "tm:stompingtantrum",

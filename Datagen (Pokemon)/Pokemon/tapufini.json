@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Tapu Fini",
   "nationalPokedexNumber": 788,
   "primaryType": "water",
@@ -146,5 +145,6 @@
   "height": 13,
   "weight": 212,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

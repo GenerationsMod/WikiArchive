@@ -8,7 +8,7 @@
     "h:lightningrod"
   ],
   "drops": {
-    "amount": 3,
+    "amount": 2,
     "entries": [
       {
         "item": "cobblemon:thunder_stone",
@@ -17,10 +17,6 @@
       {
         "item": "cobblemon:oran_berry",
         "percentage": 2.5
-      },
-      {
-        "item": "generations_core:pichu_doll",
-        "percentage": 1.0
       }
     ]
   },
@@ -123,7 +119,6 @@
       ],
       "height": 3,
       "weight": 20,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -164,6 +159,7 @@
     "tm:attract",
     "tm:bodyslam",
     "tm:captivate",
+    "tm:charge",
     "tm:chargebeam",
     "tm:charm",
     "tm:confide",
@@ -218,7 +214,6 @@
     "tutor:attract",
     "tutor:bide",
     "tutor:bodyslam",
-    "tutor:charge",
     "tutor:charm",
     "tutor:counter",
     "tutor:covet",
@@ -231,13 +226,11 @@
     "tutor:electroweb",
     "tutor:encore",
     "tutor:endeavor",
-    "tutor:endure",
     "tutor:flash",
     "tutor:followme",
     "tutor:frustration",
     "tutor:grassknot",
     "tutor:headbutt",
-    "tutor:helpinghand",
     "tutor:hiddenpower",
     "tutor:irontail",
     "tutor:magnetrise",
@@ -271,7 +264,6 @@
     "tutor:thunderwave",
     "tutor:toxic",
     "tutor:uproar",
-    "tutor:volttackle",
     "tutor:wish",
     "tutor:zapcannon"
   ],

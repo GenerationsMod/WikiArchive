@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Pawniard",
   "nationalPokedexNumber": 624,
   "primaryType": "dark",
@@ -90,9 +89,11 @@
     "tm:honeclaws",
     "tm:irondefense",
     "tm:ironhead",
+    "tm:lashout",
     "tm:lowkick",
     "tm:lowsweep",
     "tm:metalclaw",
+    "tm:metalsound",
     "tm:payback",
     "tm:poisonjab",
     "tm:poweruppunch",
@@ -115,6 +116,7 @@
     "tm:sleeptalk",
     "tm:snarl",
     "tm:snore",
+    "tm:spite",
     "tm:stealthrock",
     "tm:steelbeam",
     "tm:stoneedge",
@@ -188,5 +190,6 @@
   "height": 5,
   "weight": 102,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

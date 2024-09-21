@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Clauncher",
   "nationalPokedexNumber": 692,
   "primaryType": "water",
@@ -62,6 +61,7 @@
     "tm:endure",
     "tm:facade",
     "tm:flashcannon",
+    "tm:flipturn",
     "tm:frustration",
     "tm:helpinghand",
     "tm:hiddenpower",
@@ -99,6 +99,7 @@
     "tm:venoshock",
     "tm:waterfall",
     "tm:waterpulse",
+    "tm:weatherball",
     "tutor:aquatail",
     "tutor:bounce",
     "tutor:dragonpulse",
@@ -149,5 +150,6 @@
   "height": 5,
   "weight": 83,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

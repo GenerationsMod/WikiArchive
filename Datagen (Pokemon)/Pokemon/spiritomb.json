@@ -9,10 +9,14 @@
     "h:infiltrator"
   ],
   "drops": {
-    "amount": 1,
+    "amount": 2,
     "entries": [
       {
         "item": "cobblemon:spell_tag",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:smoke_ball",
         "percentage": 5.0
       }
     ]
@@ -75,10 +79,12 @@
     "tm:allyswitch",
     "tm:attract",
     "tm:bodyslam",
+    "tm:burningjealousy",
     "tm:calmmind",
     "tm:captivate",
     "tm:confide",
     "tm:confuseray",
+    "tm:curse",
     "tm:darkpulse",
     "tm:doubleteam",
     "tm:dreameater",
@@ -96,11 +102,14 @@
     "tm:icywind",
     "tm:imprison",
     "tm:infestation",
+    "tm:lashout",
     "tm:nastyplot",
     "tm:naturalgift",
     "tm:nightshade",
+    "tm:painsplit",
     "tm:payback",
     "tm:phantomforce",
+    "tm:poltergeist",
     "tm:protect",
     "tm:psybeam",
     "tm:psychic",
@@ -123,6 +132,7 @@
     "tm:snarl",
     "tm:snatch",
     "tm:snore",
+    "tm:spite",
     "tm:storedpower",
     "tm:substitute",
     "tm:sunnyday",

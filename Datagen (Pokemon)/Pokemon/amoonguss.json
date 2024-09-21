@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Amoonguss",
   "nationalPokedexNumber": 591,
   "primaryType": "grass",
@@ -138,5 +137,6 @@
   "height": 6,
   "weight": 105,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

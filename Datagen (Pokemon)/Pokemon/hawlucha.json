@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Hawlucha",
   "nationalPokedexNumber": 701,
   "primaryType": "fighting",
@@ -73,19 +72,24 @@
     "tm:brickbreak",
     "tm:bulkup",
     "tm:closecombat",
+    "tm:coaching",
     "tm:confide",
     "tm:cut",
     "tm:dig",
     "tm:doubleteam",
     "tm:drainpunch",
+    "tm:dualwingbeat",
     "tm:encore",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:falseswipe",
+    "tm:featherdance",
     "tm:firepunch",
     "tm:fling",
     "tm:fly",
     "tm:focusblast",
+    "tm:focuspunch",
     "tm:frustration",
     "tm:gigaimpact",
     "tm:grassknot",
@@ -96,6 +100,7 @@
     "tm:ironhead",
     "tm:lowkick",
     "tm:lowsweep",
+    "tm:lunge",
     "tm:megakick",
     "tm:megapunch",
     "tm:payback",
@@ -135,6 +140,8 @@
     "tm:torment",
     "tm:toxic",
     "tm:trailblaze",
+    "tm:upperhand",
+    "tm:uproar",
     "tm:uturn",
     "tm:workup",
     "tm:xscissor",
@@ -189,7 +196,7 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 2,
+    "amount": 3,
     "entries": [
       {
         "item": "cobblemon:kings_rock",
@@ -198,7 +205,12 @@
       {
         "item": "cobblemon:coba_berry",
         "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:expert_belt",
+        "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

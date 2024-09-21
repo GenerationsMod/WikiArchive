@@ -12,13 +12,13 @@
             "type": "pokemon",
             "context": "grounded",
             "bucket": "ultra-rare",
-            "level": "39-60",
-            "weight": 9.9,
+            "level": "39-52",
+            "weight": 1.0,
             "condition": {
-                "canSeeSky": true,
-                "timeRange": "night",
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
                 "biomes": [
-                    "#cobblemon:is_taiga"
+                    "#cobblemon:is_lush"
                 ]
             }
         }

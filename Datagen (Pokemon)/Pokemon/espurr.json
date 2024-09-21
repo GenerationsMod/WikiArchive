@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Espurr",
   "nationalPokedexNumber": 677,
   "primaryType": "psychic",
@@ -45,18 +44,22 @@
     "tm:attract",
     "tm:calmmind",
     "tm:chargebeam",
+    "tm:charm",
     "tm:confide",
     "tm:cut",
     "tm:darkpulse",
+    "tm:disarmingvoice",
     "tm:doubleteam",
     "tm:dreameater",
     "tm:echoedvoice",
     "tm:endure",
     "tm:energyball",
+    "tm:expandingforce",
     "tm:facade",
     "tm:faketears",
     "tm:flash",
     "tm:frustration",
+    "tm:gravity",
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:irontail",
@@ -67,7 +70,9 @@
     "tm:payday",
     "tm:playrough",
     "tm:protect",
+    "tm:psybeam",
     "tm:psychic",
+    "tm:psychicnoise",
     "tm:psychup",
     "tm:psyshock",
     "tm:raindance",
@@ -77,6 +82,7 @@
     "tm:round",
     "tm:safeguard",
     "tm:secretpower",
+    "tm:shadowball",
     "tm:skillswap",
     "tm:sleeptalk",
     "tm:snore",
@@ -84,6 +90,7 @@
     "tm:sunnyday",
     "tm:swagger",
     "tm:swift",
+    "tm:terablast",
     "tm:thunderbolt",
     "tm:thunderwave",
     "tm:torment",
@@ -137,7 +144,7 @@
     {
       "id": "espurr_meowstic",
       "variant": "level_up",
-      "result": "meowstic form=f",
+      "result": "meowstic f",
       "consumeHeldItem": false,
       "learnableMoves": [],
       "requirements": [
@@ -173,11 +180,8 @@
       {
         "item": "cobblemon:colbur_berry",
         "percentage": 2.5
-      },
-      {
-        "item": "generations_core:light_soul",
-        "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

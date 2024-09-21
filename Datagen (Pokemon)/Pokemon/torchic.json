@@ -37,10 +37,6 @@
       {
         "item": "cobblemon:charcoal_stick",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:torchic_doll",
-        "percentage": 1.0
       }
     ]
   },
@@ -90,13 +86,17 @@
     "tm:bounce",
     "tm:captivate",
     "tm:confide",
+    "tm:curse",
     "tm:cut",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:echoedvoice",
     "tm:endure",
     "tm:facade",
+    "tm:featherdance",
     "tm:fireblast",
+    "tm:firepledge",
     "tm:firespin",
     "tm:flamecharge",
     "tm:flamethrower",
@@ -129,8 +129,13 @@
     "tm:substitute",
     "tm:sunnyday",
     "tm:swagger",
+    "tm:swift",
     "tm:swordsdance",
+    "tm:takedown",
+    "tm:temperflare",
+    "tm:terablast",
     "tm:toxic",
+    "tm:uproar",
     "tm:willowisp",
     "tm:workup",
     "tutor:bodyslam",

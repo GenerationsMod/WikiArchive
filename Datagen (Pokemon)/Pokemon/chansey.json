@@ -29,18 +29,31 @@
     "amount": 1,
     "entries": [
       {
-        "item": "minecraft:egg",
-        "percentage": 33.0
+        "item": "cobblemon:lucky_egg",
+        "percentage": 10.0
       },
       {
         "item": "cobblemon:oval_stone",
         "percentage": 10.0
       },
       {
-        "item": "cobblemon:lucky_egg",
-        "percentage": 10.0
+        "item": "minecraft:egg",
+        "percentage": 50.0
       }
     ]
+  },
+  "behaviour": {
+    "moving": {
+      "walk": {
+        "walkSpeed": 0.25
+      }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    }
   },
   "moves": [
     "1:charm",
@@ -95,12 +108,14 @@
     "tm:confide",
     "tm:dazzlinggleam",
     "tm:disarmingvoice",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:drainpunch",
     "tm:dreameater",
     "tm:earthquake",
     "tm:echoedvoice",
     "tm:electricterrain",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:fireblast",
@@ -113,6 +128,7 @@
     "tm:frustration",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:gravity",
     "tm:hail",
     "tm:helpinghand",
     "tm:hiddenpower",

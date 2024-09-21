@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Spritzee",
   "nationalPokedexNumber": 682,
   "primaryType": "fairy",
@@ -16,7 +15,7 @@
       },
       {
         "item": "cobblemon:fairy_feather",
-        "percentage": 50.0
+        "percentage": 2.5
       }
     ]
   },
@@ -155,5 +154,6 @@
   "height": 2,
   "weight": 5,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

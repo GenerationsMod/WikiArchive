@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Snover",
   "nationalPokedexNumber": 459,
   "primaryType": "grass",
@@ -86,6 +85,8 @@
     "tm:captivate",
     "tm:chillingwater",
     "tm:confide",
+    "tm:curse",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:endure",
     "tm:energyball",
@@ -95,12 +96,14 @@
     "tm:frustration",
     "tm:gigadrain",
     "tm:grassknot",
+    "tm:grassyglide",
     "tm:hail",
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:icebeam",
     "tm:icepunch",
     "tm:icespinner",
+    "tm:iciclespear",
     "tm:icywind",
     "tm:irontail",
     "tm:leafstorm",
@@ -189,5 +192,6 @@
   "height": 10,
   "weight": 505,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

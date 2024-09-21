@@ -37,6 +37,14 @@
   "eggGroups": [
     "field"
   ],
+  "behaviour": {
+    "moving": {
+      "stepHeight": 1.0,
+      "walk": {
+        "walkSpeed": 0.12
+      }
+    }
+  },
   "moves": [
     "1:bite",
     "1:firefang",
@@ -70,7 +78,9 @@
     "tm:captivate",
     "tm:confide",
     "tm:crunch",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthpower",
     "tm:earthquake",
@@ -79,6 +89,7 @@
     "tm:firefang",
     "tm:frustration",
     "tm:gigaimpact",
+    "tm:hardpress",
     "tm:heavyslam",
     "tm:helpinghand",
     "tm:hiddenpower",
@@ -103,6 +114,7 @@
     "tm:round",
     "tm:sandstorm",
     "tm:sandtomb",
+    "tm:scorchingsands",
     "tm:secretpower",
     "tm:sleeptalk",
     "tm:snore",
@@ -143,8 +155,8 @@
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 2.2,
+    "height": 1.9,
     "fixed": false
   },
   "baseFriendship": 50,

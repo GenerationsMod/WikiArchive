@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Pansage",
   "nationalPokedexNumber": 511,
   "primaryType": "grass",
@@ -169,5 +168,6 @@
   "height": 6,
   "weight": 105,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

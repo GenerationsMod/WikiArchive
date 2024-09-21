@@ -1,20 +1,10 @@
 {
-  "implemented": true,
   "name": "Deoxys",
   "nationalPokedexNumber": 386,
   "primaryType": "psychic",
   "abilities": [
     "pressure"
   ],
-  "drops": {
-    "amount": 1,
-    "entries": [
-      {
-        "item": "generations_core:deoxys_doll",
-        "percentage": 100.0
-      }
-    ]
-  },
   "baseStats": {
     "hp": 50,
     "attack": 150,
@@ -49,13 +39,17 @@
     "13:teleport",
     "19:knockoff",
     "19:taunt",
+    "25:psyshock",
     "25:pursuit",
     "25:spikes",
     "31:psychic",
+    "37:gravity",
+    "37:protect",
     "37:snatch",
     "37:superpower",
     "37:swift",
     "43:psychoshift",
+    "43:skillswap",
     "49:zenheadbutt",
     "55:agility",
     "55:amnesia",
@@ -69,7 +63,9 @@
     "73:hyperbeam",
     "73:mirrorcoat",
     "tm:aerialace",
+    "tm:agility",
     "tm:allyswitch",
+    "tm:amnesia",
     "tm:avalanche",
     "tm:brickbreak",
     "tm:brutalswing",
@@ -83,25 +79,42 @@
     "tm:dreameater",
     "tm:endure",
     "tm:energyball",
+    "tm:expandingforce",
     "tm:facade",
+    "tm:firepunch",
     "tm:flash",
     "tm:flashcannon",
     "tm:fling",
     "tm:focusblast",
     "tm:focuspunch",
     "tm:frustration",
+    "tm:futuresight",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:gravity",
     "tm:hiddenpower",
     "tm:hyperbeam",
     "tm:icebeam",
+    "tm:icepunch",
+    "tm:icywind",
+    "tm:imprison",
+    "tm:irondefense",
+    "tm:knockoff",
     "tm:lightscreen",
+    "tm:lowkick",
     "tm:lowsweep",
+    "tm:meteorbeam",
+    "tm:nastyplot",
     "tm:naturalgift",
+    "tm:nightshade",
+    "tm:painsplit",
     "tm:poisonjab",
     "tm:poweruppunch",
     "tm:protect",
+    "tm:psybeam",
     "tm:psychic",
+    "tm:psychicnoise",
+    "tm:psychicterrain",
     "tm:psychup",
     "tm:psyshock",
     "tm:raindance",
@@ -114,6 +127,7 @@
     "tm:rocktomb",
     "tm:round",
     "tm:safeguard",
+    "tm:scaryface",
     "tm:secretpower",
     "tm:shadowball",
     "tm:shockwave",
@@ -121,20 +135,30 @@
     "tm:sleeptalk",
     "tm:snatch",
     "tm:solarbeam",
+    "tm:spikes",
     "tm:stealthrock",
+    "tm:stompingtantrum",
+    "tm:storedpower",
     "tm:strength",
     "tm:substitute",
     "tm:sunnyday",
     "tm:swagger",
+    "tm:swift",
+    "tm:takedown",
     "tm:taunt",
     "tm:telekinesis",
+    "tm:terablast",
+    "tm:throatchop",
     "tm:thunder",
     "tm:thunderbolt",
+    "tm:thunderpunch",
     "tm:thunderwave",
     "tm:torment",
     "tm:toxic",
+    "tm:trick",
     "tm:trickroom",
     "tm:waterpulse",
+    "tm:zenheadbutt",
     "tutor:allyswitch",
     "tutor:bind",
     "tutor:bodyslam",
@@ -258,9 +282,17 @@
       ],
       "height": 17,
       "weight": 608,
-      "evolutions": [],
       "cannotDynamax": false,
-      "battleOnly": false
+      "battleOnly": false,
+      "drops": {
+        "amount": 5,
+        "entries": [
+          {
+            "item": "minecraft:eye_of_ender",
+            "quantityRange": "3-5"
+          }
+        ]
+      }
     },
     {
       "name": "Defense",
@@ -303,9 +335,17 @@
       ],
       "height": 17,
       "weight": 608,
-      "evolutions": [],
       "cannotDynamax": false,
-      "battleOnly": false
+      "battleOnly": false,
+      "drops": {
+        "amount": 5,
+        "entries": [
+          {
+            "item": "minecraft:eye_of_ender",
+            "quantityRange": "3-5"
+          }
+        ]
+      }
     },
     {
       "name": "Speed",
@@ -348,9 +388,17 @@
       ],
       "height": 17,
       "weight": 608,
-      "evolutions": [],
       "cannotDynamax": false,
-      "battleOnly": false
+      "battleOnly": false,
+      "drops": {
+        "amount": 5,
+        "entries": [
+          {
+            "item": "minecraft:eye_of_ender",
+            "quantityRange": "3-5"
+          }
+        ]
+      }
     }
   ],
   "aspects": [],
@@ -362,5 +410,6 @@
         "item": "minecraft:eye_of_ender"
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -37,6 +37,19 @@
   "eggGroups": [
     "field"
   ],
+  "behaviour": {
+    "moving": {
+      "walk": {
+        "walkSpeed": 0.13
+      }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": true,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  },
   "moves": [
     "1:defensecurl",
     "1:growl",
@@ -71,12 +84,15 @@
     "tm:captivate",
     "tm:charm",
     "tm:confide",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthpower",
     "tm:earthquake",
     "tm:echoedvoice",
     "tm:encore",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:frustration",
@@ -84,9 +100,11 @@
     "tm:heavyslam",
     "tm:helpinghand",
     "tm:hiddenpower",
+    "tm:highhorsepower",
     "tm:hypervoice",
     "tm:ironhead",
     "tm:irontail",
+    "tm:knockoff",
     "tm:mudshot",
     "tm:mudslap",
     "tm:naturalgift",
@@ -101,9 +119,11 @@
     "tm:rocktomb",
     "tm:round",
     "tm:sandstorm",
+    "tm:sandtomb",
     "tm:secretpower",
     "tm:seedbomb",
     "tm:sleeptalk",
+    "tm:smackdown",
     "tm:stealthrock",
     "tm:stompingtantrum",
     "tm:stoneedge",

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Froslass",
   "nationalPokedexNumber": 478,
   "primaryType": "ice",
@@ -80,6 +79,7 @@
     "tm:confide",
     "tm:confuseray",
     "tm:crunch",
+    "tm:curse",
     "tm:doubleteam",
     "tm:drainingkiss",
     "tm:dreameater",
@@ -93,6 +93,7 @@
     "tm:frustration",
     "tm:gigaimpact",
     "tm:hail",
+    "tm:haze",
     "tm:helpinghand",
     "tm:hex",
     "tm:hiddenpower",
@@ -107,7 +108,9 @@
     "tm:lightscreen",
     "tm:naturalgift",
     "tm:nightshade",
+    "tm:painsplit",
     "tm:payback",
+    "tm:poltergeist",
     "tm:protect",
     "tm:psychic",
     "tm:psychup",
@@ -126,6 +129,7 @@
     "tm:snore",
     "tm:snowscape",
     "tm:spikes",
+    "tm:spite",
     "tm:substitute",
     "tm:swagger",
     "tm:takedown",
@@ -137,7 +141,9 @@
     "tm:thunderwave",
     "tm:torment",
     "tm:toxic",
+    "tm:trailblaze",
     "tm:trick",
+    "tm:tripleaxel",
     "tm:waterpulse",
     "tm:weatherball",
     "tm:willowisp",
@@ -211,5 +217,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

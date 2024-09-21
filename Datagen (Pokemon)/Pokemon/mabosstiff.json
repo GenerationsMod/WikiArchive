@@ -22,10 +22,6 @@
       {
         "item": "cobblemon:tanga_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:dark_soul",
-        "percentage": 2.5
       }
     ]
   },
@@ -75,8 +71,11 @@
     "tm:bodyslam",
     "tm:charm",
     "tm:crunch",
+    "tm:curse",
     "tm:darkpulse",
     "tm:dig",
+    "tm:doubleedge",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:faketears",
@@ -86,16 +85,20 @@
     "tm:hyperbeam",
     "tm:hypervoice",
     "tm:icefang",
+    "tm:lashout",
     "tm:outrage",
+    "tm:painsplit",
     "tm:playrough",
     "tm:protect",
     "tm:psychicfangs",
     "tm:raindance",
     "tm:rest",
     "tm:reversal",
+    "tm:roar",
     "tm:scaryface",
     "tm:sleeptalk",
     "tm:snarl",
+    "tm:spite",
     "tm:substitute",
     "tm:sunnyday",
     "tm:takedown",

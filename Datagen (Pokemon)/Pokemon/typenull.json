@@ -1,6 +1,5 @@
 {
-  "implemented": true,
-  "name": "Type Null",
+  "name": "Type: Null",
   "nationalPokedexNumber": 772,
   "primaryType": "normal",
   "abilities": [
@@ -142,5 +141,6 @@
   "height": 19,
   "weight": 1205,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

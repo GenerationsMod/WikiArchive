@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Carkol",
   "nationalPokedexNumber": 838,
   "primaryType": "rock",
@@ -43,6 +42,7 @@
     "tm:bodypress",
     "tm:bodyslam",
     "tm:bulldoze",
+    "tm:curse",
     "tm:dig",
     "tm:endure",
     "tm:facade",
@@ -58,6 +58,7 @@
     "tm:highhorsepower",
     "tm:irondefense",
     "tm:ironhead",
+    "tm:meteorbeam",
     "tm:mudslap",
     "tm:overheat",
     "tm:powergem",
@@ -71,8 +72,10 @@
     "tm:sandstorm",
     "tm:sandtomb",
     "tm:scald",
+    "tm:scorchingsands",
     "tm:selfdestruct",
     "tm:sleeptalk",
+    "tm:smackdown",
     "tm:snore",
     "tm:spikes",
     "tm:stealthrock",
@@ -80,6 +83,7 @@
     "tm:substitute",
     "tm:sunnyday",
     "tm:takedown",
+    "tm:temperflare",
     "tm:terablast",
     "tm:willowisp",
     "tutor:meteorbeam",
@@ -144,5 +148,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

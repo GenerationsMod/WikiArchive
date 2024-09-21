@@ -122,7 +122,6 @@
       ],
       "height": 15,
       "weight": 580,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -153,6 +152,7 @@
     "tm:aerialace",
     "tm:attract",
     "tm:brickbreak",
+    "tm:bugbite",
     "tm:bulletseed",
     "tm:confide",
     "tm:crosspoison",
@@ -166,9 +166,11 @@
     "tm:gigadrain",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:grassyglide",
     "tm:grassyterrain",
     "tm:hiddenpower",
     "tm:hyperbeam",
+    "tm:knockoff",
     "tm:leafblade",
     "tm:leafstorm",
     "tm:leechlife",
@@ -176,6 +178,7 @@
     "tm:magicalleaf",
     "tm:naturepower",
     "tm:payback",
+    "tm:petalblizzard",
     "tm:poisonjab",
     "tm:pollenpuff",
     "tm:protect",
@@ -187,6 +190,7 @@
     "tm:safeguard",
     "tm:scaryface",
     "tm:seedbomb",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:snore",
     "tm:solarbeam",
@@ -226,8 +230,8 @@
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 0.8,
+    "height": 1.5,
     "fixed": false
   },
   "baseFriendship": 50,
@@ -253,10 +257,6 @@
       {
         "item": "cobblemon:tanga_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:pink_petal",
-        "percentage": 10.0
       }
     ]
   }

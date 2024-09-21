@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Throh",
   "nationalPokedexNumber": 538,
   "primaryType": "fighting",
@@ -9,7 +8,7 @@
     "h:moldbreaker"
   ],
   "drops": {
-    "amount": 2,
+    "amount": 3,
     "entries": [
       {
         "item": "cobblemon:black_belt",
@@ -20,8 +19,8 @@
         "percentage": 5.0
       },
       {
-        "item": "generations_core:scroll_page",
-        "percentage": 1.0
+        "item": "cobblemon:expert_belt",
+        "percentage": 5.0
       }
     ]
   },
@@ -157,5 +156,6 @@
   "height": 13,
   "weight": 555,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

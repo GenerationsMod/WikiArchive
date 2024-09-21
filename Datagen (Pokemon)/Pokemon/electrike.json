@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Electrike",
   "nationalPokedexNumber": 309,
   "primaryType": "electric",
@@ -178,5 +177,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

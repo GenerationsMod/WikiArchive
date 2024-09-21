@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Meditite",
   "nationalPokedexNumber": 307,
   "primaryType": "fighting",
@@ -75,6 +74,7 @@
     "tm:drainpunch",
     "tm:dreameater",
     "tm:endure",
+    "tm:expandingforce",
     "tm:facade",
     "tm:firepunch",
     "tm:flash",
@@ -93,6 +93,7 @@
     "tm:metronome",
     "tm:naturalgift",
     "tm:nightshade",
+    "tm:painsplit",
     "tm:poisonjab",
     "tm:poweruppunch",
     "tm:protect",
@@ -132,6 +133,7 @@
     "tm:trailblaze",
     "tm:trick",
     "tm:trickroom",
+    "tm:upperhand",
     "tm:workup",
     "tm:zenheadbutt",
     "tutor:bide",
@@ -232,5 +234,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

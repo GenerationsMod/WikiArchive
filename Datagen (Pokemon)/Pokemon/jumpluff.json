@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Jumpluff",
   "nationalPokedexNumber": 189,
   "primaryType": "grass",
@@ -57,8 +56,10 @@
     "tm:charm",
     "tm:confide",
     "tm:dazzlinggleam",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:encore",
+    "tm:endeavor",
     "tm:endure",
     "tm:energyball",
     "tm:facade",
@@ -75,6 +76,7 @@
     "tm:infestation",
     "tm:leafstorm",
     "tm:lightscreen",
+    "tm:lunge",
     "tm:magicalleaf",
     "tm:naturalgift",
     "tm:pollenpuff",
@@ -182,5 +184,6 @@
         "percentage": 10.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

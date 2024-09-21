@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Hattrem",
   "nationalPokedexNumber": 857,
   "primaryType": "psychic",
@@ -48,7 +47,9 @@
     "tm:disarmingvoice",
     "tm:drainingkiss",
     "tm:endure",
+    "tm:expandingforce",
     "tm:facade",
+    "tm:futuresight",
     "tm:gigadrain",
     "tm:helpinghand",
     "tm:imprison",
@@ -62,6 +63,7 @@
     "tm:psybeam",
     "tm:psychic",
     "tm:psychicterrain",
+    "tm:psychup",
     "tm:psyshock",
     "tm:reflect",
     "tm:rest",
@@ -128,11 +130,8 @@
       {
         "item": "cobblemon:babiri_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:light_soul",
-        "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

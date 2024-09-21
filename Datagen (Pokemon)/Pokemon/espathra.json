@@ -17,10 +17,6 @@
       {
         "item": "cobblemon:tanga_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:light_soul",
-        "percentage": 2.5
       }
     ]
   },
@@ -94,9 +90,12 @@
     "tm:confuseray",
     "tm:dazzlinggleam",
     "tm:disarmingvoice",
+    "tm:doubleedge",
     "tm:endure",
     "tm:energyball",
+    "tm:expandingforce",
     "tm:facade",
+    "tm:featherdance",
     "tm:flashcannon",
     "tm:foulplay",
     "tm:gigaimpact",
@@ -113,6 +112,7 @@
     "tm:psybeam",
     "tm:psychic",
     "tm:psychicterrain",
+    "tm:psychup",
     "tm:psyshock",
     "tm:raindance",
     "tm:reflect",
@@ -131,6 +131,7 @@
     "tm:thief",
     "tm:trick",
     "tm:trickroom",
+    "tm:uproar",
     "tm:uturn",
     "tm:zenheadbutt"
   ],

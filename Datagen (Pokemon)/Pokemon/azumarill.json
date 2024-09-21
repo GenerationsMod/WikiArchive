@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Azumarill",
   "nationalPokedexNumber": 184,
   "primaryType": "water",
@@ -56,6 +55,7 @@
     "40:hydropump",
     "45:doubleedge",
     "50:superpower",
+    "tm:alluringvoice",
     "tm:amnesia",
     "tm:attract",
     "tm:blizzard",
@@ -71,6 +71,7 @@
     "tm:dig",
     "tm:disarmingvoice",
     "tm:dive",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:drainingkiss",
     "tm:encore",
@@ -95,11 +96,13 @@
     "tm:icespinner",
     "tm:icywind",
     "tm:irontail",
+    "tm:knockoff",
     "tm:lightscreen",
     "tm:liquidation",
     "tm:megakick",
     "tm:megapunch",
     "tm:metronome",
+    "tm:mistyexplosion",
     "tm:mistyterrain",
     "tm:muddywater",
     "tm:mudshot",
@@ -214,5 +217,6 @@
   "height": 8,
   "weight": 285,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

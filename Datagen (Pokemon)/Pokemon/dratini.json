@@ -29,8 +29,15 @@
     "moving": {
       "swim": {
         "canSwimInWater": true,
-        "canBreatheUnderwater": true
+        "canBreatheUnderwater": true,
+        "canWalkOnWater": true
       }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
     }
   },
   "drops": {
@@ -93,6 +100,7 @@
     "tm:confide",
     "tm:doubleteam",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragondance",
     "tm:dragonpulse",
     "tm:dragontail",
@@ -104,6 +112,7 @@
     "tm:frustration",
     "tm:gigaimpact",
     "tm:hail",
+    "tm:haze",
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:hydropump",
@@ -122,6 +131,7 @@
     "tm:return",
     "tm:round",
     "tm:safeguard",
+    "tm:scaleshot",
     "tm:secretpower",
     "tm:shockwave",
     "tm:sleeptalk",

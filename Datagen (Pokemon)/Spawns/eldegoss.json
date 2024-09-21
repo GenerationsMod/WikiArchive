@@ -1,5 +1,5 @@
 {
-    "enabled": "true",
+    "enabled": true,
     "neededInstalledMods": [],
     "neededUninstalledMods": [],
     "spawns": [
@@ -11,13 +11,47 @@
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "rare",
-            "level": "20-60",
-            "weight": 9.0,
+            "bucket": "common",
+            "level": "20-46",
+            "weight": 1.0,
+            "weightMultiplier": {
+                "multiplier": 0.25,
+                "condition": {
+                    "timeRange": "night"
+                }
+            },
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
                     "#cobblemon:is_floral"
+                ],
+                "isRaining": false
+            }
+        },
+        {
+            "id": "eldegoss-2",
+            "pokemon": "eldegoss",
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "20-46",
+            "weight": 1.0,
+            "weightMultiplier": {
+                "multiplier": 0.25,
+                "condition": {
+                    "timeRange": "night"
+                }
+            },
+            "condition": {
+                "biomes": [
+                    "the_bumblezone:floral_meadow"
+                ],
+                "isRaining": false
+            },
+            "anticondition": {
+                "structures": [
+                    "#the_bumblezone:sempiternal_sanctums"
                 ]
             }
         }

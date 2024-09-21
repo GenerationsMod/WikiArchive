@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Noivern",
   "nationalPokedexNumber": 715,
   "primaryType": "flying",
@@ -56,17 +55,21 @@
     "tm:airslash",
     "tm:attract",
     "tm:bodyslam",
+    "tm:breakingswipe",
     "tm:brickbreak",
     "tm:confide",
     "tm:cut",
     "tm:darkpulse",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragondance",
     "tm:dragonpulse",
     "tm:dragontail",
     "tm:dreameater",
+    "tm:dualwingbeat",
     "tm:echoedvoice",
     "tm:endure",
     "tm:facade",
@@ -86,6 +89,7 @@
     "tm:outrage",
     "tm:protect",
     "tm:psychic",
+    "tm:psychicnoise",
     "tm:rest",
     "tm:return",
     "tm:roost",
@@ -101,6 +105,7 @@
     "tm:steelwing",
     "tm:substitute",
     "tm:sunnyday",
+    "tm:superfang",
     "tm:swagger",
     "tm:swift",
     "tm:tailwind",
@@ -160,12 +165,17 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 1,
+    "amount": 2,
     "entries": [
+      {
+        "item": "minecraft:phantom_membrane",
+        "percentage": 5.0
+      },
       {
         "item": "cobblemon:yache_berry",
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

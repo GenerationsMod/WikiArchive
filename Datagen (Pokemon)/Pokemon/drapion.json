@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Drapion",
   "nationalPokedexNumber": 452,
   "primaryType": "poison",
@@ -204,5 +203,6 @@
   "height": 13,
   "weight": 615,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

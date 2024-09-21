@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Glalie",
   "nationalPokedexNumber": 362,
   "primaryType": "ice",
@@ -61,7 +60,6 @@
       ],
       "height": 21,
       "weight": 3502,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     }
@@ -143,6 +141,7 @@
     "tm:snore",
     "tm:snowscape",
     "tm:spikes",
+    "tm:spite",
     "tm:substitute",
     "tm:swagger",
     "tm:takedown",
@@ -224,5 +223,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Zeraora",
   "nationalPokedexNumber": 807,
   "primaryType": "electric",
@@ -13,15 +12,6 @@
     "special_attack": 102,
     "special_defence": 80,
     "speed": 143
-  },
-  "drops": {
-    "amount": 1,
-    "entries": [
-      {
-        "item": "generations_core:zeraora_doll",
-        "percentage": 100.0
-      }
-    ]
   },
   "catchRate": 3,
   "maleRatio": -1,
@@ -165,5 +155,6 @@
   "height": 15,
   "weight": 445,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

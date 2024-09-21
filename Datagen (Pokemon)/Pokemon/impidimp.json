@@ -17,6 +17,13 @@
     "special_defence": 40,
     "speed": 50
   },
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  },
   "catchRate": 255,
   "maleRatio": 1,
   "shoulderMountable": false,
@@ -44,6 +51,7 @@
     "egg:partingshot",
     "tm:assurance",
     "tm:attract",
+    "tm:burningjealousy",
     "tm:chillingwater",
     "tm:darkpulse",
     "tm:dazzlinggleam",
@@ -54,6 +62,7 @@
     "tm:faketears",
     "tm:fling",
     "tm:foulplay",
+    "tm:lashout",
     "tm:leechlife",
     "tm:lightscreen",
     "tm:lowkick",
@@ -77,6 +86,7 @@
     "tm:taunt",
     "tm:terablast",
     "tm:thief",
+    "tm:throatchop",
     "tm:thunderwave",
     "tm:trailblaze",
     "tm:trick",
@@ -107,10 +117,10 @@
       ]
     }
   ],
-  "baseScale": 1,
+  "baseScale": 0.6,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 0.75,
+    "height": 1.2,
     "fixed": false
   },
   "baseFriendship": 50,

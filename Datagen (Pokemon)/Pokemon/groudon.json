@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Groudon",
   "nationalPokedexNumber": 383,
   "primaryType": "ground",
@@ -60,7 +59,6 @@
       ],
       "height": 50,
       "weight": 9997,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     }
@@ -98,6 +96,7 @@
     "tm:crunch",
     "tm:cut",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dragonclaw",
     "tm:dragonpulse",
@@ -112,6 +111,7 @@
     "tm:flamethrower",
     "tm:fling",
     "tm:focusblast",
+    "tm:focuspunch",
     "tm:frustration",
     "tm:gigaimpact",
     "tm:heatcrash",
@@ -147,7 +147,9 @@
     "tm:round",
     "tm:safeguard",
     "tm:sandstorm",
+    "tm:sandtomb",
     "tm:scaryface",
+    "tm:scorchingsands",
     "tm:secretpower",
     "tm:shadowclaw",
     "tm:shockwave",
@@ -184,14 +186,11 @@
     "tutor:dragonpulse",
     "tutor:dynamicpunch",
     "tutor:earthpower",
-    "tutor:earthquake",
     "tutor:endure",
     "tutor:eruption",
     "tutor:fireblast",
     "tutor:firepunch",
-    "tutor:fissure",
     "tutor:furycutter",
-    "tutor:hammerarm",
     "tutor:headbutt",
     "tutor:ironhead",
     "tutor:irontail",
@@ -202,7 +201,6 @@
     "tutor:mudslap",
     "tutor:precipiceblades",
     "tutor:psychup",
-    "tutor:rest",
     "tutor:rockslide",
     "tutor:rollout",
     "tutor:scaryface",
@@ -254,9 +252,9 @@
     "amount": 1,
     "entries": [
       {
-        "item": "generations_core:groudon_doll",
-        "percentage": 100.0
+        "item": "minecraft:nether_star"
       }
     ]
-  }
+  },
+  "implemented": true
 }

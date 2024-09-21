@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Kubfu",
   "nationalPokedexNumber": 891,
   "primaryType": "fighting",
@@ -48,11 +47,13 @@
     "tm:bulkup",
     "tm:closecombat",
     "tm:dig",
+    "tm:doubleedge",
     "tm:endure",
     "tm:facade",
     "tm:firepunch",
     "tm:fling",
     "tm:focusenergy",
+    "tm:focuspunch",
     "tm:helpinghand",
     "tm:icepunch",
     "tm:ironhead",
@@ -94,27 +95,45 @@
   ],
   "evolutions": [
     {
-      "id": "kubfu_urshifu",
-      "variant": "block_click",
+      "id": "kubfu_urshifu1",
+      "variant": "level_up",
+      "result": "urshifu rapid-strike",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "surgingstrikes"
+      ],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 32
+        },
+        {
+          "variant": "time_range",
+          "range": "day"
+        }
+      ]
+    },
+    {
+      "id": "kubfu_urshifu2",
+      "variant": "level_up",
       "result": "urshifu",
       "consumeHeldItem": false,
       "learnableMoves": [
         "wickedblow"
       ],
-      "requirements": [],
-      "block": "cobblemon:scroll_of_darkness"
-    },
-    {
-      "id": "kubfu_urshifu",
-      "variant": "block_click",
-      "result": "urshifu form=rapidstrike",
-      "consumeHeldItem": false,
-      "learnableMoves": [
-        "surgingstrikes"
-      ],
-      "requirements": [],
-      "block": "cobblemon:scroll_of_waters"
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 32
+        },
+        {
+          "variant": "time_range",
+          "range": "night"
+        }
+      ]
     }
+
+
   ],
   "baseScale": 1,
   "hitbox": {
@@ -134,5 +153,6 @@
   "height": 6,
   "weight": 120,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

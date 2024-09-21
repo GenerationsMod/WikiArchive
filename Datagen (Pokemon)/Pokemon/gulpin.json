@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Gulpin",
   "nationalPokedexNumber": 316,
   "primaryType": "poison",
@@ -61,6 +60,7 @@
     "tm:bulletseed",
     "tm:captivate",
     "tm:confide",
+    "tm:curse",
     "tm:doubleteam",
     "tm:dreameater",
     "tm:encore",
@@ -80,6 +80,7 @@
     "tm:mudshot",
     "tm:mudslap",
     "tm:naturalgift",
+    "tm:painsplit",
     "tm:poisonjab",
     "tm:poweruppunch",
     "tm:protect",
@@ -198,11 +199,8 @@
       {
         "item": "cobblemon:oran_berry",
         "percentage": 2.5
-      },
-      {
-        "item": "generations_core:gulpin_doll",
-        "percentage": 1.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

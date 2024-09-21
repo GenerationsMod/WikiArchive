@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Shelgon",
   "nationalPokedexNumber": 372,
   "primaryType": "dragon",
@@ -48,8 +47,10 @@
     "tm:confide",
     "tm:crunch",
     "tm:cut",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragondance",
     "tm:dragonpulse",
@@ -92,6 +93,7 @@
     "tm:sunnyday",
     "tm:swagger",
     "tm:takedown",
+    "tm:temperflare",
     "tm:terablast",
     "tm:thunderfang",
     "tm:toxic",
@@ -177,5 +179,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

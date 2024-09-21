@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Croagunk",
   "nationalPokedexNumber": 453,
   "primaryType": "poison",
@@ -101,6 +100,7 @@
     "tm:bulldoze",
     "tm:captivate",
     "tm:chillingwater",
+    "tm:coaching",
     "tm:confide",
     "tm:darkpulse",
     "tm:dig",
@@ -121,6 +121,8 @@
     "tm:hiddenpower",
     "tm:icepunch",
     "tm:icywind",
+    "tm:knockoff",
+    "tm:lashout",
     "tm:lowkick",
     "tm:lowsweep",
     "tm:megakick",
@@ -154,9 +156,11 @@
     "tm:sludgewave",
     "tm:snatch",
     "tm:snore",
+    "tm:spite",
     "tm:strength",
     "tm:substitute",
     "tm:sunnyday",
+    "tm:superfang",
     "tm:swagger",
     "tm:takedown",
     "tm:taunt",
@@ -165,6 +169,8 @@
     "tm:thunderpunch",
     "tm:torment",
     "tm:toxic",
+    "tm:upperhand",
+    "tm:vacuumwave",
     "tm:venomdrench",
     "tm:venoshock",
     "tm:workup",
@@ -239,5 +245,6 @@
   "height": 7,
   "weight": 230,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

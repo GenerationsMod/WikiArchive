@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Silicobra",
   "nationalPokedexNumber": 843,
   "primaryType": "ground",
@@ -65,8 +64,11 @@
     "tm:round",
     "tm:sandstorm",
     "tm:sandtomb",
+    "tm:scaleshot",
     "tm:scaryface",
+    "tm:scorchingsands",
     "tm:screech",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:snore",
     "tm:stealthrock",
@@ -126,5 +128,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

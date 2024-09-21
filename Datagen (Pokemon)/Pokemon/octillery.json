@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Octillery",
   "nationalPokedexNumber": 224,
   "primaryType": "water",
@@ -190,5 +189,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -17,6 +17,24 @@
     "special_defence": 55,
     "speed": 85
   },
+  "behaviour": {
+    "moving": {
+      "walk": {
+        "avoidsLand": true
+      },
+      "swim": {
+        "swimSpeed": 0.3,
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true
+      }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  },
   "features": [
     "hisuian"
   ],
@@ -40,6 +58,24 @@
         "special_attack": 55,
         "special_defence": 55,
         "speed": 85
+      },
+      "behaviour": {
+        "moving": {
+          "walk": {
+            "avoidsLand": true
+          },
+          "swim": {
+            "swimSpeed": 0.3,
+            "canSwimInWater": true,
+            "canBreatheUnderwater": true
+          }
+        },
+        "resting": {
+          "canSleep": true,
+          "willSleepOnBed": false,
+          "depth": "normal",
+          "light": "0-4"
+        }
       },
       "catchRate": 45,
       "maleRatio": 0.5,
@@ -91,28 +127,36 @@
         "tm:blizzard",
         "tm:chillingwater",
         "tm:crunch",
+        "tm:curse",
         "tm:darkpulse",
+        "tm:doubleedge",
         "tm:endure",
         "tm:facade",
         "tm:gigaimpact",
         "tm:gunkshot",
+        "tm:gyroball",
+        "tm:haze",
         "tm:hex",
         "tm:hydropump",
         "tm:icebeam",
         "tm:icywind",
+        "tm:lashout",
         "tm:liquidation",
         "tm:mudshot",
+        "tm:painsplit",
         "tm:poisonjab",
         "tm:poisontail",
         "tm:protect",
         "tm:raindance",
         "tm:rest",
         "tm:reversal",
+        "tm:scaleshot",
         "tm:scaryface",
         "tm:shadowball",
         "tm:sleeptalk",
         "tm:sludgebomb",
         "tm:spikes",
+        "tm:spite",
         "tm:substitute",
         "tm:surf",
         "tm:swift",
@@ -120,6 +164,8 @@
         "tm:takedown",
         "tm:taunt",
         "tm:terablast",
+        "tm:throatchop",
+        "tm:toxic",
         "tm:toxicspikes",
         "tm:venoshock",
         "tm:waterfall",
@@ -207,16 +253,20 @@
     "tm:chillingwater",
     "tm:confide",
     "tm:crunch",
+    "tm:curse",
     "tm:dive",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:endure",
     "tm:explosion",
     "tm:facade",
+    "tm:flipturn",
     "tm:frustration",
     "tm:gigaimpact",
     "tm:gunkshot",
     "tm:gyroball",
     "tm:hail",
+    "tm:haze",
     "tm:hex",
     "tm:hiddenpower",
     "tm:hydropump",
@@ -225,6 +275,7 @@
     "tm:liquidation",
     "tm:mudshot",
     "tm:naturalgift",
+    "tm:painsplit",
     "tm:payback",
     "tm:pinmissile",
     "tm:poisonjab",
@@ -237,6 +288,7 @@
     "tm:reversal",
     "tm:round",
     "tm:scald",
+    "tm:scaleshot",
     "tm:scaryface",
     "tm:secretpower",
     "tm:selfdestruct",
@@ -247,6 +299,7 @@
     "tm:sludgewave",
     "tm:snore",
     "tm:spikes",
+    "tm:spite",
     "tm:substitute",
     "tm:surf",
     "tm:swagger",
@@ -331,8 +384,8 @@
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 0.6,
+    "height": 0.8,
     "fixed": false
   },
   "baseFriendship": 50,

@@ -17,6 +17,25 @@
     "special_defence": 75,
     "speed": 142
   },
+  "behaviour": {
+    "moving": {
+      "swim": {
+        "swimSpeed": 0.3,
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true,
+        "canWalkOnWater": true
+      },
+      "fly": {
+        "canFly": true
+      }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  },
   "catchRate": 45,
   "maleRatio": 0.5,
   "shoulderMountable": false,
@@ -28,6 +47,7 @@
     "dragon"
   ],
   "moves": [
+    "1:dragondarts",
     "1:astonish",
     "1:bite",
     "1:dragonbreath",
@@ -56,8 +76,12 @@
     "tm:bodyslam",
     "tm:breakingswipe",
     "tm:brine",
+    "tm:confuseray",
+    "tm:curse",
     "tm:dive",
+    "tm:doubleedge",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragondance",
     "tm:dragonpulse",
@@ -114,8 +138,8 @@
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 1.2,
+    "height": 3,
     "fixed": false
   },
   "baseFriendship": 50,
@@ -132,15 +156,15 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 1,
+    "amount": 2,
     "entries": [
       {
-        "item": "cobblemon:haban_berry",
+        "item": "minecraft:phantom_membrane",
         "percentage": 10.0
       },
       {
-        "item": "generations_core:dragon_soul",
-        "percentage": 5.0
+        "item": "cobblemon:haban_berry",
+        "percentage": 10.0
       }
     ]
   }

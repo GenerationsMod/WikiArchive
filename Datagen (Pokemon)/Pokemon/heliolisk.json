@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Heliolisk",
   "nationalPokedexNumber": 695,
   "primaryType": "electric",
@@ -147,5 +146,6 @@
   "height": 10,
   "weight": 210,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

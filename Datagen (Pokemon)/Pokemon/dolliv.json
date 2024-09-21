@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Dolliv",
   "nationalPokedexNumber": 929,
   "primaryType": "grass",
@@ -64,11 +63,13 @@
     "tm:seedbomb",
     "tm:sleeptalk",
     "tm:solarbeam",
+    "tm:solarblade",
     "tm:substitute",
     "tm:sunnyday",
     "tm:swift",
     "tm:terablast",
-    "tm:trailblaze"
+    "tm:trailblaze",
+    "tm:weatherball"
   ],
   "labels": [
     "gen9"
@@ -108,5 +109,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

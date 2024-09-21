@@ -61,7 +61,6 @@
       ],
       "height": 30,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -90,10 +89,6 @@
       {
         "item": "cobblemon:charcoal_stick",
         "percentage": 25.0
-      },
-      {
-        "item": "generations_core:dynite_ore",
-        "percentage": 5.0
       }
     ]
   },
@@ -122,6 +117,9 @@
     "tm:blazekick",
     "tm:bounce",
     "tm:bulkup",
+    "tm:burningjealousy",
+    "tm:coaching",
+    "tm:doubleedge",
     "tm:electroball",
     "tm:endure",
     "tm:facade",
@@ -153,19 +151,24 @@
     "tm:revenge",
     "tm:reversal",
     "tm:round",
+    "tm:scorchingsands",
     "tm:shadowball",
     "tm:sleeptalk",
+    "tm:smackdown",
     "tm:snarl",
     "tm:snore",
     "tm:substitute",
     "tm:sunnyday",
+    "tm:superfang",
     "tm:swift",
     "tm:swordsdance",
     "tm:takedown",
     "tm:taunt",
+    "tm:temperflare",
     "tm:terablast",
     "tm:trailblaze",
     "tm:uturn",
+    "tm:weatherball",
     "tm:willowisp",
     "tm:workup",
     "tm:zenheadbutt",

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Spoink",
   "nationalPokedexNumber": 325,
   "primaryType": "psychic",
@@ -68,11 +67,14 @@
     "tm:doubleteam",
     "tm:dreameater",
     "tm:encore",
+    "tm:endeavor",
     "tm:endure",
+    "tm:expandingforce",
     "tm:facade",
     "tm:flash",
     "tm:flashcannon",
     "tm:frustration",
+    "tm:futuresight",
     "tm:grassknot",
     "tm:helpinghand",
     "tm:hiddenpower",
@@ -80,6 +82,7 @@
     "tm:imprison",
     "tm:irontail",
     "tm:lightscreen",
+    "tm:lunge",
     "tm:naturalgift",
     "tm:nightshade",
     "tm:payback",
@@ -120,6 +123,7 @@
     "tm:trailblaze",
     "tm:trick",
     "tm:trickroom",
+    "tm:uproar",
     "tm:zenheadbutt",
     "tutor:allyswitch",
     "tutor:bodyslam",
@@ -196,20 +200,21 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 3,
+    "amount": 4,
     "entries": [
       {
         "item": "minecraft:porkchop",
         "quantityRange": "1-2"
       },
       {
-        "item": "cobblemon:tanga_berry",
-        "percentage": 2.5
+        "item": "minecraft:ender_pearl",
+        "quantityRange": "0-1"
       },
       {
-        "item": "generations_core:light_soul",
+        "item": "cobblemon:tanga_berry",
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

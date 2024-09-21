@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Foongus",
   "nationalPokedexNumber": 590,
   "primaryType": "grass",
@@ -150,5 +149,6 @@
   "height": 2,
   "weight": 10,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

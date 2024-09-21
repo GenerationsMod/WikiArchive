@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Medicham",
   "nationalPokedexNumber": 308,
   "primaryType": "fighting",
@@ -61,7 +60,6 @@
       ],
       "height": 13,
       "weight": 315,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     }
@@ -114,6 +112,7 @@
     "tm:dreameater",
     "tm:endure",
     "tm:energyball",
+    "tm:expandingforce",
     "tm:facade",
     "tm:firepunch",
     "tm:flash",
@@ -123,6 +122,7 @@
     "tm:frustration",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:gravity",
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:hyperbeam",
@@ -134,6 +134,7 @@
     "tm:metronome",
     "tm:naturalgift",
     "tm:nightshade",
+    "tm:painsplit",
     "tm:poisonjab",
     "tm:poweruppunch",
     "tm:protect",
@@ -173,6 +174,8 @@
     "tm:trailblaze",
     "tm:trick",
     "tm:trickroom",
+    "tm:upperhand",
+    "tm:vacuumwave",
     "tm:workup",
     "tm:zenheadbutt",
     "tutor:bodyslam",
@@ -255,11 +258,8 @@
       {
         "item": "cobblemon:nanab_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:scroll_page",
-        "percentage": 1.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

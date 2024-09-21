@@ -62,7 +62,6 @@
       ],
       "height": 350,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -90,14 +89,6 @@
       },
       {
         "item": "cobblemon:leftovers",
-        "percentage": 5.0
-      },
-      {
-        "item": "generations_core:snorlax_doll",
-        "percentage": 1.0
-      },
-      {
-        "item": "generations_core:dynite_ore",
         "percentage": 5.0
       }
     ]
@@ -157,9 +148,13 @@
     "tm:bulldoze",
     "tm:captivate",
     "tm:charm",
+    "tm:chillingwater",
     "tm:confide",
     "tm:crunch",
+    "tm:curse",
+    "tm:dig",
     "tm:darkestlariat",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthquake",
     "tm:encore",
@@ -174,8 +169,10 @@
     "tm:frustration",
     "tm:gigaimpact",
     "tm:gunkshot",
+    "tm:hardpress",
     "tm:heatcrash",
     "tm:heavyslam",
+    "tm:helpinghand",
     "tm:hiddenpower",
     "tm:highhorsepower",
     "tm:hydropump",
@@ -189,6 +186,7 @@
     "tm:megakick",
     "tm:megapunch",
     "tm:metronome",
+    "tm:mudslap",
     "tm:naturalgift",
     "tm:outrage",
     "tm:payday",
@@ -220,13 +218,17 @@
     "tm:strength",
     "tm:substitute",
     "tm:sunnyday",
+    "tm:supercellslam",
     "tm:superpower",
     "tm:surf",
     "tm:swagger",
+    "tm:takedown",
+    "tm:terablast",
     "tm:thunder",
     "tm:thunderbolt",
     "tm:thunderpunch",
     "tm:toxic",
+    "tm:trailblaze",
     "tm:uproar",
     "tm:waterpulse",
     "tm:whirlpool",

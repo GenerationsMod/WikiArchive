@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Marshadow",
   "nationalPokedexNumber": 802,
   "primaryType": "fighting",
@@ -165,5 +164,6 @@
   "height": 7,
   "weight": 222,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

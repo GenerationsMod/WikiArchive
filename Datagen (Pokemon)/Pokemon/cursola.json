@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Cursola",
   "nationalPokedexNumber": 864,
   "primaryType": "ghost",
@@ -104,7 +103,7 @@
   "pokedex": [
     "cobblemon.species.cursola.desc"
   ],
-  "preEvolution": "corsola form=galar",
+  "preEvolution": "corsola galarian",
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {
@@ -133,5 +132,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

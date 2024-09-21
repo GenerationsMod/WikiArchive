@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Tapu Bulu",
   "nationalPokedexNumber": 787,
   "primaryType": "grass",
@@ -151,5 +150,6 @@
   "height": 19,
   "weight": 455,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Stakataka",
   "nationalPokedexNumber": 805,
   "primaryType": "rock",
@@ -152,5 +151,6 @@
         "quantityRange": "1-3"
       }
     ]
-  }
+  },
+  "implemented": true
 }

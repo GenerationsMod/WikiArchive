@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Stunky",
   "nationalPokedexNumber": 434,
   "primaryType": "poison",
@@ -105,6 +104,7 @@
     "tm:darkpulse",
     "tm:defog",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:endure",
     "tm:explosion",
@@ -115,12 +115,15 @@
     "tm:foulplay",
     "tm:frustration",
     "tm:gunkshot",
+    "tm:haze",
     "tm:helpinghand",
     "tm:hex",
     "tm:hiddenpower",
     "tm:honeclaws",
     "tm:incinerate",
     "tm:irontail",
+    "tm:knockoff",
+    "tm:lashout",
     "tm:nastyplot",
     "tm:naturalgift",
     "tm:payback",
@@ -141,6 +144,7 @@
     "tm:shadowclaw",
     "tm:sleeptalk",
     "tm:sludgebomb",
+    "tm:sludgewave",
     "tm:snarl",
     "tm:snatch",
     "tm:snore",
@@ -151,6 +155,7 @@
     "tm:tailslap",
     "tm:takedown",
     "tm:taunt",
+    "tm:temperflare",
     "tm:terablast",
     "tm:thief",
     "tm:throatchop",
@@ -218,5 +223,6 @@
   "height": 4,
   "weight": 192,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

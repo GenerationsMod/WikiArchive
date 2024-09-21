@@ -18,7 +18,7 @@
   },
   "catchRate": 75,
   "maleRatio": 1,
-  "shoulderMountable": false,
+  "shoulderMountable": true,
   "baseExperienceYield": 42,
   "experienceGroup": "medium_fast",
   "eggCycles": 25,
@@ -99,9 +99,13 @@
     "tm:sunnyday",
     "tm:swagger",
     "tm:swift",
+    "tm:takedown",
+    "tm:terablast",
     "tm:thief",
     "tm:toxic",
+    "tm:upperhand",
     "tm:uproar",
+    "tm:vacuumwave",
     "tm:workup",
     "tutor:attract",
     "tutor:bodyslam",
@@ -167,8 +171,9 @@
           "minLevel": 20
         },
         {
-          "variant": "attack_defence_ratio",
-          "ratio": "ATTACK_HIGHER"
+          "variant": "stat_compare",
+          "highStat": "atk",
+          "lowStat": "def"
         }
       ]
     },
@@ -184,8 +189,9 @@
           "minLevel": 20
         },
         {
-          "variant": "attack_defence_ratio",
-          "ratio": "DEFENCE_HIGHER"
+          "variant": "stat_compare",
+          "highStat": "def",
+          "lowStat": "atk"
         }
       ]
     },
@@ -203,8 +209,9 @@
           "minLevel": 20
         },
         {
-          "variant": "attack_defence_ratio",
-          "ratio": "EQUAL"
+          "variant": "stat_equal",
+          "statOne": "atk",
+          "statTwo": "def"
         }
       ]
     }

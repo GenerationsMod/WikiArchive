@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Remoraid",
   "nationalPokedexNumber": 223,
   "primaryType": "water",
@@ -224,5 +223,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

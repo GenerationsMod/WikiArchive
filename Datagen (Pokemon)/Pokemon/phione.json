@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Phione",
   "nationalPokedexNumber": 489,
   "primaryType": "water",
@@ -26,6 +25,7 @@
   ],
   "moves": [
     "1:bubble",
+    "1:watergun",
     "1:watersport",
     "9:charm",
     "16:supersonic",
@@ -36,20 +36,33 @@
     "54:aquaring",
     "61:dive",
     "69:raindance",
+    "75:takeheart",
+    "tm:alluringvoice",
+    "tm:batonpass",
     "tm:blizzard",
     "tm:brine",
+    "tm:charm",
+    "tm:chillingwater",
     "tm:confide",
     "tm:dazzlinggleam",
+    "tm:disarmingvoice",
     "tm:dive",
     "tm:doubleteam",
     "tm:endure",
     "tm:facade",
     "tm:fling",
+    "tm:flipturn",
     "tm:frustration",
     "tm:grassknot",
     "tm:hail",
+    "tm:haze",
+    "tm:helpinghand",
     "tm:hiddenpower",
+    "tm:hydropump",
     "tm:icebeam",
+    "tm:icywind",
+    "tm:knockoff",
+    "tm:liquidation",
     "tm:naturalgift",
     "tm:protect",
     "tm:psychup",
@@ -64,11 +77,15 @@
     "tm:substitute",
     "tm:surf",
     "tm:swagger",
+    "tm:swift",
+    "tm:terablast",
     "tm:toxic",
     "tm:uturn",
     "tm:waterfall",
     "tm:waterpulse",
+    "tm:weatherball",
     "tm:whirlpool",
+    "tm:zenheadbutt",
     "tutor:ancientpower",
     "tutor:bounce",
     "tutor:covet",
@@ -118,5 +135,14 @@
   "height": 4,
   "weight": 31,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:mystic_water"
+      }
+    ]
+  },
+  "implemented": true
 }

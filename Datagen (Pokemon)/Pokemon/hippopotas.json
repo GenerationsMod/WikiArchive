@@ -37,6 +37,13 @@
   "eggGroups": [
     "field"
   ],
+  "behaviour": {
+    "moving" : {
+      "walk": {
+        "walkSpeed": 0.12
+      }
+    }
+  },
   "moves": [
     "1:sandattack",
     "1:tackle",
@@ -79,7 +86,9 @@
     "tm:captivate",
     "tm:confide",
     "tm:crunch",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthpower",
     "tm:earthquake",
@@ -107,6 +116,7 @@
     "tm:round",
     "tm:sandstorm",
     "tm:sandtomb",
+    "tm:scorchingsands",
     "tm:secretpower",
     "tm:sleeptalk",
     "tm:snore",
@@ -161,7 +171,7 @@
   ],
   "baseScale": 1,
   "hitbox": {
-    "width": 1,
+    "width": 0.7,
     "height": 1,
     "fixed": false
   },

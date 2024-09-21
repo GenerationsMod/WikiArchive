@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Mareanie",
   "nationalPokedexNumber": 747,
   "primaryType": "poison",
@@ -59,6 +58,7 @@
     "tm:frustration",
     "tm:gunkshot",
     "tm:hail",
+    "tm:haze",
     "tm:hiddenpower",
     "tm:hydropump",
     "tm:icebeam",
@@ -67,8 +67,10 @@
     "tm:infestation",
     "tm:irondefense",
     "tm:liquidation",
+    "tm:lunge",
     "tm:muddywater",
     "tm:mudshot",
+    "tm:painsplit",
     "tm:payback",
     "tm:pinmissile",
     "tm:poisonjab",
@@ -169,5 +171,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Iron Hands",
   "nationalPokedexNumber": 992,
   "primaryType": "fighting",
@@ -55,7 +54,9 @@
     "tm:bodyslam",
     "tm:brickbreak",
     "tm:bulldoze",
+    "tm:charge",
     "tm:closecombat",
+    "tm:doubleedge",
     "tm:drainpunch",
     "tm:earthquake",
     "tm:electricterrain",
@@ -64,7 +65,9 @@
     "tm:firepunch",
     "tm:fling",
     "tm:focusblast",
+    "tm:focuspunch",
     "tm:gigaimpact",
+    "tm:hardpress",
     "tm:heavyslam",
     "tm:hyperbeam",
     "tm:icepunch",
@@ -83,6 +86,7 @@
     "tm:sleeptalk",
     "tm:stompingtantrum",
     "tm:substitute",
+    "tm:supercellslam",
     "tm:swordsdance",
     "tm:takedown",
     "tm:terablast",
@@ -90,11 +94,7 @@
     "tm:thunderbolt",
     "tm:thunderpunch",
     "tm:voltswitch",
-    "tm:wildcharge",
-    "tutor:charge",
-    "tutor:forcepalm",
-    "tutor:seismictoss",
-    "tutor:slam"
+    "tm:wildcharge"
   ],
   "labels": [
     "gen9",
@@ -107,5 +107,6 @@
   "cannotDynamax": false,
   "pokedex": [
     "cobblemon.species.ironhands.desc"
-  ]
+  ],
+  "implemented": true
 }

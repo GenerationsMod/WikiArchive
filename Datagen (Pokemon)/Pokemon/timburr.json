@@ -38,6 +38,18 @@
   "eggGroups": [
     "human_like"
   ],
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "depth": "normal",
+      "light": "0-4"
+    },
+    "moving" : {
+      "walk": {
+        "walkSpeed": 0.15
+      }
+    }
+  },
   "moves": [
     "1:leer",
     "1:pound",
@@ -73,8 +85,12 @@
     "tm:brickbreak",
     "tm:brutalswing",
     "tm:bulkup",
+    "tm:closecombat",
+    "tm:coaching",
     "tm:confide",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:drainpunch",
     "tm:endure",
@@ -83,11 +99,13 @@
     "tm:fling",
     "tm:focusblast",
     "tm:focusenergy",
+    "tm:focuspunch",
     "tm:frustration",
     "tm:grassknot",
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:icepunch",
+    "tm:knockoff",
     "tm:lowkick",
     "tm:lowsweep",
     "tm:megakick",
@@ -117,7 +135,10 @@
     "tm:sunnyday",
     "tm:superpower",
     "tm:swagger",
+    "tm:takedown",
     "tm:taunt",
+    "tm:terablast",
+    "tm:thief",
     "tm:thunderpunch",
     "tm:toxic",
     "tm:workup",

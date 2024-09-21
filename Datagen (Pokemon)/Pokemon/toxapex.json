@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Toxapex",
   "nationalPokedexNumber": 748,
   "primaryType": "poison",
@@ -58,6 +57,7 @@
     "tm:gigaimpact",
     "tm:gunkshot",
     "tm:hail",
+    "tm:haze",
     "tm:hex",
     "tm:hiddenpower",
     "tm:hydropump",
@@ -69,8 +69,10 @@
     "tm:irondefense",
     "tm:lightscreen",
     "tm:liquidation",
+    "tm:lunge",
     "tm:muddywater",
     "tm:mudshot",
+    "tm:painsplit",
     "tm:payback",
     "tm:pinmissile",
     "tm:poisonjab",
@@ -156,5 +158,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

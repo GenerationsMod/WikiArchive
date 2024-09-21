@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Slakoth",
   "nationalPokedexNumber": 287,
   "primaryType": "normal",
@@ -58,6 +57,7 @@
     "tm:captivate",
     "tm:chillingwater",
     "tm:confide",
+    "tm:curse",
     "tm:cut",
     "tm:doubleteam",
     "tm:encore",
@@ -109,6 +109,7 @@
     "tm:takedown",
     "tm:terablast",
     "tm:thief",
+    "tm:throatchop",
     "tm:thunder",
     "tm:thunderbolt",
     "tm:thunderpunch",
@@ -196,5 +197,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

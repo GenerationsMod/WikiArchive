@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Flamigo",
   "nationalPokedexNumber": 973,
   "primaryType": "flying",
@@ -82,8 +81,11 @@
     "tm:bulkup",
     "tm:chillingwater",
     "tm:closecombat",
+    "tm:dualwingbeat",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
+    "tm:featherdance",
     "tm:fling",
     "tm:fly",
     "tm:gigaimpact",
@@ -92,8 +94,10 @@
     "tm:liquidation",
     "tm:lowkick",
     "tm:lowsweep",
+    "tm:lunge",
     "tm:pounce",
     "tm:protect",
+    "tm:psychup",
     "tm:rest",
     "tm:reversal",
     "tm:sleeptalk",
@@ -104,6 +108,8 @@
     "tm:taunt",
     "tm:terablast",
     "tm:thief",
+    "tm:throatchop",
+    "tm:upperhand",
     "tm:uturn",
     "tm:waterpulse"
   ],
@@ -117,5 +123,6 @@
   "cannotDynamax": false,
   "pokedex": [
     "cobblemon.species.flamigo.desc"
-  ]
+  ],
+  "implemented": true
 }

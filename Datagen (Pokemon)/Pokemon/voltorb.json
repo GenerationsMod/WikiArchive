@@ -80,16 +80,21 @@
         "egg:worryseed",
         "tm:agility",
         "tm:bulletseed",
+        "tm:charge",
         "tm:chargebeam",
+        "tm:doubleedge",
         "tm:electricterrain",
         "tm:electroball",
+        "tm:electroweb",
         "tm:endure",
         "tm:energyball",
         "tm:facade",
         "tm:foulplay",
         "tm:gigadrain",
         "tm:grassknot",
+        "tm:grassyglide",
         "tm:grassyterrain",
+        "tm:gyroball",
         "tm:leafstorm",
         "tm:protect",
         "tm:raindance",
@@ -123,7 +128,7 @@
         {
           "id": "voltorb_electrode",
           "variant": "item_interact",
-          "result": "electrode form=hisui",
+          "result": "electrode hisuian",
           "consumeHeldItem": false,
           "learnableMoves": [
             "chloroblast"
@@ -133,7 +138,24 @@
         }
       ],
       "cannotDynamax": false,
-      "battleOnly": false
+      "battleOnly": false,
+      "drops": {
+        "amount": 3,
+        "entries": [
+          {
+            "item": "minecraft:gunpowder",
+            "quantityRange": "0-1"
+          },
+          {
+            "item": "cobblemon:red_apricorn",
+            "quantityRange": "0-1"
+          },
+          {
+            "item": "cobblemon:cheri_berry",
+            "percentage": 2.5
+          }
+        ]
+      }
     }
   ],
   "baseExperienceYield": 66,
@@ -173,12 +195,15 @@
     "egg:metalsound",
     "egg:recycle",
     "tm:agility",
+    "tm:charge",
     "tm:chargebeam",
     "tm:confide",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:eerieimpulse",
     "tm:electricterrain",
     "tm:electroball",
+    "tm:electroweb",
     "tm:endure",
     "tm:explosion",
     "tm:facade",
@@ -189,6 +214,7 @@
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:lightscreen",
+    "tm:metalsound",
     "tm:naturalgift",
     "tm:protect",
     "tm:raindance",

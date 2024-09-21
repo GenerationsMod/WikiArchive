@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Binacle",
   "nationalPokedexNumber": 688,
   "primaryType": "rock",
@@ -174,5 +173,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

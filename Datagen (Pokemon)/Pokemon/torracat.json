@@ -25,10 +25,14 @@
     "field"
   ],
   "drops": {
-    "amount": 1,
+    "amount": 2,
     "entries": [
       {
         "item": "cobblemon:charcoal_stick",
+        "percentage": 10.0
+      },
+      {
+        "item": "cobblemon:expert_belt",
         "percentage": 10.0
       }
     ]
@@ -56,17 +60,21 @@
     "tm:bulkup",
     "tm:confide",
     "tm:crunch",
+    "tm:doubleedge",
     "tm:doubleteam",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:fireblast",
     "tm:firefang",
+    "tm:firepledge",
     "tm:firespin",
     "tm:flamecharge",
     "tm:flamethrower",
     "tm:flareblitz",
     "tm:frustration",
     "tm:heatwave",
+    "tm:helpinghand",
     "tm:hiddenpower",
     "tm:leechlife",
     "tm:nastyplot",
@@ -87,9 +95,13 @@
     "tm:sunnyday",
     "tm:swagger",
     "tm:swordsdance",
+    "tm:takedown",
     "tm:taunt",
+    "tm:temperflare",
+    "tm:terablast",
     "tm:torment",
     "tm:toxic",
+    "tm:trailblaze",
     "tm:uturn",
     "tm:willowisp",
     "tm:workup",

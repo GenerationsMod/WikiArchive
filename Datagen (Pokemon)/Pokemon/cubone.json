@@ -35,10 +35,6 @@
       {
         "item": "cobblemon:nanab_berry",
         "percentage": 2.5
-      },
-      {
-        "item": "generations_core:cubone_doll",
-        "percentage": 1.0
       }
     ]
   },
@@ -237,7 +233,7 @@
     {
       "id": "cubone_marowak",
       "variant": "level_up",
-      "result": "marowak form=alola",
+      "result": "marowak alolan",
       "consumeHeldItem": false,
       "learnableMoves": [
         "shadowbone"
@@ -256,8 +252,8 @@
   ],
   "baseScale": 0.7,
   "hitbox": {
-    "width": 0.5,
-    "height": 0.8,
+    "width": 0.55,
+    "height": 0.87,
     "fixed": false
   },
   "baseFriendship": 50,

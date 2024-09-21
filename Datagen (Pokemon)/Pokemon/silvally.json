@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Silvally",
   "nationalPokedexNumber": 773,
   "primaryType": "normal",
@@ -58,7 +57,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -102,7 +100,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -146,7 +143,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -190,7 +186,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -234,7 +229,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -278,7 +272,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -322,7 +315,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -366,7 +358,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -410,7 +401,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -454,7 +444,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -498,7 +487,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -542,7 +530,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -586,7 +573,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -630,7 +616,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -674,7 +659,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -718,7 +702,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -762,7 +745,6 @@
       ],
       "height": 23,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -912,5 +894,6 @@
   "height": 23,
   "weight": 1005,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

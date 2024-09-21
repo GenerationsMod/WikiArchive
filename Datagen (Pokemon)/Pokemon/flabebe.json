@@ -1,6 +1,6 @@
 {
   "implemented": true,
-  "name": "Flabebe",
+  "name": "Flabébé",
   "nationalPokedexNumber": 669,
   "primaryType": "fairy",
   "abilities": [
@@ -15,9 +15,22 @@
     "special_defence": 79,
     "speed": 42
   },
+  "behaviour": {
+    "moving": {
+      "fly": {
+        "canFly": true
+      }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  },
   "catchRate": 225,
   "maleRatio": 0,
-  "shoulderMountable": false,
+  "shoulderMountable": true,
   "baseExperienceYield": 61,
   "experienceGroup": "medium_fast",
   "eggCycles": 20,
@@ -46,6 +59,7 @@
     "egg:copycat",
     "egg:endeavor",
     "egg:tearfullook",
+    "tm:alluringvoice",
     "tm:attract",
     "tm:batonpass",
     "tm:calmmind",
@@ -57,6 +71,7 @@
     "tm:doubleteam",
     "tm:drainingkiss",
     "tm:echoedvoice",
+    "tm:endeavor",
     "tm:endure",
     "tm:energyball",
     "tm:facade",
@@ -71,6 +86,7 @@
     "tm:magicalleaf",
     "tm:mistyterrain",
     "tm:naturepower",
+    "tm:petalblizzard",
     "tm:pollenpuff",
     "tm:protect",
     "tm:psychic",
@@ -125,10 +141,10 @@
       ]
     }
   ],
-  "baseScale": 1,
+  "baseScale": 0.4,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 0.9,
+    "height": 1.15,
     "fixed": false
   },
   "baseFriendship": 70,
@@ -145,30 +161,14 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 3,
+    "amount": 2,
     "entries": [
       {
-        "item": "minecraft:lily_of_the_valley"
+        "item": "minecraft:poppy"
       },
       {
         "item": "cobblemon:kebia_berry",
         "percentage": 2.5
-      },
-      {
-        "item": "generations_core:blue_petal",
-        "percentage": 10.0
-      },
-      {
-        "item": "generations_core:red_petal",
-        "percentage": 10.0
-      },
-      {
-        "item": "generations_core:orange_petal",
-        "percentage": 10.0
-      },
-      {
-        "item": "generations_core:yellow_petal",
-        "percentage": 10.0
       }
     ]
   }

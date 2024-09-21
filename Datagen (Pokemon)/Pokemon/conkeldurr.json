@@ -29,6 +29,18 @@
     "special_defence": 65,
     "speed": 45
   },
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "depth": "normal",
+      "light": "0-4"
+    },
+    "moving" : {
+      "walk": {
+        "walkSpeed": 0.22
+      }
+    }
+  },
   "catchRate": 45,
   "maleRatio": 0.75,
   "shoulderMountable": false,
@@ -57,13 +69,17 @@
     "54:superpower",
     "60:focuspunch",
     "tm:attract",
+    "tm:bodyslam",
     "tm:brickbreak",
     "tm:brutalswing",
     "tm:bulkup",
     "tm:bulldoze",
     "tm:closecombat",
+    "tm:coaching",
     "tm:confide",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:drainpunch",
     "tm:earthquake",
@@ -73,14 +89,17 @@
     "tm:fling",
     "tm:focusblast",
     "tm:focusenergy",
+    "tm:focuspunch",
     "tm:frustration",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:hardpress",
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:highhorsepower",
     "tm:hyperbeam",
     "tm:icepunch",
+    "tm:knockoff",
     "tm:lowkick",
     "tm:lowsweep",
     "tm:megakick",
@@ -112,9 +131,13 @@
     "tm:sunnyday",
     "tm:superpower",
     "tm:swagger",
+    "tm:takedown",
     "tm:taunt",
+    "tm:terablast",
+    "tm:thief",
     "tm:thunderpunch",
     "tm:toxic",
+    "tm:upperhand",
     "tm:workup",
     "tutor:block",
     "tutor:coaching",

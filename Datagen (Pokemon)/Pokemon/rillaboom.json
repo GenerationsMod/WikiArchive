@@ -61,7 +61,6 @@
       ],
       "height": 30,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -83,10 +82,6 @@
       {
         "item": "cobblemon:miracle_seed",
         "percentage": 25.0
-      },
-      {
-        "item": "generations_core:dynite_ore",
-        "percentage": 5.0
       }
     ]
   },
@@ -118,9 +113,11 @@
     "tm:bulldoze",
     "tm:bulletseed",
     "tm:darkestlariat",
+    "tm:doubleedge",
     "tm:drainpunch",
     "tm:earthpower",
     "tm:earthquake",
+    "tm:endeavor",
     "tm:endure",
     "tm:energyball",
     "tm:facade",
@@ -128,15 +125,18 @@
     "tm:fling",
     "tm:focusblast",
     "tm:focusenergy",
+    "tm:focuspunch",
     "tm:frenzyplant",
     "tm:gigadrain",
     "tm:gigaimpact",
     "tm:grassknot",
     "tm:grasspledge",
+    "tm:grassyglide",
     "tm:grassyterrain",
     "tm:highhorsepower",
     "tm:hyperbeam",
     "tm:hypervoice",
+    "tm:knockoff",
     "tm:leafstorm",
     "tm:lowkick",
     "tm:lowsweep",

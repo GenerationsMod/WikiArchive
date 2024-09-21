@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Uxie",
   "nationalPokedexNumber": 480,
   "primaryType": "psychic",
@@ -14,15 +13,6 @@
     "special_defence": 130,
     "speed": 95
   },
-  "drops": {
-    "amount": 1,
-    "entries": [
-      {
-        "item": "generations_core:uxie_doll",
-        "percentage": 100.0
-      }
-    ]
-  },
   "catchRate": 3,
   "maleRatio": -1,
   "shoulderMountable": false,
@@ -33,11 +23,21 @@
     "undiscovered"
   ],
   "moves": [
+    "1:allyswitch",
     "1:confusion",
+    "1:expandingforce",
     "1:flail",
+    "1:irontail",
+    "1:magicroom",
     "1:memento",
     "1:naturalgift",
+    "1:psychocut",
     "1:rest",
+    "1:round",
+    "1:safeguard",
+    "1:snore",
+    "1:triattack",
+    "1:wonderroom",
     "6:imprison",
     "7:swift",
     "14:endure",
@@ -77,6 +77,7 @@
     "tm:encore",
     "tm:endure",
     "tm:energyball",
+    "tm:expandingforce",
     "tm:facade",
     "tm:firepunch",
     "tm:flash",
@@ -93,17 +94,20 @@
     "tm:icepunch",
     "tm:imprison",
     "tm:irontail",
+    "tm:knockoff",
     "tm:lightscreen",
     "tm:magicroom",
     "tm:metronome",
     "tm:mudslap",
     "tm:nastyplot",
     "tm:naturalgift",
+    "tm:painsplit",
     "tm:playrough",
     "tm:poweruppunch",
     "tm:protect",
     "tm:psybeam",
     "tm:psychic",
+    "tm:psychicnoise",
     "tm:psychocut",
     "tm:psychup",
     "tm:psyshock",
@@ -207,5 +211,6 @@
   "height": 3,
   "weight": 3,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

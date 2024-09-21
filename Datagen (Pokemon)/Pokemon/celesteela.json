@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Celesteela",
   "nationalPokedexNumber": 797,
   "primaryType": "steel",
@@ -148,5 +147,6 @@
   "height": 92,
   "weight": 9999,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

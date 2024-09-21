@@ -12,10 +12,11 @@
             "type": "pokemon",
             "context": "grounded",
             "bucket": "uncommon",
-            "level": "11-28",
+            "level": "4-29",
             "weight": 9.0,
             "condition": {
-                "canSeeSky": false,
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
                 "biomes": [
                     "#cobblemon:is_lush"
                 ]
@@ -30,11 +31,33 @@
             "type": "pokemon",
             "context": "grounded",
             "bucket": "common",
-            "level": "11-28",
+            "level": "4-29",
             "weight": 9.0,
             "condition": {
                 "biomes": [
                     "#cobblemon:is_mushroom"
+                ]
+            }
+        },
+        {
+            "id": "paras-3",
+            "pokemon": "paras",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "4-29",
+            "weight": 9.0,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:nether/is_fungus"
+                ]
+            },
+            "anticondition": {
+                "biomes": [
+                    "#cobblemon:nether/is_warped"
                 ]
             }
         }

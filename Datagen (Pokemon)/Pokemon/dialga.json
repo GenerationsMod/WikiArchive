@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Dialga",
   "nationalPokedexNumber": 483,
   "primaryType": "steel",
@@ -8,15 +7,6 @@
     "pressure",
     "h:telepathy"
   ],
-  "drops": {
-    "amount": 1,
-    "entries": [
-      {
-        "item": "generations_core:dialga_doll",
-        "percentage": 100.0
-      }
-    ]
-  },
   "baseStats": {
     "hp": 100,
     "attack": 120,
@@ -71,7 +61,6 @@
       ],
       "height": 70,
       "weight": 8500,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -139,6 +128,7 @@
     "tm:focusblast",
     "tm:frustration",
     "tm:gigaimpact",
+    "tm:gravity",
     "tm:heavyslam",
     "tm:hiddenpower",
     "tm:honeclaws",
@@ -150,6 +140,7 @@
     "tm:ironhead",
     "tm:irontail",
     "tm:metalclaw",
+    "tm:metalsound",
     "tm:naturalgift",
     "tm:outrage",
     "tm:overheat",
@@ -166,6 +157,7 @@
     "tm:round",
     "tm:safeguard",
     "tm:sandstorm",
+    "tm:scaleshot",
     "tm:scaryface",
     "tm:secretpower",
     "tm:shadowclaw",
@@ -191,11 +183,9 @@
     "tm:trickroom",
     "tutor:ancientpower",
     "tutor:aurasphere",
-    "tutor:dracometeor",
     "tutor:dragonbreath",
     "tutor:dragonclaw",
     "tutor:dragonpulse",
-    "tutor:earthpower",
     "tutor:flashcannon",
     "tutor:furycutter",
     "tutor:gravity",
@@ -219,7 +209,6 @@
     "tutor:sleeptalk",
     "tutor:snore",
     "tutor:stealthrock",
-    "tutor:steelbeam",
     "tutor:stompingtantrum",
     "tutor:swift",
     "tutor:twister"
@@ -250,5 +239,6 @@
   "height": 54,
   "weight": 6830,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

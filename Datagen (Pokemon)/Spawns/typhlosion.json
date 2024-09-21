@@ -15,7 +15,8 @@
             "level": "36-53",
             "weight": 0.1,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
                     "#cobblemon:is_temperate"
                 ]
@@ -27,7 +28,7 @@
             }
         },
         {
-            "id": "typhlosion-hisuian-1",
+            "id": "typhlosion-hisuian-2",
             "pokemon": "typhlosion hisuian",
             "presets": [
                 "natural"
@@ -35,13 +36,33 @@
             "type": "pokemon",
             "context": "grounded",
             "bucket": "ultra-rare",
-            "level": "32-52",
+            "level": "36-53",
             "weight": 0.1,
             "condition": {
-                "canSeeSky": true,
-                "timeRange": "night",
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
-                    "#cobblemon:is_volcanic"
+                    "#cobblemon:is_taiga"
+                ],
+                "isRaining": false
+            }
+        },
+        {
+            "id": "typhlosion-hisuian-3",
+            "pokemon": "typhlosion hisuian",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "36-53",
+            "weight": 0.1,
+            "condition": {
+                "biomes": [
+                    "#cobblemon:nether/is_crimson",
+                    "#cobblemon:nether/is_forest",
+                    "#cobblemon:nether/is_overgrowth"
                 ]
             }
         }

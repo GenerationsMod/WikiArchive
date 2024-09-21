@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Axew",
   "nationalPokedexNumber": 610,
   "primaryType": "dragon",
@@ -83,12 +82,15 @@
     "tm:crunch",
     "tm:cut",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragondance",
     "tm:dragonpulse",
     "tm:dragontail",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:falseswipe",
@@ -113,6 +115,7 @@
     "tm:rocksmash",
     "tm:rocktomb",
     "tm:round",
+    "tm:scaleshot",
     "tm:scaryface",
     "tm:secretpower",
     "tm:shadowclaw",
@@ -194,5 +197,6 @@
   "height": 6,
   "weight": 180,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

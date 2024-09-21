@@ -15,6 +15,19 @@
     "special_defence": 50,
     "speed": 70
   },
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "depth": "normal",
+      "light": "0-4"
+    },
+    "moving": {
+      "fly": {
+        "canFly": true,
+        "flySpeedHorizontal": 0.6
+      }
+    }
+  },
   "catchRate": 120,
   "maleRatio": 0.5,
   "shoulderMountable": false,
@@ -53,9 +66,12 @@
     "50:uproar",
     "56:dragonrush",
     "62:boomburst",
+    "tm:aerialace",
+    "tm:aircutter",
     "tm:airslash",
     "tm:attract",
     "tm:bodyslam",
+    "tm:bugbite",
     "tm:bugbuzz",
     "tm:bulldoze",
     "tm:captivate",
@@ -64,7 +80,11 @@
     "tm:defog",
     "tm:dig",
     "tm:doubleteam",
+    "tm:dracometeor",
+    "tm:dragonclaw",
     "tm:dragonpulse",
+    "tm:dragontail",
+    "tm:dualwingbeat",
     "tm:earthpower",
     "tm:earthquake",
     "tm:endure",
@@ -73,10 +93,12 @@
     "tm:focusenergy",
     "tm:frustration",
     "tm:gigadrain",
+    "tm:gigaimpact",
     "tm:heatwave",
     "tm:hiddenpower",
     "tm:hyperbeam",
     "tm:mudshot",
+    "tm:mudslap",
     "tm:naturalgift",
     "tm:outrage",
     "tm:protect",
@@ -89,13 +111,16 @@
     "tm:round",
     "tm:sandstorm",
     "tm:sandtomb",
+    "tm:scorchingsands",
     "tm:screech",
     "tm:secretpower",
     "tm:silverwind",
     "tm:sleeptalk",
     "tm:snore",
     "tm:solarbeam",
+    "tm:stealthrock",
     "tm:steelwing",
+    "tm:stoneedge",
     "tm:strength",
     "tm:strugglebug",
     "tm:substitute",
@@ -103,6 +128,9 @@
     "tm:superpower",
     "tm:swagger",
     "tm:swift",
+    "tm:tailwind",
+    "tm:takedown",
+    "tm:terablast",
     "tm:throatchop",
     "tm:toxic",
     "tm:uproar",
@@ -164,10 +192,10 @@
       ]
     }
   ],
-  "baseScale": 1,
+  "baseScale": 0.65,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 1.7,
+    "height": 0.8,
     "fixed": false
   },
   "baseFriendship": 50,

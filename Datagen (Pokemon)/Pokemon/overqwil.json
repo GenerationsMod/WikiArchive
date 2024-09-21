@@ -17,6 +17,24 @@
     "special_defence": 65,
     "speed": 85
   },
+  "behaviour": {
+    "moving": {
+      "walk": {
+        "avoidsLand": true
+      },
+      "swim": {
+        "swimSpeed": 0.3,
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true
+      }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  },
   "catchRate": 135,
   "maleRatio": 0.5,
   "shoulderMountable": false,
@@ -53,42 +71,57 @@
     "48:crunch",
     "52:acupressure",
     "56:destinybond",
+    "tm:acidspray",
     "tm:agility",
     "tm:blizzard",
     "tm:chillingwater",
     "tm:crunch",
+    "tm:curse",
     "tm:darkpulse",
+    "tm:doubleedge",
     "tm:endure",
     "tm:facade",
     "tm:gigaimpact",
     "tm:gunkshot",
+    "tm:gyroball",
+    "tm:haze",
+    "tm:hex",
     "tm:hydropump",
     "tm:hyperbeam",
     "tm:icebeam",
     "tm:icywind",
+    "tm:lashout",
     "tm:liquidation",
     "tm:mudshot",
+    "tm:painsplit",
     "tm:poisonjab",
     "tm:poisontail",
     "tm:protect",
     "tm:raindance",
     "tm:rest",
     "tm:reversal",
+    "tm:scaleshot",
     "tm:scaryface",
     "tm:shadowball",
     "tm:sleeptalk",
     "tm:sludgebomb",
+    "tm:sludgewave",
     "tm:smartstrike",
     "tm:spikes",
+    "tm:spite",
     "tm:substitute",
     "tm:surf",
+    "tm:swift",
     "tm:swordsdance",
     "tm:takedown",
     "tm:taunt",
     "tm:terablast",
+    "tm:throatchop",
+    "tm:toxic",
     "tm:toxicspikes",
     "tm:venoshock",
-    "tm:waterfall"
+    "tm:waterfall",
+    "tm:waterpulse"
   ],
   "labels": [
     "gen8"
@@ -96,9 +129,15 @@
   "pokedex": [
     "cobblemon.species.overqwil.desc"
   ],
+  "baseScale": 1.0,
+  "hitbox": {
+    "width": 1.2,
+    "height": 2,
+    "fixed": false
+  },
   "height": 5,
   "weight": 39,
-  "preEvolution": "qwilfish form=hisui",
+  "preEvolution": "qwilfish hisuian",
   "evolutions": [],
   "aspects": [],
   "cannotDynamax": false,

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Brute Bonnet",
   "nationalPokedexNumber": 986,
   "primaryType": "grass",
@@ -56,6 +55,7 @@
     "tm:confuseray",
     "tm:crunch",
     "tm:darkpulse",
+    "tm:doubleedge",
     "tm:earthpower",
     "tm:endure",
     "tm:energyball",
@@ -66,6 +66,7 @@
     "tm:grassyterrain",
     "tm:hex",
     "tm:hyperbeam",
+    "tm:lashout",
     "tm:leafstorm",
     "tm:magicalleaf",
     "tm:outrage",
@@ -84,11 +85,7 @@
     "tm:thief",
     "tm:trailblaze",
     "tm:venoshock",
-    "tm:zenheadbutt",
-    "tutor:clearsmog",
-    "tutor:gigadrain",
-    "tutor:payback",
-    "tutor:thrash"
+    "tm:zenheadbutt"
   ],
   "labels": [
     "gen9",
@@ -101,5 +98,6 @@
   "cannotDynamax": false,
   "pokedex": [
     "cobblemon.species.brutebonnet.desc"
-  ]
+  ],
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Braviary",
   "nationalPokedexNumber": 628,
   "primaryType": "normal",
@@ -107,9 +106,14 @@
         "tm:closecombat",
         "tm:confuseray",
         "tm:dazzlinggleam",
+        "tm:doubleedge",
+        "tm:dualwingbeat",
         "tm:endure",
+        "tm:expandingforce",
         "tm:facade",
+        "tm:featherdance",
         "tm:fly",
+        "tm:futuresight",
         "tm:gigaimpact",
         "tm:heatwave",
         "tm:helpinghand",
@@ -122,7 +126,9 @@
         "tm:protect",
         "tm:psybeam",
         "tm:psychic",
+        "tm:psychicnoise",
         "tm:psychicterrain",
+        "tm:psychup",
         "tm:psyshock",
         "tm:raindance",
         "tm:rest",
@@ -142,6 +148,7 @@
         "tm:takedown",
         "tm:terablast",
         "tm:uturn",
+        "tm:vacuumwave",
         "tm:zenheadbutt"
       ],
       "labels": [
@@ -154,9 +161,28 @@
       "height": 17,
       "weight": 434,
       "preEvolution": "rufflet",
-      "evolutions": [],
       "cannotDynamax": false,
-      "battleOnly": false
+      "battleOnly": false,
+      "drops": {
+        "amount": 5,
+        "entries": [
+          {
+            "item": "minecraft:feather",
+            "quantityRange": "0-2"
+          },
+          {
+            "item": "minecraft:chicken"
+          },
+          {
+            "item": "cobblemon:sharp_beak",
+            "percentage": 2.5
+          },
+          {
+            "item": "cobblemon:wepear_berry",
+            "percentage": 5.0
+          }
+        ]
+      }
     }
   ],
   "baseExperienceYield": 179,
@@ -197,9 +223,12 @@
     "tm:closecombat",
     "tm:confide",
     "tm:cut",
+    "tm:doubleedge",
     "tm:doubleteam",
+    "tm:dualwingbeat",
     "tm:endure",
     "tm:facade",
+    "tm:featherdance",
     "tm:fly",
     "tm:frustration",
     "tm:gigaimpact",
@@ -286,5 +315,6 @@
   "height": 15,
   "weight": 410,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

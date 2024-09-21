@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Wormadam",
   "nationalPokedexNumber": 413,
   "primaryType": "bug",
@@ -248,7 +247,6 @@
       "height": 5,
       "weight": 65,
       "preEvolution": "burmy",
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -368,11 +366,11 @@
       "height": 5,
       "weight": 65,
       "preEvolution": "burmy",
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
   ],
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

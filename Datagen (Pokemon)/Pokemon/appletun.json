@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Appletun",
   "nationalPokedexNumber": 842,
   "primaryType": "grass",
@@ -65,7 +64,6 @@
       ],
       "height": 240,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -100,6 +98,7 @@
     "tm:bodyslam",
     "tm:bulldoze",
     "tm:bulletseed",
+    "tm:curse",
     "tm:dracometeor",
     "tm:dragonpulse",
     "tm:dragontail",
@@ -110,6 +109,7 @@
     "tm:gigadrain",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:grassyglide",
     "tm:grassyterrain",
     "tm:gyroball",
     "tm:heavyslam",
@@ -181,11 +181,8 @@
       {
         "item": "cobblemon:yache_berry",
         "percentage": 10.0
-      },
-      {
-        "item": "generations_core:dynite_ore",
-        "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -18,10 +18,6 @@
       {
         "item": "cobblemon:haban_berry",
         "percentage": 10.0
-      },
-      {
-        "item": "generations_core:dragon_soul",
-        "percentage": 5.0
       }
     ]
   },
@@ -90,7 +86,6 @@
       ],
       "height": 19,
       "weight": 950,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     }
@@ -140,8 +135,10 @@
     "tm:crunch",
     "tm:cut",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragonpulse",
     "tm:dragontail",
@@ -182,7 +179,9 @@
     "tm:round",
     "tm:sandstorm",
     "tm:sandtomb",
+    "tm:scaleshot",
     "tm:scaryface",
+    "tm:scorchingsands",
     "tm:secretpower",
     "tm:shadowclaw",
     "tm:sleeptalk",

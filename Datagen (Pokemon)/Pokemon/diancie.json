@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Diancie",
   "nationalPokedexNumber": 719,
   "primaryType": "rock",
@@ -62,7 +61,6 @@
       ],
       "height": 11,
       "weight": 278,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     }
@@ -108,6 +106,7 @@
     "tm:drainingkiss",
     "tm:earthpower",
     "tm:encore",
+    "tm:endeavor",
     "tm:endure",
     "tm:explosion",
     "tm:facade",
@@ -116,6 +115,7 @@
     "tm:flashcannon",
     "tm:frustration",
     "tm:gigaimpact",
+    "tm:gravity",
     "tm:guardswap",
     "tm:gyroball",
     "tm:hail",
@@ -124,7 +124,9 @@
     "tm:hyperbeam",
     "tm:irondefense",
     "tm:lightscreen",
+    "tm:meteorbeam",
     "tm:metronome",
+    "tm:mistyexplosion",
     "tm:mysticalfire",
     "tm:naturepower",
     "tm:playrough",
@@ -144,6 +146,7 @@
     "tm:safeguard",
     "tm:sandstorm",
     "tm:sandtomb",
+    "tm:scorchingsands",
     "tm:secretpower",
     "tm:skillswap",
     "tm:sleeptalk",
@@ -213,5 +216,6 @@
   "height": 7,
   "weight": 88,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

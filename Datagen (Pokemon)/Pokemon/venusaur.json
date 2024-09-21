@@ -74,7 +74,6 @@
       ],
       "height": 24,
       "weight": 1555,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     },
@@ -121,7 +120,6 @@
       ],
       "height": 20,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -142,14 +140,6 @@
       {
         "item": "cobblemon:coba_berry",
         "percentage": 2.5
-      },
-      {
-        "item": "generations_core:venusaur_doll",
-        "percentage": 1.0
-      },
-      {
-        "item": "generations_core:dynite_ore",
-        "percentage": 5.0
       }
     ]
   },
@@ -170,7 +160,9 @@
     "44:worryseed",
     "50:petalblizzard",
     "51:doubleedge",
+    "51:powerwhip",
     "58:solarbeam",
+    "tm:acidspray",
     "tm:amnesia",
     "tm:attract",
     "tm:bodyslam",
@@ -179,7 +171,9 @@
     "tm:captivate",
     "tm:charm",
     "tm:confide",
+    "tm:curse",
     "tm:cut",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthpower",
     "tm:earthquake",
@@ -189,20 +183,26 @@
     "tm:facade",
     "tm:falseswipe",
     "tm:flash",
+    "tm:frenzyplant",
     "tm:frustration",
     "tm:gigadrain",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:grasspledge",
+    "tm:grassyglide",
     "tm:grassyterrain",
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:hyperbeam",
+    "tm:knockoff",
     "tm:leafstorm",
     "tm:lightscreen",
     "tm:magicalleaf",
     "tm:naturalgift",
     "tm:naturepower",
     "tm:outrage",
+    "tm:petalblizzard",
+    "tm:poisonjab",
     "tm:powerwhip",
     "tm:protect",
     "tm:rest",
@@ -212,6 +212,7 @@
     "tm:rocksmash",
     "tm:round",
     "tm:safeguard",
+    "tm:scaryface",
     "tm:secretpower",
     "tm:seedbomb",
     "tm:sleeptalk",
@@ -224,7 +225,10 @@
     "tm:sunnyday",
     "tm:swagger",
     "tm:swordsdance",
+    "tm:takedown",
+    "tm:terablast",
     "tm:toxic",
+    "tm:trailblaze",
     "tm:venoshock",
     "tm:weatherball",
     "tm:workup",

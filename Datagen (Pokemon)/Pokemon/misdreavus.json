@@ -24,8 +24,12 @@
     "amorphous"
   ],
   "drops": {
-    "amount": 2,
+    "amount": 3,
     "entries": [
+      {
+        "item": "minecraft:phantom_membrane",
+        "percentage": 2.5
+      },
       {
         "item": "cobblemon:spell_tag",
         "percentage": 2.5
@@ -68,12 +72,14 @@
     "egg:wonderroom",
     "tm:aerialace",
     "tm:attract",
+    "tm:burningjealousy",
     "tm:calmmind",
     "tm:captivate",
     "tm:chargebeam",
     "tm:charm",
     "tm:confide",
     "tm:confuseray",
+    "tm:curse",
     "tm:darkpulse",
     "tm:dazzlinggleam",
     "tm:doubleteam",
@@ -88,6 +94,7 @@
     "tm:flash",
     "tm:foulplay",
     "tm:frustration",
+    "tm:futuresight",
     "tm:gigaimpact",
     "tm:grassknot",
     "tm:helpinghand",
@@ -101,12 +108,15 @@
     "tm:nastyplot",
     "tm:naturalgift",
     "tm:nightshade",
+    "tm:painsplit",
     "tm:payback",
     "tm:phantomforce",
+    "tm:poltergeist",
     "tm:powergem",
     "tm:protect",
     "tm:psybeam",
     "tm:psychic",
+    "tm:psychicnoise",
     "tm:psychup",
     "tm:psyshock",
     "tm:raindance",
@@ -121,6 +131,7 @@
     "tm:sleeptalk",
     "tm:snatch",
     "tm:snowscape",
+    "tm:spite",
     "tm:storedpower",
     "tm:substitute",
     "tm:sunnyday",

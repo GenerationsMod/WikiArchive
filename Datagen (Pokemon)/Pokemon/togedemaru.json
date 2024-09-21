@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Togedemaru",
   "nationalPokedexNumber": 777,
   "primaryType": "electric",
@@ -129,7 +128,6 @@
       ],
       "height": 6,
       "weight": 130,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -268,5 +266,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Inkay",
   "nationalPokedexNumber": 686,
   "primaryType": "dark",
@@ -66,6 +65,7 @@
     "tm:doubleteam",
     "tm:embargo",
     "tm:endure",
+    "tm:expandingforce",
     "tm:facade",
     "tm:faketears",
     "tm:flamethrower",
@@ -74,16 +74,23 @@
     "tm:foulplay",
     "tm:frustration",
     "tm:futuresight",
+    "tm:gravity",
     "tm:guardswap",
+    "tm:helpinghand",
     "tm:hiddenpower",
+    "tm:knockoff",
+    "tm:lashout",
     "tm:lightscreen",
     "tm:liquidation",
+    "tm:lunge",
     "tm:nastyplot",
     "tm:payback",
     "tm:protect",
+    "tm:psybeam",
     "tm:psychic",
     "tm:psychocut",
     "tm:psychup",
+    "tm:psyshock",
     "tm:raindance",
     "tm:reflect",
     "tm:rest",
@@ -92,18 +99,23 @@
     "tm:rockslide",
     "tm:round",
     "tm:secretpower",
+    "tm:skillswap",
     "tm:sleeptalk",
     "tm:snore",
+    "tm:spite",
     "tm:storedpower",
     "tm:substitute",
     "tm:sunnyday",
     "tm:superpower",
     "tm:swagger",
+    "tm:swift",
     "tm:taunt",
+    "tm:terablast",
     "tm:thief",
     "tm:thunderbolt",
     "tm:torment",
     "tm:toxic",
+    "tm:trick",
     "tm:trickroom",
     "tutor:allyswitch",
     "tutor:bind",
@@ -129,7 +141,7 @@
   ],
   "evolutions": [
     {
-      "id": "inkay_malamar",
+      "id": "inkay_malamar_dinnerbone",
       "variant": "level_up",
       "result": "malamar",
       "consumeHeldItem": false,
@@ -142,6 +154,23 @@
         {
           "variant": "properties",
           "target": "nickname=Dinnerbone"
+        }
+      ]
+    },
+    {
+      "id": "inkay_malamar_grumm",
+      "variant": "level_up",
+      "result": "malamar",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "level",
+          "minLevel": 30
+        },
+        {
+          "variant": "properties",
+          "target": "nickname=Grumm"
         }
       ]
     }
@@ -177,5 +206,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

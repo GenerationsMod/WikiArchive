@@ -10,15 +10,11 @@
     "h:hydration"
   ],
   "drops": {
-    "amount": 2,
+    "amount": 1,
     "entries": [
       {
         "item": "cobblemon:aspear_berry",
         "percentage": 2.5
-      },
-      {
-        "item": "generations_core:smoochum_doll",
-        "percentage": 1.0
       }
     ]
   },

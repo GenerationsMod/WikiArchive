@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Vigoroth",
   "nationalPokedexNumber": 288,
   "primaryType": "normal",
@@ -47,12 +46,15 @@
     "tm:captivate",
     "tm:chillingwater",
     "tm:confide",
+    "tm:curse",
     "tm:cut",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:drainpunch",
     "tm:earthquake",
     "tm:encore",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:falseswipe",
@@ -72,6 +74,8 @@
     "tm:icepunch",
     "tm:icywind",
     "tm:incinerate",
+    "tm:knockoff",
+    "tm:lashout",
     "tm:lowkick",
     "tm:lowsweep",
     "tm:metalclaw",
@@ -112,12 +116,14 @@
     "tm:taunt",
     "tm:terablast",
     "tm:thief",
+    "tm:throatchop",
     "tm:thunder",
     "tm:thunderbolt",
     "tm:thunderpunch",
     "tm:thunderwave",
     "tm:toxic",
     "tm:trailblaze",
+    "tm:uproar",
     "tm:waterpulse",
     "tm:workup",
     "tm:xscissor",
@@ -204,5 +210,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

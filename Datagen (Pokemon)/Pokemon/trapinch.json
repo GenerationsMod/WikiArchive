@@ -26,6 +26,13 @@
     "bug",
     "dragon"
   ],
+  "behaviour": {
+    "moving" : {
+      "walk": {
+        "walkSpeed": 0.3
+      }
+    }
+  },
   "moves": [
     "1:astonish",
     "1:bide",
@@ -60,6 +67,7 @@
     "egg:signalbeam",
     "tm:attract",
     "tm:bodyslam",
+    "tm:bugbite",
     "tm:bulldoze",
     "tm:captivate",
     "tm:confide",
@@ -76,6 +84,7 @@
     "tm:hiddenpower",
     "tm:hyperbeam",
     "tm:mudshot",
+    "tm:mudslap",
     "tm:naturalgift",
     "tm:protect",
     "tm:rest",
@@ -86,16 +95,21 @@
     "tm:round",
     "tm:sandstorm",
     "tm:sandtomb",
+    "tm:scorchingsands",
     "tm:secretpower",
     "tm:sleeptalk",
     "tm:snore",
     "tm:solarbeam",
+    "tm:stealthrock",
+    "tm:stoneedge",
     "tm:strength",
     "tm:strugglebug",
     "tm:substitute",
     "tm:sunnyday",
     "tm:superpower",
     "tm:swagger",
+    "tm:takedown",
+    "tm:terablast",
     "tm:toxic",
     "tutor:bite",
     "tutor:bodyslam",
@@ -140,10 +154,10 @@
       ]
     }
   ],
-  "baseScale": 1,
+  "baseScale": 0.75,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 0.8,
+    "height": 0.9,
     "fixed": false
   },
   "baseFriendship": 50,

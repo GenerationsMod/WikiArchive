@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Gogoat",
   "nationalPokedexNumber": 673,
   "primaryType": "grass",
@@ -52,8 +51,10 @@
     "tm:bulletseed",
     "tm:confide",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthquake",
+    "tm:endeavor",
     "tm:endure",
     "tm:energyball",
     "tm:facade",
@@ -61,9 +62,11 @@
     "tm:gigadrain",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:grassyglide",
     "tm:grassyterrain",
     "tm:helpinghand",
     "tm:hiddenpower",
+    "tm:highhorsepower",
     "tm:hyperbeam",
     "tm:leafstorm",
     "tm:magicalleaf",
@@ -93,6 +96,7 @@
     "tm:swagger",
     "tm:takedown",
     "tm:terablast",
+    "tm:throatchop",
     "tm:toxic",
     "tm:trailblaze",
     "tm:wildcharge",
@@ -148,5 +152,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Purugly",
   "nationalPokedexNumber": 432,
   "primaryType": "normal",
@@ -145,5 +144,6 @@
   "height": 10,
   "weight": 438,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

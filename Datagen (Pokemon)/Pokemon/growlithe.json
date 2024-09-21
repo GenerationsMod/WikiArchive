@@ -84,6 +84,7 @@
         "tm:closecombat",
         "tm:crunch",
         "tm:dig",
+        "tm:doubleedge",
         "tm:endure",
         "tm:facade",
         "tm:fireblast",
@@ -101,20 +102,25 @@
         "tm:psychicfangs",
         "tm:rest",
         "tm:reversal",
+        "tm:roar",
         "tm:rockblast",
         "tm:rockslide",
         "tm:rocktomb",
         "tm:sandstorm",
         "tm:scaryface",
+        "tm:scorchingsands",
         "tm:sleeptalk",
+        "tm:smackdown",
         "tm:smartstrike",
         "tm:stealthrock",
         "tm:stoneedge",
         "tm:substitute",
         "tm:sunnyday",
         "tm:takedown",
+        "tm:temperflare",
         "tm:terablast",
         "tm:thunderfang",
+        "tm:wildcharge",
         "tm:willowisp"
       ],
       "labels": [
@@ -130,7 +136,7 @@
         {
           "id": "growlithe_arcanine",
           "variant": "item_interact",
-          "result": "arcanine form=hisui",
+          "result": "arcanine hisuian",
           "consumeHeldItem": false,
           "learnableMoves": [
             "extremespeed"
@@ -216,7 +222,9 @@
     "tm:closecombat",
     "tm:confide",
     "tm:crunch",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:endure",
     "tm:facade",
@@ -257,6 +265,7 @@
     "tm:swagger",
     "tm:swift",
     "tm:takedown",
+    "tm:temperflare",
     "tm:terablast",
     "tm:thief",
     "tm:thunderfang",
@@ -337,10 +346,10 @@
       "requiredContext": "cobblemon:fire_stone"
     }
   ],
-  "baseScale": 1,
+  "baseScale": 0.75,
   "hitbox": {
-    "width": 0.7,
-    "height": 0.9,
+    "width": 1.1,
+    "height": 1.15,
     "fixed": false
   },
   "baseFriendship": 50,

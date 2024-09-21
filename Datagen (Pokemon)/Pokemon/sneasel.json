@@ -59,7 +59,7 @@
         "field"
       ],
       "drops": {
-        "amount": 2,
+        "amount": 3,
         "entries": [
           {
             "item": "cobblemon:razor_claw",
@@ -67,6 +67,10 @@
           },
           {
             "item": "cobblemon:poison_barb",
+            "percentage": 2.5
+          },
+          {
+            "item": "cobblemon:payapa_berry",
             "percentage": 2.5
           }
         ]
@@ -99,15 +103,18 @@
         "tm:bulkup",
         "tm:calmmind",
         "tm:closecombat",
+        "tm:coaching",
         "tm:dig",
         "tm:endure",
         "tm:facade",
         "tm:falseswipe",
         "tm:fling",
         "tm:focusblast",
+        "tm:focuspunch",
         "tm:gigaimpact",
         "tm:grassknot",
         "tm:gunkshot",
+        "tm:lashout",
         "tm:lowkick",
         "tm:lowsweep",
         "tm:metalclaw",
@@ -122,6 +129,8 @@
         "tm:shadowclaw",
         "tm:sleeptalk",
         "tm:sludgebomb",
+        "tm:sludgewave",
+        "tm:spite",
         "tm:substitute",
         "tm:sunnyday",
         "tm:swift",
@@ -130,8 +139,11 @@
         "tm:taunt",
         "tm:terablast",
         "tm:thief",
+        "tm:throatchop",
+        "tm:toxic",
         "tm:toxicspikes",
         "tm:trailblaze",
+        "tm:vacuumwave",
         "tm:venoshock",
         "tm:xscissor"
       ],
@@ -150,7 +162,10 @@
           "variant": "level_up",
           "result": "sneasler",
           "consumeHeldItem": true,
-          "learnableMoves": [],
+          "permanent": true,
+          "learnableMoves": [
+            "direclaw"
+          ],
           "requirements": [
             {
               "variant": "held_item",
@@ -163,6 +178,12 @@
           ]
         }
       ],
+      "baseScale": 0.8,
+      "hitbox": {
+        "width": 0.6,
+        "height": 1.25,
+        "fixed": false
+      },
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -255,8 +276,11 @@
     "tm:honeclaws",
     "tm:icebeam",
     "tm:icepunch",
+    "tm:iciclespear",
     "tm:icywind",
     "tm:irontail",
+    "tm:knockoff",
+    "tm:lashout",
     "tm:lowkick",
     "tm:lowsweep",
     "tm:megakick",
@@ -288,6 +312,7 @@
     "tm:snatch",
     "tm:snore",
     "tm:snowscape",
+    "tm:spite",
     "tm:strength",
     "tm:substitute",
     "tm:sunnyday",
@@ -303,6 +328,8 @@
     "tm:torment",
     "tm:toxic",
     "tm:trailblaze",
+    "tm:tripleaxel",
+    "tm:upperhand",
     "tm:waterpulse",
     "tm:whirlpool",
     "tm:xscissor",
@@ -385,6 +412,7 @@
       "variant": "level_up",
       "result": "weavile",
       "consumeHeldItem": true,
+      "permanent": true,
       "learnableMoves": [],
       "requirements": [
         {
@@ -401,7 +429,7 @@
   "baseScale": 0.8,
   "hitbox": {
     "width": 0.6,
-    "height": 1.1,
+    "height": 1.25,
     "fixed": false
   },
   "baseFriendship": 35,

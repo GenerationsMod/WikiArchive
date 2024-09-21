@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Toxtricity",
   "nationalPokedexNumber": 849,
   "primaryType": "electric",
@@ -83,13 +82,16 @@
         "tm:acidspray",
         "tm:attract",
         "tm:brickbreak",
+        "tm:charge",
         "tm:chargebeam",
         "tm:charm",
         "tm:drainpunch",
         "tm:eerieimpulse",
         "tm:electricterrain",
         "tm:electroball",
+        "tm:electroweb",
         "tm:encore",
+        "tm:endeavor",
         "tm:endure",
         "tm:facade",
         "tm:firepunch",
@@ -102,11 +104,13 @@
         "tm:hypervoice",
         "tm:megakick",
         "tm:megapunch",
+        "tm:metalsound",
         "tm:metronome",
         "tm:payback",
         "tm:poisonjab",
         "tm:poisontail",
         "tm:protect",
+        "tm:psychicnoise",
         "tm:raindance",
         "tm:rest",
         "tm:round",
@@ -131,6 +135,7 @@
         "tm:thunderfang",
         "tm:thunderpunch",
         "tm:thunderwave",
+        "tm:toxic",
         "tm:toxicspikes",
         "tm:trailblaze",
         "tm:uproar",
@@ -149,7 +154,6 @@
       "height": 16,
       "weight": 400,
       "preEvolution": "toxel",
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -196,7 +200,6 @@
       ],
       "height": 240,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -243,7 +246,6 @@
       ],
       "height": 240,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     }
@@ -282,13 +284,16 @@
     "tm:acidspray",
     "tm:attract",
     "tm:brickbreak",
+    "tm:charge",
     "tm:chargebeam",
     "tm:charm",
     "tm:drainpunch",
     "tm:eerieimpulse",
     "tm:electricterrain",
     "tm:electroball",
+    "tm:electroweb",
     "tm:encore",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:firepunch",
@@ -301,11 +306,13 @@
     "tm:hypervoice",
     "tm:megakick",
     "tm:megapunch",
+    "tm:metalsound",
     "tm:metronome",
     "tm:payback",
     "tm:poisonjab",
     "tm:poisontail",
     "tm:protect",
+    "tm:psychicnoise",
     "tm:raindance",
     "tm:rest",
     "tm:round",
@@ -330,6 +337,7 @@
     "tm:thunderfang",
     "tm:thunderpunch",
     "tm:thunderwave",
+    "tm:toxic",
     "tm:toxicspikes",
     "tm:trailblaze",
     "tm:uproar",
@@ -374,11 +382,8 @@
       {
         "item": "cobblemon:shuca_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:dynite_ore",
-        "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

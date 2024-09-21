@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Sinistcha",
   "nationalPokedexNumber": 1013,
   "primaryType": "grass",
@@ -49,6 +48,7 @@
     "54:memento",
     "60:leafstorm",
     "tm:calmmind",
+    "tm:curse",
     "tm:endure",
     "tm:energyball",
     "tm:foulplay",
@@ -62,9 +62,11 @@
     "tm:magicalleaf",
     "tm:nastyplot",
     "tm:nightshade",
+    "tm:painsplit",
     "tm:phantomforce",
     "tm:poltergeist",
     "tm:protect",
+    "tm:psychup",
     "tm:reflect",
     "tm:rest",
     "tm:scald",
@@ -135,6 +137,7 @@
         "54:memento",
         "60:leafstorm",
         "tm:calmmind",
+        "tm:curse",
         "tm:endure",
         "tm:energyball",
         "tm:foulplay",
@@ -148,9 +151,11 @@
         "tm:magicalleaf",
         "tm:nastyplot",
         "tm:nightshade",
+        "tm:painsplit",
         "tm:phantomforce",
         "tm:poltergeist",
         "tm:protect",
+        "tm:psychup",
         "tm:reflect",
         "tm:rest",
         "tm:scald",
@@ -171,10 +176,19 @@
       ],
       "height": 2,
       "weight": 22,
-      "preEvolution": "poltchageist form=artisan",
-      "evolutions": [],
+      "preEvolution": "poltchageist artisan",
       "cannotDynamax": false,
       "battleOnly": false
     }
-  ]
+  ],
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:rawst_berry",
+        "percentage": 5.0
+      }
+    ]
+  },
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Sunflora",
   "nationalPokedexNumber": 192,
   "primaryType": "grass",
@@ -50,11 +49,14 @@
     "tm:bulletseed",
     "tm:captivate",
     "tm:confide",
+    "tm:curse",
     "tm:cut",
     "tm:dazzlinggleam",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthpower",
     "tm:encore",
+    "tm:endeavor",
     "tm:endure",
     "tm:energyball",
     "tm:facade",
@@ -63,6 +65,7 @@
     "tm:gigadrain",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:grassyglide",
     "tm:grassyterrain",
     "tm:helpinghand",
     "tm:hiddenpower",
@@ -72,6 +75,7 @@
     "tm:magicalleaf",
     "tm:naturalgift",
     "tm:naturepower",
+    "tm:petalblizzard",
     "tm:protect",
     "tm:raindance",
     "tm:rest",
@@ -91,6 +95,7 @@
     "tm:terablast",
     "tm:toxic",
     "tm:trailblaze",
+    "tm:weatherball",
     "tutor:absorb",
     "tutor:afteryou",
     "tutor:attract",
@@ -158,7 +163,7 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 3,
+    "amount": 2,
     "entries": [
       {
         "item": "minecraft:sunflower"
@@ -166,15 +171,8 @@
       {
         "item": "cobblemon:coba_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:orange_petal",
-        "percentage": 10.0
-      },
-      {
-        "item": "generations_core:yellow_petal",
-        "percentage": 10.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

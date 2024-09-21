@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Frigibax",
   "nationalPokedexNumber": 996,
   "primaryType": "dragon",
@@ -66,6 +65,7 @@
     "tm:helpinghand",
     "tm:icebeam",
     "tm:icefang",
+    "tm:iciclespear",
     "tm:icywind",
     "tm:outrage",
     "tm:protect",
@@ -111,5 +111,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

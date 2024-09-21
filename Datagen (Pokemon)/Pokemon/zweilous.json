@@ -66,6 +66,7 @@
     "tm:darkpulse",
     "tm:doubleteam",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonpulse",
     "tm:dragontail",
     "tm:earthpower",
@@ -79,6 +80,7 @@
     "tm:hypervoice",
     "tm:icefang",
     "tm:incinerate",
+    "tm:lashout",
     "tm:nastyplot",
     "tm:outrage",
     "tm:protect",
@@ -95,6 +97,7 @@
     "tm:sleeptalk",
     "tm:snarl",
     "tm:snore",
+    "tm:spite",
     "tm:stompingtantrum",
     "tm:strength",
     "tm:substitute",
@@ -149,10 +152,10 @@
       ]
     }
   ],
-  "baseScale": 1,
+  "baseScale": 0.75,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 1.5,
+    "height": 1.8,
     "fixed": false
   },
   "baseFriendship": 35,

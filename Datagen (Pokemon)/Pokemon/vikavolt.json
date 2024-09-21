@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Vikavolt",
   "nationalPokedexNumber": 738,
   "primaryType": "bug",
@@ -121,7 +120,6 @@
       ],
       "height": 26,
       "weight": 1475,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -158,13 +156,18 @@
     "tm:agility",
     "tm:airslash",
     "tm:attract",
+    "tm:batonpass",
+    "tm:bugbite",
     "tm:bugbuzz",
+    "tm:bulldoze",
+    "tm:charge",
     "tm:chargebeam",
     "tm:confide",
     "tm:crunch",
     "tm:dig",
     "tm:doubleteam",
     "tm:eerieimpulse",
+    "tm:electricterrain",
     "tm:electroball",
     "tm:electroweb",
     "tm:endure",
@@ -178,8 +181,11 @@
     "tm:hyperbeam",
     "tm:irondefense",
     "tm:lightscreen",
+    "tm:lunge",
     "tm:mudshot",
+    "tm:mudslap",
     "tm:poisonjab",
+    "tm:pounce",
     "tm:protect",
     "tm:raindance",
     "tm:rest",
@@ -187,12 +193,18 @@
     "tm:roost",
     "tm:round",
     "tm:screech",
+    "tm:skittersmack",
     "tm:skydrop",
     "tm:sleeptalk",
     "tm:snore",
     "tm:solarbeam",
+    "tm:strugglebug",
     "tm:substitute",
+    "tm:supercellslam",
     "tm:swagger",
+    "tm:swift",
+    "tm:takedown",
+    "tm:terablast",
     "tm:thunder",
     "tm:thunderbolt",
     "tm:thunderwave",
@@ -247,5 +259,6 @@
         "percentage": 10.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

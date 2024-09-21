@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Regieleki",
   "nationalPokedexNumber": 894,
   "primaryType": "electric",
@@ -44,6 +43,7 @@
     "tm:assurance",
     "tm:bodyslam",
     "tm:bounce",
+    "tm:charge",
     "tm:chargebeam",
     "tm:eerieimpulse",
     "tm:electricterrain",
@@ -64,6 +64,7 @@
     "tm:sleeptalk",
     "tm:snore",
     "tm:substitute",
+    "tm:supercellslam",
     "tm:swift",
     "tm:takedown",
     "tm:terablast",
@@ -104,5 +105,6 @@
   "height": 12,
   "weight": 1450,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Litleo",
   "nationalPokedexNumber": 667,
   "primaryType": "fire",
@@ -55,8 +54,10 @@
     "tm:crunch",
     "tm:darkpulse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:echoedvoice",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:fireblast",
@@ -166,5 +167,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

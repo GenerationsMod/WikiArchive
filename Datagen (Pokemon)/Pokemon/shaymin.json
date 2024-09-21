@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Shaymin",
   "nationalPokedexNumber": 492,
   "primaryType": "grass",
@@ -13,19 +12,6 @@
     "special_attack": 100,
     "special_defence": 100,
     "speed": 100
-  },
-  "drops": {
-    "amount": 2,
-    "entries": [
-      {
-        "item": "generations_core:shaymin_sky_doll",
-        "percentage": 100.0
-      },
-      {
-        "item": "generations_core:shaymin_land_doll",
-        "percentage": 100.0
-      }
-    ]
   },
   "catchRate": 45,
   "maleRatio": -1,
@@ -54,9 +40,11 @@
     "28:synthesis",
     "37:sweetscent",
     "46:naturalgift",
+    "46:playrough",
     "55:worryseed",
     "64:airslash",
     "64:aromatherapy",
+    "64:grassyterrain",
     "73:energyball",
     "82:grasswhistle",
     "82:sweetkiss",
@@ -64,10 +52,17 @@
     "91:leafstorm",
     "91:luckychant",
     "100:seedflare",
+    "tm:aircutter",
+    "tm:airslash",
+    "tm:batonpass",
     "tm:bulletseed",
     "tm:confide",
     "tm:dazzlinggleam",
+    "tm:disarmingvoice",
+    "tm:doubleedge",
     "tm:doubleteam",
+    "tm:earthpower",
+    "tm:endeavor",
     "tm:endure",
     "tm:energyball",
     "tm:facade",
@@ -76,10 +71,16 @@
     "tm:gigadrain",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:grassyglide",
+    "tm:grassyterrain",
     "tm:hiddenpower",
     "tm:hyperbeam",
+    "tm:leafstorm",
+    "tm:magicalleaf",
     "tm:naturalgift",
     "tm:naturepower",
+    "tm:petalblizzard",
+    "tm:playrough",
     "tm:protect",
     "tm:psychic",
     "tm:psychup",
@@ -88,13 +89,20 @@
     "tm:round",
     "tm:safeguard",
     "tm:secretpower",
+    "tm:seedbomb",
     "tm:sleeptalk",
     "tm:solarbeam",
     "tm:substitute",
     "tm:sunnyday",
     "tm:swagger",
+    "tm:swift",
     "tm:swordsdance",
+    "tm:tailwind",
+    "tm:takedown",
+    "tm:terablast",
     "tm:toxic",
+    "tm:trailblaze",
+    "tm:zenheadbutt",
     "tutor:aircutter",
     "tutor:airslash",
     "tutor:aromatherapy",
@@ -179,11 +187,11 @@
       ],
       "height": 4,
       "weight": 52,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
   ],
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

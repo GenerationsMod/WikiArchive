@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Skorupi",
   "nationalPokedexNumber": 451,
   "primaryType": "poison",
@@ -206,5 +205,6 @@
   "height": 8,
   "weight": 120,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

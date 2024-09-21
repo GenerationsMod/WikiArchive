@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Hatterene",
   "nationalPokedexNumber": 858,
   "primaryType": "psychic",
@@ -64,7 +63,6 @@
       ],
       "height": 260,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -101,10 +99,12 @@
     "tm:disarmingvoice",
     "tm:drainingkiss",
     "tm:endure",
+    "tm:expandingforce",
     "tm:facade",
     "tm:futuresight",
     "tm:gigadrain",
     "tm:gigaimpact",
+    "tm:gravity",
     "tm:guardswap",
     "tm:helpinghand",
     "tm:hyperbeam",
@@ -113,16 +113,20 @@
     "tm:magicalleaf",
     "tm:magicroom",
     "tm:metronome",
+    "tm:mistyexplosion",
     "tm:mistyterrain",
     "tm:mysticalfire",
+    "tm:painsplit",
     "tm:playrough",
     "tm:powerswap",
     "tm:powerwhip",
     "tm:protect",
     "tm:psybeam",
     "tm:psychic",
+    "tm:psychicnoise",
     "tm:psychicterrain",
     "tm:psychocut",
+    "tm:psychup",
     "tm:psyshock",
     "tm:reflect",
     "tm:rest",
@@ -178,11 +182,8 @@
       {
         "item": "cobblemon:babiri_berry",
         "percentage": 10.0
-      },
-      {
-        "item": "generations_core:dynite_ore",
-        "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Hoppip",
   "nationalPokedexNumber": 187,
   "primaryType": "grass",
@@ -73,6 +72,7 @@
     "tm:charm",
     "tm:confide",
     "tm:dazzlinggleam",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:encore",
     "tm:endure",
@@ -89,6 +89,7 @@
     "tm:infestation",
     "tm:leafstorm",
     "tm:lightscreen",
+    "tm:lunge",
     "tm:magicalleaf",
     "tm:naturalgift",
     "tm:pollenpuff",
@@ -209,5 +210,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

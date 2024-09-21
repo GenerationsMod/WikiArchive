@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Koraidon",
   "nationalPokedexNumber": 1007,
   "primaryType": "fighting",
@@ -53,17 +52,21 @@
     "tm:agility",
     "tm:bodypress",
     "tm:bodyslam",
+    "tm:breakingswipe",
     "tm:brickbreak",
     "tm:bulkup",
     "tm:bulldoze",
     "tm:closecombat",
     "tm:crunch",
     "tm:dig",
+    "tm:doubleedge",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragonpulse",
     "tm:dragontail",
     "tm:drainpunch",
+    "tm:dualwingbeat",
     "tm:endure",
     "tm:facade",
     "tm:fireblast",
@@ -73,7 +76,9 @@
     "tm:flamethrower",
     "tm:flareblitz",
     "tm:focusblast",
+    "tm:focuspunch",
     "tm:gigaimpact",
+    "tm:heatcrash",
     "tm:heatwave",
     "tm:heavyslam",
     "tm:helpinghand",
@@ -82,6 +87,7 @@
     "tm:ironhead",
     "tm:lowkick",
     "tm:lowsweep",
+    "tm:meteorbeam",
     "tm:mudshot",
     "tm:mudslap",
     "tm:outrage",
@@ -89,6 +95,8 @@
     "tm:protect",
     "tm:rest",
     "tm:reversal",
+    "tm:roar",
+    "tm:scaleshot",
     "tm:scaryface",
     "tm:shadowclaw",
     "tm:sleeptalk",
@@ -100,17 +108,13 @@
     "tm:swordsdance",
     "tm:takedown",
     "tm:taunt",
+    "tm:temperflare",
     "tm:terablast",
     "tm:thunderfang",
+    "tm:uproar",
     "tm:uturn",
     "tm:wildcharge",
-    "tm:zenheadbutt",
-    "tutor:bulkup",
-    "tutor:collisioncourse",
-    "tutor:endure",
-    "tutor:flamethrower",
-    "tutor:gigaimpact",
-    "tutor:terablast"
+    "tm:zenheadbutt"
   ],
   "labels": [
     "gen9",
@@ -123,5 +127,6 @@
   "cannotDynamax": false,
   "pokedex": [
     "cobblemon.species.koraidon.desc"
-  ]
+  ],
+  "implemented": true
 }

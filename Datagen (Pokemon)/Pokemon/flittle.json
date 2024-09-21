@@ -17,10 +17,6 @@
       {
         "item": "cobblemon:tanga_berry",
         "percentage": 2.5
-      },
-      {
-        "item": "generations_core:light_soul",
-        "percentage": 2.5
       }
     ]
   },
@@ -116,6 +112,7 @@
     "tm:thief",
     "tm:trick",
     "tm:trickroom",
+    "tm:uproar",
     "tm:uturn",
     "tm:zenheadbutt"
   ],

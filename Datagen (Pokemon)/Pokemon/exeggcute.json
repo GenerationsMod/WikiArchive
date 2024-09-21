@@ -21,20 +21,17 @@
   "shoulderMountable": false,
   "forms": [
     {
-      "name": "base"
-    },
-    {
-      "name": "Alolan",
+      "name": "Alola Bias",
       "maleRatio": 0.5,
       "labels": [
         "alola_regional"
       ],
       "aspects": [
-        "alolan"
+        "region-bias-alola"
       ],
       "evolutions": [
         {
-          "id": "exeggcute_exeggutor_alolan_kantonian",
+          "id": "alola_exeggcute_exeggutor",
           "variant": "item_interact",
           "result": "exeggutor alolan=false",
           "consumeHeldItem": false,
@@ -50,19 +47,14 @@
           "requiredContext": "cobblemon:leaf_stone"
         },
         {
-          "id": "exeggcute_exeggutor_alolan",
+          "id": "alola_exeggcute_alola_exeggutor",
           "variant": "item_interact",
           "result": "exeggutor alolan",
           "consumeHeldItem": false,
           "learnableMoves": [
             "dragonhammer"
           ],
-          "requirements": [
-            {
-              "variant": "biome",
-              "biomeAnticondition": "#cobblemon:is_jungle"
-            }
-          ],
+          "requirements": [],
           "requiredContext": "cobblemon:leaf_stone"
         }
       ]
@@ -143,6 +135,7 @@
     "tm:bulletseed",
     "tm:captivate",
     "tm:confide",
+    "tm:curse",
     "tm:doubleteam",
     "tm:dreameater",
     "tm:endure",
@@ -153,8 +146,11 @@
     "tm:frustration",
     "tm:gigadrain",
     "tm:grassknot",
+    "tm:grassyglide",
     "tm:grassyterrain",
+    "tm:helpinghand",
     "tm:hiddenpower",
+    "tm:imprison",
     "tm:infestation",
     "tm:leafstorm",
     "tm:lightscreen",
@@ -162,8 +158,11 @@
     "tm:naturepower",
     "tm:powerswap",
     "tm:protect",
+    "tm:psybeam",
     "tm:psychic",
+    "tm:psychicnoise",
     "tm:psychup",
+    "tm:psyshock",
     "tm:reflect",
     "tm:rest",
     "tm:return",
@@ -176,16 +175,20 @@
     "tm:sludgebomb",
     "tm:snore",
     "tm:solarbeam",
+    "tm:storedpower",
     "tm:strength",
     "tm:substitute",
     "tm:sunnyday",
     "tm:swagger",
     "tm:swordsdance",
     "tm:telekinesis",
+    "tm:terablast",
     "tm:thief",
     "tm:toxic",
+    "tm:trick",
     "tm:trickroom",
     "tm:uproar",
+    "tm:zenheadbutt",
     "tutor:ancientpower",
     "tutor:attract",
     "tutor:barrage",
@@ -256,11 +259,12 @@
     "cobblemon.species.exeggcute.desc"
   ],
   "features": [
-    "alolan"
+    "alolan",
+    "region_bias"
   ],
   "evolutions": [
     {
-      "id": "exeggcute_exeggutor_kantonian_alolan",
+      "id": "exeggcute_alola_exeggutor",
       "variant": "item_interact",
       "result": "exeggutor alolan",
       "consumeHeldItem": false,
@@ -270,25 +274,24 @@
       "requirements": [
         {
           "variant": "biome",
-          "biomeCondition": "#minecraft:is_beach"
+          "biomeCondition": "#cobblemon:evolution/alolan"
+        },
+        {
+          "variant": "biome",
+          "biomeAnticondition": "#minecraft:is_freezing"
         }
       ],
       "requiredContext": "cobblemon:leaf_stone"
     },
     {
-      "id": "exeggcute_exeggutor_kantonian",
+      "id": "exeggcute_exeggutor",
       "variant": "item_interact",
       "result": "exeggutor alolan=false",
       "consumeHeldItem": false,
       "learnableMoves": [
         "stomp"
       ],
-      "requirements": [
-        {
-          "variant": "biome",
-          "biomeAnticondition": "#minecraft:is_beach"
-        }
-      ],
+      "requirements": [],
       "requiredContext": "cobblemon:leaf_stone"
     }
   ],

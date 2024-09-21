@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Thundurus",
   "nationalPokedexNumber": 642,
   "primaryType": "electric",
@@ -64,6 +63,7 @@
     "tm:brickbreak",
     "tm:brutalswing",
     "tm:bulkup",
+    "tm:charge",
     "tm:chargebeam",
     "tm:confide",
     "tm:crunch",
@@ -88,6 +88,8 @@
     "tm:hyperbeam",
     "tm:incinerate",
     "tm:irontail",
+    "tm:knockoff",
+    "tm:lashout",
     "tm:nastyplot",
     "tm:payback",
     "tm:protect",
@@ -111,6 +113,7 @@
     "tm:strength",
     "tm:substitute",
     "tm:sunnyday",
+    "tm:supercellslam",
     "tm:superpower",
     "tm:swagger",
     "tm:takedown",
@@ -215,11 +218,11 @@
       ],
       "height": 30,
       "weight": 610,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
   ],
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

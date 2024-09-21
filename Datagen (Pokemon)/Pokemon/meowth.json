@@ -105,12 +105,15 @@
         "tm:chillingwater",
         "tm:confide",
         "tm:confuseray",
+        "tm:curse",
         "tm:darkpulse",
         "tm:dig",
+        "tm:doubleedge",
         "tm:doubleteam",
         "tm:dreameater",
         "tm:echoedvoice",
         "tm:embargo",
+        "tm:endeavor",
         "tm:endure",
         "tm:facade",
         "tm:faketears",
@@ -122,6 +125,8 @@
         "tm:hypervoice",
         "tm:icywind",
         "tm:irontail",
+        "tm:knockoff",
+        "tm:lashout",
         "tm:metalclaw",
         "tm:nastyplot",
         "tm:payback",
@@ -143,6 +148,7 @@
         "tm:sleeptalk",
         "tm:snarl",
         "tm:snore",
+        "tm:spite",
         "tm:substitute",
         "tm:sunnyday",
         "tm:swagger",
@@ -245,10 +251,6 @@
           {
             "item": "cobblemon:bluk_berry",
             "percentage": 2.5
-          },
-          {
-            "item": "generations_core:dark_soul",
-            "percentage": 2.5
           }
         ]
       }
@@ -291,6 +293,12 @@
           "walk": {
             "walkSpeed": 0.2
           }
+        },
+        "resting": {
+          "canSleep": true,
+          "willSleepOnBed": true,
+          "depth": "normal",
+          "light": "0-4"
         }
       },
       "moves": [
@@ -321,8 +329,11 @@
         "tm:brickbreak",
         "tm:charm",
         "tm:crunch",
+        "tm:curse",
         "tm:darkpulse",
         "tm:dig",
+        "tm:doubleedge",
+        "tm:endeavor",
         "tm:endure",
         "tm:facade",
         "tm:faketears",
@@ -337,7 +348,10 @@
         "tm:irondefense",
         "tm:ironhead",
         "tm:irontail",
+        "tm:knockoff",
+        "tm:lashout",
         "tm:metalclaw",
+        "tm:metalsound",
         "tm:metronome",
         "tm:nastyplot",
         "tm:payback",
@@ -354,6 +368,7 @@
         "tm:shadowclaw",
         "tm:sleeptalk",
         "tm:snore",
+        "tm:spite",
         "tm:stealthrock",
         "tm:steelbeam",
         "tm:substitute",
@@ -460,7 +475,6 @@
       ],
       "height": 330,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -472,7 +486,7 @@
     "field"
   ],
   "drops": {
-    "amount": 4,
+    "amount": 3,
     "entries": [
       {
         "item": "minecraft:gold_nugget",
@@ -485,14 +499,6 @@
       {
         "item": "cobblemon:pinap_berry",
         "percentage": 2.5
-      },
-      {
-        "item": "generations_core:meowth_doll",
-        "percentage": 1.0
-      },
-      {
-        "item": "generations_core:dynite_ore",
-        "percentage": 5.0
       }
     ]
   },
@@ -542,9 +548,11 @@
     "tm:cut",
     "tm:darkpulse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dreameater",
     "tm:echoedvoice",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:faketears",
@@ -559,9 +567,12 @@
     "tm:hypervoice",
     "tm:icywind",
     "tm:irontail",
+    "tm:knockoff",
+    "tm:lashout",
     "tm:metalclaw",
     "tm:nastyplot",
     "tm:naturalgift",
+    "tm:painsplit",
     "tm:payback",
     "tm:payday",
     "tm:playrough",
@@ -583,6 +594,7 @@
     "tm:snarl",
     "tm:snatch",
     "tm:snore",
+    "tm:spite",
     "tm:substitute",
     "tm:sunnyday",
     "tm:swagger",

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Regirock",
   "nationalPokedexNumber": 377,
   "primaryType": "rock",
@@ -46,7 +45,9 @@
     "tm:bulldoze",
     "tm:chargebeam",
     "tm:confide",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:drainpunch",
     "tm:earthpower",
@@ -61,6 +62,8 @@
     "tm:focuspunch",
     "tm:frustration",
     "tm:gigaimpact",
+    "tm:gravity",
+    "tm:hardpress",
     "tm:heavyslam",
     "tm:hiddenpower",
     "tm:hyperbeam",
@@ -69,7 +72,9 @@
     "tm:ironhead",
     "tm:megakick",
     "tm:megapunch",
+    "tm:meteorbeam",
     "tm:naturalgift",
+    "tm:powergem",
     "tm:poweruppunch",
     "tm:protect",
     "tm:psychup",
@@ -99,6 +104,8 @@
     "tm:sunnyday",
     "tm:superpower",
     "tm:swagger",
+    "tm:takedown",
+    "tm:terablast",
     "tm:thunder",
     "tm:thunderbolt",
     "tm:thunderpunch",
@@ -184,9 +191,9 @@
     "amount": 1,
     "entries": [
       {
-        "item": "generations_core:regirock_doll",
-        "percentage": 100.0
+        "item": "cobblemon:hard_stone"
       }
     ]
-  }
+  },
+  "implemented": true
 }

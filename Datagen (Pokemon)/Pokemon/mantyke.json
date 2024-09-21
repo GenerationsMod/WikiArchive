@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Mantyke",
   "nationalPokedexNumber": 458,
   "primaryType": "water",
@@ -187,5 +186,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Orthworm",
   "nationalPokedexNumber": 968,
   "primaryType": "steel",
@@ -53,7 +52,9 @@
     "tm:bodypress",
     "tm:bodyslam",
     "tm:bulldoze",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:earthpower",
     "tm:earthquake",
     "tm:endure",
@@ -62,9 +63,11 @@
     "tm:gigaimpact",
     "tm:heavyslam",
     "tm:helpinghand",
+    "tm:highhorsepower",
     "tm:hyperbeam",
     "tm:irondefense",
     "tm:ironhead",
+    "tm:metalsound",
     "tm:mudshot",
     "tm:mudslap",
     "tm:protect",
@@ -73,18 +76,16 @@
     "tm:rockslide",
     "tm:rocktomb",
     "tm:sandstorm",
+    "tm:sandtomb",
     "tm:sleeptalk",
+    "tm:smackdown",
     "tm:spikes",
     "tm:stealthrock",
     "tm:steelbeam",
     "tm:stompingtantrum",
     "tm:substitute",
     "tm:takedown",
-    "tm:terablast",
-    "tutor:headbutt",
-    "tutor:irontail",
-    "tutor:sandstorm",
-    "tutor:wrap"
+    "tm:terablast"
   ],
   "labels": [
     "gen9"
@@ -109,5 +110,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

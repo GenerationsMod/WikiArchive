@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Ho-Oh",
   "nationalPokedexNumber": 250,
   "primaryType": "fire",
@@ -45,16 +44,21 @@
     "85:naturalgift",
     "90:skyattack",
     "99:burnup",
+    "99:overheat",
     "tm:aerialace",
+    "tm:aircutter",
     "tm:airslash",
+    "tm:bodyslam",
     "tm:bravebird",
     "tm:bulldoze",
     "tm:calmmind",
     "tm:chargebeam",
     "tm:confide",
     "tm:defog",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dreameater",
+    "tm:dualwingbeat",
     "tm:earthpower",
     "tm:earthquake",
     "tm:echoedvoice",
@@ -74,6 +78,7 @@
     "tm:heatwave",
     "tm:helpinghand",
     "tm:hiddenpower",
+    "tm:hurricane",
     "tm:hyperbeam",
     "tm:hypervoice",
     "tm:imprison",
@@ -97,6 +102,7 @@
     "tm:round",
     "tm:safeguard",
     "tm:sandstorm",
+    "tm:scorchingsands",
     "tm:secretpower",
     "tm:shadowball",
     "tm:shockwave",
@@ -110,6 +116,9 @@
     "tm:sunnyday",
     "tm:swagger",
     "tm:swift",
+    "tm:tailwind",
+    "tm:takedown",
+    "tm:terablast",
     "tm:thunder",
     "tm:thunderbolt",
     "tm:thunderwave",
@@ -133,7 +142,6 @@
     "tutor:earthpower",
     "tutor:earthquake",
     "tutor:endure",
-    "tutor:extrasensory",
     "tutor:fireblast",
     "tutor:flareblitz",
     "tutor:flash",
@@ -157,13 +165,11 @@
     "tutor:psychup",
     "tutor:punishment",
     "tutor:raindance",
-    "tutor:recover",
     "tutor:rest",
     "tutor:return",
     "tutor:roar",
     "tutor:rocksmash",
     "tutor:roost",
-    "tutor:sacredfire",
     "tutor:safeguard",
     "tutor:sandstorm",
     "tutor:scorchingsands",
@@ -177,7 +183,6 @@
     "tutor:steelwing",
     "tutor:strength",
     "tutor:substitute",
-    "tutor:sunnyday",
     "tutor:swagger",
     "tutor:swift",
     "tutor:tailwind",
@@ -218,12 +223,16 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 1,
+    "amount": 5,
     "entries": [
       {
-        "item": "generations_core:hooh_doll",
-        "percentage": 100.0
+        "item": "minecraft:feather",
+        "quantityRange": "2-4"
+      },
+      {
+        "item": "cobblemon:sacred_ash"
       }
     ]
-  }
+  },
+  "implemented": true
 }

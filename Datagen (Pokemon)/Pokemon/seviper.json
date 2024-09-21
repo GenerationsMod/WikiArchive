@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Seviper",
   "nationalPokedexNumber": 336,
   "primaryType": "poison",
@@ -62,17 +61,21 @@
     "tm:acidspray",
     "tm:attract",
     "tm:bodyslam",
+    "tm:breakingswipe",
     "tm:brickbreak",
     "tm:brutalswing",
     "tm:bulldoze",
     "tm:captivate",
     "tm:confide",
     "tm:crunch",
+    "tm:curse",
     "tm:darkpulse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dragontail",
     "tm:earthquake",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:firefang",
@@ -81,6 +84,7 @@
     "tm:gigadrain",
     "tm:gigaimpact",
     "tm:gunkshot",
+    "tm:haze",
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:hyperbeam",
@@ -88,6 +92,8 @@
     "tm:infestation",
     "tm:ironhead",
     "tm:irontail",
+    "tm:knockoff",
+    "tm:lashout",
     "tm:naturalgift",
     "tm:payback",
     "tm:poisonjab",
@@ -105,6 +111,7 @@
     "tm:scaryface",
     "tm:secretpower",
     "tm:seedbomb",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:sludgebomb",
     "tm:sludgewave",
@@ -119,6 +126,7 @@
     "tm:taunt",
     "tm:terablast",
     "tm:thief",
+    "tm:throatchop",
     "tm:thunderfang",
     "tm:toxic",
     "tm:trailblaze",
@@ -197,5 +205,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

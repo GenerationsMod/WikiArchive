@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Purrloin",
   "nationalPokedexNumber": 509,
   "primaryType": "dark",
@@ -17,10 +16,6 @@
       },
       {
         "item": "cobblemon:bluk_berry",
-        "percentage": 2.5
-      },
-      {
-        "item": "generations_core:dark_soul",
         "percentage": 2.5
       }
     ]
@@ -180,5 +175,6 @@
   "height": 4,
   "weight": 101,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

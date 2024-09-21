@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Shellos",
   "nationalPokedexNumber": 422,
   "primaryType": "water",
@@ -85,6 +84,7 @@
     "tm:captivate",
     "tm:chillingwater",
     "tm:confide",
+    "tm:curse",
     "tm:dive",
     "tm:doubleteam",
     "tm:earthpower",
@@ -103,6 +103,7 @@
     "tm:mudshot",
     "tm:mudslap",
     "tm:naturalgift",
+    "tm:painsplit",
     "tm:protect",
     "tm:raindance",
     "tm:rest",
@@ -113,6 +114,7 @@
     "tm:sandstorm",
     "tm:scald",
     "tm:secretpower",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:snore",
     "tm:snowscape",
@@ -181,5 +183,6 @@
   "height": 3,
   "weight": 63,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

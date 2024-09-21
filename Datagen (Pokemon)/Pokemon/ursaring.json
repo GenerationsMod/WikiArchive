@@ -79,6 +79,7 @@
     "tm:crunch",
     "tm:cut",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthquake",
     "tm:endure",
@@ -93,6 +94,7 @@
     "tm:gunkshot",
     "tm:helpinghand",
     "tm:hiddenpower",
+    "tm:highhorsepower",
     "tm:honeclaws",
     "tm:hyperbeam",
     "tm:hypervoice",
@@ -133,10 +135,12 @@
     "tm:taunt",
     "tm:terablast",
     "tm:thief",
+    "tm:throatchop",
     "tm:thunderpunch",
     "tm:torment",
     "tm:toxic",
     "tm:trailblaze",
+    "tm:uproar",
     "tm:workup",
     "tutor:attract",
     "tutor:bodyslam",
@@ -215,7 +219,9 @@
       "variant": "item_interact",
       "result": "ursaluna",
       "consumeHeldItem": false,
-      "learnableMoves": [],
+      "learnableMoves": [
+        "headlongrush"
+      ],
       "requirements": [
         {
           "variant": "moon_phase",

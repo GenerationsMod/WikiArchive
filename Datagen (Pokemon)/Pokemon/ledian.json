@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Ledian",
   "nationalPokedexNumber": 166,
   "primaryType": "bug",
@@ -173,5 +172,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

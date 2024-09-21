@@ -79,6 +79,7 @@
         "tm:assurance",
         "tm:bravebird",
         "tm:darkpulse",
+        "tm:dualwingbeat",
         "tm:endure",
         "tm:facade",
         "tm:fly",
@@ -90,7 +91,9 @@
         "tm:hyperbeam",
         "tm:hypervoice",
         "tm:imprison",
+        "tm:lashout",
         "tm:nastyplot",
+        "tm:painsplit",
         "tm:payback",
         "tm:protect",
         "tm:raindance",
@@ -103,6 +106,7 @@
         "tm:sleeptalk",
         "tm:snarl",
         "tm:snore",
+        "tm:spite",
         "tm:steelwing",
         "tm:substitute",
         "tm:sunnyday",
@@ -130,7 +134,6 @@
       ],
       "height": 20,
       "weight": 660,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false,
       "drops": {
@@ -190,9 +193,12 @@
     "tm:aircutter",
     "tm:airslash",
     "tm:bravebird",
+    "tm:burningjealousy",
     "tm:confide",
     "tm:defog",
+    "tm:doubleedge",
     "tm:doubleteam",
+    "tm:dualwingbeat",
     "tm:endure",
     "tm:facade",
     "tm:fireblast",
@@ -223,6 +229,7 @@
     "tm:round",
     "tm:safeguard",
     "tm:sandstorm",
+    "tm:scorchingsands",
     "tm:secretpower",
     "tm:skydrop",
     "tm:sleeptalk",
@@ -235,6 +242,7 @@
     "tm:swift",
     "tm:tailwind",
     "tm:takedown",
+    "tm:temperflare",
     "tm:terablast",
     "tm:toxic",
     "tm:uturn",
@@ -253,7 +261,6 @@
     "tutor:doubleteam",
     "tutor:dualwingbeat",
     "tutor:ember",
-    "tutor:endure",
     "tutor:extrasensory",
     "tutor:facade",
     "tutor:fireblast",
@@ -285,7 +292,6 @@
     "tutor:safeguard",
     "tutor:sandstorm",
     "tutor:scorchingsands",
-    "tutor:skyattack",
     "tutor:sleeptalk",
     "tutor:snore",
     "tutor:solarbeam",
@@ -332,11 +338,17 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 1,
+    "amount": 6,
     "entries": [
       {
-        "item": "generations_core:moltres_doll",
-        "percentage": 100.0
+        "item": "minecraft:feather",
+        "quantityRange": "2-4"
+      },
+      {
+        "item": "minecraft:cooked_chicken"
+      },
+      {
+        "item": "cobblemon:charcoal_stick"
       }
     ]
   }

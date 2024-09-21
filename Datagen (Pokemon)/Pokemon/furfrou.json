@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Furfrou",
   "nationalPokedexNumber": 676,
   "primaryType": "normal",
@@ -127,5 +126,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

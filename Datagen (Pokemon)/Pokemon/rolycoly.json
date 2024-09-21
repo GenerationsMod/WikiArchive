@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Rolycoly",
   "nationalPokedexNumber": 837,
   "primaryType": "rock",
@@ -42,6 +41,7 @@
     "tm:attract",
     "tm:bodyslam",
     "tm:bulldoze",
+    "tm:curse",
     "tm:dig",
     "tm:endure",
     "tm:facade",
@@ -49,6 +49,7 @@
     "tm:heatcrash",
     "tm:irondefense",
     "tm:ironhead",
+    "tm:meteorbeam",
     "tm:mudslap",
     "tm:powergem",
     "tm:protect",
@@ -62,12 +63,14 @@
     "tm:sandtomb",
     "tm:selfdestruct",
     "tm:sleeptalk",
+    "tm:smackdown",
     "tm:snore",
     "tm:spikes",
     "tm:stealthrock",
     "tm:stoneedge",
     "tm:substitute",
     "tm:takedown",
+    "tm:temperflare",
     "tm:terablast",
     "tm:willowisp",
     "tutor:meteorbeam"
@@ -130,5 +133,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -7,22 +7,19 @@
             "id": "beartic-1",
             "pokemon": "beartic",
             "presets": [
-                "natural"
+                "natural",
+                "wild"
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "uncommon",
-            "level": "37-60",
-            "weight": 5.94,
+            "bucket": "common",
+            "level": "37-51",
+            "weight": 0.2,
             "condition": {
-                "canSeeSky": false,
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
-                    "#cobblemon:is_cold"
-                ]
-            },
-            "anticondition": {
-                "biomes": [
-                    "#cobblemon:is_abyss"
+                    "#cobblemon:is_frozen_ocean"
                 ]
             }
         }

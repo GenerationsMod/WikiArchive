@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Pyroar",
   "nationalPokedexNumber": 668,
   "primaryType": "fire",
@@ -47,12 +46,15 @@
     "tm:attract",
     "tm:bodyslam",
     "tm:bulldoze",
+    "tm:burningjealousy",
     "tm:confide",
     "tm:crunch",
     "tm:darkpulse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:echoedvoice",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:fireblast",
@@ -92,6 +94,7 @@
     "tm:swift",
     "tm:takedown",
     "tm:taunt",
+    "tm:temperflare",
     "tm:terablast",
     "tm:thief",
     "tm:thunderfang",
@@ -154,5 +157,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

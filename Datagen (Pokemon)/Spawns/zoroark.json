@@ -1,5 +1,5 @@
 {
-    "enabled": "true",
+    "enabled": true,
     "neededInstalledMods": [],
     "neededUninstalledMods": [],
     "spawns": [
@@ -7,17 +7,31 @@
             "id": "zoroark-1",
             "pokemon": "zoroark",
             "presets": [
-                "natural"
+                "natural",
+                "wild"
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "rare",
-            "level": "30-60",
-            "weight": 1.8,
+            "bucket": "uncommon",
+            "level": "30-51",
+            "weight": 0.6,
+            "weightMultiplier": {
+                "multiplier": 5.0,
+                "condition": {
+                    "moonPhase": "5"
+                }
+            },
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
                     "#cobblemon:is_forest"
+                ],
+                "timeRange": "night"
+            },
+            "anticondition": {
+                "biomes": [
+                    "#cobblemon:is_freezing"
                 ]
             }
         },
@@ -25,18 +39,45 @@
             "id": "zoroark-hisuian-1",
             "pokemon": "zoroark hisuian",
             "presets": [
-                "natural"
+                "natural",
+                "wild"
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "rare",
-            "level": "30-60",
-            "weight": 1.8,
+            "bucket": "uncommon",
+            "level": "30-51",
+            "weight": 0.6,
+            "weightMultiplier": {
+                "multiplier": 5.0,
+                "condition": {
+                    "moonPhase": "5"
+                }
+            },
             "condition": {
-                "canSeeSky": true,
-                "timeRange": "night",
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
-                    "#cobblemon:is_snowy"
+                    "#cobblemon:is_snowy_forest",
+                    "#cobblemon:is_snowy_taiga"
+                ],
+                "timeRange": "night"
+            }
+        },
+        {
+            "id": "zoroark-hisuian-2",
+            "pokemon": "zoroark hisuian",
+            "presets": [
+                "natural",
+                "nether_fossil"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "30-51",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "#minecraft:is_nether"
                 ]
             }
         }

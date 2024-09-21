@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Rotom",
   "nationalPokedexNumber": 479,
   "primaryType": "electric",
@@ -63,7 +62,6 @@
       ],
       "height": 3,
       "weight": 3,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -111,7 +109,6 @@
       ],
       "height": 3,
       "weight": 3,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -159,7 +156,6 @@
       ],
       "height": 3,
       "weight": 3,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -207,7 +203,6 @@
       ],
       "height": 3,
       "weight": 3,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -255,7 +250,6 @@
       ],
       "height": 3,
       "weight": 3,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -294,9 +288,9 @@
     "50:discharge",
     "50:hex",
     "55:uproar",
-    "57:charge",
     "64:discharge",
     "tm:allyswitch",
+    "tm:charge",
     "tm:chargebeam",
     "tm:confide",
     "tm:confuseray",
@@ -320,6 +314,8 @@
     "tm:nastyplot",
     "tm:naturalgift",
     "tm:nightshade",
+    "tm:painsplit",
+    "tm:poltergeist",
     "tm:protect",
     "tm:psychup",
     "tm:raindance",
@@ -331,8 +327,7 @@
     "tm:shadowball",
     "tm:shockwave",
     "tm:sleeptalk",
-    "tm:snatch",
-    "tm:snore",
+    "tm:spite",
     "tm:storedpower",
     "tm:substitute",
     "tm:sunnyday",
@@ -401,5 +396,6 @@
   "height": 3,
   "weight": 3,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Swablu",
   "nationalPokedexNumber": 333,
   "primaryType": "normal",
@@ -70,14 +69,19 @@
     "tm:dazzlinggleam",
     "tm:disarmingvoice",
     "tm:doubleteam",
+    "tm:dragoncheer",
     "tm:dragonpulse",
     "tm:dreameater",
+    "tm:dualwingbeat",
     "tm:echoedvoice",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:falseswipe",
+    "tm:featherdance",
     "tm:fly",
     "tm:frustration",
+    "tm:haze",
     "tm:heatwave",
     "tm:helpinghand",
     "tm:hiddenpower",
@@ -187,10 +191,11 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 4,
+    "amount": 3,
     "entries": [
       {
-        "item": "minecraft:white_wool"
+        "item": "minecraft:white_wool",
+        "quantityRange": "0-1"
       },
       {
         "item": "minecraft:chicken"
@@ -198,11 +203,8 @@
       {
         "item": "cobblemon:yache_berry",
         "percentage": 2.5
-      },
-      {
-        "item": "generations_core:swablu_doll",
-        "percentage": 1.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

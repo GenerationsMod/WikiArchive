@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Bronzor",
   "nationalPokedexNumber": 436,
   "primaryType": "steel",
@@ -97,12 +96,14 @@
     "tm:dreameater",
     "tm:earthquake",
     "tm:endure",
+    "tm:expandingforce",
     "tm:facade",
     "tm:flash",
     "tm:flashcannon",
     "tm:frustration",
     "tm:futuresight",
     "tm:grassknot",
+    "tm:gravity",
     "tm:guardswap",
     "tm:gyroball",
     "tm:heavyslam",
@@ -114,6 +115,7 @@
     "tm:irondefense",
     "tm:ironhead",
     "tm:lightscreen",
+    "tm:metalsound",
     "tm:naturalgift",
     "tm:payback",
     "tm:powergem",
@@ -217,5 +219,6 @@
   "height": 5,
   "weight": 605,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

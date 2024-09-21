@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Swalot",
   "nationalPokedexNumber": 317,
   "primaryType": "poison",
@@ -54,6 +53,8 @@
     "tm:bulletseed",
     "tm:captivate",
     "tm:confide",
+    "tm:curse",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dreameater",
     "tm:earthquake",
@@ -73,10 +74,12 @@
     "tm:icebeam",
     "tm:icepunch",
     "tm:infestation",
+    "tm:knockoff",
     "tm:metronome",
     "tm:mudshot",
     "tm:mudslap",
     "tm:naturalgift",
+    "tm:painsplit",
     "tm:poisonjab",
     "tm:poweruppunch",
     "tm:protect",
@@ -179,5 +182,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

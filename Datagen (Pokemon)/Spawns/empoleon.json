@@ -15,9 +15,10 @@
             "level": "36-53",
             "weight": 0.1,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
-                    "#cobblemon:is_frozen"
+                    "#cobblemon:is_frozen_ocean"
                 ]
             }
         },
@@ -35,7 +36,7 @@
             "condition": {
                 "canSeeSky": true,
                 "biomes": [
-                    "#cobblemon:is_frozen"
+                    "#cobblemon:is_frozen_ocean"
                 ]
             }
         }

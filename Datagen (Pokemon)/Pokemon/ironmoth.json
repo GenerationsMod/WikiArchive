@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Iron Moth",
   "nationalPokedexNumber": 994,
   "primaryType": "fire",
@@ -75,12 +74,16 @@
     "tm:hurricane",
     "tm:hyperbeam",
     "tm:lightscreen",
+    "tm:lunge",
+    "tm:metalsound",
+    "tm:meteorbeam",
     "tm:overheat",
     "tm:pounce",
     "tm:protect",
     "tm:psychic",
     "tm:rest",
     "tm:sleeptalk",
+    "tm:sludgewave",
     "tm:solarbeam",
     "tm:strugglebug",
     "tm:substitute",
@@ -88,13 +91,10 @@
     "tm:swift",
     "tm:takedown",
     "tm:terablast",
+    "tm:toxic",
     "tm:toxicspikes",
     "tm:uturn",
-    "tm:venoshock",
-    "tutor:discharge",
-    "tutor:lunge",
-    "tutor:screech",
-    "tutor:sludgewave"
+    "tm:venoshock"
   ],
   "labels": [
     "gen9",
@@ -107,5 +107,6 @@
   "cannotDynamax": false,
   "pokedex": [
     "cobblemon.species.ironmoth.desc"
-  ]
+  ],
+  "implemented": true
 }

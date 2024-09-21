@@ -117,7 +117,6 @@
       ],
       "height": 3,
       "weight": 65,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -163,7 +162,6 @@
       ],
       "height": 180,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -209,6 +207,7 @@
     "egg:tickle",
     "egg:wish",
     "egg:yawn",
+    "tm:alluringvoice",
     "tm:attract",
     "tm:batonpass",
     "tm:bodyslam",
@@ -216,7 +215,9 @@
     "tm:captivate",
     "tm:charm",
     "tm:confide",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:echoedvoice",
     "tm:endure",
@@ -236,6 +237,7 @@
     "tm:rest",
     "tm:retaliate",
     "tm:return",
+    "tm:roar",
     "tm:round",
     "tm:secretpower",
     "tm:shadowball",
@@ -438,18 +440,14 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 1,
+    "amount": 2,
     "entries": [
       {
         "item": "cobblemon:silk_scarf",
         "percentage": 5.0
       },
       {
-        "item": "generations_core:eevee_doll",
-        "percentage": 1.0
-      },
-      {
-        "item": "generations_core:dynite_ore",
+        "item": "cobblemon:eviolite",
         "percentage": 5.0
       }
     ]

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Ledyba",
   "nationalPokedexNumber": 165,
   "primaryType": "bug",
@@ -197,5 +196,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

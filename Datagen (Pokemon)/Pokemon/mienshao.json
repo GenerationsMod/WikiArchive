@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Mienshao",
   "nationalPokedexNumber": 620,
   "primaryType": "fighting",
@@ -9,15 +8,15 @@
     "h:reckless"
   ],
   "drops": {
-    "amount": 1,
+    "amount": 2,
     "entries": [
       {
         "item": "cobblemon:payapa_berry",
         "percentage": 5.0
       },
       {
-        "item": "generations_core:scroll_page",
-        "percentage": 1.0
+        "item": "cobblemon:expert_belt",
+        "percentage": 5.0
       }
     ]
   },
@@ -74,8 +73,10 @@
     "tm:bulkup",
     "tm:calmmind",
     "tm:closecombat",
+    "tm:coaching",
     "tm:confide",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:drainpunch",
     "tm:endure",
@@ -83,12 +84,15 @@
     "tm:fling",
     "tm:focusblast",
     "tm:focusenergy",
+    "tm:focuspunch",
     "tm:frustration",
     "tm:gigaimpact",
     "tm:grassknot",
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:hyperbeam",
+    "tm:icespinner",
+    "tm:knockoff",
     "tm:lowkick",
     "tm:lowsweep",
     "tm:megakick",
@@ -119,9 +123,15 @@
     "tm:swagger",
     "tm:swift",
     "tm:swordsdance",
+    "tm:takedown",
     "tm:taunt",
+    "tm:terablast",
     "tm:toxic",
+    "tm:trailblaze",
+    "tm:tripleaxel",
+    "tm:upperhand",
     "tm:uturn",
+    "tm:vacuumwave",
     "tm:workup",
     "tutor:allyswitch",
     "tutor:bounce",
@@ -166,5 +176,6 @@
   "height": 14,
   "weight": 355,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

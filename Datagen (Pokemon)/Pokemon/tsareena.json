@@ -14,10 +14,6 @@
       {
         "item": "cobblemon:persim_berry",
         "percentage": 10.0
-      },
-      {
-        "item": "generations_core:purple_petal",
-        "percentage": 10.0
       }
     ]
   },
@@ -67,6 +63,7 @@
     "tm:dazzlinggleam",
     "tm:doubleteam",
     "tm:drainingkiss",
+    "tm:endeavor",
     "tm:endure",
     "tm:energyball",
     "tm:facade",
@@ -75,10 +72,12 @@
     "tm:gigadrain",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:grassyglide",
     "tm:grassyterrain",
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:hyperbeam",
+    "tm:knockoff",
     "tm:leafstorm",
     "tm:lightscreen",
     "tm:lowkick",
@@ -87,6 +86,7 @@
     "tm:megakick",
     "tm:naturepower",
     "tm:payback",
+    "tm:petalblizzard",
     "tm:playrough",
     "tm:powerwhip",
     "tm:protect",
@@ -109,6 +109,7 @@
     "tm:terablast",
     "tm:toxic",
     "tm:trailblaze",
+    "tm:tripleaxel",
     "tm:uturn",
     "tm:zenheadbutt",
     "tutor:bounce",

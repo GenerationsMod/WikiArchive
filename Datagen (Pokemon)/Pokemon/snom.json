@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Snom",
   "nationalPokedexNumber": 872,
   "primaryType": "ice",
@@ -32,15 +31,18 @@
     "egg:fairywind",
     "egg:mirrorcoat",
     "tm:attract",
+    "tm:bugbite",
     "tm:bugbuzz",
     "tm:endure",
     "tm:facade",
     "tm:iciclespear",
     "tm:icywind",
+    "tm:lunge",
     "tm:pounce",
     "tm:protect",
     "tm:rest",
     "tm:round",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:snore",
     "tm:strugglebug",
@@ -110,5 +112,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

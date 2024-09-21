@@ -40,7 +40,7 @@
   },
   "catchRate": 235,
   "maleRatio": 0.5,
-  "shoulderMountable": false,
+  "shoulderMountable": true,
   "baseExperienceYield": 40,
   "experienceGroup": "slow",
   "eggCycles": 20,
@@ -48,6 +48,19 @@
     "human_like",
     "amorphous"
   ],
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": true,
+      "depth": "normal",
+      "light": "0-4"
+    },
+    "moving": {
+      "walk": {
+        "walkSpeed": 0.2
+      }
+    }
+  },
   "moves": [
     "1:disarmingvoice",
     "1:growl",
@@ -83,6 +96,7 @@
     "egg:skillswap",
     "egg:synchronoise",
     "egg:willowisp",
+    "tm:alluringvoice",
     "tm:allyswitch",
     "tm:attract",
     "tm:bodyslam",
@@ -100,6 +114,7 @@
     "tm:echoedvoice",
     "tm:encore",
     "tm:endure",
+    "tm:expandingforce",
     "tm:facade",
     "tm:firepunch",
     "tm:flash",
@@ -113,6 +128,7 @@
     "tm:icepunch",
     "tm:icywind",
     "tm:imprison",
+    "tm:knockoff",
     "tm:lightscreen",
     "tm:magicalleaf",
     "tm:magicroom",
@@ -121,6 +137,7 @@
     "tm:metronome",
     "tm:mistyterrain",
     "tm:naturalgift",
+    "tm:painsplit",
     "tm:protect",
     "tm:psybeam",
     "tm:psychic",

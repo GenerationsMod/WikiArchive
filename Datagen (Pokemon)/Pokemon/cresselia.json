@@ -1,20 +1,10 @@
 {
-  "implemented": true,
   "name": "Cresselia",
   "nationalPokedexNumber": 488,
   "primaryType": "psychic",
   "abilities": [
     "levitate"
   ],
-  "drops": {
-    "amount": 1,
-    "entries": [
-      {
-        "item": "generations_core:cresselia_doll",
-        "percentage": 100.0
-      }
-    ]
-  },
   "baseStats": {
     "hp": 120,
     "attack": 70,
@@ -77,12 +67,14 @@
     "tm:dreameater",
     "tm:endure",
     "tm:energyball",
+    "tm:expandingforce",
     "tm:facade",
     "tm:flash",
     "tm:frustration",
     "tm:futuresight",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:gravity",
     "tm:guardswap",
     "tm:helpinghand",
     "tm:hiddenpower",
@@ -186,5 +178,6 @@
   "height": 15,
   "weight": 856,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

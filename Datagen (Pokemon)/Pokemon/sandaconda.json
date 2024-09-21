@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Sandaconda",
   "nationalPokedexNumber": 844,
   "primaryType": "ground",
@@ -63,7 +62,6 @@
       ],
       "height": 220,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -98,6 +96,7 @@
     "tm:drillrun",
     "tm:earthpower",
     "tm:earthquake",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:firefang",
@@ -119,8 +118,11 @@
     "tm:round",
     "tm:sandstorm",
     "tm:sandtomb",
+    "tm:scaleshot",
     "tm:scaryface",
+    "tm:scorchingsands",
     "tm:screech",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:snore",
     "tm:stealthrock",
@@ -167,11 +169,8 @@
       {
         "item": "cobblemon:soft_sand",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:dynite_ore",
-        "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

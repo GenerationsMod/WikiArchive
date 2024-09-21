@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Giratina",
   "nationalPokedexNumber": 487,
   "primaryType": "ghost",
@@ -8,19 +7,6 @@
     "pressure",
     "h:telepathy"
   ],
-  "drops": {
-    "amount": 2,
-    "entries": [
-      {
-        "item": "generations_core:giratina_altered_doll",
-        "percentage": 1.0
-      },
-      {
-        "item": "generations_core:giratina_origin_doll",
-        "percentage": 1.0
-      }
-    ]
-  },
   "baseStats": {
     "hp": 150,
     "attack": 100,
@@ -54,23 +40,14 @@
     "1:shadowsneak",
     "6:ominouswind",
     "7:dragonbreath",
-    "10:ancientpower",
     "14:ancientpower",
-    "15:slash",
     "19:shadowsneak",
     "21:hex",
-    "24:destinybond",
-    "28:dragonclaw",
     "28:slash",
-    "33:earthpower",
     "35:scaryface",
-    "37:aurasphere",
-    "40:shadowforce",
     "42:shadowclaw",
-    "46:shadowforce",
     "49:painsplit",
     "50:healblock",
-    "50:hex",
     "56:aurasphere",
     "63:dragonclaw",
     "70:earthpower",
@@ -86,6 +63,7 @@
     "tm:chargebeam",
     "tm:confide",
     "tm:confuseray",
+    "tm:curse",
     "tm:cut",
     "tm:darkpulse",
     "tm:defog",
@@ -95,6 +73,7 @@
     "tm:dragonpulse",
     "tm:dragontail",
     "tm:dreameater",
+    "tm:dualwingbeat",
     "tm:earthpower",
     "tm:earthquake",
     "tm:echoedvoice",
@@ -104,6 +83,7 @@
     "tm:fly",
     "tm:frustration",
     "tm:gigaimpact",
+    "tm:gravity",
     "tm:hex",
     "tm:hiddenpower",
     "tm:honeclaws",
@@ -114,8 +94,10 @@
     "tm:irontail",
     "tm:naturalgift",
     "tm:outrage",
+    "tm:painsplit",
     "tm:payback",
     "tm:phantomforce",
+    "tm:poltergeist",
     "tm:protect",
     "tm:psychic",
     "tm:psychup",
@@ -133,8 +115,10 @@
     "tm:shadowclaw",
     "tm:shockwave",
     "tm:silverwind",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:snore",
+    "tm:spite",
     "tm:steelwing",
     "tm:stoneedge",
     "tm:strength",
@@ -243,11 +227,11 @@
       ],
       "height": 69,
       "weight": 6500,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
   ],
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

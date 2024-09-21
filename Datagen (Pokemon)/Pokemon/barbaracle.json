@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Barbaracle",
   "nationalPokedexNumber": 689,
   "primaryType": "rock",
@@ -174,5 +173,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

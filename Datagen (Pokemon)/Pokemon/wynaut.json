@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Wynaut",
   "nationalPokedexNumber": 360,
   "primaryType": "psychic",
@@ -89,15 +88,8 @@
       {
         "item": "cobblemon:colbur_berry",
         "percentage": 2.5
-      },
-      {
-        "item": "generations_core:wynaut_doll",
-        "percentage": 1.0
-      },
-      {
-        "item": "generations_core:light_soul",
-        "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

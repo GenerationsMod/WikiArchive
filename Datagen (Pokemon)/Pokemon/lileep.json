@@ -25,6 +25,24 @@
   "eggGroups": [
     "water_3"
   ],
+  "behaviour": {
+    "moving": {
+      "swim": {
+        "swimSpeed": 0.12,
+        "canSwimInWater": false,
+        "canBreatheUnderwater": true
+      },
+      "walk": {
+        "walkSpeed": 0.12
+      }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  },
   "moves": [
     "1:astonish",
     "1:constrict",
@@ -147,8 +165,8 @@
   ],
   "baseScale": 1,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 0.6,
+    "height": 1.1,
     "fixed": false
   },
   "baseFriendship": 50,
@@ -170,10 +188,6 @@
       {
         "item": "cobblemon:big_root",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:pink_petal",
-        "percentage": 10.0
       }
     ]
   }

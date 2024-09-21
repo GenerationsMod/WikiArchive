@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Azurill",
   "nationalPokedexNumber": 298,
   "primaryType": "normal",
@@ -54,6 +53,7 @@
     "egg:supersonic",
     "egg:tickle",
     "egg:watersport",
+    "tm:alluringvoice",
     "tm:attract",
     "tm:blizzard",
     "tm:bodyslam",
@@ -166,16 +166,13 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 2,
+    "amount": 1,
     "entries": [
       {
         "item": "cobblemon:kebia_berry",
         "percentage": 2.5
-      },
-      {
-        "item": "generations_core:azurill_doll",
-        "percentage": 1.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

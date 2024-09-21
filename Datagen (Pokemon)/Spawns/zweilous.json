@@ -1,5 +1,5 @@
 {
-    "enabled": "true",
+    "enabled": true,
     "neededInstalledMods": [],
     "neededUninstalledMods": [],
     "spawns": [
@@ -7,23 +7,43 @@
             "id": "zweilous-1",
             "pokemon": "zweilous",
             "presets": [
-                "underground"
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-55",
+            "weight": 0.9,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "#cobblemon:is_deep_dark"
+                ]
+            }
+        },
+        {
+            "id": "zweilous-2",
+            "pokemon": "zweilous",
+            "presets": [
+                "natural"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "ultra-rare",
-            "level": "24-47",
+            "level": "50-55",
             "weight": 0.9,
             "condition": {
-                "canSeeSky": false,
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
                 "biomes": [
                     "#cobblemon:is_overworld"
-                ]
+                ],
+                "maxY": 0
             },
             "anticondition": {
                 "biomes": [
-                    "#cobblemon:is_abyss",
-                    "#cobblemon:is_mountain"
+                    "#cobblemon:is_deep_dark"
                 ]
             }
         }

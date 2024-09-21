@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Enamorus",
   "nationalPokedexNumber": 905,
   "primaryType": "fairy",
@@ -53,6 +52,7 @@
     "70:outrage",
     "75:springtidestorm",
     "tm:agility",
+    "tm:alluringvoice",
     "tm:bodyslam",
     "tm:calmmind",
     "tm:dazzlinggleam",
@@ -70,11 +70,13 @@
     "tm:imprison",
     "tm:irondefense",
     "tm:ironhead",
+    "tm:mistyexplosion",
     "tm:mistyterrain",
     "tm:outrage",
     "tm:playrough",
     "tm:protect",
     "tm:psychic",
+    "tm:psychup",
     "tm:raindance",
     "tm:rest",
     "tm:scaryface",
@@ -86,6 +88,8 @@
     "tm:takedown",
     "tm:taunt",
     "tm:terablast",
+    "tm:uproar",
+    "tm:weatherball",
     "tm:zenheadbutt"
   ],
   "labels": [
@@ -150,6 +154,7 @@
         "70:outrage",
         "75:springtidestorm",
         "tm:agility",
+        "tm:alluringvoice",
         "tm:bodyslam",
         "tm:calmmind",
         "tm:dazzlinggleam",
@@ -167,11 +172,13 @@
         "tm:imprison",
         "tm:irondefense",
         "tm:ironhead",
+        "tm:mistyexplosion",
         "tm:mistyterrain",
         "tm:outrage",
         "tm:playrough",
         "tm:protect",
         "tm:psychic",
+        "tm:psychup",
         "tm:raindance",
         "tm:rest",
         "tm:scaryface",
@@ -183,6 +190,8 @@
         "tm:takedown",
         "tm:taunt",
         "tm:terablast",
+        "tm:uproar",
+        "tm:weatherball",
         "tm:zenheadbutt"
       ],
       "labels": [
@@ -194,11 +203,11 @@
       ],
       "height": 16,
       "weight": 480,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
   ],
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

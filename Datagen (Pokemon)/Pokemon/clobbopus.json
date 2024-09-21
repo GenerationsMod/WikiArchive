@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Clobbopus",
   "nationalPokedexNumber": 852,
   "primaryType": "fighting",
@@ -128,5 +127,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

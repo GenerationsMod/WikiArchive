@@ -62,7 +62,6 @@
       ],
       "height": 17,
       "weight": 1105,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     },
@@ -108,7 +107,6 @@
       ],
       "height": 17,
       "weight": 1005,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     },
@@ -155,7 +153,6 @@
       ],
       "height": 280,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -177,14 +174,6 @@
       {
         "item": "cobblemon:charcoal_stick",
         "percentage": 25.0
-      },
-      {
-        "item": "generations_core:charizard_doll",
-        "percentage": 1.0
-      },
-      {
-        "item": "generations_core:dynite_ore",
-        "percentage": 5.0
       }
     ]
   },
@@ -242,7 +231,9 @@
     "tm:cut",
     "tm:defog",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
+    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragondance",
     "tm:dragonpulse",
@@ -293,6 +284,7 @@
     "tm:round",
     "tm:sandstorm",
     "tm:scaryface",
+    "tm:scorchingsands",
     "tm:secretpower",
     "tm:shadowclaw",
     "tm:skydrop",
@@ -307,6 +299,7 @@
     "tm:swift",
     "tm:swordsdance",
     "tm:takedown",
+    "tm:temperflare",
     "tm:terablast",
     "tm:thunderpunch",
     "tm:toxic",
@@ -321,7 +314,6 @@
     "tutor:bodyslam",
     "tutor:brickbreak",
     "tutor:counter",
-    "tutor:crunch",
     "tutor:curse",
     "tutor:cut",
     "tutor:defensecurl",
@@ -349,7 +341,6 @@
     "tutor:fissure",
     "tutor:flameburst",
     "tutor:flamethrower",
-    "tutor:flareblitz",
     "tutor:fly",
     "tutor:focusblast",
     "tutor:focuspunch",

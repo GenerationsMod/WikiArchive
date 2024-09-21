@@ -17,10 +17,6 @@
       {
         "item": "cobblemon:metal_powder",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:ditto_doll",
-        "percentage": 1.0
       }
     ]
   },
@@ -50,8 +46,7 @@
     "ditto"
   ],
   "moves": [
-    "1:transform",
-    "tutor:transform"
+    "1:transform"
   ],
   "labels": [
     "gen1"

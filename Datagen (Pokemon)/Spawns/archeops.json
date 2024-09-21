@@ -1,5 +1,5 @@
 {
-    "enabled": "true",
+    "enabled": true,
     "neededInstalledMods": [],
     "neededUninstalledMods": [],
     "spawns": [
@@ -11,13 +11,14 @@
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "rare",
-            "level": "37-60",
-            "weight": 1.8,
+            "bucket": "ultra-rare",
+            "level": "37-57",
+            "weight": 1.0,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
                 "biomes": [
-                    "#cobblemon:is_jungle"
+                    "#cobblemon:is_lush"
                 ]
             }
         }

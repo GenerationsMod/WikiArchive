@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Munna",
   "nationalPokedexNumber": 517,
   "primaryType": "psychic",
@@ -13,10 +12,6 @@
     "entries": [
       {
         "item": "cobblemon:chesto_berry",
-        "percentage": 2.5
-      },
-      {
-        "item": "generations_core:light_soul",
         "percentage": 2.5
       }
     ]
@@ -177,5 +172,6 @@
   "height": 6,
   "weight": 233,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

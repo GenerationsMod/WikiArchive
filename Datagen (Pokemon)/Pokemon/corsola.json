@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Corsola",
   "nationalPokedexNumber": 222,
   "primaryType": "water",
@@ -371,5 +370,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

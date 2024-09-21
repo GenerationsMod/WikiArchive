@@ -34,7 +34,7 @@
     }
   },
   "drops": {
-    "amount": 3,
+    "amount": 2,
     "entries": [
       {
         "item": "minecraft:clay_ball",
@@ -43,10 +43,6 @@
       {
         "item": "cobblemon:mystic_water",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:mudkip_doll",
-        "percentage": 1.0
       }
     ]
   },
@@ -95,12 +91,16 @@
     "tm:blizzard",
     "tm:bodyslam",
     "tm:captivate",
+    "tm:chillingwater",
     "tm:confide",
+    "tm:curse",
     "tm:dig",
     "tm:dive",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthpower",
     "tm:echoedvoice",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:frustration",
@@ -110,12 +110,17 @@
     "tm:icebeam",
     "tm:icywind",
     "tm:irontail",
+    "tm:liquidation",
     "tm:lowkick",
+    "tm:muddywater",
+    "tm:mudshot",
+    "tm:mudslap",
     "tm:naturalgift",
     "tm:protect",
     "tm:raindance",
     "tm:rest",
     "tm:return",
+    "tm:roar",
     "tm:rockslide",
     "tm:rocksmash",
     "tm:rocktomb",
@@ -131,9 +136,12 @@
     "tm:superpower",
     "tm:surf",
     "tm:swagger",
+    "tm:takedown",
+    "tm:terablast",
     "tm:toxic",
     "tm:uproar",
     "tm:waterfall",
+    "tm:waterpledge",
     "tm:waterpulse",
     "tm:whirlpool",
     "tm:workup",

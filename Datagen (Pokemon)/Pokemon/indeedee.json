@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Indeedee",
   "nationalPokedexNumber": 876,
   "primaryType": "psychic",
@@ -18,11 +17,11 @@
     "speed": 95
   },
   "catchRate": 30,
-  "maleRatio": 1,
+  "maleRatio": 0.5,
   "shoulderMountable": false,
   "forms": [
     {
-      "name": "F",
+      "name": "female",
       "primaryType": "psychic",
       "secondaryType": "normal",
       "abilities": [
@@ -73,6 +72,7 @@
         "egg:healpulse",
         "egg:psychoshift",
         "egg:psychup",
+        "tm:alluringvoice",
         "tm:allyswitch",
         "tm:attract",
         "tm:batonpass",
@@ -101,6 +101,7 @@
         "tm:psybeam",
         "tm:psychic",
         "tm:psychicterrain",
+        "tm:psychup",
         "tm:psyshock",
         "tm:reflect",
         "tm:rest",
@@ -116,23 +117,19 @@
         "tm:takedown",
         "tm:terablast",
         "tm:trick",
+        "tm:trickroom",
         "tm:zenheadbutt",
         "tutor:expandingforce",
-        "tutor:hypervoice",
-        "tutor:psychic",
-        "tutor:shadowball",
-        "tutor:terrainpulse",
-        "tutor:trickroom"
+        "tutor:terrainpulse"
       ],
       "labels": [
         "gen8"
       ],
       "aspects": [
-        "f"
+        "female"
       ],
       "height": 9,
       "weight": 280,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -172,8 +169,10 @@
     "tm:encore",
     "tm:endure",
     "tm:energyball",
+    "tm:expandingforce",
     "tm:facade",
     "tm:futuresight",
+    "tm:gravity",
     "tm:helpinghand",
     "tm:hypervoice",
     "tm:imprison",
@@ -187,7 +186,9 @@
     "tm:protect",
     "tm:psybeam",
     "tm:psychic",
+    "tm:psychicnoise",
     "tm:psychicterrain",
+    "tm:psychup",
     "tm:psyshock",
     "tm:rest",
     "tm:round",
@@ -242,5 +243,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

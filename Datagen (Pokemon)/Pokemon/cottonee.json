@@ -10,13 +10,17 @@
     "h:chlorophyll"
   ],
   "drops": {
-    "amount": 2,
+    "amount": 3,
     "entries": [
       {
         "item": "minecraft:white_wool"
       },
       {
         "item": "cobblemon:kebia_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:absorb_bulb",
         "percentage": 2.5
       }
     ]
@@ -84,6 +88,7 @@
     "tm:doubleteam",
     "tm:dreameater",
     "tm:encore",
+    "tm:endeavor",
     "tm:endure",
     "tm:energyball",
     "tm:facade",
@@ -92,6 +97,7 @@
     "tm:frustration",
     "tm:gigadrain",
     "tm:grassknot",
+    "tm:grassyglide",
     "tm:grassyterrain",
     "tm:helpinghand",
     "tm:hiddenpower",
@@ -112,6 +118,7 @@
     "tm:swagger",
     "tm:swift",
     "tm:taunt",
+    "tm:terablast",
     "tm:toxic",
     "tutor:covet",
     "tutor:defog",

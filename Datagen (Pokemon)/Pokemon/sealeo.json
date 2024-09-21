@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Sealeo",
   "nationalPokedexNumber": 364,
   "primaryType": "ice",
@@ -163,5 +162,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

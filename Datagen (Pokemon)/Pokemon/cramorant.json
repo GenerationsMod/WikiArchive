@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Cramorant",
   "nationalPokedexNumber": 845,
   "primaryType": "flying",
@@ -60,7 +59,6 @@
       ],
       "height": 8,
       "weight": 180,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     },
@@ -105,7 +103,6 @@
       ],
       "height": 8,
       "weight": 180,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     }
@@ -132,20 +129,28 @@
     "49:thrash",
     "56:hydropump",
     "egg:aerialace",
+    "egg:aquacutter",
     "egg:aquaring",
     "egg:defog",
     "egg:featherdance",
     "egg:roost",
+    "tm:acrobatics",
+    "tm:aerialace",
     "tm:agility",
+    "tm:aircutter",
     "tm:airslash",
     "tm:amnesia",
     "tm:assurance",
     "tm:attract",
     "tm:blizzard",
     "tm:bravebird",
+    "tm:chillingwater",
     "tm:dive",
+    "tm:dualwingbeat",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
+    "tm:featherdance",
     "tm:fly",
     "tm:gigaimpact",
     "tm:hurricane",
@@ -154,6 +159,7 @@
     "tm:icebeam",
     "tm:icywind",
     "tm:liquidation",
+    "tm:pounce",
     "tm:protect",
     "tm:raindance",
     "tm:rest",
@@ -166,9 +172,13 @@
     "tm:substitute",
     "tm:superpower",
     "tm:surf",
+    "tm:tailwind",
+    "tm:takedown",
+    "tm:terablast",
     "tm:thief",
     "tm:throatchop",
     "tm:uproar",
+    "tm:waterpulse",
     "tm:weatherball",
     "tm:whirlpool",
     "tutor:dualwingbeat"
@@ -218,5 +228,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Nymble",
   "nationalPokedexNumber": 919,
   "primaryType": "bug",
@@ -49,6 +48,7 @@
     "egg:counter",
     "egg:skittersmack",
     "tm:agility",
+    "tm:bugbite",
     "tm:bugbuzz",
     "tm:endure",
     "tm:facade",
@@ -57,6 +57,7 @@
     "tm:protect",
     "tm:raindance",
     "tm:rest",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:strugglebug",
     "tm:substitute",
@@ -103,5 +104,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

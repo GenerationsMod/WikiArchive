@@ -43,6 +43,18 @@
   "eggGroups": [
     "amorphous"
   ],
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "depth": "normal",
+      "light": "12-15"
+    },
+    "moving": {
+      "fly": {
+        "canFly": true
+      }
+    }
+  },
   "moves": [
     "1:astonish",
     "1:confuseray",
@@ -63,8 +75,11 @@
     "1:willowisp",
     "tm:allyswitch",
     "tm:attract",
+    "tm:burningjealousy",
     "tm:calmmind",
     "tm:confide",
+    "tm:confuseray",
+    "tm:curse",
     "tm:darkpulse",
     "tm:doubleteam",
     "tm:dreameater",
@@ -76,18 +91,24 @@
     "tm:firespin",
     "tm:flamecharge",
     "tm:flamethrower",
+    "tm:flareblitz",
     "tm:flash",
     "tm:frustration",
     "tm:gigaimpact",
+    "tm:haze",
     "tm:heatwave",
     "tm:hex",
     "tm:hiddenpower",
     "tm:hyperbeam",
     "tm:imprison",
     "tm:incinerate",
+    "tm:lashout",
     "tm:mysticalfire",
+    "tm:nightshade",
     "tm:overheat",
+    "tm:painsplit",
     "tm:payback",
+    "tm:poltergeist",
     "tm:protect",
     "tm:psychic",
     "tm:psychup",
@@ -97,16 +118,21 @@
     "tm:safeguard",
     "tm:secretpower",
     "tm:shadowball",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:snore",
     "tm:solarbeam",
+    "tm:spite",
     "tm:substitute",
     "tm:sunnyday",
     "tm:swagger",
     "tm:taunt",
     "tm:telekinesis",
+    "tm:temperflare",
+    "tm:terablast",
     "tm:thief",
     "tm:toxic",
+    "tm:trailblaze",
     "tm:trick",
     "tm:trickroom",
     "tm:willowisp",
@@ -139,7 +165,7 @@
   "baseScale": 1,
   "hitbox": {
     "width": 1,
-    "height": 1,
+    "height": 1.2,
     "fixed": false
   },
   "baseFriendship": 50,

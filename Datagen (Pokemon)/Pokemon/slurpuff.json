@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Slurpuff",
   "nationalPokedexNumber": 685,
   "primaryType": "fairy",
@@ -140,5 +139,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

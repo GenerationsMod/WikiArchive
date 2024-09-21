@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Glameow",
   "nationalPokedexNumber": 431,
   "primaryType": "normal",
@@ -163,5 +162,6 @@
   "height": 5,
   "weight": 39,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

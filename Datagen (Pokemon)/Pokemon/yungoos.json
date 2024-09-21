@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Yungoos",
   "nationalPokedexNumber": 734,
   "primaryType": "normal",
@@ -56,9 +55,11 @@
     "tm:confide",
     "tm:crunch",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthquake",
     "tm:echoedvoice",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:firefang",
@@ -84,6 +85,7 @@
     "tm:stompingtantrum",
     "tm:substitute",
     "tm:sunnyday",
+    "tm:superfang",
     "tm:swagger",
     "tm:takedown",
     "tm:taunt",
@@ -158,5 +160,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

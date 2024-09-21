@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Miraidon",
   "nationalPokedexNumber": 1008,
   "primaryType": "electric",
@@ -53,11 +52,13 @@
     "tm:agility",
     "tm:bodyslam",
     "tm:calmmind",
+    "tm:charge",
     "tm:chargebeam",
     "tm:confuseray",
     "tm:crunch",
     "tm:dazzlinggleam",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragonpulse",
     "tm:dragontail",
@@ -72,6 +73,7 @@
     "tm:helpinghand",
     "tm:hyperbeam",
     "tm:lightscreen",
+    "tm:metalsound",
     "tm:outrage",
     "tm:overheat",
     "tm:powergem",
@@ -83,6 +85,7 @@
     "tm:snarl",
     "tm:solarbeam",
     "tm:substitute",
+    "tm:supercellslam",
     "tm:swordsdance",
     "tm:takedown",
     "tm:taunt",
@@ -93,13 +96,7 @@
     "tm:uturn",
     "tm:voltswitch",
     "tm:wildcharge",
-    "tm:zenheadbutt",
-    "tutor:charge",
-    "tutor:electrodrift",
-    "tutor:endure",
-    "tutor:hyperbeam",
-    "tutor:powergem",
-    "tutor:terablast"
+    "tm:zenheadbutt"
   ],
   "labels": [
     "gen9",
@@ -112,5 +109,6 @@
   "cannotDynamax": false,
   "pokedex": [
     "cobblemon.species.miraidon.desc"
-  ]
+  ],
+  "implemented": true
 }

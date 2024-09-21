@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Finneon",
   "nationalPokedexNumber": 456,
   "primaryType": "water",
@@ -9,7 +8,7 @@
     "h:waterveil"
   ],
   "drops": {
-    "amount": 3,
+    "amount": 4,
     "entries": [
       {
         "item": "minecraft:cod"
@@ -20,6 +19,10 @@
       },
       {
         "item": "cobblemon:rindo_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:prism_scale",
         "percentage": 2.5
       }
     ]
@@ -72,6 +75,7 @@
     "egg:tickle",
     "tm:acrobatics",
     "tm:agility",
+    "tm:alluringvoice",
     "tm:attract",
     "tm:blizzard",
     "tm:brine",
@@ -87,6 +91,7 @@
     "tm:endure",
     "tm:facade",
     "tm:flash",
+    "tm:flipturn",
     "tm:frustration",
     "tm:hail",
     "tm:helpinghand",
@@ -178,5 +183,6 @@
   "height": 4,
   "weight": 70,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

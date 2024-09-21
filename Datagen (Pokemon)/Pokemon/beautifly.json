@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Beautifly",
   "nationalPokedexNumber": 267,
   "primaryType": "bug",
@@ -137,5 +136,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

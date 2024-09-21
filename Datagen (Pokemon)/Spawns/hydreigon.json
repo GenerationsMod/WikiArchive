@@ -1,5 +1,5 @@
 {
-    "enabled": "true",
+    "enabled": true,
     "neededInstalledMods": [],
     "neededUninstalledMods": [],
     "spawns": [
@@ -7,23 +7,43 @@
             "id": "hydreigon-1",
             "pokemon": "hydreigon",
             "presets": [
-                "underground"
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "64-69",
+            "weight": 0.1,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "#cobblemon:is_deep_dark"
+                ]
+            }
+        },
+        {
+            "id": "hydreigon-2",
+            "pokemon": "hydreigon",
+            "presets": [
+                "natural"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "ultra-rare",
-            "level": "48-60",
+            "level": "64-69",
             "weight": 0.1,
             "condition": {
-                "canSeeSky": false,
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
                 "biomes": [
                     "#cobblemon:is_overworld"
-                ]
+                ],
+                "maxY": 0
             },
             "anticondition": {
                 "biomes": [
-                    "#cobblemon:is_abyss",
-                    "#cobblemon:is_mountain"
+                    "#cobblemon:is_deep_dark"
                 ]
             }
         }

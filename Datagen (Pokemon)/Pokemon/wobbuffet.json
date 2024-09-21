@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Wobbuffet",
   "nationalPokedexNumber": 202,
   "primaryType": "psychic",
@@ -77,11 +76,8 @@
       {
         "item": "cobblemon:colbur_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:light_soul",
-        "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

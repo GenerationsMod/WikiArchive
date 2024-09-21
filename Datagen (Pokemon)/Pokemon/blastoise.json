@@ -60,7 +60,6 @@
       ],
       "height": 16,
       "weight": 1011,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     },
@@ -106,7 +105,6 @@
       ],
       "height": 16,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -128,14 +126,6 @@
       {
         "item": "cobblemon:mystic_water",
         "percentage": 25.0
-      },
-      {
-        "item": "generations_core:blastoise_doll",
-        "percentage": 1.0
-      },
-      {
-        "item": "generations_core:dynite_ore",
-        "percentage": 5.0
       }
     ]
   },
@@ -147,7 +137,7 @@
     },
     "moving": {
       "walk": {
-        "walkSpeed": 0.3
+        "walkSpeed": 0.17
       },
       "swim": {
         "canSwimInWater": true,
@@ -172,6 +162,7 @@
     "42:irondefense",
     "49:hydropump",
     "56:skullbash",
+    "56:wavecrash",
     "tm:attract",
     "tm:aurasphere",
     "tm:avalanche",
@@ -182,11 +173,13 @@
     "tm:brine",
     "tm:bulldoze",
     "tm:captivate",
+    "tm:chillingwater",
     "tm:confide",
     "tm:crunch",
     "tm:darkpulse",
     "tm:dig",
     "tm:dive",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:dragonpulse",
     "tm:dragontail",
@@ -196,18 +189,22 @@
     "tm:falseswipe",
     "tm:flashcannon",
     "tm:fling",
+    "tm:flipturn",
     "tm:focusblast",
     "tm:focuspunch",
     "tm:frustration",
     "tm:gigaimpact",
     "tm:gyroball",
     "tm:hail",
+    "tm:haze",
     "tm:helpinghand",
     "tm:hiddenpower",
+    "tm:hydrocannon",
     "tm:hydropump",
     "tm:hyperbeam",
     "tm:icebeam",
     "tm:icepunch",
+    "tm:icespinner",
     "tm:icywind",
     "tm:irondefense",
     "tm:irontail",
@@ -215,6 +212,7 @@
     "tm:megakick",
     "tm:megapunch",
     "tm:muddywater",
+    "tm:mudshot",
     "tm:naturalgift",
     "tm:outrage",
     "tm:poweruppunch",
@@ -229,6 +227,7 @@
     "tm:rocktomb",
     "tm:round",
     "tm:scald",
+    "tm:scaryface",
     "tm:secretpower",
     "tm:sleeptalk",
     "tm:smackdown",
@@ -237,8 +236,11 @@
     "tm:substitute",
     "tm:surf",
     "tm:swagger",
+    "tm:takedown",
+    "tm:terablast",
     "tm:toxic",
     "tm:waterfall",
+    "tm:waterpledge",
     "tm:waterpulse",
     "tm:weatherball",
     "tm:whirlpool",
@@ -333,10 +335,10 @@
   ],
   "preEvolution": "wartortle",
   "evolutions": [],
-  "baseScale": 1.3,
+  "baseScale": 0.9,
   "hitbox": {
-    "width": 1.1,
-    "height": 2.1,
+    "width": 1.8,
+    "height": 3.0,
     "fixed": false
   },
   "baseFriendship": 50,

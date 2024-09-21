@@ -77,6 +77,7 @@
     "tm:batonpass",
     "tm:brickbreak",
     "tm:brutalswing",
+    "tm:bugbite",
     "tm:bugbuzz",
     "tm:captivate",
     "tm:closecombat",
@@ -85,6 +86,7 @@
     "tm:cut",
     "tm:defog",
     "tm:doubleteam",
+    "tm:dualwingbeat",
     "tm:endure",
     "tm:facade",
     "tm:falseswipe",
@@ -95,6 +97,7 @@
     "tm:hiddenpower",
     "tm:hyperbeam",
     "tm:lightscreen",
+    "tm:lunge",
     "tm:naturalgift",
     "tm:pounce",
     "tm:protect",
@@ -110,6 +113,7 @@
     "tm:scaryface",
     "tm:secretpower",
     "tm:silverwind",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:snore",
     "tm:steelwing",
@@ -126,6 +130,7 @@
     "tm:toxic",
     "tm:trailblaze",
     "tm:uturn",
+    "tm:vacuumwave",
     "tm:xscissor",
     "tutor:agility",
     "tutor:airslash",
@@ -214,7 +219,9 @@
       "variant": "item_interact",
       "result": "kleavor",
       "consumeHeldItem": false,
-      "learnableMoves": [],
+      "learnableMoves": [
+        "stoneaxe"
+      ],
       "requirements": [],
       "requiredContext": "cobblemon:black_augurite"
     }

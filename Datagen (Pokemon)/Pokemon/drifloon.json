@@ -10,10 +10,18 @@
     "h:flareboost"
   ],
   "drops": {
-    "amount": 1,
+    "amount": 3,
     "entries": [
       {
+        "item": "minecraft:phantom_membrane",
+        "percentage": 2.5
+      },
+      {
         "item": "cobblemon:kasib_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:air_balloon",
         "percentage": 2.5
       }
     ]
@@ -40,6 +48,12 @@
       "fly": {
         "canFly": true
       }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
     }
   },
   "moves": [
@@ -114,6 +128,7 @@
     "tm:captivate",
     "tm:chargebeam",
     "tm:confide",
+    "tm:curse",
     "tm:cut",
     "tm:defog",
     "tm:doubleteam",
@@ -127,13 +142,16 @@
     "tm:focusenergy",
     "tm:frustration",
     "tm:gyroball",
+    "tm:haze",
     "tm:helpinghand",
     "tm:hex",
     "tm:hiddenpower",
     "tm:icywind",
     "tm:imprison",
+    "tm:knockoff",
     "tm:naturalgift",
     "tm:nightshade",
+    "tm:painsplit",
     "tm:payback",
     "tm:phantomforce",
     "tm:protect",
@@ -153,6 +171,7 @@
     "tm:skillswap",
     "tm:sleeptalk",
     "tm:snore",
+    "tm:spite",
     "tm:storedpower",
     "tm:substitute",
     "tm:sunnyday",
@@ -160,6 +179,7 @@
     "tm:swift",
     "tm:tailwind",
     "tm:telekinesis",
+    "tm:temperflare",
     "tm:terablast",
     "tm:thief",
     "tm:thunder",
@@ -218,7 +238,7 @@
       ]
     }
   ],
-  "baseScale": 1,
+  "baseScale": 0.75,
   "hitbox": {
     "width": 0.7,
     "height": 2,

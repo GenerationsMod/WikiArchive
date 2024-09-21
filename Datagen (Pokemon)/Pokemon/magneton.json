@@ -60,10 +60,6 @@
       {
         "item": "cobblemon:shuca_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:rusty_fragment",
-        "percentage": 1.0
       }
     ]
   },
@@ -88,6 +84,7 @@
     "52:lightscreen",
     "58:lockon",
     "64:zapcannon",
+    "tm:charge",
     "tm:chargebeam",
     "tm:confide",
     "tm:confuseray",
@@ -103,6 +100,7 @@
     "tm:flashcannon",
     "tm:frustration",
     "tm:gigaimpact",
+    "tm:gravity",
     "tm:gyroball",
     "tm:heavyslam",
     "tm:helpinghand",
@@ -111,6 +109,7 @@
     "tm:irondefense",
     "tm:ironhead",
     "tm:lightscreen",
+    "tm:metalsound",
     "tm:naturalgift",
     "tm:protect",
     "tm:psychup",

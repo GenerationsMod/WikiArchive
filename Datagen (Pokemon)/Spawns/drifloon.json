@@ -11,15 +11,44 @@
             ],
             "type": "pokemon",
             "context": "grounded",
+            "bucket": "uncommon",
+            "level": "10-35",
+            "weight": 5.4,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "timeRange": "night",
+                "isRaining": false
+            },
+            "anticondition": {
+                "biomes": [
+                    "#cobblemon:is_arid",
+                    "#cobblemon:is_freezing"
+                ]
+            }
+        },
+        {
+            "id": "drifloon-2",
+            "pokemon": "drifloon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
             "bucket": "common",
-            "level": "4-32",
+            "level": "10-35",
             "weight": 9.0,
             "condition": {
-                "canSeeSky": true,
-                "timeRange": "night",
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
-                    "#cobblemon:is_volcanic"
-                ]
+                    "#cobblemon:is_sky"
+                ],
+                "timeRange": "night",
+                "isRaining": false
             }
         }
     ]

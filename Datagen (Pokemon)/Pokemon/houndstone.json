@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Houndstone",
   "nationalPokedexNumber": 972,
   "primaryType": "ghost",
@@ -55,6 +54,8 @@
     "tm:confuseray",
     "tm:crunch",
     "tm:dig",
+    "tm:doubleedge",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:firefang",
@@ -66,12 +67,15 @@
     "tm:mudshot",
     "tm:mudslap",
     "tm:nightshade",
+    "tm:painsplit",
     "tm:phantomforce",
     "tm:playrough",
+    "tm:poltergeist",
     "tm:protect",
     "tm:psychicfangs",
     "tm:raindance",
     "tm:rest",
+    "tm:roar",
     "tm:sandstorm",
     "tm:scaryface",
     "tm:shadowball",
@@ -85,6 +89,7 @@
     "tm:thief",
     "tm:thunderfang",
     "tm:trick",
+    "tm:uproar",
     "tm:willowisp"
   ],
   "labels": [
@@ -115,5 +120,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

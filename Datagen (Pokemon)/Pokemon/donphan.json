@@ -41,6 +41,19 @@
   "eggGroups": [
     "field"
   ],
+  "behaviour": {
+    "moving": {
+      "walk": {
+        "walkSpeed": 0.13
+      }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  },
   "moves": [
     "1:bulldoze",
     "1:defensecurl",
@@ -69,12 +82,15 @@
     "tm:captivate",
     "tm:charm",
     "tm:confide",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthpower",
     "tm:earthquake",
     "tm:echoedvoice",
     "tm:encore",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:firefang",
@@ -85,6 +101,7 @@
     "tm:heavyslam",
     "tm:helpinghand",
     "tm:hiddenpower",
+    "tm:highhorsepower",
     "tm:hyperbeam",
     "tm:hypervoice",
     "tm:icefang",
@@ -92,6 +109,7 @@
     "tm:irondefense",
     "tm:ironhead",
     "tm:irontail",
+    "tm:knockoff",
     "tm:mudshot",
     "tm:mudslap",
     "tm:naturalgift",
@@ -108,10 +126,12 @@
     "tm:rocktomb",
     "tm:round",
     "tm:sandstorm",
+    "tm:sandtomb",
     "tm:scaryface",
     "tm:secretpower",
     "tm:seedbomb",
     "tm:sleeptalk",
+    "tm:smackdown",
     "tm:smartstrike",
     "tm:stealthrock",
     "tm:stompingtantrum",
@@ -123,6 +143,7 @@
     "tm:takedown",
     "tm:terablast",
     "tm:thief",
+    "tm:throatchop",
     "tm:thunderfang",
     "tm:toxic",
     "tm:trailblaze",

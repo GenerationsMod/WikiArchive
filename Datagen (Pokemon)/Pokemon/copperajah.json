@@ -15,6 +15,18 @@
     "special_defence": 69,
     "speed": 30
   },
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "depth": "normal",
+      "light": "0-4"
+    },
+    "moving": {
+      "walk": {
+        "walkSpeed": 0.17
+      }
+    }
+  },
   "catchRate": 90,
   "maleRatio": 0.5,
   "shoulderMountable": false,
@@ -61,7 +73,6 @@
       ],
       "height": 230,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -93,20 +104,25 @@
     "tm:brickbreak",
     "tm:brutalswing",
     "tm:bulldoze",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:earthpower",
     "tm:earthquake",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:flashcannon",
     "tm:fling",
     "tm:gigaimpact",
+    "tm:hardpress",
     "tm:heatcrash",
     "tm:heavyslam",
     "tm:highhorsepower",
     "tm:hyperbeam",
     "tm:irondefense",
     "tm:ironhead",
+    "tm:knockoff",
     "tm:megakick",
     "tm:mudshot",
     "tm:outrage",
@@ -124,6 +140,7 @@
     "tm:scaryface",
     "tm:screech",
     "tm:sleeptalk",
+    "tm:smackdown",
     "tm:snarl",
     "tm:snore",
     "tm:stealthrock",
@@ -131,6 +148,7 @@
     "tm:stompingtantrum",
     "tm:stoneedge",
     "tm:substitute",
+    "tm:supercellslam",
     "tm:superpower",
     "tm:takedown",
     "tm:taunt",
@@ -150,8 +168,8 @@
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 3.5,
+    "height": 4.2,
     "fixed": false
   },
   "baseFriendship": 50,
@@ -176,10 +194,6 @@
       },
       {
         "item": "cobblemon:nanab_berry",
-        "percentage": 5.0
-      },
-      {
-        "item": "generations_core:dynite_ore",
         "percentage": 5.0
       }
     ]

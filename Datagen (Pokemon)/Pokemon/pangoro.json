@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Pangoro",
   "nationalPokedexNumber": 675,
   "primaryType": "fighting",
@@ -205,5 +204,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

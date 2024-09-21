@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Palkia",
   "nationalPokedexNumber": 484,
   "primaryType": "water",
@@ -8,15 +7,6 @@
     "pressure",
     "h:telepathy"
   ],
-  "drops": {
-    "amount": 1,
-    "entries": [
-      {
-        "item": "generations_core:palkia_doll",
-        "percentage": 100.0
-      }
-    ]
-  },
   "baseStats": {
     "hp": 90,
     "attack": 120,
@@ -71,7 +61,6 @@
       ],
       "height": 63,
       "weight": 6600,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -131,6 +120,7 @@
     "tm:dragonclaw",
     "tm:dragonpulse",
     "tm:dragontail",
+    "tm:dualwingbeat",
     "tm:earthpower",
     "tm:earthquake",
     "tm:echoedvoice",
@@ -143,6 +133,7 @@
     "tm:focuspunch",
     "tm:frustration",
     "tm:gigaimpact",
+    "tm:gravity",
     "tm:hail",
     "tm:heavyslam",
     "tm:hiddenpower",
@@ -169,6 +160,7 @@
     "tm:round",
     "tm:safeguard",
     "tm:sandstorm",
+    "tm:scaleshot",
     "tm:scaryface",
     "tm:secretpower",
     "tm:shadowclaw",
@@ -199,7 +191,6 @@
     "tutor:aquatail",
     "tutor:aurasphere",
     "tutor:dive",
-    "tutor:dracometeor",
     "tutor:dragonbreath",
     "tutor:dragonclaw",
     "tutor:dragonpulse",
@@ -210,7 +201,6 @@
     "tutor:gravity",
     "tutor:headbutt",
     "tutor:healblock",
-    "tutor:hydropump",
     "tutor:hypervoice",
     "tutor:liquidation",
     "tutor:mudslap",
@@ -254,5 +244,6 @@
   "height": 42,
   "weight": 3360,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

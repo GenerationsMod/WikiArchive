@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Skwovet",
   "nationalPokedexNumber": 819,
   "primaryType": "normal",
@@ -49,7 +48,10 @@
     "tm:brutalswing",
     "tm:bulletseed",
     "tm:crunch",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
     "tm:fling",
@@ -66,6 +68,7 @@
     "tm:sleeptalk",
     "tm:snore",
     "tm:substitute",
+    "tm:superfang",
     "tm:tailslap",
     "tm:takedown",
     "tm:terablast",
@@ -123,5 +126,6 @@
         "quantityRange": "0-1"
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -48,6 +48,19 @@
     "human_like",
     "amorphous"
   ],
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    },
+    "moving": {
+      "walk": {
+        "walkSpeed": 0.2
+      }
+    }
+  },
   "moves": [
     "1:confusion",
     "1:disarmingvoice",
@@ -68,6 +81,7 @@
     "48:dreameater",
     "51:storedpower",
     "53:futuresight",
+    "tm:alluringvoice",
     "tm:allyswitch",
     "tm:attract",
     "tm:bodyslam",
@@ -85,6 +99,7 @@
     "tm:echoedvoice",
     "tm:encore",
     "tm:endure",
+    "tm:expandingforce",
     "tm:facade",
     "tm:firepunch",
     "tm:flash",
@@ -99,6 +114,7 @@
     "tm:icepunch",
     "tm:icywind",
     "tm:imprison",
+    "tm:knockoff",
     "tm:lightscreen",
     "tm:magicalleaf",
     "tm:magicroom",
@@ -107,6 +123,7 @@
     "tm:metronome",
     "tm:mistyterrain",
     "tm:naturalgift",
+    "tm:painsplit",
     "tm:protect",
     "tm:psybeam",
     "tm:psychic",
@@ -143,6 +160,7 @@
     "tm:toxic",
     "tm:trick",
     "tm:trickroom",
+    "tm:tripleaxel",
     "tm:willowisp",
     "tm:wonderroom",
     "tm:zenheadbutt",

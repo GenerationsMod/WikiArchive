@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Genesect",
   "nationalPokedexNumber": 649,
   "primaryType": "bug",
@@ -61,7 +60,6 @@
       ],
       "height": 15,
       "weight": 825,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -107,7 +105,6 @@
       ],
       "height": 15,
       "weight": 825,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -153,7 +150,6 @@
       ],
       "height": 15,
       "weight": 825,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     },
@@ -199,7 +195,6 @@
       ],
       "height": 15,
       "weight": 825,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -347,5 +342,6 @@
   "height": 15,
   "weight": 825,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

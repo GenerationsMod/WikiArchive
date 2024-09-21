@@ -32,6 +32,24 @@
     "special_defence": 45,
     "speed": 65
   },
+  "behaviour": {
+    "moving": {
+      "walk": {
+        "avoidsLand": true
+      },
+      "swim": {
+        "swimSpeed": 0.3,
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true
+      }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  },
   "catchRate": 75,
   "maleRatio": 0.5,
   "shoulderMountable": false,
@@ -70,6 +88,7 @@
     "egg:refresh",
     "egg:tickle",
     "tm:acrobatics",
+    "tm:alluringvoice",
     "tm:attract",
     "tm:batonpass",
     "tm:blizzard",
@@ -81,6 +100,7 @@
     "tm:doubleteam",
     "tm:endure",
     "tm:facade",
+    "tm:flipturn",
     "tm:frustration",
     "tm:gigaimpact",
     "tm:hail",
@@ -93,6 +113,7 @@
     "tm:lightscreen",
     "tm:liquidation",
     "tm:mistyterrain",
+    "tm:painsplit",
     "tm:playrough",
     "tm:protect",
     "tm:psychic",
@@ -103,6 +124,7 @@
     "tm:round",
     "tm:safeguard",
     "tm:scald",
+    "tm:scaleshot",
     "tm:secretpower",
     "tm:shadowball",
     "tm:skillswap",
@@ -116,6 +138,7 @@
     "tm:toxic",
     "tm:waterfall",
     "tm:waterpulse",
+    "tm:whirlpool",
     "tm:zenheadbutt",
     "tutor:aquaring",
     "tutor:bounce",
@@ -136,11 +159,10 @@
   "pokedex": [
     "cobblemon.species.alomomola.desc"
   ],
-  "evolutions": [],
   "baseScale": 1,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 0.8,
+    "height": 1.1,
     "fixed": false
   },
   "baseFriendship": 70,
@@ -154,6 +176,5 @@
   },
   "height": 12,
   "weight": 316,
-  "aspects": [],
   "cannotDynamax": false
 }

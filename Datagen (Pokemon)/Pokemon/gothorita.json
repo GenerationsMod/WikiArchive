@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Gothorita",
   "nationalPokedexNumber": 575,
   "primaryType": "psychic",
@@ -9,8 +8,12 @@
     "h:shadowtag"
   ],
   "drops": {
-    "amount": 2,
+    "amount": 4,
     "entries": [
+      {
+        "item": "minecraft:ender_pearl",
+        "quantityRange": "0-2"
+      },
       {
         "item": "cobblemon:twisted_spoon",
         "percentage": 5.0
@@ -18,10 +21,6 @@
       {
         "item": "cobblemon:persim_berry",
         "percentage": 5.0
-      },
-      {
-        "item": "generations_core:light_soul",
-        "percentage": 2.5
       }
     ]
   },
@@ -74,6 +73,7 @@
     "tm:embargo",
     "tm:endure",
     "tm:energyball",
+    "tm:expandingforce",
     "tm:facade",
     "tm:faketears",
     "tm:flash",
@@ -82,6 +82,7 @@
     "tm:frustration",
     "tm:futuresight",
     "tm:grassknot",
+    "tm:gravity",
     "tm:guardswap",
     "tm:helpinghand",
     "tm:hiddenpower",
@@ -94,6 +95,7 @@
     "tm:protect",
     "tm:psybeam",
     "tm:psychic",
+    "tm:psychicnoise",
     "tm:psychicterrain",
     "tm:psychup",
     "tm:psyshock",
@@ -193,5 +195,6 @@
   "height": 7,
   "weight": 180,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

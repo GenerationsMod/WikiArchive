@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Toxicroak",
   "nationalPokedexNumber": 454,
   "primaryType": "poison",
@@ -84,6 +83,7 @@
     "tm:captivate",
     "tm:chillingwater",
     "tm:closecombat",
+    "tm:coaching",
     "tm:confide",
     "tm:crosspoison",
     "tm:cut",
@@ -108,6 +108,8 @@
     "tm:hyperbeam",
     "tm:icepunch",
     "tm:icywind",
+    "tm:knockoff",
+    "tm:lashout",
     "tm:lowkick",
     "tm:lowsweep",
     "tm:megakick",
@@ -141,10 +143,12 @@
     "tm:sludgewave",
     "tm:snatch",
     "tm:snore",
+    "tm:spite",
     "tm:stoneedge",
     "tm:strength",
     "tm:substitute",
     "tm:sunnyday",
+    "tm:superfang",
     "tm:swagger",
     "tm:swordsdance",
     "tm:takedown",
@@ -155,6 +159,8 @@
     "tm:thunderpunch",
     "tm:torment",
     "tm:toxic",
+    "tm:upperhand",
+    "tm:vacuumwave",
     "tm:venomdrench",
     "tm:venoshock",
     "tm:workup",
@@ -214,5 +220,6 @@
   "height": 13,
   "weight": 444,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Veluza",
   "nationalPokedexNumber": 976,
   "primaryType": "water",
@@ -54,8 +53,12 @@
     "tm:bodyslam",
     "tm:chillingwater",
     "tm:crunch",
+    "tm:doubleedge",
     "tm:drillrun",
+    "tm:endeavor",
     "tm:endure",
+    "tm:expandingforce",
+    "tm:flipturn",
     "tm:gigaimpact",
     "tm:hydropump",
     "tm:hyperbeam",
@@ -63,12 +66,14 @@
     "tm:icefang",
     "tm:icywind",
     "tm:liquidation",
+    "tm:painsplit",
     "tm:protect",
     "tm:psychic",
     "tm:psychicfangs",
     "tm:psychicterrain",
     "tm:raindance",
     "tm:rest",
+    "tm:scaleshot",
     "tm:sleeptalk",
     "tm:snowscape",
     "tm:storedpower",
@@ -103,5 +108,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

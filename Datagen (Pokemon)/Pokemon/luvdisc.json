@@ -48,10 +48,6 @@
       {
         "item": "cobblemon:deep_sea_scale",
         "percentage": 2.5
-      },
-      {
-        "item": "generations_core:heart_scale",
-        "percentage": 5.0
       }
     ]
   },
@@ -95,8 +91,10 @@
     "tm:dive",
     "tm:doubleteam",
     "tm:drainingkiss",
+    "tm:endeavor",
     "tm:endure",
     "tm:facade",
+    "tm:flipturn",
     "tm:frustration",
     "tm:hail",
     "tm:hiddenpower",
@@ -113,6 +111,7 @@
     "tm:round",
     "tm:safeguard",
     "tm:scald",
+    "tm:scaleshot",
     "tm:secretpower",
     "tm:sleeptalk",
     "tm:snowscape",

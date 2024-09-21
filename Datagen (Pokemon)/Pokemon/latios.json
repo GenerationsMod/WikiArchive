@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Latios",
   "nationalPokedexNumber": 381,
   "primaryType": "dragon",
@@ -61,7 +60,6 @@
       ],
       "height": 23,
       "weight": 700,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     }
@@ -98,6 +96,7 @@
     "75:psychoshift",
     "tm:aerialace",
     "tm:agility",
+    "tm:aircutter",
     "tm:airslash",
     "tm:allyswitch",
     "tm:attract",
@@ -109,20 +108,26 @@
     "tm:calmmind",
     "tm:captivate",
     "tm:chargebeam",
+    "tm:chillingwater",
     "tm:confide",
     "tm:cut",
     "tm:defog",
     "tm:dive",
+    "tm:doubleedge",
     "tm:doubleteam",
+    "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragondance",
     "tm:dragonpulse",
     "tm:dreameater",
+    "tm:dualwingbeat",
     "tm:earthquake",
     "tm:endure",
     "tm:energyball",
     "tm:facade",
     "tm:flash",
+    "tm:flipturn",
     "tm:fly",
     "tm:frustration",
     "tm:futuresight",
@@ -135,11 +140,13 @@
     "tm:icebeam",
     "tm:icywind",
     "tm:lightscreen",
+    "tm:liquidation",
     "tm:mysticalfire",
     "tm:naturalgift",
     "tm:outrage",
     "tm:protect",
     "tm:psychic",
+    "tm:psychicnoise",
     "tm:psychocut",
     "tm:psychup",
     "tm:psyshock",
@@ -153,6 +160,7 @@
     "tm:round",
     "tm:safeguard",
     "tm:sandstorm",
+    "tm:scaleshot",
     "tm:secretpower",
     "tm:shadowball",
     "tm:shadowclaw",
@@ -167,7 +175,10 @@
     "tm:surf",
     "tm:swagger",
     "tm:swift",
+    "tm:tailwind",
+    "tm:takedown",
     "tm:telekinesis",
+    "tm:terablast",
     "tm:thunder",
     "tm:thunderbolt",
     "tm:thunderwave",
@@ -176,6 +187,7 @@
     "tm:trick",
     "tm:waterfall",
     "tm:waterpulse",
+    "tm:weatherball",
     "tm:whirlpool",
     "tm:wonderroom",
     "tm:zenheadbutt",
@@ -186,9 +198,7 @@
     "tutor:dive",
     "tutor:doubleedge",
     "tutor:dracometeor",
-    "tutor:dragonbreath",
     "tutor:dragondance",
-    "tutor:dragonpulse",
     "tutor:dreameater",
     "tutor:dualwingbeat",
     "tutor:endure",
@@ -198,7 +208,6 @@
     "tutor:icywind",
     "tutor:laserfocus",
     "tutor:lastresort",
-    "tutor:lusterpurge",
     "tutor:magiccoat",
     "tutor:mimic",
     "tutor:mudslap",
@@ -223,8 +232,7 @@
     "tutor:trick",
     "tutor:twister",
     "tutor:waterpulse",
-    "tutor:wonderroom",
-    "tutor:zenheadbutt"
+    "tutor:wonderroom"
   ],
   "labels": [
     "gen3",
@@ -254,12 +262,13 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 1,
+    "amount": 4,
     "entries": [
       {
-        "item": "generations_core:latios_doll",
-        "percentage": 100.0
+        "item": "minecraft:feather",
+        "quantityRange": "2-4"
       }
     ]
-  }
+  },
+  "implemented": true
 }

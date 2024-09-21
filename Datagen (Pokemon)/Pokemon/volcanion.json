@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Volcanion",
   "nationalPokedexNumber": 721,
   "primaryType": "fire",
@@ -51,6 +50,7 @@
     "tm:confide",
     "tm:cut",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthpower",
     "tm:earthquake",
@@ -70,6 +70,7 @@
     "tm:frustration",
     "tm:gigaimpact",
     "tm:gyroball",
+    "tm:haze",
     "tm:heatcrash",
     "tm:heatwave",
     "tm:heavyslam",
@@ -93,6 +94,7 @@
     "tm:sandstorm",
     "tm:scald",
     "tm:scaryface",
+    "tm:scorchingsands",
     "tm:secretpower",
     "tm:selfdestruct",
     "tm:sleeptalk",
@@ -163,5 +165,6 @@
   "height": 17,
   "weight": 1950,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

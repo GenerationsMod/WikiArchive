@@ -17,6 +17,25 @@
     "special_defence": 50,
     "speed": 102
   },
+  "behaviour": {
+    "moving": {
+      "swim": {
+        "swimSpeed": 0.3,
+        "canSwimInWater": true,
+        "canBreatheUnderwater": true,
+        "canWalkOnWater": true
+      },
+      "fly": {
+        "canFly": true
+      }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
+    }
+  },
   "catchRate": 45,
   "maleRatio": 0.5,
   "shoulderMountable": false,
@@ -53,8 +72,12 @@
     "tm:beatup",
     "tm:breakingswipe",
     "tm:brine",
+    "tm:confuseray",
+    "tm:curse",
     "tm:dive",
+    "tm:doubleedge",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragondance",
     "tm:dragonpulse",
     "tm:dragontail",
@@ -118,10 +141,10 @@
       ]
     }
   ],
-  "baseScale": 1,
+  "baseScale": 0.75,
   "hitbox": {
-    "width": 1,
-    "height": 1,
+    "width": 0.9,
+    "height": 1.55,
     "fixed": false
   },
   "baseFriendship": 50,
@@ -138,8 +161,12 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 1,
+    "amount": 2,
     "entries": [
+      {
+        "item": "minecraft:phantom_membrane",
+        "percentage": 5.0
+      },
       {
         "item": "cobblemon:haban_berry",
         "percentage": 5.0

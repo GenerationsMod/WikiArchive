@@ -65,7 +65,6 @@
       ],
       "height": 240,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -82,13 +81,22 @@
       "swim": {
         "canSwimInWater": true,
         "canBreatheUnderwater": true,
-        "canWalkOnWater": true
+        "canWalkOnWater": true,
+        "swimSpeed": 0.3
       },
-      "wanderChance": 120
+      "walk": {
+        "walkSpeed": 0.15
+      }
+    },
+    "resting": {
+      "canSleep": true,
+      "willSleepOnBed": false,
+      "depth": "normal",
+      "light": "0-4"
     }
   },
   "drops": {
-    "amount": 5,
+    "amount": 4,
     "entries": [
       {
         "item": "cobblemon:mystic_water",
@@ -104,14 +112,6 @@
       },
       {
         "item": "cobblemon:aspear_berry",
-        "percentage": 5.0
-      },
-      {
-        "item": "generations_core:lapras_doll",
-        "percentage": 1.0
-      },
-      {
-        "item": "generations_core:dynite_ore",
         "percentage": 5.0
       }
     ]
@@ -149,6 +149,7 @@
     "egg:substitute",
     "egg:tickle",
     "egg:whirlpool",
+    "tm:alluringvoice",
     "tm:attract",
     "tm:avalanche",
     "tm:blizzard",
@@ -158,13 +159,20 @@
     "tm:bulldoze",
     "tm:captivate",
     "tm:charm",
+    "tm:chillingwater",
     "tm:confide",
+    "tm:confuseray",
+    "tm:curse",
+    "tm:disarmingvoice",
     "tm:dive",
+    "tm:doubleedge",
     "tm:doubleteam",
+    "tm:dragoncheer",
     "tm:dragondance",
     "tm:dragonpulse",
     "tm:dreameater",
     "tm:drillrun",
+    "tm:earthquake",
     "tm:echoedvoice",
     "tm:endure",
     "tm:facade",
@@ -173,22 +181,27 @@
     "tm:futuresight",
     "tm:gigaimpact",
     "tm:hail",
+    "tm:haze",
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:hydropump",
     "tm:hyperbeam",
     "tm:hypervoice",
     "tm:icebeam",
+    "tm:iciclespear",
     "tm:icywind",
     "tm:ironhead",
     "tm:irontail",
     "tm:liquidation",
     "tm:megahorn",
+    "tm:muddywater",
     "tm:naturalgift",
     "tm:outrage",
     "tm:protect",
     "tm:psychic",
+    "tm:psychicnoise",
     "tm:raindance",
+    "tm:reflect",
     "tm:rest",
     "tm:return",
     "tm:roar",
@@ -200,10 +213,13 @@
     "tm:sleeptalk",
     "tm:smartstrike",
     "tm:snore",
+    "tm:snowscape",
     "tm:strength",
     "tm:substitute",
     "tm:surf",
     "tm:swagger",
+    "tm:takedown",
+    "tm:terablast",
     "tm:thunder",
     "tm:thunderbolt",
     "tm:toxic",
@@ -293,10 +309,10 @@
     "cobblemon.species.lapras.desc"
   ],
   "evolutions": [],
-  "baseScale": 2,
+  "baseScale": 1.1,
   "hitbox": {
-    "width": 1.2,
-    "height": 1.3,
+    "width": 2.4,
+    "height": 2.8,
     "fixed": false
   },
   "baseFriendship": 50,

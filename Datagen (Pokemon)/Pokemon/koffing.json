@@ -33,10 +33,14 @@
     }
   },
   "drops": {
-    "amount": 1,
+    "amount": 2,
     "entries": [
       {
         "item": "cobblemon:black_sludge",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:smoke_ball",
         "percentage": 2.5
       }
     ]
@@ -72,10 +76,13 @@
     "egg:toxicspikes",
     "egg:venomdrench",
     "egg:willowisp",
+    "tm:acidspray",
     "tm:assurance",
     "tm:attract",
+    "tm:bodyslam",
     "tm:captivate",
     "tm:confide",
+    "tm:curse",
     "tm:darkpulse",
     "tm:doubleteam",
     "tm:endure",
@@ -85,17 +92,22 @@
     "tm:flamethrower",
     "tm:flash",
     "tm:frustration",
+    "tm:gunkshot",
     "tm:gyroball",
+    "tm:haze",
     "tm:hiddenpower",
     "tm:incinerate",
     "tm:infestation",
     "tm:naturalgift",
+    "tm:painsplit",
     "tm:payback",
     "tm:protect",
+    "tm:psybeam",
     "tm:raindance",
     "tm:rest",
     "tm:return",
     "tm:round",
+    "tm:scaryface",
     "tm:screech",
     "tm:secretpower",
     "tm:selfdestruct",
@@ -105,10 +117,13 @@
     "tm:sludgebomb",
     "tm:sludgewave",
     "tm:snore",
+    "tm:spite",
     "tm:substitute",
     "tm:sunnyday",
     "tm:swagger",
+    "tm:takedown",
     "tm:taunt",
+    "tm:terablast",
     "tm:thief",
     "tm:thunder",
     "tm:thunderbolt",
@@ -196,7 +211,7 @@
     {
       "id": "koffing_weezing",
       "variant": "level_up",
-      "result": "weezing form=galar",
+      "result": "weezing galarian",
       "consumeHeldItem": false,
       "learnableMoves": [
         "doublehit"

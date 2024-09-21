@@ -93,8 +93,11 @@
     "tm:brine",
     "tm:chillingwater",
     "tm:dive",
+    "tm:doubleedge",
     "tm:endure",
     "tm:facade",
+    "tm:featherdance",
+    "tm:flipturn",
     "tm:gigaimpact",
     "tm:hail",
     "tm:hydropump",
@@ -195,7 +198,6 @@
       ],
       "height": 14,
       "weight": 890,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": true
     }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Raikou",
   "nationalPokedexNumber": 243,
   "primaryType": "electric",
@@ -48,14 +47,18 @@
     "tm:bodyslam",
     "tm:bulldoze",
     "tm:calmmind",
+    "tm:charge",
     "tm:chargebeam",
     "tm:confide",
     "tm:crunch",
     "tm:cut",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:eerieimpulse",
     "tm:electricterrain",
+    "tm:electroball",
+    "tm:electroweb",
     "tm:endure",
     "tm:facade",
     "tm:flash",
@@ -67,6 +70,7 @@
     "tm:ironhead",
     "tm:irontail",
     "tm:lightscreen",
+    "tm:mudslap",
     "tm:naturalgift",
     "tm:protect",
     "tm:psychup",
@@ -81,6 +85,7 @@
     "tm:round",
     "tm:sandstorm",
     "tm:scald",
+    "tm:scaryface",
     "tm:secretpower",
     "tm:shadowball",
     "tm:shockwave",
@@ -90,14 +95,18 @@
     "tm:strength",
     "tm:substitute",
     "tm:sunnyday",
+    "tm:supercellslam",
     "tm:swagger",
     "tm:swift",
+    "tm:takedown",
+    "tm:terablast",
     "tm:throatchop",
     "tm:thunder",
     "tm:thunderbolt",
     "tm:thunderfang",
     "tm:thunderwave",
     "tm:toxic",
+    "tm:trailblaze",
     "tm:voltswitch",
     "tm:weatherball",
     "tm:wildcharge",
@@ -110,11 +119,9 @@
     "tutor:cut",
     "tutor:detect",
     "tutor:dig",
-    "tutor:discharge",
     "tutor:doubleedge",
     "tutor:doubleteam",
     "tutor:endure",
-    "tutor:extrasensory",
     "tutor:extremespeed",
     "tutor:flash",
     "tutor:frustration",
@@ -132,8 +139,6 @@
     "tutor:protect",
     "tutor:psychup",
     "tutor:quickattack",
-    "tutor:raindance",
-    "tutor:reflect",
     "tutor:rest",
     "tutor:return",
     "tutor:risingvoltage",
@@ -192,9 +197,9 @@
     "amount": 1,
     "entries": [
       {
-        "item": "generations_core:raikou_doll",
-        "percentage": 100.0
+        "item": "cobblemon:magnet"
       }
     ]
-  }
+  },
+  "implemented": true
 }

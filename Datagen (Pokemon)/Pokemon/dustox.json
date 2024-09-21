@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Dustox",
   "nationalPokedexNumber": 269,
   "primaryType": "bug",
@@ -138,5 +137,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

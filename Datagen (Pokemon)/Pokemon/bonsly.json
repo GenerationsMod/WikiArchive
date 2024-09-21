@@ -109,7 +109,9 @@
     "tm:calmmind",
     "tm:captivate",
     "tm:confide",
+    "tm:curse",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthpower",
     "tm:earthquake",
@@ -187,7 +189,9 @@
       "variant": "level_up",
       "result": "sudowoodo",
       "consumeHeldItem": false,
-      "learnableMoves": [],
+      "learnableMoves": [
+        "slam"
+      ],
       "requirements": [
         {
           "variant": "has_move",

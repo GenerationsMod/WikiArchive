@@ -41,9 +41,11 @@
     "egg:defog",
     "egg:gigadrain",
     "egg:leafstorm",
+    "egg:superpower",
     "egg:weatherball",
     "egg:worryseed",
     "tm:attract",
+    "tm:bugbite",
     "tm:bulletseed",
     "tm:confide",
     "tm:doubleteam",
@@ -55,6 +57,7 @@
     "tm:frustration",
     "tm:gigadrain",
     "tm:grassknot",
+    "tm:grassyglide",
     "tm:grassyterrain",
     "tm:hiddenpower",
     "tm:leafblade",
@@ -63,6 +66,7 @@
     "tm:magicalleaf",
     "tm:naturepower",
     "tm:payback",
+    "tm:petalblizzard",
     "tm:poisonjab",
     "tm:protect",
     "tm:rest",
@@ -70,6 +74,7 @@
     "tm:round",
     "tm:safeguard",
     "tm:seedbomb",
+    "tm:skittersmack",
     "tm:sleeptalk",
     "tm:snore",
     "tm:solarbeam",
@@ -121,9 +126,9 @@
       ]
     }
   ],
-  "baseScale": 1,
+  "baseScale": 0.6,
   "hitbox": {
-    "width": 1,
+    "width": 0.55,
     "height": 1,
     "fixed": false
   },

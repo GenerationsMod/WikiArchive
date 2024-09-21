@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Heatran",
   "nationalPokedexNumber": 485,
   "primaryType": "fire",
@@ -61,6 +60,7 @@
     "tm:bodypress",
     "tm:bodyslam",
     "tm:bulldoze",
+    "tm:burningjealousy",
     "tm:captivate",
     "tm:confide",
     "tm:crunch",
@@ -82,6 +82,7 @@
     "tm:flashcannon",
     "tm:frustration",
     "tm:gigaimpact",
+    "tm:hardpress",
     "tm:heatcrash",
     "tm:heatwave",
     "tm:heavyslam",
@@ -90,7 +91,9 @@
     "tm:incinerate",
     "tm:irondefense",
     "tm:ironhead",
+    "tm:lunge",
     "tm:metalclaw",
+    "tm:metalsound",
     "tm:naturalgift",
     "tm:naturepower",
     "tm:overheat",
@@ -109,6 +112,7 @@
     "tm:round",
     "tm:sandstorm",
     "tm:scaryface",
+    "tm:scorchingsands",
     "tm:secretpower",
     "tm:selfdestruct",
     "tm:sleeptalk",
@@ -183,5 +187,6 @@
   "height": 17,
   "weight": 4300,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

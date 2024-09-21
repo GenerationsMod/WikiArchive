@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Duraludon",
   "nationalPokedexNumber": 884,
   "primaryType": "steel",
@@ -65,7 +64,6 @@
       ],
       "height": 430,
       "weight": 0,
-      "evolutions": [],
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -86,6 +84,7 @@
     "24:breakingswipe",
     "30:dragontail",
     "36:irondefense",
+    "42:focusenergy",
     "42:laserfocus",
     "48:dragonclaw",
     "54:flashcannon",
@@ -100,8 +99,12 @@
     "tm:breakingswipe",
     "tm:brickbreak",
     "tm:darkpulse",
+    "tm:doubleedge",
+    "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragonpulse",
+    "tm:dragontail",
     "tm:endure",
     "tm:facade",
     "tm:flashcannon",
@@ -113,10 +116,13 @@
     "tm:irondefense",
     "tm:ironhead",
     "tm:lightscreen",
+    "tm:metalclaw",
+    "tm:metalsound",
     "tm:outrage",
     "tm:protect",
     "tm:reflect",
     "tm:rest",
+    "tm:roar",
     "tm:rockslide",
     "tm:rocktomb",
     "tm:round",
@@ -127,10 +133,13 @@
     "tm:snore",
     "tm:solarbeam",
     "tm:stealthrock",
+    "tm:steelbeam",
     "tm:stompingtantrum",
     "tm:stoneedge",
     "tm:substitute",
     "tm:swordsdance",
+    "tm:takedown",
+    "tm:terablast",
     "tm:thunder",
     "tm:thunderbolt",
     "tm:thunderwave",
@@ -144,7 +153,19 @@
   "pokedex": [
     "cobblemon.species.duraludon.desc"
   ],
-  "evolutions": [],
+  "evolutions": [
+    {
+      "id": "duralodon_archaludon",
+      "variant": "item_interact",
+      "result": "archaludon",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "electroshot"
+      ],
+      "requirements": [],
+      "requiredContext": "minecraft:iron_ingot"
+    }
+  ],
   "baseScale": 1,
   "hitbox": {
     "width": 1,
@@ -170,11 +191,8 @@
       {
         "item": "minecraft:iron_ingot",
         "quantityRange": "0-1"
-      },
-      {
-        "item": "generations_core:dynite_ore",
-        "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

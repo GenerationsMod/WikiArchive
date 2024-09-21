@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Dottler",
   "nationalPokedexNumber": 825,
   "primaryType": "bug",
@@ -116,5 +115,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

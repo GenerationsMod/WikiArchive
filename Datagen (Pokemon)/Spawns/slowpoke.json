@@ -12,31 +12,31 @@
             "type": "pokemon",
             "context": "grounded",
             "bucket": "common",
-            "level": "12-31",
+            "level": "7-32",
             "weight": 5.4,
             "condition": {
-                "canSeeSky": true,
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
-                    "#minecraft:is_beach"
+                    "#cobblemon:is_beach"
                 ]
             }
         },
         {
-            "id": "slowpoke-galarian-1",
-            "pokemon": "slowpoke galarian",
+            "id": "slowpoke-2",
+            "pokemon": "slowpoke",
             "presets": [
-                "natural"
+                "natural",
+                "river"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "common",
-            "level": "12-31",
-            "weight": 5.4,
+            "level": "7-32",
+            "weight": 6.0,
             "condition": {
-                "canSeeSky": true,
-                "biomes": [
-                    "#minecraft:is_beach"
-                ]
+                "minSkyLight": 8,
+                "maxSkyLight": 15
             }
         }
     ]

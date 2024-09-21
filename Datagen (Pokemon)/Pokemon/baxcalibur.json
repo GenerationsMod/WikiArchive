@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Baxcalibur",
   "nationalPokedexNumber": 998,
   "primaryType": "dragon",
@@ -57,11 +56,14 @@
     "tm:blizzard",
     "tm:bodypress",
     "tm:bodyslam",
+    "tm:breakingswipe",
     "tm:brickbreak",
     "tm:bulldoze",
     "tm:crunch",
     "tm:dig",
+    "tm:doubleedge",
     "tm:dracometeor",
+    "tm:dragoncheer",
     "tm:dragonclaw",
     "tm:dragondance",
     "tm:dragonpulse",
@@ -72,15 +74,18 @@
     "tm:falseswipe",
     "tm:gigaimpact",
     "tm:helpinghand",
+    "tm:highhorsepower",
     "tm:hyperbeam",
     "tm:icebeam",
     "tm:icefang",
+    "tm:iciclespear",
     "tm:icywind",
     "tm:ironhead",
     "tm:outrage",
     "tm:protect",
     "tm:raindance",
     "tm:rest",
+    "tm:scaleshot",
     "tm:scaryface",
     "tm:sleeptalk",
     "tm:snowscape",
@@ -111,11 +116,8 @@
       {
         "item": "cobblemon:haban_berry",
         "percentage": 10.0
-      },
-      {
-        "item": "generations_core:dragon_soul",
-        "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

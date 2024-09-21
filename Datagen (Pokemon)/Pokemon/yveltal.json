@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Yveltal",
   "nationalPokedexNumber": 717,
   "primaryType": "dark",
@@ -153,5 +152,6 @@
   "height": 58,
   "weight": 2030,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

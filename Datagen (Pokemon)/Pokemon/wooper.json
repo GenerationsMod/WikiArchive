@@ -17,9 +17,6 @@
     "special_defence": 25,
     "speed": 15
   },
-  "features": [
-    "paldean"
-  ],
   "catchRate": 255,
   "maleRatio": 0.5,
   "shoulderMountable": true,
@@ -90,12 +87,15 @@
         "tm:bodyslam",
         "tm:bulldoze",
         "tm:chillingwater",
+        "tm:curse",
         "tm:dig",
+        "tm:doubleedge",
         "tm:earthpower",
         "tm:earthquake",
         "tm:endure",
         "tm:facade",
         "tm:gunkshot",
+        "tm:haze",
         "tm:helpinghand",
         "tm:hydropump",
         "tm:liquidation",
@@ -112,6 +112,7 @@
         "tm:sandstorm",
         "tm:sleeptalk",
         "tm:sludgebomb",
+        "tm:sludgewave",
         "tm:spikes",
         "tm:stealthrock",
         "tm:stompingtantrum",
@@ -120,6 +121,7 @@
         "tm:surf",
         "tm:takedown",
         "tm:terablast",
+        "tm:toxic",
         "tm:toxicspikes",
         "tm:trailblaze",
         "tm:venoshock",
@@ -141,7 +143,9 @@
           "variant": "level_up",
           "result": "clodsire",
           "consumeHeldItem": false,
-          "learnableMoves": [],
+          "learnableMoves": [
+            "amnesia"
+          ],
           "requirements": [
             {
               "variant": "level",
@@ -151,7 +155,20 @@
         }
       ],
       "cannotDynamax": false,
-      "battleOnly": false
+      "battleOnly": false,
+      "drops": {
+        "amount": 2,
+        "entries": [
+          {
+            "item": "minecraft:clay_ball",
+            "quantityRange": "0-1"
+          },
+          {
+            "item": "cobblemon:pecha_berry",
+            "percentage": 2.5
+          }
+        ]
+      }
     }
   ],
   "baseExperienceYield": 42,
@@ -232,8 +249,10 @@
     "tm:captivate",
     "tm:chillingwater",
     "tm:confide",
+    "tm:curse",
     "tm:dig",
     "tm:dive",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:earthpower",
     "tm:earthquake",
@@ -245,6 +264,7 @@
     "tm:frustration",
     "tm:guardswap",
     "tm:hail",
+    "tm:haze",
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:hydropump",

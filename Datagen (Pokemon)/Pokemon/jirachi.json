@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Jirachi",
   "nationalPokedexNumber": 385,
   "primaryType": "steel",
@@ -7,15 +6,6 @@
   "abilities": [
     "serenegrace"
   ],
-  "drops": {
-    "amount": 1,
-    "entries": [
-      {
-        "item": "generations_core:jirachi_doll",
-        "percentage": 100.0
-      }
-    ]
-  },
   "baseStats": {
     "hp": 100,
     "attack": 100,
@@ -62,15 +52,19 @@
     "tm:chargebeam",
     "tm:charm",
     "tm:confide",
+    "tm:confuseray",
     "tm:cosmicpower",
     "tm:dazzlinggleam",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:drainpunch",
     "tm:dreameater",
     "tm:encore",
     "tm:endure",
     "tm:energyball",
+    "tm:expandingforce",
     "tm:facade",
+    "tm:faketears",
     "tm:firepunch",
     "tm:flash",
     "tm:flashcannon",
@@ -79,6 +73,7 @@
     "tm:futuresight",
     "tm:gigaimpact",
     "tm:grassknot",
+    "tm:gravity",
     "tm:helpinghand",
     "tm:hiddenpower",
     "tm:hyperbeam",
@@ -91,12 +86,17 @@
     "tm:magicroom",
     "tm:megakick",
     "tm:megapunch",
+    "tm:metalsound",
+    "tm:meteorbeam",
     "tm:metronome",
+    "tm:mudslap",
     "tm:naturalgift",
     "tm:playrough",
     "tm:poweruppunch",
     "tm:protect",
+    "tm:psybeam",
     "tm:psychic",
+    "tm:psychicnoise",
     "tm:psychup",
     "tm:psyshock",
     "tm:raindance",
@@ -114,12 +114,14 @@
     "tm:sleeptalk",
     "tm:snore",
     "tm:stealthrock",
+    "tm:steelbeam",
     "tm:storedpower",
     "tm:substitute",
     "tm:sunnyday",
     "tm:swagger",
     "tm:swift",
     "tm:telekinesis",
+    "tm:terablast",
     "tm:thunder",
     "tm:thunderbolt",
     "tm:thunderpunch",
@@ -218,5 +220,6 @@
   "height": 3,
   "weight": 11,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

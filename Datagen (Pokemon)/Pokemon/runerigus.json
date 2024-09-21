@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Runerigus",
   "nationalPokedexNumber": 867,
   "primaryType": "ground",
@@ -106,7 +105,7 @@
   "pokedex": [
     "cobblemon.species.runerigus.desc"
   ],
-  "preEvolution": "yamask form=galar",
+  "preEvolution": "yamask galarian",
   "evolutions": [],
   "baseScale": 1,
   "hitbox": {
@@ -135,5 +134,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

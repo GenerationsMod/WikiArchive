@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Polteageist",
   "nationalPokedexNumber": 855,
   "primaryType": "ghost",
@@ -59,8 +58,7 @@
       ],
       "height": 2,
       "weight": 4,
-      "preEvolution": "sinistea form=antique",
-      "evolutions": [],
+      "preEvolution": "sinistea antique",
       "cannotDynamax": false,
       "battleOnly": false
     }
@@ -92,6 +90,7 @@
     "tm:batonpass",
     "tm:calmmind",
     "tm:confuseray",
+    "tm:curse",
     "tm:darkpulse",
     "tm:endure",
     "tm:facade",
@@ -106,8 +105,10 @@
     "tm:metronome",
     "tm:nastyplot",
     "tm:nightshade",
+    "tm:painsplit",
     "tm:payback",
     "tm:phantomforce",
+    "tm:poltergeist",
     "tm:protect",
     "tm:psybeam",
     "tm:psychic",
@@ -120,6 +121,7 @@
     "tm:skillswap",
     "tm:sleeptalk",
     "tm:snore",
+    "tm:spite",
     "tm:storedpower",
     "tm:substitute",
     "tm:terablast",
@@ -164,5 +166,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Capsakid",
   "nationalPokedexNumber": 951,
   "primaryType": "grass",
@@ -53,11 +52,13 @@
     "egg:worryseed",
     "tm:bulletseed",
     "tm:crunch",
+    "tm:endeavor",
     "tm:endure",
     "tm:energyball",
     "tm:facade",
     "tm:gigadrain",
     "tm:grassknot",
+    "tm:grassyglide",
     "tm:grassyterrain",
     "tm:helpinghand",
     "tm:leafstorm",
@@ -71,6 +72,7 @@
     "tm:stompingtantrum",
     "tm:substitute",
     "tm:sunnyday",
+    "tm:superfang",
     "tm:takedown",
     "tm:terablast",
     "tm:thief",
@@ -113,5 +115,6 @@
         "percentage": 2.5
       }
     ]
-  }
+  },
+  "implemented": true
 }

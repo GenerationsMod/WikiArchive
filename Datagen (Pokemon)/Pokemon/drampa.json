@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Drampa",
   "nationalPokedexNumber": 780,
   "primaryType": "normal",
@@ -178,5 +177,6 @@
         "percentage": 5.0
       }
     ]
-  }
+  },
+  "implemented": true
 }

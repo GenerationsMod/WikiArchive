@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Panpour",
   "nationalPokedexNumber": 515,
   "primaryType": "water",
@@ -166,5 +165,6 @@
   "height": 6,
   "weight": 135,
   "aspects": [],
-  "cannotDynamax": false
+  "cannotDynamax": false,
+  "implemented": true
 }

@@ -1,5 +1,4 @@
 {
-  "implemented": true,
   "name": "Entei",
   "nationalPokedexNumber": 244,
   "primaryType": "fire",
@@ -54,6 +53,7 @@
     "tm:crunch",
     "tm:cut",
     "tm:dig",
+    "tm:doubleedge",
     "tm:doubleteam",
     "tm:endure",
     "tm:facade",
@@ -89,6 +89,7 @@
     "tm:round",
     "tm:sandstorm",
     "tm:scaryface",
+    "tm:scorchingsands",
     "tm:secretpower",
     "tm:shadowball",
     "tm:sleeptalk",
@@ -102,7 +103,10 @@
     "tm:sunnyday",
     "tm:swagger",
     "tm:swift",
+    "tm:takedown",
+    "tm:terablast",
     "tm:toxic",
+    "tm:trailblaze",
     "tm:weatherball",
     "tm:willowisp",
     "tutor:bite",
@@ -134,7 +138,6 @@
     "tutor:ironhead",
     "tutor:irontail",
     "tutor:laserfocus",
-    "tutor:lavaplume",
     "tutor:leer",
     "tutor:mimic",
     "tutor:mudslap",
@@ -157,8 +160,6 @@
     "tutor:stoneedge",
     "tutor:strength",
     "tutor:substitute",
-    "tutor:sunnyday",
-    "tutor:swagger",
     "tutor:swift",
     "tutor:toxic"
   ],
@@ -190,12 +191,15 @@
   "aspects": [],
   "cannotDynamax": false,
   "drops": {
-    "amount": 1,
+    "amount": 2,
     "entries": [
       {
-        "item": "generations_core:entei_doll",
-        "percentage": 100.0
+        "item": "cobblemon:charcoal_stick"
+      },
+      {
+        "item": "cobblemon:sacred_ash"
       }
     ]
-  }
+  },
+  "implemented": true
 }
